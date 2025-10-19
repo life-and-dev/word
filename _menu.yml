@@ -1,5 +1,5 @@
-downloads: .
-0: '---'
-about: .
-disclaimer: .
-edit: .
+- downloads
+-
+- about
+- disclaimer
+- edit
