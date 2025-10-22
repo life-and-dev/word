@@ -50,7 +50,7 @@ Download the app for:
   * Read modules without internet (offline)
   * Widest range of free modules in single app on Android (as far as I know)
   * All modules are free
-* Optimized both phone and tablets (however tablet version that nags for donations)
+* Optimized for both phone and tablets (however tablet version nags for donations)
 * Create notes or journal entries within the app
 * Export/Import notes and module lists
 * The software is [open source](https://github.com/topics/mysword) (you can inspect or change the source code if you like)
@@ -65,9 +65,9 @@ Download the app for:
 **Features:**
 
 * No online registration required (respect privacy)
-* Closely to the original languages, yet in modern English style
+* Close to the original languages, yet in modern English style
 * Faithful to the text regardless of traditional readings or interpretations
-* Translators advise their choice to translate certain scriptures the way the did
+* Translators advise their choice to translate certain scriptures the way they did
 * Extensive commentary elucidating many difficult passages
 * Kept God's name *[(most modern bibles replaced God's name with Lord)](https://eternal.family.net.za/god/father/name#yhvh)*
 * Online videos

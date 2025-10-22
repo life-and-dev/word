@@ -29,7 +29,7 @@ Most modern Bibles are not arranged in chronological order. Bible translators ch
 
 Commentaries, creeds, sermons, Christian books, apps, videos, and websites (including this one) are all based on human [interpretations](https://eternal.family.net.za/bible/interpretations). They should inspire you to turn to the Bible, but should not replace the Bible itself.
 
-It is **your own responsibility** to search the scriptures and ask for [God's Spirit](https://eternal.family.net.za/god/spirit) to guide and reveal the truth.
+It is **your own responsibility** to search the scriptures and ask for [God's Spirit](https://eternal.family.net.za/god/spirit) to guide and reveal the truth. Jesus said, "When the Spirit of truth comes, he will guide you into all the truth" (John 16:13).
 
 ### Tips for Bible Study
 
@@ -65,6 +65,10 @@ Today there are many modern interlinear Bible study tools available that provide
 ## Your Next Steps
 
 Now that you understand how to approach Bible study with proper context and tools, the question is: what will you do with this knowledge? Reading the Bible is not merely an academic exercise. It is meant to transform how you live.
+
+Some cite 2 Peter 3:16 ("ignorant and unstable people distort [Paul's letters]") as a warning against studying Scripture alone. However, Peter is not condemning personal study. He's warning against **unstable** people who twist Scripture to fit their desires. The solution is not to avoid studying, but to study carefully using the principles above and comparing Scripture with Scripture.
+
+Some may worry that individual Bible study leads to conflicting interpretations. However, disagreements often arise from ignoring the basic principles above. Reading out of context, imposing modern ideas onto ancient texts, or following traditions instead of Scripture creates confusion. When we let Scripture interpret itself and compare spiritual things with spiritual (1 Corinthians 2:13), the truth becomes clear.
 
 As you begin your study journey, remember that the goal is not just to accumulate information, but to seek truth and allow God's Spirit to guide you into understanding. Will you commit to personal study rather than relying solely on others' interpretations? Will you approach Scripture with humility, acknowledging that some passages require careful examination of context, culture, and language?
 
