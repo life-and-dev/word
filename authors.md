@@ -42,7 +42,7 @@
 | Mark                                                         | Gospel     | John "Mark" (Acts 12:12,25, 15:37)                                                                                                            |
 | Luke                                                         | Gospel     | Luke                                                                                                                                          |
 | John                                                         | Gospel     | John "the beloved disciple" (John 21:24)                                                                                                      |
-| Acts                                                         | History    | [Luke](https://eternal.family.net.za/bible/authors/acts) (Acts 1:1)                                                                           |
+| Acts                                                         | History    | [Luke](authors/acts.md) (Acts 1:1)                                                                                                            |
 | Romans                                                       | Epistles   | Paul (Romans 1:1)                                                                                                                             |
 | 1 & 2 Corinthians                                            | Epistles   | Paul (1 Corinthians 1:1; 2 Corinthians 1:1)                                                                                                   |
 | Galatians                                                    | Epistles   | Paul (Galatians 1:1)                                                                                                                          |
@@ -57,5 +57,5 @@
 | James                                                        | Epistles   | [James](https://eternal.family.net.za/bible/authors/james) (James 1:1)                                                                        |
 | 1 & 2 Peter                                                  | Epistles   | Peter (1 Peter 1:1; 2 Peter 1:1)                                                                                                              |
 | 1 - 3 John                                                   | Epistles   | John "the Elder" (2 John 1:1; 3 John 1:1)                                                                                                     |
-| Jude                                                         | Epistles   | Jude (Jude 1:1)                                                                                                            |
+| Jude                                                         | Epistles   | Jude (Jude 1:1)                                                                                                                               |
 | Revelation                                                   | Epistles   | John "of Patmos" (Revelation 1:1,9)                                                                                                           |
