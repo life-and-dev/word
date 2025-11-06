@@ -9,7 +9,7 @@ The Bible is considered by many Christians to be [the most authoritative book](h
 
 The Bible contains diverse literary forms including historical narratives, laws, poetry, wisdom literature, apocalyptic writings, epistles, and the gospels. Many biblical [concepts](https://eternal.family.net.za/bible/concepts) are expressed through [metaphors](https://eternal.family.net.za/bible/metaphors) and [symbolism](https://eternal.family.net.za/bible/symbolism).
 
-Currently, there are many [Bible Translations](https://eternal.family.net.za/bible/translations) available, which differ in language style, translation philosophy, and source texts.
+Currently, there are many [Bible Translations](translations.md) available, which differ in language style, translation philosophy, and source texts.
 
 ## How to Read the Bible
 
