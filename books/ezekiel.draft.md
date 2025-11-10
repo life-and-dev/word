@@ -744,3 +744,167 @@ External resources:
 - [The Book of Ezekiel - My Jewish Learning](https://www.myjewishlearning.com/article/ezekiel/)
 - [Jewish Mysticism: Chapter II - Sacred Texts Archive](https://sacred-texts.com/jud/jm/jm06.htm)
 
+## 6. Summary
+
+The Book of Ezekiel contains 48 chapters presenting God's message through a priest-prophet during Israel's darkest hour. This summary covers the entire book with special attention to God's direct speech, the recurring recognition formula "they/you will know that I am the LORD," and the prophet's extraordinary visions and symbolic acts.
+
+### Part I: Ezekiel's Call and Commission (Chapters 1-3)
+
+**Chapter 1: The Throne-Chariot Vision**
+
+In the thirtieth year, in the fifth year of King Jehoiachin's exile, by the Chebar canal in Babylon, the heavens opened and Ezekiel saw visions of God ([Ezekiel 1:1-3](https://eternal.family.net.za/bible/books/ezekiel/1#1)). A stormy wind came from the north with an immense cloud flashing with fire. In the midst appeared four living creatures—cherubim with four faces (human, lion, ox, eagle), four wings, and gleaming bronze bodies ([Ezekiel 1:5-14](https://eternal.family.net.za/bible/books/ezekiel/1#5)).
+
+Beside each creature was a wheel, "a wheel within a wheel," filled with eyes all around ([Ezekiel 1:15-18](https://eternal.family.net.za/bible/books/ezekiel/1#15)). Above the creatures spread a crystal expanse, and above that, a throne of sapphire. On the throne sat "a likeness with a human appearance" surrounded by radiance like a rainbow—"the appearance of the likeness of the glory of the LORD" ([Ezekiel 1:26-28](https://eternal.family.net.za/bible/books/ezekiel/1#26)).
+
+**Chapters 2-3: The Prophetic Commission**
+
+Ezekiel fell on his face, but the Spirit entered him and God commanded: "Son of man, stand on your feet, and I will speak with you" ([Ezekiel 2:1](https://eternal.family.net.za/bible/books/ezekiel/2#1)). God commissioned him: "I send you to the people of Israel, to nations of rebels, who have rebelled against me... And whether they hear or refuse to hear, they will know that a prophet has been among them" ([Ezekiel 2:3-5](https://eternal.family.net.za/bible/books/ezekiel/2#3)).
+
+God showed Ezekiel a scroll written front and back with "words of lamentation and mourning and woe" ([Ezekiel 2:10](https://eternal.family.net.za/bible/books/ezekiel/2#10)). God commanded: "Son of man, eat this scroll, and go, speak to the house of Israel" ([Ezekiel 3:1](https://eternal.family.net.za/bible/books/ezekiel/3#1)). Ezekiel ate it, and it was "sweet as honey" in his mouth ([Ezekiel 3:3](https://eternal.family.net.za/bible/books/ezekiel/3#3)).
+
+God appointed Ezekiel as watchman: "When I say to the wicked, 'You shall surely die,' and you give him no warning... that wicked person shall die for his iniquity, but his blood I will require at your hand. But if you warn the wicked... you will have delivered your soul" ([Ezekiel 3:18-19](https://eternal.family.net.za/bible/books/ezekiel/3#18)).
+
+The Spirit transported Ezekiel to Tel Abib, where he sat overwhelmed for seven days ([Ezekiel 3:15](https://eternal.family.net.za/bible/books/ezekiel/3#15)).
+
+### Part II: Judgment Against Jerusalem (Chapters 4-24)
+
+**Chapters 4-5: Symbolic Acts of Siege and Destruction**
+
+God commanded Ezekiel to perform shocking symbolic acts. He drew Jerusalem on a brick, laid siege works against it, and lay on his left side for 390 days bearing Israel's iniquity, then 40 days on his right side for Judah's iniquity ([Ezekiel 4:4-6](https://eternal.family.net.za/bible/books/ezekiel/4#4)).
+
+God said: "Behold, I will break the supply of bread in Jerusalem. They shall eat bread by weight and with anxiety, and they shall drink water by measure and in dismay" ([Ezekiel 4:16-17](https://eternal.family.net.za/bible/books/ezekiel/4#16)).
+
+Ezekiel shaved his head and beard, dividing the hair into thirds: one-third burned, one-third struck with sword, one-third scattered to the wind—symbolizing Jerusalem's fate ([Ezekiel 5:1-4](https://eternal.family.net.za/bible/books/ezekiel/5#1)).
+
+God declared: "This is Jerusalem. I have set her in the center of the nations, with countries all around her. And she has rebelled against my rules... Therefore thus says the Lord GOD: I, even I, am against you. And I will execute judgments in your midst in the sight of the nations" ([Ezekiel 5:5-8](https://eternal.family.net.za/bible/books/ezekiel/5#5)).
+
+**Chapters 6-7: Oracles Against Idolatry and Coming Judgment**
+
+God commanded: "Son of man, set your face toward the mountains of Israel, and prophesy against them" ([Ezekiel 6:2](https://eternal.family.net.za/bible/books/ezekiel/6#2)). God announced destruction of Israel's high places: "I will lay the dead bodies of the people of Israel before their idols, and I will scatter your bones around your altars... Then you will know that I am the LORD" ([Ezekiel 6:5-7](https://eternal.family.net.za/bible/books/ezekiel/6#5)).
+
+Chapter 7 proclaims: "An end! The end has come upon the four corners of the land. Now the end is upon you" ([Ezekiel 7:2-3](https://eternal.family.net.za/bible/books/ezekiel/7#2)). God warns: "They have blown the trumpet and made everything ready, but none goes to battle, for my wrath is upon all their multitude" ([Ezekiel 7:14](https://eternal.family.net.za/bible/books/ezekiel/7#14)).
+
+**Chapters 8-11: Vision of Temple Abominations and God's Glory Departing**
+
+In the sixth year, as elders sat before Ezekiel, "the hand of the Lord GOD fell upon me there" ([Ezekiel 8:1](https://eternal.family.net.za/bible/books/ezekiel/8#1)). The Spirit transported him in visions to Jerusalem's temple, where God showed him four escalating abominations:
+
+1. Image of jealousy at the entrance ([Ezekiel 8:3-6](https://eternal.family.net.za/bible/books/ezekiel/8#3))
+2. Seventy elders burning incense to idols in secret chambers ([Ezekiel 8:10-12](https://eternal.family.net.za/bible/books/ezekiel/8#10))
+3. Women weeping for Tammuz ([Ezekiel 8:14](https://eternal.family.net.za/bible/books/ezekiel/8#14))
+4. Twenty-five men worshiping the sun with backs to God's temple ([Ezekiel 8:16](https://eternal.family.net.za/bible/books/ezekiel/8#16))
+
+God declared: "Have you seen this, O son of man? Is it too light a thing for the house of Judah to commit the abominations that they commit here, that they should fill the land with violence and provoke me still further to anger?" ([Ezekiel 8:17](https://eternal.family.net.za/bible/books/ezekiel/8#17)).
+
+In chapter 9, God summoned executioners: "Pass through the city, through Jerusalem, and strike. Your eye shall not spare, and you shall show no pity" ([Ezekiel 9:5](https://eternal.family.net.za/bible/books/ezekiel/9#5)). But first, a man with a writing case marked the foreheads of those who sighed over Jerusalem's abominations—these alone would be spared ([Ezekiel 9:4](https://eternal.family.net.za/bible/books/ezekiel/9#4)).
+
+Chapters 10-11 describe the glory of the LORD departing from the temple. The cherubim lifted up, and "the glory of the LORD went out from the threshold of the house, and stood over the cherubim" ([Ezekiel 10:18](https://eternal.family.net.za/bible/books/ezekiel/10#18)). The glory moved to the east gate, then to the mountain east of Jerusalem ([Ezekiel 11:23](https://eternal.family.net.za/bible/books/ezekiel/11#23))—God was leaving His house.
+
+Yet God promised: "Though I removed them far off among the nations, and though I scattered them among the countries, yet I have been a sanctuary to them for a while in the countries where they have gone" ([Ezekiel 11:16](https://eternal.family.net.za/bible/books/ezekiel/11#16)).
+
+**Chapters 12-19: Symbolic Acts, False Prophets, and Allegories**
+
+Ezekiel packed exile baggage and dug through the wall at night, symbolizing Zedekiah's flight ([Ezekiel 12:3-7](https://eternal.family.net.za/bible/books/ezekiel/12#3)). God said: "This oracle concerns the prince in Jerusalem and all the house of Israel who are in it" ([Ezekiel 12:10](https://eternal.family.net.za/bible/books/ezekiel/12#10)).
+
+Chapter 13 condemns false prophets: "Woe to the foolish prophets who follow their own spirit, and have seen nothing!... They have seen false visions and lying divinations. They say, 'Declares the LORD,' when the LORD has not sent them" ([Ezekiel 13:3-6](https://eternal.family.net.za/bible/books/ezekiel/13#3)).
+
+Chapter 14 addresses idolatrous elders: "Son of man, these men have taken their idols into their hearts" ([Ezekiel 14:3](https://eternal.family.net.za/bible/books/ezekiel/14#3)). God warns that even Noah, Daniel, and Job couldn't save Jerusalem—"they would deliver neither sons nor daughters; they would deliver but their own lives by their righteousness" ([Ezekiel 14:20](https://eternal.family.net.za/bible/books/ezekiel/14#20)).
+
+Chapter 16 presents Jerusalem as an abandoned infant whom God adopted, cleansed, and married. But she became a prostitute: "You trusted in your beauty and played the whore because of your renown and lavished your whorings on any passerby" ([Ezekiel 16:15](https://eternal.family.net.za/bible/books/ezekiel/16#15)). God declares judgment but promises eventual restoration ([Ezekiel 16:60-63](https://eternal.family.net.za/bible/books/ezekiel/16#60)).
+
+Chapter 18 revolutionizes moral theology with individual responsibility: "The soul who sins shall die. The son shall not suffer for the iniquity of the father, nor the father suffer for the iniquity of the son" ([Ezekiel 18:20](https://eternal.family.net.za/bible/books/ezekiel/18#20)). God pleads: "Why will you die, O house of Israel? For I have no pleasure in the death of anyone, declares the Lord GOD; so turn, and live" ([Ezekiel 18:31-32](https://eternal.family.net.za/bible/books/ezekiel/18#31)).
+
+**Chapters 20-24: Historical Review and Final Signs**
+
+Chapter 20 reviews Israel's rebellion from Egypt onward. God recounts: "I said to them, 'Cast away the detestable things your eyes feast on, every one of you, and do not defile yourselves with the idols of Egypt'... But they rebelled against me and were not willing to listen to me" ([Ezekiel 20:7-8](https://eternal.family.net.za/bible/books/ezekiel/20#7)).
+
+Chapters 21-23 announce the sword of judgment, condemn Jerusalem's bloody deeds, and present Oholah (Samaria) and Oholibah (Jerusalem) as adulterous sisters.
+
+Chapter 24 records the siege's beginning: "In the ninth year, in the tenth month, on the tenth day of the month, the word of the LORD came to me: 'Son of man, write down the name of this day, this very day. The king of Babylon has laid siege to Jerusalem this very day'" ([Ezekiel 24:1-2](https://eternal.family.net.za/bible/books/ezekiel/24#1)).
+
+That same day, God struck Ezekiel's wife dead and commanded him not to mourn—a sign of the people's coming shock when Jerusalem falls ([Ezekiel 24:15-24](https://eternal.family.net.za/bible/books/ezekiel/24#15)).
+
+### Part III: Oracles Against the Nations (Chapters 25-32)
+
+God pronounces judgment on seven nations surrounding Israel:
+
+**Chapters 25**: Ammon, Moab, Edom, Philistia—all rejoiced at Jerusalem's fall. God declares: "I will execute great vengeance on them with wrathful rebukes. Then they will know that I am the LORD, when I lay my vengeance upon them" ([Ezekiel 25:17](https://eternal.family.net.za/bible/books/ezekiel/25#17)).
+
+**Chapters 26-28**: Seven oracles against Tyre and Sidon. God announces Tyre's destruction: "I will bring up many nations against you, as the sea brings up its waves" ([Ezekiel 26:3](https://eternal.family.net.za/bible/books/ezekiel/26#3)). A lament for Tyre's prince transforms into cosmic judgment: "You were in Eden, the garden of God... You were an anointed guardian cherub... till unrighteousness was found in you" ([Ezekiel 28:13-15](https://eternal.family.net.za/bible/books/ezekiel/28#13)).
+
+**Chapters 29-32**: Seven oracles against Egypt spanning 16 years (the most for any nation). God declares: "Behold, I am against you, Pharaoh king of Egypt, the great dragon that lies in the midst of his streams, that says, 'My Nile is my own; I made it for myself'" ([Ezekiel 29:3](https://eternal.family.net.za/bible/books/ezekiel/29#3)). Egypt will be desolate forty years ([Ezekiel 29:11-12](https://eternal.family.net.za/bible/books/ezekiel/29#11)).
+
+### Part IV: Restoration and Hope (Chapters 33-48)
+
+**Chapter 33: The Turning Point**
+
+God reiterates the watchman commission ([Ezekiel 33:7-9](https://eternal.family.net.za/bible/books/ezekiel/33#7)). Then comes the pivotal moment: "In the twelfth year of our exile, in the tenth month, on the fifth day of the month, a fugitive from Jerusalem came to me and said, 'The city has been struck down'" ([Ezekiel 33:21](https://eternal.family.net.za/bible/books/ezekiel/33#21)).
+
+From this point, Ezekiel's message transforms from judgment to consolation.
+
+**Chapter 34: The Divine Shepherd**
+
+God condemns Israel's shepherds: "Woe to the shepherds of Israel who have been feeding themselves! Should not shepherds feed the sheep?" ([Ezekiel 34:2](https://eternal.family.net.za/bible/books/ezekiel/34#2)).
+
+God announces: "I myself will be the shepherd of my sheep... I will seek the lost, and I will bring back the strayed, and I will bind up the injured, and I will strengthen the weak" ([Ezekiel 34:15-16](https://eternal.family.net.za/bible/books/ezekiel/34#15)).
+
+Then God promises: "I will set up over them one shepherd, my servant David, and he shall feed them... I, the LORD, will be their God, and my servant David shall be prince among them. I am the LORD; I have spoken" ([Ezekiel 34:23-24](https://eternal.family.net.za/bible/books/ezekiel/34#23)).
+
+**Chapters 35-36: Judgment on Edom and Restoration for Israel**
+
+God promises Israel: "I will take you from the nations and gather you from all the countries and bring you into your own land. I will sprinkle clean water on you, and you shall be clean from all your uncleannesses" ([Ezekiel 36:24-25](https://eternal.family.net.za/bible/books/ezekiel/36#24)).
+
+Then comes the promise of transformation: "I will give you a new heart, and a new spirit I will put within you. And I will remove the heart of stone from your flesh and give you a heart of flesh. And I will put my Spirit within you, and cause you to walk in my statutes and be careful to obey my rules" ([Ezekiel 36:26-27](https://eternal.family.net.za/bible/books/ezekiel/36#26)).
+
+God emphasizes: "It is not for your sake that I will act, declares the Lord GOD; let that be known to you... I will vindicate the holiness of my great name" ([Ezekiel 36:32, 23](https://eternal.family.net.za/bible/books/ezekiel/36#32)).
+
+**Chapter 37: Valley of Dry Bones and National Reunification**
+
+The Spirit set Ezekiel in a valley full of dry bones. God asked: "Son of man, can these bones live?" Ezekiel answered: "O Lord GOD, you know" ([Ezekiel 37:3](https://eternal.family.net.za/bible/books/ezekiel/37#3)).
+
+God commanded: "Prophesy over these bones, and say to them, O dry bones, hear the word of the LORD" ([Ezekiel 37:4](https://eternal.family.net.za/bible/books/ezekiel/37#4)). Ezekiel prophesied, and the bones came together—sinews, flesh, skin—but no breath. God said: "Prophesy to the breath... and say to the breath, Thus says the Lord GOD: Come from the four winds, O breath, and breathe on these slain, that they may live" ([Ezekiel 37:9](https://eternal.family.net.za/bible/books/ezekiel/37#9)).
+
+The breath entered them, and "they lived and stood on their feet, an exceedingly great army" ([Ezekiel 37:10](https://eternal.family.net.za/bible/books/ezekiel/37#10)).
+
+God explained: "These bones are the whole house of Israel. Behold, they say, 'Our bones are dried up, and our hope is lost'... Behold, I will open your graves and raise you from your graves, O my people. And I will bring you into the land of Israel" ([Ezekiel 37:11-12](https://eternal.family.net.za/bible/books/ezekiel/37#11)).
+
+God promised reunification: Taking two sticks (Judah and Joseph), Ezekiel joined them into one. God declared: "I will make them one nation in the land... And David my servant shall be king over them, and they shall all have one shepherd" ([Ezekiel 37:22, 24](https://eternal.family.net.za/bible/books/ezekiel/37#22)).
+
+**Chapters 38-39: Gog and Magog**
+
+God announces a future invasion: "Son of man, set your face toward Gog, of the land of Magog, the chief prince of Meshech and Tubal, and prophesy against him" ([Ezekiel 38:2](https://eternal.family.net.za/bible/books/ezekiel/38#2)).
+
+Gog will invade restored Israel "like a cloud covering the land" ([Ezekiel 38:9](https://eternal.family.net.za/bible/books/ezekiel/38#9)). But God will intervene: "On that day, when Gog shall come against the land of Israel, declares the Lord GOD, my wrath will be roused in my anger... I will rain upon him and his hordes and the many peoples who are with him torrential rains and hailstones, fire and sulfur" ([Ezekiel 38:18, 22](https://eternal.family.net.za/bible/books/ezekiel/38#18)).
+
+The invaders will be destroyed, and "the nations shall know that I am the LORD, the Holy One in Israel" ([Ezekiel 39:7](https://eternal.family.net.za/bible/books/ezekiel/39#7)).
+
+**Chapters 40-48: Vision of the New Temple**
+
+In the twenty-fifth year of exile, the fourteenth year after Jerusalem fell, "the hand of the LORD was upon me, and he brought me to the city" ([Ezekiel 40:1-2](https://eternal.family.net.za/bible/books/ezekiel/40#1)). A man "whose appearance was like bronze" measured the temple with meticulous precision ([Ezekiel 40:3](https://eternal.family.net.za/bible/books/ezekiel/40#3)).
+
+Chapters 40-42 provide detailed measurements of gates, courts, chambers, and the temple structure itself—every dimension recorded with priestly exactitude.
+
+Chapter 43 describes glory's return: "The glory of the LORD entered the temple by the gate facing east. And the Spirit lifted me up and brought me into the inner court; and behold, the glory of the LORD filled the temple" ([Ezekiel 43:4-5](https://eternal.family.net.za/bible/books/ezekiel/43#4)).
+
+God spoke from the temple: "Son of man, this is the place of my throne and the place of the soles of my feet, where I will dwell in the midst of the people of Israel forever" ([Ezekiel 43:7](https://eternal.family.net.za/bible/books/ezekiel/43#7)).
+
+Chapters 44-46 prescribe regulations for worship: Zadokite priests, offerings, festivals, prince's duties.
+
+Chapter 47 presents the river of life flowing from the temple: "Water was issuing from below the threshold of the temple toward the east... Wherever the river goes, every living creature that swarms will live... for this water goes there, that the waters of the sea may become fresh; so everything will live where the river goes" ([Ezekiel 47:1, 9](https://eternal.family.net.za/bible/books/ezekiel/47#1)).
+
+Trees line both banks, bearing fresh fruit every month, "because the water for them flows from the sanctuary. Their fruit will be for food, and their leaves for healing" ([Ezekiel 47:12](https://eternal.family.net.za/bible/books/ezekiel/47#12)).
+
+Chapter 48 allots tribal territories and describes the holy city with twelve gates named for Israel's tribes.
+
+The book concludes with the city's eternal name: **"The LORD is there"** (Hebrew: *YHWH Shammah*) ([Ezekiel 48:35](https://eternal.family.net.za/bible/books/ezekiel/48#35)).
+
+### Theological Summary
+
+Ezekiel's 48 chapters trace a dramatic arc:
+- **Chapters 1-24**: God's glory departs; Jerusalem judged for persistent rebellion
+- **Chapters 25-32**: Surrounding nations judged; God controls all history
+- **Chapters 33-48**: God's glory returns; Israel restored with new heart, new spirit, new temple
+
+The recognition formula "they/you will know that I am the LORD" resounds over 70 times—God's reputation is vindicated through both judgment and restoration. Ezekiel emphasizes that restoration happens "not for your sake... but for the sake of my holy name" ([Ezekiel 36:22](https://eternal.family.net.za/bible/books/ezekiel/36#22)).
+
+From the throne-chariot vision demonstrating God's mobility (chapter 1) to the final vision of God's permanent presence ("The LORD is there," chapter 48), Ezekiel proclaims a God who is sovereign over exile and restoration, who judges fairly, who transforms hearts, and who will dwell with His people forever.
+
