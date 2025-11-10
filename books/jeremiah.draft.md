@@ -206,3 +206,293 @@ External resources:
 - [Siege of Jerusalem (587 BC) - Wikipedia](https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(587_BC))
 - [The Prophet Jeremiah, 7th century BCE (COJS)](https://cojs.org/the_prophet_jeremiah-_7th_century_bce/)
 
+## Purpose
+
+The Book of Jeremiah served multiple interconnected purposes throughout its long compositional history, addressing audiences in different historical situations while maintaining theological coherence. Understanding these purposes helps readers grasp both Jeremiah's prophetic message and how later communities preserved and applied his words.
+
+### Primary Purpose: Call to Repentance and Warning of Judgment
+
+**1. Call Judah to Repent Before It's Too Late**
+
+From the beginning of his ministry, Jeremiah's fundamental purpose was to call Judah to genuine repentance. God commissioned him "to pluck up and to break down, to destroy and to overthrow, to build and to plant" ([Jeremiah 1:10](https://eternal.family.net.za/bible/books/jeremiah/1#10)). The destructive verbs come first because judgment was imminent, but the constructive verbs promise ultimate restoration.
+
+Jeremiah's early oracles repeatedly urged the people to turn from idolatry and injustice: "Return, faithless Israel, declares the Lord. I will not look on you in anger, for I am merciful, declares the Lord; I will not be angry forever" ([Jeremiah 3:12](https://eternal.family.net.za/bible/books/jeremiah/3#12)). God through Jeremiah pleaded: "If you return, O Israel, declares the Lord, to me you should return" ([Jeremiah 4:1](https://eternal.family.net.za/bible/books/jeremiah/4#1)).
+
+The call to repentance was urgent because the window of opportunity was closing. Jeremiah warned that persistent rebellion would result in Babylon destroying Jerusalem—a prophecy his contemporaries found unthinkable.
+
+**2. Warn of Inescapable Judgment**
+
+As it became clear that Judah would not repent, Jeremiah's message shifted emphasis from conditional warning to announcement of inevitable judgment. The "foe from the north" ([Jeremiah 1:14-15](https://eternal.family.net.za/bible/books/jeremiah/1#14), [4:6](https://eternal.family.net.za/bible/books/jeremiah/4#6), [6:1](https://eternal.family.net.za/bible/books/jeremiah/6#1))—identified as Babylon—would devastate the land.
+
+God declared through Jeremiah: "I am bringing against you a nation from afar, O house of Israel, declares the Lord. It is an enduring nation; it is an ancient nation, a nation whose language you do not know, nor can you understand what they say" ([Jeremiah 5:15](https://eternal.family.net.za/bible/books/jeremiah/5#15)).
+
+The purpose was not merely to announce doom but to help the people understand that their catastrophe was covenant judgment, not divine abandonment. God was acting in accordance with the covenant curses of Deuteronomy 28, faithfully keeping His word even in judgment.
+
+**3. Explain Why Judgment Was Coming**
+
+Jeremiah systematically documented Judah's sins to explain why judgment was justified:
+
+- **Idolatry:** "My people have committed two evils: they have forsaken me, the fountain of living waters, and hewed out cisterns for themselves, broken cisterns that can hold no water" ([Jeremiah 2:13](https://eternal.family.net.za/bible/books/jeremiah/2#13))
+- **False worship:** Despite practicing temple rituals, their hearts were far from God ([Jeremiah 7:1-15](https://eternal.family.net.za/bible/books/jeremiah/7#1))
+- **Social injustice:** "Wicked men are found among my people... they do not defend the rights of the needy" ([Jeremiah 5:26-28](https://eternal.family.net.za/bible/books/jeremiah/5#26))
+- **Rejecting God's prophets:** "From the day that your fathers came out of the land of Egypt to this day, I have persistently sent all my servants the prophets to them, day after day. Yet they did not listen to me or incline their ear, but stiffened their neck" ([Jeremiah 7:25-26](https://eternal.family.net.za/bible/books/jeremiah/7#25))
+
+This documentation served to vindicate God's righteousness when judgment came.
+
+### Secondary Purposes During Jeremiah's Ministry
+
+**4. Counter False Prophets and False Hope**
+
+A major part of Jeremiah's purpose was opposing false prophets who promised "peace, peace" when there was no peace ([Jeremiah 6:14](https://eternal.family.net.za/bible/books/jeremiah/6#14), [8:11](https://eternal.family.net.za/bible/books/jeremiah/8#11)). These false prophets assured the people that Jerusalem was inviolable because the temple stood there.
+
+Jeremiah confronted this dangerous theology. In the famous Temple Sermon ([Jeremiah 7:1-15](https://eternal.family.net.za/bible/books/jeremiah/7#1)), he warned: "Do not trust in these deceptive words: 'This is the temple of the Lord, the temple of the Lord, the temple of the Lord.'" The temple's presence was no magical guarantee—God had destroyed Shiloh despite its sacred status, and He would do the same to Jerusalem.
+
+Jeremiah also confronted specific false prophets like Hananiah, who prophesied that Babylon's yoke would be broken within two years. Jeremiah dramatically responded that God would replace wooden yokes with iron ones ([Jeremiah 28](https://eternal.family.net.za/bible/books/jeremiah/28#1)).
+
+**5. Counsel Submission to Babylon as God's Will**
+
+Once Babylon's dominance was established, Jeremiah's purpose became counseling submission rather than resistance. This was perhaps his most controversial message and led to accusations of treason.
+
+God commanded through Jeremiah: "Bring your necks under the yoke of the king of Babylon, and serve him and his people, and live. Why will you and your people die by the sword, by famine, and by pestilence, as the Lord has spoken concerning any nation that will not serve the king of Babylon?" ([Jeremiah 27:12-13](https://eternal.family.net.za/bible/books/jeremiah/27#12)).
+
+This wasn't political defeatism but theological conviction: God had sovereignly given Nebuchadnezzar authority over the nations for a time ([Jeremiah 27:6-7](https://eternal.family.net.za/bible/books/jeremiah/27#6)). Resistance to Babylon was resistance to God's sovereign plan. Submission would minimize suffering and preserve lives.
+
+Jeremiah even wrote to the exiles already in Babylon (597 BCE deportation), telling them to settle down, build houses, plant gardens, and pray for Babylon's welfare ([Jeremiah 29:4-7](https://eternal.family.net.za/bible/books/jeremiah/29#4)). The exile would last seventy years ([Jeremiah 29:10](https://eternal.family.net.za/bible/books/jeremiah/29#10)), so they should make the best of it.
+
+**6. Sustain Hope for Ultimate Restoration**
+
+Despite the dominance of judgment oracles, Jeremiah also proclaimed hope for future restoration. This purpose became especially important as the catastrophe unfolded.
+
+The "Book of Consolation" (chapters 30-33) contains some of the Bible's most beautiful restoration promises:
+
+- God will restore Israel and Judah from captivity ([Jeremiah 30:3](https://eternal.family.net.za/bible/books/jeremiah/30#3))
+- "I will turn their mourning into joy; I will comfort them, and give them gladness for sorrow" ([Jeremiah 31:13](https://eternal.family.net.za/bible/books/jeremiah/31#13))
+- The famous New Covenant promise ([Jeremiah 31:31-34](https://eternal.family.net.za/bible/books/jeremiah/31#31))
+- "For I know the plans I have for you, declares the Lord, plans for welfare and not for evil, to give you a future and a hope" ([Jeremiah 29:11](https://eternal.family.net.za/bible/books/jeremiah/29#11))
+
+Jeremiah's purchase of his cousin's field at Anathoth while Jerusalem was under siege ([Jeremiah 32](https://eternal.family.net.za/bible/books/jeremiah/32#1)) was a prophetic sign that "houses and fields and vineyards shall again be bought in this land" ([Jeremiah 32:15](https://eternal.family.net.za/bible/books/jeremiah/32#15)).
+
+### Purposes for Later Audiences
+
+**7. Provide Theological Framework for Understanding the Catastrophe**
+
+For the exilic community who experienced Jerusalem's destruction, Jeremiah's book served to explain why catastrophe occurred. It wasn't because Babylon's gods were stronger than Yahweh, nor because God had abandoned His covenant. Rather, judgment fulfilled God's covenantal faithfulness—He kept His word to judge persistent rebellion.
+
+This theological interpretation prevented the exiles from losing faith and helped them maintain hope for restoration.
+
+**8. Demonstrate Fulfilled Prophecy**
+
+The book's preservation and compilation after 586 BCE served to vindicate Jeremiah's prophetic ministry. Everything he warned came to pass, validating him as a true prophet in contrast to the false prophets whose promises proved empty.
+
+The detailed narratives of Jeremiah's persecutions and the nation's rejection of his message created a historical record showing that Judah's leadership had been repeatedly warned but refused to listen.
+
+**9. Teach About True vs. False Prophecy**
+
+Through Jeremiah's conflicts with false prophets, the book teaches how to discern true from false prophetic voices:
+
+- True prophets call people to repentance and covenant faithfulness, not merely to feel comfortable
+- True prophets' words come to pass ([Jeremiah 28:9](https://eternal.family.net.za/bible/books/jeremiah/28#9))
+- True prophets often suffer persecution because their message challenges the powerful
+- False prophets say what people want to hear rather than what God actually says
+
+**10. Proclaim God's Sovereignty Over the Nations**
+
+The oracles against foreign nations (chapters 46-51) serve to demonstrate that Yahweh is sovereign over all peoples, not merely a tribal deity of Israel. Babylon itself, despite being God's instrument of judgment, would eventually face its own judgment ([Jeremiah 50-51](https://eternal.family.net.za/bible/books/jeremiah/50#1)).
+
+This global perspective assures readers that history is under divine control, even when circumstances seem chaotic.
+
+### Unique Emphasis: God's Anguished Heart
+
+A distinctive purpose of Jeremiah is revealing God's emotional response to judgment. Unlike prophets who emphasize only God's wrath, Jeremiah shows God's torn heart:
+
+"How can I give you up, O Ephraim? How can I hand you over, O Israel?... My heart recoils within me; my compassion grows warm and tender" (Hosea 11:8, reflecting the same pathos found in Jeremiah).
+
+God doesn't delight in judgment but grieves over it. Jeremiah's famous lamentations mirror God's own grief, earning him the title "the weeping prophet."
+
+### The Challenge: Repentance Requires Divine Transformation
+
+Perhaps Jeremiah's most profound purpose is demonstrating that genuine repentance is impossible through human effort alone. The people cannot change themselves: "Can the Ethiopian change his skin or the leopard his spots? Then also you can do good who are accustomed to do evil" ([Jeremiah 13:23](https://eternal.family.net.za/bible/books/jeremiah/13#23)).
+
+This impossibility points to the need for the New Covenant ([Jeremiah 31:31-34](https://eternal.family.net.za/bible/books/jeremiah/31#31)), where God Himself transforms hearts from within. Human hearts are "deceitful above all things, and desperately sick" ([Jeremiah 17:9](https://eternal.family.net.za/bible/books/jeremiah/17#9)), requiring divine surgery.
+
+This purpose—showing that salvation must come from God's initiative, not human capability—profoundly influenced later Jewish and Christian theology.
+
+### Overarching Purpose: Encourage Faithfulness Through Crisis
+
+Ultimately, Jeremiah's purpose was to help God's people remain faithful through judgment and exile by demonstrating that:
+- God is just in His judgments
+- God has not abandoned His people despite catastrophe
+- God will eventually restore and redeem
+- True faith trusts God even when His ways are painful
+- Repentance and restoration are possible through God's gracious initiative
+
+The book encouraged both the exilic generation and subsequent readers to trust God's faithfulness even in the darkest circumstances.
+
+External resources:
+- [Jeremiah Summary - Bible Outlines](https://www.bibleoutlines.com/jeremiah-summary/)
+- [From Judgment to Restoration - Tabletalk](https://tabletalkmagazine.com/posts/judgment-unto-restoration-jeremiah-christ-and-us-2020-05/)
+
+## Cross-References
+
+Jeremiah exercised significant influence on later biblical literature, particularly the New Testament. While not quoted as frequently as Isaiah, Jeremiah's themes, vocabulary, and specific passages appear throughout the New Testament and influenced the development of early Christian theology.
+
+### Jeremiah in the New Testament
+
+**New Covenant in Hebrews**
+
+The most extensive quotation of Jeremiah in the New Testament appears in Hebrews 8:8-12, which quotes [Jeremiah 31:31-34](https://eternal.family.net.za/bible/books/jeremiah/31#31) at length. The author of Hebrews presents Jesus' death as establishing the New Covenant that Jeremiah prophesied:
+
+"Behold, the days are coming, declares the Lord, when I will establish a new covenant with the house of Israel and with the house of Judah... For this is the covenant that I will make with the house of Israel after those days, declares the Lord: I will put my laws into their minds, and write them on their hearts, and I will be their God, and they shall be my people" (Hebrews 8:8-10, quoting Jeremiah 31:31-33).
+
+The passage is quoted again partially in Hebrews 10:16-17, emphasizing the New Covenant's internalization of God's law and complete forgiveness of sins. This makes Jeremiah 31:31-34 one of the most significant Old Testament texts for Christian theology, as it provides the Old Testament foundation for understanding Christ's work.
+
+Interestingly, the author of Hebrews renders the quotation differently in the two locations. In Hebrews 8:10, it speaks of "the house of Israel," while Hebrews 10:16 uses the word "them," which broadens the application to include all believers, both Jews and Gentiles.
+
+**Matthew's Quotations and Allusions**
+
+The Gospel of Matthew quotes Jeremiah in several significant passages:
+
+**1. Rachel Weeping ([Jeremiah 31:15](https://eternal.family.net.za/bible/books/jeremiah/31#15))**
+
+Matthew 2:17-18 applies Jeremiah's oracle to Herod's massacre of the innocents: "Then was fulfilled what was spoken by the prophet Jeremiah: 'A voice was heard in Ramah, weeping and loud lamentation, Rachel weeping for her children; she refused to be comforted, because they are no more.'"
+
+Jeremiah's original context referred to the Babylonian exile—Rachel (ancestral mother of Israel) weeping as her descendants went into captivity. Matthew sees a typological fulfillment in the slaughter of Bethlehem's children during Herod's attempt to kill the infant Jesus.
+
+**2. The Problematic Citation (Matthew 27:9-10)**
+
+Matthew 27:9-10 contains one of the New Testament's most puzzling citations: "Then was fulfilled what had been spoken by the prophet Jeremiah, saying, 'And they took the thirty pieces of silver, the price of him on whom a price had been set by some of the sons of Israel, and they gave them for the potter's field, as the Lord directed me.'"
+
+The problem is that this quotation doesn't appear in any extant manuscript of Jeremiah. The closest parallel is Zechariah 11:12-13, which mentions thirty pieces of silver and a potter. Some possible explanations:
+
+- **Conflation:** Matthew may be conflating Zechariah 11:12-13 with themes from Jeremiah (the potter in Jeremiah 18-19, the purchase of a field in Jeremiah 32)
+- **Lost Text:** The quotation might come from a portion of Jeremiah no longer extant
+- **Primary Source:** "Jeremiah" may refer to the major prophetic collection, of which Zechariah was sometimes considered part in ancient Jewish ordering
+- **Textual Error:** An early copyist may have mistakenly written "Jeremiah" instead of "Zechariah"
+
+This remains a debated textual issue, with scholars offering various explanations but no consensus.
+
+**3. Jesus and Jeremiah's Temple Sermon**
+
+When Jesus cleansed the temple, he combined quotations from Isaiah 56:7 and [Jeremiah 7:11](https://eternal.family.net.za/bible/books/jeremiah/7#11): "It is written, 'My house shall be called a house of prayer,' but you make it a den of robbers" (Matthew 21:13; Mark 11:17; Luke 19:46).
+
+The phrase "den of robbers" comes from Jeremiah's famous Temple Sermon, where he warned that the temple's presence provided no magical protection if the people persisted in injustice and idolatry. Jesus' application suggests that first-century temple practices had become as corrupt as those Jeremiah condemned.
+
+**4. Jesus Compared to Jeremiah**
+
+When Jesus asked his disciples "Who do people say that the Son of Man is?" one answer was "Jeremiah or one of the prophets" (Matthew 16:14). This association may reflect perceived similarities:
+- Both proclaimed unpopular messages
+- Both wept over Jerusalem
+- Both faced rejection by religious leaders
+- Both prophesied the temple's destruction
+
+**Other New Testament References**
+
+**Romans and God's Foreknowledge**
+
+Paul's statement in Romans 9:21 about the potter's authority over the clay alludes to [Jeremiah 18:1-6](https://eternal.family.net.za/bible/books/jeremiah/18#1), where God takes Jeremiah to the potter's house to illustrate divine sovereignty: "Has the potter no right over the clay, to make out of the same lump one vessel for honorable use and another for dishonorable use?"
+
+**2 Corinthians and the New Covenant**
+
+Paul's ministry is understood through Jeremiah's New Covenant promise. In 2 Corinthians 3:3, Paul writes: "you show that you are a letter from Christ delivered by us, written not with ink but with the Spirit of the living God, not on tablets of stone but on tablets of human hearts"—clearly echoing [Jeremiah 31:33](https://eternal.family.net.za/bible/books/jeremiah/31#33).
+
+**Revelation's Apocalyptic Imagery**
+
+The Book of Revelation draws on Jeremiah's judgment oracles, particularly against Babylon:
+- Revelation 18 describes Babylon's fall using language similar to Jeremiah 50-51
+- The cup of God's wrath (Revelation 14:10) echoes [Jeremiah 25:15-29](https://eternal.family.net.za/bible/books/jeremiah/25#15)
+
+### Jeremiah's Influence on Lamentations
+
+Though traditionally attributed to Jeremiah in Jewish and Christian tradition, the Book of Lamentations is anonymous. However, strong connections exist:
+
+- **Shared Context:** Both books address Jerusalem's destruction in 586 BCE
+- **Shared Themes:** Divine judgment, human suffering, call for repentance, hope for restoration
+- **Similar Imagery:** Descriptions of the siege and its horrors
+- **Weeping Motif:** Jeremiah's characterization as "the weeping prophet" aligns with Lamentations' grief
+
+The Septuagint includes a superscription attributing Lamentations to Jeremiah, and 2 Chronicles 35:25 mentions that "Jeremiah also uttered a lament" for King Josiah, though this may not refer to the canonical book of Lamentations.
+
+Whether Jeremiah authored Lamentations or not, the two books share profound theological and emotional connections in processing Jerusalem's catastrophe.
+
+### Jeremiah and Other Prophets
+
+**Ezekiel**
+
+Ezekiel, who was among the exiles deported in 597 BCE, shared Jeremiah's prophetic ministry timeline. Connections include:
+
+- **Individual Responsibility:** Both prophets emphasize individual accountability before God (Jeremiah 31:29-30; Ezekiel 18)
+- **New Heart/New Covenant:** Ezekiel 36:26-27 promises a new heart and God's Spirit, parallel to Jeremiah 31:31-34
+- **Prophetic Suffering:** Both prophets faced intense opposition and persecution
+- **Temple Judgment:** Both prophesied the temple's destruction, though Ezekiel's vision of God's glory departing (Ezekiel 10) is more developed
+
+**Isaiah**
+
+While predating Jeremiah by over a century, Isaiah's influence appears in Jeremiah:
+
+- Both emphasize God's holiness and justice
+- Both promise a righteous Branch from David's line (Isaiah 11:1; Jeremiah 23:5-6, 33:15-16)
+- Both prophesy judgment followed by restoration
+- Both address similar historical contexts (Assyrian and Babylonian threats)
+
+**Daniel**
+
+Daniel, living in Babylonian exile, studied Jeremiah's prophecies. Daniel 9:2 explicitly states: "I, Daniel, perceived in the books the number of years that, according to the word of the Lord to Jeremiah the prophet, must pass before the end of the desolations of Jerusalem, namely, seventy years."
+
+This demonstrates that Jeremiah's prophecies (particularly Jeremiah 25:11-12 and 29:10 about the seventy-year exile) were read and interpreted by subsequent prophets as authoritative scripture.
+
+**Zechariah**
+
+Post-exilic prophet Zechariah shows awareness of Jeremiah:
+- Zechariah 1:4-6 refers to "the former prophets" whose warnings went unheeded—likely including Jeremiah
+- Zechariah's vision of the Branch (Zechariah 3:8, 6:12) echoes Jeremiah 23:5-6 and 33:15-16
+- Both prophesy restoration and a renewed Jerusalem
+
+### Thematic Cross-References
+
+**The Heart Theme**
+
+Jeremiah's emphasis on the heart's corruption and need for transformation ([Jeremiah 17:9-10](https://eternal.family.net.za/bible/books/jeremiah/17#9)) influenced New Testament anthropology:
+- Jesus taught that evil comes from within the heart (Mark 7:21-23)
+- Paul described the need for circumcision of the heart (Romans 2:29), echoing Jeremiah 4:4 and 9:25-26
+
+**God's Sovereignty in Salvation**
+
+Jeremiah's teaching that people cannot save themselves (Jeremiah 13:23) and that God must transform hearts influenced:
+- Jesus' teaching that no one can come to him unless drawn by the Father (John 6:44)
+- Paul's doctrine of grace and divine initiative in salvation (Ephesians 2:8-9)
+
+**Prophetic Opposition**
+
+Jeremiah's experiences with false prophets and religious opposition prefigured:
+- Jesus' conflicts with religious leaders
+- Paul's warnings about false teachers
+- The New Testament's emphasis on testing prophetic claims (1 John 4:1)
+
+### Quantitative Analysis
+
+While Jeremiah is not quoted as extensively as Isaiah or the Psalms, its influence is substantial:
+- Approximately 5-7 direct quotations in the New Testament (depending on how one counts allusions)
+- Numerous thematic and verbal allusions
+- The New Covenant passage (Jeremiah 31:31-34) alone appears twice at length in Hebrews
+
+The book's greatest influence may be thematic rather than quotational—shaping how early Christians understood:
+- The nature of the New Covenant
+- God's sovereignty in salvation
+- The need for heart transformation
+- How to interpret national catastrophe theologically
+- The relationship between old and new covenants
+
+### Significance of Cross-References
+
+These cross-references demonstrate that:
+1. Early Christians read Jeremiah as prophetic witness to Christ and the New Covenant
+2. Jeremiah's theology profoundly shaped New Testament soteriology and ecclesiology
+3. The book provided interpretive frameworks for understanding Jesus' mission and the early church
+4. Jeremiah's suffering and rejection prefigured Christ's experiences
+5. The promise of divine heart-transformation became central to Christian understanding of salvation
+
+External resources:
+- [Quotations from Jeremiah (Bible Tales Online)](https://www.bibletales.online/quotations-from-jeremiah/)
+- [Hebrews Cross References (Turning to God's Word)](https://turningtogodsword.com/turning-gods-word/ttgw-studies/new-testament-studies/hebrews/cross-references-hebrews/)
+- [Did Matthew confuse Zechariah with Jeremiah? (Biblical Hermeneutics)](https://hermeneutics.stackexchange.com/questions/49509/did-matthew-confuse-zechariah-with-jeremiah-in-matthew-279)
+
