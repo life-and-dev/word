@@ -178,3 +178,111 @@ The book likely evolved through generations of storytelling, shaped by the exper
 - [Book of Exodus Historical Context - Britannica](https://www.britannica.com/event/Exodus-Old-Testament)
 - [Exodus Historicity Debate - Biblical Archaeology Society](https://www.biblicalarchaeology.org/daily/biblical-topics/exodus/exodus-fact-or-fiction/)
 - [Ramesses II and the Exodus](https://en.wikipedia.org/wiki/Ramesses_II)
+
+## Purpose
+
+The Book of Exodus was written with multiple interconnected purposes, all contributing to the formation and preservation of Israel's identity as the covenant people of God.
+
+### Primary Theological Purpose: Covenant Relationship
+
+At its core, Exodus was written to establish and explain the covenant relationship between Yahweh and Israel. The central message is that "the Israelites were delivered from slavery by Yahweh their god, and therefore belong to him by covenant." This foundational purpose is expressed in the preface to the Ten Commandments: "I am the LORD your God, who brought you out of the land of Egypt, out of the house of slavery" (Exodus 20:2).
+
+The original purpose was to help the people of Israel:
+1. **Understand their identity** as God's special people
+2. **Learn their covenant obligations** to Yahweh
+3. **See themselves** as God's "firstborn son" (Exodus 4:22) and as a "kingdom of priests and a holy nation" (Exodus 19:6)
+
+### Identity Formation and Memory Preservation
+
+Exodus served as a foundational document defining Israelite identity. With over 120 direct references to the Exodus throughout the Hebrew Bible, plus countless echoes and allusions, the Exodus event became "the foundational event that forms Israel's identity as God's people."
+
+The book presents **the defining features of Israel's identity**:
+- **Memories of the past**: A shared history marked by hardship (slavery) and dramatic rescue
+- **Binding covenant**: A special relationship with Yahweh who chose Israel
+- **Community guidelines**: Laws and institutions for sustaining communal life
+- **Liturgical practices**: Festivals like Passover that continually re-enacted the narrative
+
+Scholars note that "the books containing the Exodus story served as an 'identity card' defining who belonged to this community (i.e., to Israel), thus reinforcing Israel's unity through its new institutions."
+
+Evidence suggests that the Exodus narrative formed a "[foundational mythology](https://en.wikipedia.org/wiki/National_myth)" or "state ideology" particularly for the Northern Kingdom of Israel, providing a shared story that unified diverse tribes into a single people.
+
+### Revelation of God's Character and Name
+
+A central purpose of Exodus is the self-revelation of Yahweh. The book traces how "the disclosure of God develops from a distant deity of an oppressed people in Egypt to one in intimate relationship with the people of Israel on their way to the promised land."
+
+**Key aspects of divine revelation:**
+
+1. **The Divine Name**: The enigmatic phrase "I am who I am" (Exodus 3:14) reveals God as an active deity who intervenes in history on behalf of his people. As scholar Brevard Childs notes, this name "reveals that God exists as a deity who is active and will work in behalf of his people."
+
+2. **God's Attributes**: Through the plagues, the Exodus demonstrates Yahweh's:
+   - **Sovereignty** over nature and nations
+   - **Justice** in judging oppression
+   - **Power** superior to Egypt's gods and pharaoh
+   - **Faithfulness** to covenant promises made to Abraham, Isaac, and Jacob
+
+3. **Intimate Presence**: The centerpiece of Exodus's theology is "Yahweh present with and in the midst of his people." God's main purpose in delivering Israel was "so that he might dwell among them" through the Tabernacle.
+
+### Legal and Cultic Framework
+
+Exodus establishes the foundational legal and worship systems for Israel:
+
+1. **Moral Law**: The Ten Commandments (Exodus 20) provide the core ethical framework
+2. **Civil Law**: The Book of the Covenant (Exodus 21-23) addresses social justice, property rights, and interpersonal relationships
+3. **Cultic Law**: Instructions for the Tabernacle, priesthood, and sacrificial system (Exodus 25-40) establish how Israel should worship
+
+These law codes provided "social, moral, and religious structure for the community," enabling Israel to function as a distinct people set apart for Yahweh.
+
+### Liberation Theology
+
+The Exodus narrative addresses the issue of oppression and divine justice. It demonstrates that God:
+- **Hears the cries** of the oppressed (Exodus 2:24-25)
+- **Remembers his covenant** commitments (Exodus 2:24)
+- **Acts decisively** to liberate the enslaved (Exodus 3:7-8)
+- **Judges** those who perpetuate injustice (the plagues and Red Sea)
+
+For this reason, the Exodus has become "[the paradigmatic text par excellence](https://www.biblicaltraining.org/library/exodus-liberation-theology)" in [liberation theology](https://en.wikipedia.org/wiki/Liberation_theology), which reads Scripture "not from the side of the powerful, but from the side of the pain."
+
+However, critical scholars note that the liberation in Exodus is not merely political or economic. The goal was not simply freedom from Egypt, but freedom *for* worship and covenant service. As the narrative repeatedly states, Israel was delivered "so that they may worship/serve me" (Exodus 4:23, 7:16, 8:1, 8:20, 9:1, 9:13, 10:3).
+
+### Addressing Questions of Origins and Meaning
+
+Exodus answers fundamental questions that ancient Israel faced:
+
+1. **Origins**: Where did we come from? (Answer: From slavery in Egypt, delivered by Yahweh)
+2. **Identity**: Who are we? (Answer: Yahweh's treasured possession, a kingdom of priests)
+3. **Purpose**: Why do we exist? (Answer: To worship Yahweh and be a holy nation reflecting his character)
+4. **Obligation**: How should we live? (Answer: According to the covenant law revealed at Sinai)
+5. **Hope**: What is our destiny? (Answer: The promised land, God's presence among us)
+
+### Relevance During Exile
+
+For the exilic and post-exilic communities (6th-5th centuries BCE), when the book likely reached its final form, the Exodus narrative served crucial functions:
+
+1. **Hope for Return**: Just as God delivered ancestors from Egypt, he could deliver the present generation from Babylon
+2. **Identity Maintenance**: The narrative helped preserve Jewish identity in a foreign land
+3. **Covenant Renewal**: Remembering the covenant obligations helped the community maintain distinctiveness
+4. **Theodicy**: The story explained that suffering (slavery) can precede divine deliverance
+
+As scholars note, "the narrative's emphasis on identity and memory suggests it served to inspire hope and maintain cultural cohesion among the exiled community."
+
+### Liturgical and Pedagogical Purpose
+
+Exodus established ongoing practices that would continually retell and re-embody the story:
+
+1. **Passover Festival**: An annual reenactment of the Exodus night (Exodus 12)
+2. **Festival of Unleavened Bread**: A week-long remembrance of the hasty departure
+3. **Sabbath Observance**: A sign of the covenant (Exodus 31:12-17)
+4. **Teaching Children**: Built-in pedagogical moments ("When your children ask...") ensure transmission across generations (Exodus 12:26-27, 13:8, 13:14)
+
+### Establishing the Paradigm for Salvation
+
+Finally, Exodus establishes the pattern that would become the biblical paradigm for understanding salvation:
+- **Bondage** → **Divine intervention** → **Deliverance** → **Covenant commitment** → **Journey** → **Promised inheritance**
+
+This pattern is echoed throughout Scripture, from the return from Babylonian exile to the New Testament's use of Exodus imagery for spiritual redemption.
+
+**External Resources:**
+- [Theological Themes in Exodus - Enter the Bible](https://enterthebible.org/courses/exodus/lessons/theological-themes-in-exodus)
+- [Exodus, Theology of - Baker's Dictionary](https://www.biblestudytools.com/dictionaries/bakers-evangelical-dictionary/exodus-theology-of.html)
+- [Global Message of Exodus - ESV Study Bible](https://www.esv.org/resources/esv-global-study-bible/global-message-of-exodus/)
+- [Liberation Theology and the Exodus](https://en.wikipedia.org/wiki/Liberation_theology)
