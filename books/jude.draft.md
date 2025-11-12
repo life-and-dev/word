@@ -129,3 +129,90 @@ The epistle provides few explicit geographical markers, but several factors help
 4. **House Church Context**: The first-century church met primarily in homes, and the warning about false teachers who "have crept in unnoticed" (Jude 1:4) suggests the intimate house church setting where such infiltration would be both possible and dangerous.
 
 The historical environment of Jude thus reflects a critical moment when the first generation of apostolic leadership was passing away, false teachings were proliferating, external persecution was intensifying, and the need to "contend for the faith" (Jude 1:3) became urgent for the survival and integrity of the Christian movement.
+
+## Purpose
+
+The Epistle of Jude represents a dramatic shift in authorial intent, transforming from a planned theological treatise into an urgent pastoral warning. The letter's purpose is explicitly stated and multifaceted, addressing both immediate threats and long-term spiritual objectives for the Christian communities under Jude's care.
+
+### The Original Intent and the Course Correction
+
+Jude begins his letter with a revealing statement about his [original purpose](https://enduringword.com/bible-commentary/jude-1/): "Beloved, although I was very eager to write to you about our common salvation, I found it necessary to write appealing to you to contend for the faith that was once for all delivered to the saints" (Jude 1:3). This verse indicates that Jude had initially planned to compose a positive, edifying letter focused on the theological riches of Christian salvation—a topic that would have encouraged and instructed believers in their faith.
+
+However, an urgent crisis intervened. The infiltration of false teachers into the Christian community forced Jude to set aside his original plan and address a more pressing concern. This shift from exposition to exhortation, from celebration to warning, reveals the severity of the threat Jude perceived. The language he employs—"I found it necessary"—conveys a sense of compulsion and urgency that could not be ignored.
+
+### Primary Purpose: Contending for the Faith
+
+The central purpose of Jude's epistle is captured in the phrase ["contend for the faith"](https://www.gotquestions.org/contend-for-the-faith.html) (Greek: *epagōnizesthai tē pistei*). The Greek verb *epagōnizomai* is particularly significant, derived from the athletic contests of the ancient world. It describes an athlete striving with extreme intensity, exerting maximum effort to win the victory in physical competition. [The Amplified Bible translates](https://www.preceptaustin.org/jude_commentary) the command as "fight strenuously for [the defense of] the faith."
+
+This athletic metaphor conveys several important dimensions of Jude's purpose:
+
+1. **Active Engagement**: The faith must be defended through vigorous, intentional action, not passive observation. Christians are called to be active defenders, not spectators.
+
+2. **Intense Effort**: Like an athlete training for competition, believers must exert themselves fully in defending orthodox doctrine and practice.
+
+3. **Competitive Struggle**: There is an opponent—false teaching and false teachers—who must be resisted and defeated through truth and righteousness.
+
+The object of this contention is "the faith that was once for all delivered to the saints" (Jude 1:3). This phrase indicates:
+
+- **Definiteness**: "The faith" refers to a specific body of apostolic teaching, not merely subjective religious experience.
+- **Completeness**: "Once for all" (Greek: *hapax*) emphasizes that the apostolic revelation is complete and final, requiring no additions or revisions.
+- **Apostolic Origin**: The faith was "delivered" (Greek: *paradotheisē*), a technical term for the transmission of authoritative tradition, suggesting the apostolic deposit of doctrine.
+
+### The False Teachers: The Immediate Threat
+
+[Jude identifies the immediate crisis](https://www.thegospelcoalition.org/commentary/jude/) that necessitated his letter: "For certain people have crept in unnoticed who long ago were designated for this condemnation, ungodly people, who pervert the grace of our God into sensuality and deny our only Master and Lord, Jesus Christ" (Jude 1:4).
+
+The false teachers are characterized by two fundamental errors:
+
+1. **Antinomianism**: They "pervert the grace of our God into sensuality" (Greek: *aselgeian*), turning God's gracious forgiveness into a license for immoral behavior. This represents a fundamental misunderstanding of grace, suggesting that because God forgives sin, Christians are free to sin without consequences. This libertine theology undermines moral accountability and holy living.
+
+2. **Christological Heresy**: They "deny our only Master and Lord, Jesus Christ." Whether this denial was explicit (rejecting Jesus's authority and deity) or practical (refusing to submit to his lordship while claiming allegiance to him) remains debated, but the result is the same: a rejection of Christ's rightful authority over believers' lives.
+
+Jude's characterization of these teachers as having "crept in unnoticed" (Greek: *pareisedysan*) suggests stealth and deception. [These were not outsiders openly attacking](https://bible.org/article/introduction-book-jude) the church but insiders who had infiltrated the community and were teaching from within, making their influence more dangerous and difficult to detect.
+
+### Multiple Purposes and Objectives
+
+Beyond the central call to contend for the faith, Jude's epistle serves several interrelated purposes:
+
+#### 1. Warning Against False Teachers
+
+[A primary objective](https://www.esv.org/resources/esv-global-study-bible/introduction-to-jude/) is to expose the character, teaching, and destiny of the false teachers who have infiltrated the Christian communities. Jude dedicates the majority of his letter (verses 5-16) to this warning, using Old Testament examples, Jewish pseudepigraphal traditions, and vivid metaphors to illustrate the dangers these teachers pose.
+
+#### 2. Theological Instruction Through Typology
+
+Jude employs historical examples of divine judgment—the unbelieving Israelites in the wilderness (Jude 1:5), the fallen angels (Jude 1:6), and Sodom and Gomorrah (Jude 1:7)—to teach that apostasy and immorality inevitably lead to judgment. These examples serve both as warnings and as theological instruction about God's character: He is patient but ultimately just, forgiving but ultimately holy.
+
+#### 3. Reassurance of God's Sovereignty
+
+By noting that the false teachers were "long ago designated for this condemnation" (Jude 1:4), Jude reassures believers that God is not surprised or thwarted by the presence of false teachers. [Divine sovereignty](https://www.preceptaustin.org/jude_20_commentary) encompasses even the opposition to the gospel, providing comfort to those who might be shaken by the crisis.
+
+#### 4. Practical Instructions for Spiritual Resilience
+
+In verses 20-23, [Jude provides practical guidance](https://medium.com/@coulter.daniel/bible-study-jude-68187711bef4) for maintaining spiritual health in the face of false teaching:
+
+- "Build yourselves up in your most holy faith" (Jude 1:20) through ongoing theological education and spiritual formation.
+- "Praying in the Holy Spirit" (Jude 1:20) maintains direct communion with God.
+- "Keep yourselves in the love of God" (Jude 1:21) through obedient living.
+- "Waiting for the mercy of our Lord Jesus Christ" (Jude 1:21) maintains an eschatological perspective.
+
+#### 5. Rescue Mission for the Deceived
+
+[Jude reminds readers](https://enduringword.com/bible-commentary/jude-1/) that contending for the faith involves not only opposing false teachers but also rescuing those who have been deceived: "Have mercy on those who doubt; save others by snatching them out of the fire; to others show mercy with fear, hating even the garment stained by the flesh" (Jude 1:22-23). This missional dimension balances confrontation with compassion, showing that defense of the faith must be coupled with rescue of the perishing.
+
+#### 6. Doxological Confidence
+
+The epistle concludes with a magnificent doxology (Jude 1:24-25) that refocuses attention from the threat of false teachers to the power of God to preserve his people. [This purpose](https://www.bibleref.com/Jude/survey-of-Jude.html) is to provide assurance that despite present dangers, God is able to keep believers from stumbling and present them blameless before his presence.
+
+### Summary of Purpose
+
+In summary, the Epistle of Jude was written to:
+
+1. **Alert** Christian communities to the danger of false teachers who had infiltrated their ranks
+2. **Define** the nature of apostolic faith as a complete, authoritative deposit to be preserved
+3. **Expose** the character, teachings, and destiny of the false teachers through biblical examples
+4. **Motivate** believers to actively defend orthodox Christian faith and practice
+5. **Instruct** believers in practical spiritual disciplines that build resilience against deception
+6. **Encourage** the rescue of those being led astray by false teaching
+7. **Assure** believers of God's sovereign control and his ability to preserve them until the end
+
+The epistle is thus both polemical and pastoral, combining sharp rebuke of error with compassionate care for God's people, all aimed at preserving the purity and integrity of the Christian gospel in a moment of crisis.
