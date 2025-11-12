@@ -201,3 +201,139 @@ The recipients were Greek-speaking Christians living in urban centers. They face
 ### Conclusion
 
 Revelation emerged from a context of intense religious, political, and social pressure on Christians in Asia Minor during the late first century. Whether written under Nero (c. 65-68 AD) or Domitian (c. 95-96 AD), the book addresses communities facing persecution, economic hardship, and the constant pressure to compromise their faith through participation in emperor worship and pagan religious practices. Understanding this historical environment is essential for interpreting Revelation's vivid symbolism and urgent warnings.
+
+## Purpose
+
+The Book of Revelation is a complex work serving multiple interconnected purposes simultaneously. Unlike many biblical books with a singular focus, Revelation functions as prophecy, pastoral letter, liturgical text, and theological manifesto. Understanding these various purposes helps readers appreciate the book's multifaceted nature and enduring relevance.
+
+### Primary Purpose: To Reveal Jesus Christ
+
+The book's very first verse declares its primary purpose: "The revelation of Jesus Christ, which God gave him to show to his servants the things that must soon take place" (Revelation 1:1). The Greek word "apokalypsis" (ἀποκάλυψις) means "unveiling" or "disclosure"—this is fundamentally a book about revealing who Jesus Christ truly is.
+
+**Christ's Supremacy and Sovereignty:**
+Revelation presents Jesus not merely as the suffering servant of the Gospels, but as the exalted, victorious Lord of history. He appears as:
+- The Son of Man walking among the lampstands with eyes like blazing fire (Revelation 1:12-16)
+- The Lion of Judah and the Lamb who was slain (Revelation 5:5-6)
+- The King of kings and Lord of lords (Revelation 19:16)
+- The Alpha and Omega, the beginning and the end (Revelation 22:13)
+
+The purpose is to reveal Christ as Lord to a suffering church that needed assurance of his ultimate authority over Rome, persecution, and death itself.
+
+### To Encourage and Comfort Persecuted Believers
+
+Modern scholarship widely recognizes that "the Book of Revelation was written to comfort beleaguered Christians as they underwent religious persecution at the hands of a Roman Emperor."
+
+**Endurance Through Suffering:**
+The churches in Asia Minor faced:
+- State-sponsored persecution for refusing emperor worship
+- Economic marginalization and exclusion from trade guilds
+- Social ostracism and accusations of atheism and hatred of humanity
+- Imprisonment, exile, and martyrdom (as exemplified by Antipas in Revelation 2:13)
+
+John wrote to encourage believers not to give up, to remain faithful despite suffering, and to endure through tribulation. The repeated promises to "the one who conquers" (Revelation 2:7, 11, 17, 26; 3:5, 12, 21) serve to motivate perseverance.
+
+**Reframing Suffering Through Heavenly Perspective:**
+John's goal is that "as the church's eyes are opened to that unseen spiritual reality, they will perceive their trials very differently and will be much more likely to patiently endure them instead of giving up or compromising their faith to avoid persecution." By pulling back the curtain to reveal heavenly worship, cosmic spiritual warfare, and God's sovereign control, Revelation helps believers understand that their earthly suffering has cosmic significance and guaranteed victory.
+
+### To Provide Prophetic Warning and Call to Repentance
+
+Revelation functions as prophetic warning to complacent and compromising churches. Five of the seven churches receive sharp rebukes:
+
+**Ephesus**: Lost their first love (Revelation 2:4)
+**Pergamum**: Tolerated false teaching (Revelation 2:14-15)
+**Thyatira**: Allowed a false prophetess to lead believers into immorality (Revelation 2:20)
+**Sardis**: Reputation for being alive but spiritually dead (Revelation 3:1)
+**Laodicea**: Lukewarm, self-deceived about spiritual wealth (Revelation 3:15-17)
+
+Each letter contains a call to repentance and warning of consequences for failure. The book "conveys the call to repentance in all times with equal immediacy." The purpose is not primarily to satisfy curiosity about end times "but to summon our ongoing repentance."
+
+### To Address the Issue of Evil and God's Justice
+
+The churches struggled with a profound theological tension: if God rules history and Christ has been victorious, why is evil still so prevalent? Why do the righteous suffer while the wicked prosper?
+
+Revelation addresses this "problem of evil" by:
+- Revealing that current suffering is temporary (Revelation 21:4)
+- Demonstrating God's judgment is certain, though delayed (Revelation 6-19)
+- Showing that apparent Roman power is actually demonic and doomed (Revelation 13, 17-18)
+- Affirming that martyrs' deaths are not meaningless but precious to God (Revelation 6:9-11)
+
+The book vindicates God's justice and assures believers that their faith is not in vain, despite present appearances.
+
+### To Resist Cultural Assimilation and Idolatry
+
+A central pastoral concern in Revelation is preventing Christians from assimilating into Roman imperial culture. "A message to Christians not to assimilate into the Roman imperial culture was John's central message."
+
+**Exposing Imperial Idolatry:**
+Revelation uses vivid symbolism to expose the idolatrous nature of Rome:
+- The beast demanding worship (Revelation 13)
+- Babylon the prostitute intoxicated with wealth and violence (Revelation 17-18)
+- The mark of the beast representing economic participation requiring compromise (Revelation 13:16-17)
+
+**Maintaining Distinctive Identity:**
+The book calls Christians to maintain their distinctive identity as God's people, refusing to compromise even when it costs them economically, socially, or physically. The stark choice between worshiping God or the beast (Revelation 14:9-11) leaves no room for syncretism or dual allegiance.
+
+### Liturgical Purpose: Connecting Earth and Heaven
+
+Many early Christians found the Book of Revelation "incomprehensible apart from the liturgy," with its many parts falling into place when understood in connection with worship, particularly the Eucharist.
+
+**Heavenly Worship:**
+Revelation depicts continuous worship in heaven:
+- The four living creatures and twenty-four elders worshiping (Revelation 4-5)
+- Angels, creatures, and elders singing praises (Revelation 5:11-14)
+- The great multitude from every nation worshiping (Revelation 7:9-12)
+- Wedding feast of the Lamb (Revelation 19:6-9)
+
+**Liturgical Structure:**
+The book is described as "liturgical prophecy"—John receives his vision "on the Lord's Day" (Revelation 1:10), likely during corporate worship. The vision includes hymns, doxologies, throne room imagery, altar imagery, incense representing prayers, and references to robes, crowns, and priestly service—all elements of Christian liturgy.
+
+The purpose is to help earthly worshipers understand that when they gather for worship, they participate in the eternal worship of heaven itself.
+
+### To Provide Hope and Ultimate Victory
+
+"The letter is pastoral in nature (its purpose is offering hope to the downtrodden)." Revelation provides hope through:
+
+**Assured Victory:**
+Despite present suffering, the outcome is certain:
+- Satan is defeated and bound (Revelation 20:1-3, 10)
+- Death and Hades are destroyed (Revelation 20:14)
+- God dwells with humanity in the New Jerusalem (Revelation 21:3)
+- All tears, death, mourning, and pain are eliminated (Revelation 21:4)
+
+**Present Relevance:**
+Pope Benedict XVI noted that "some of the images of Revelation should be understood in the context of the dramatic suffering and persecution of the churches of Asia in the 1st century. Accordingly, the Book of Revelation should not be read as an enigmatic warning, but as an encouraging vision of Christ's definitive victory over evil."
+
+### Moral and Ethical Formation
+
+Revelation serves to form Christian character and ethical behavior through:
+
+**Moral Awareness:**
+"Worship in the Apocalypse brings moral awareness in the context of God's holy character, centering around moral realities of holiness, truthfulness, covenant faithfulness, reconciliation, and righteousness."
+
+**Exhortation to Action:**
+The book produces "exhortation prompting physical action"—calling believers to:
+- Conquer/overcome (νικάω) through faithful witness
+- Keep Jesus's words and not deny his name (Revelation 3:8)
+- Come out of Babylon/worldly systems (Revelation 18:4)
+- Remain sexually pure and avoid idolatry (Revelation 2:14, 20)
+
+### Multiple Purposes Working Together
+
+These purposes are not separate but interconnected:
+- Revealing Christ provides the foundation for hope
+- Hope sustains endurance through persecution
+- Persecution creates the need for prophetic warning against compromise
+- Warning against compromise addresses cultural assimilation
+- Resisting assimilation requires liturgical formation in distinctive worship
+- Worship connects believers to heavenly reality
+- Heavenly reality vindicates God's justice
+- God's justice provides ultimate hope
+
+### External Links for Further Study
+
+- [Book of Revelation - Wikipedia](https://en.wikipedia.org/wiki/Book_of_Revelation)
+- [Understanding the Book of Revelation - Doctrine.org](https://doctrine.org/understanding-the-book-of-revelation)
+- [The Seven-Fold Purpose of Revelation - The School of Christ](https://theschoolofchrist.org/seven-fold-purpose-book-of-revelation)
+
+### Conclusion
+
+Revelation is "primarily about the present, written to be read and heard in the present age; it provides an essential component for the church's understanding of life in this world between the two comings of Christ." Its multiple purposes—revealing Christ, encouraging the persecuted, calling for repentance, resisting cultural assimilation, facilitating worship, providing hope, and forming moral character—work together to equip believers for faithful witness in every age. The book addresses not merely first-century concerns but enduring challenges faced by the church throughout history wherever Christians encounter pressure to compromise their faith.
