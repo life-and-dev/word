@@ -361,3 +361,152 @@ Together, these three books served multiple overarching purposes:
 - [Book of Numbers Summary - Bible Project](https://bibleproject.com/videos/numbers/)
 
 The purposes of these books operated on multiple levels—meeting the narrative needs of the wilderness generation, addressing the historical crises of monarchy and exile, and providing enduring guidance for how God's people should live in covenant relationship with him.
+
+## Cross-References
+
+Deuteronomy, Leviticus, and Numbers have been extensively quoted, alluded to, and referenced throughout both the Old and New Testaments. As foundational Torah texts, they established theological, legal, and historical frameworks that subsequent biblical authors built upon. The [New Testament quotes the Old Testament](https://en.wikipedia.org/wiki/Quotations_from_the_Hebrew_Bible_in_the_New_Testament) extensively, with these three law books playing a prominent role.
+
+### Overall Statistics
+
+According to scholarly analyses, there are approximately **283 direct quotations from the Hebrew Bible in the New Testament**. However, if one includes indirect quotations, allusions, and partial citations, this number exceeds **1,000 references**. More than 10% of the New Testament text consists of citations or direct allusions to the Old Testament.
+
+Of the 278 different Old Testament verses cited in the New Testament:
+- **94 come from the Pentateuch** (Torah)
+- 99 come from the Prophets
+- The remainder from the Writings
+
+### Deuteronomy in the New Testament
+
+Deuteronomy stands as one of the most frequently quoted Old Testament books in the New Testament, with approximately **60 references and 44 direct quotations**. It ranks among the top cited books alongside Psalms (95 quotations), Isaiah (75), and Exodus.
+
+#### Jesus's Use of Deuteronomy
+
+Jesus quoted Deuteronomy more than any other book (though some scholars place Psalms first with Deuteronomy second). Out of 78 Old Testament quotations by Jesus, **26 come from the Pentateuch**, with Deuteronomy being his primary source.
+
+**Famous Examples:**
+
+1. **Temptation in the Wilderness** (Matthew 4:1-11; Luke 4:1-13): Jesus answered all three of Satan's temptations with quotations from Deuteronomy:
+   - "Man shall not live by bread alone" — quoting Deuteronomy 8:3 (Matthew 4:4)
+   - "You shall not put the Lord your God to the test" — quoting Deuteronomy 6:16 (Matthew 4:7)
+   - "You shall worship the Lord your God and him only shall you serve" — quoting Deuteronomy 6:13 (Matthew 4:10)
+
+2. **The Greatest Commandment** (Matthew 22:37-38; Mark 12:29-30; Luke 10:27): Jesus quoted the Shema from Deuteronomy 6:4-5: "Hear, O Israel: The Lord our God, the Lord is one. You shall love the Lord your God with all your heart and with all your soul and with all your might."
+
+3. **Marriage and Divorce** (Matthew 19:7-8): Jesus referenced Deuteronomy 24:1-4 regarding divorce certificates.
+
+4. **The Two Witnesses** (Matthew 18:16): Jesus cited Deuteronomy 19:15 about establishing truth through two or three witnesses.
+
+#### Paul's Use of Deuteronomy
+
+The Apostle Paul cited the Old Testament 93 times in his epistles, with **33 citations from the Pentateuch**, many from Deuteronomy:
+
+1. **Deuteronomy 25:4** quoted in 1 Corinthians 9:9 and 1 Timothy 5:18: "You shall not muzzle an ox when it treads out the grain"
+2. **Deuteronomy 32:35** quoted in Romans 12:19: "Vengeance is mine, I will repay, says the Lord"
+3. **Deuteronomy 30:12-14** referenced in Romans 10:6-8 regarding the word of faith
+4. **Deuteronomy 21:23** quoted in Galatians 3:13: "Cursed is everyone who is hanged on a tree"
+5. **Deuteronomy 32:43** quoted in Romans 15:10 and Hebrews 1:6
+
+#### Other New Testament References
+
+- **Hebrews** extensively uses Deuteronomy, particularly in discussing Jesus as the new Moses and the new covenant
+- **Acts 3:22-23** quotes Deuteronomy 18:15, 18-19 about the prophet like Moses
+- **Revelation** alludes to the Song of Moses (Deuteronomy 32) in Revelation 15:3
+
+### Leviticus in the New Testament
+
+Leviticus is quoted frequently in the New Testament, particularly its ethical and holiness teachings.
+
+#### The Most Quoted Verse: "Love Your Neighbor"
+
+**Leviticus 19:18** — "You shall love your neighbor as yourself" — became **the most-quoted verse in the entire New Testament**, appearing nine times:
+
+1. **Matthew 5:43** — Jesus references it while teaching about loving enemies
+2. **Matthew 19:19** — Jesus lists it among the commandments
+3. **Matthew 22:39** — Jesus calls it the second greatest commandment
+4. **Mark 12:31** — Parallel to Matthew 22:39
+5. **Luke 10:27** — In the context of the Good Samaritan parable
+6. **Romans 13:9** — Paul lists it as fulfilling the law
+7. **Galatians 5:14** — Paul says the entire law is fulfilled in this command
+8. **James 2:8** — James calls it the "royal law"
+9. **James 4:12** — Implied reference in context of judging others
+
+#### Jesus's Interpretation
+
+Jesus quoted Leviticus 19:18 and dramatically expanded its meaning. In Matthew 5:43-44, he said: "You have heard that it was said, 'You shall love your neighbor and hate your enemy.' But I say to you, Love your enemies." The Parable of the Good Samaritan (Luke 10:25-37) redefines "neighbor" to include ethnic and religious outsiders.
+
+#### Other Leviticus Quotations
+
+1. **Leviticus 19:12** — Quoted in Matthew 5:33 about taking oaths
+2. **Leviticus 19:2** — "Be holy, for I am holy" — Referenced in 1 Peter 1:16
+3. **Leviticus 18:5** — "The one who does these things shall live by them" — Quoted in Romans 10:5 and Galatians 3:12
+4. **Leviticus 26:11-12** — Referenced in 2 Corinthians 6:16 about God dwelling with his people
+5. **Leviticus 11-15** (purity laws) — Referenced throughout the Gospels in discussions about ritual cleanliness (Matthew 8:2-4; Mark 1:40-44; Luke 5:12-14)
+6. **Leviticus 16** (Day of Atonement) — Heavily referenced in Hebrews 9-10 regarding Christ's atoning sacrifice
+
+### Numbers in the New Testament
+
+While less frequently quoted than Deuteronomy or Leviticus, Numbers contains significant typological references in the New Testament.
+
+#### Key References
+
+1. **The Bronze Serpent** (Numbers 21:4-9): Jesus referenced this in John 3:14-15: "And as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up, that whoever believes in him may have eternal life." This became a central typological image of the crucifixion.
+
+2. **The Rock that Provided Water** (Numbers 20:7-11): Paul interpreted this typologically in 1 Corinthians 10:4: "For they drank from the spiritual Rock that followed them, and the Rock was Christ."
+
+3. **Rebellion in the Wilderness** (Numbers 14, 16): Multiple New Testament warnings reference Israel's wilderness rebellions:
+   - 1 Corinthians 10:5-10 — Paul warns against grumbling and testing God
+   - Hebrews 3:7-19 — Extensive treatment of Israel's unbelief in the wilderness
+   - Jude 5 — References those who did not believe and were destroyed
+
+4. **Balaam's Prophecy** (Numbers 22-24):
+   - 2 Peter 2:15-16 — Refers to Balaam's error
+   - Jude 11 — Mentions "the error of Balaam"
+   - Revelation 2:14 — The "teaching of Balaam"
+   - Matthew 2:2 — Numbers 24:17's prophecy of a "star out of Jacob" connected to Jesus's birth
+
+5. **Korah's Rebellion** (Numbers 16): Referenced in Jude 11 as a warning about false teachers
+
+6. **The Red Heifer** (Numbers 19): Hebrews 9:13 references the ashes of the red heifer in discussing purification
+
+7. **Priestly Blessing** (Numbers 6:24-26): While not directly quoted, this blessing formula influenced early Christian liturgy and appears conceptually in 2 Corinthians 13:14
+
+### Cross-References Within the Old Testament
+
+These three books are foundational for the rest of the Old Testament:
+
+1. **Joshua** — Continuously references Deuteronomy's laws and Moses's commands (Joshua 1:7-8; 8:31-35; 23:6)
+
+2. **Judges-Kings** — The Deuteronomistic History evaluates kings based on Deuteronomic standards, particularly centralized worship
+
+3. **Chronicles** — Frequently references Levitical laws and priestly regulations
+
+4. **Ezra-Nehemiah** — The post-exilic community reconstitutes itself based on Torah law, with extensive references to Leviticus and Numbers
+
+5. **Prophets** — The prophets consistently call Israel back to covenant faithfulness as defined in these books:
+   - Hosea 4:6 references lack of knowledge of God's law
+   - Jeremiah 7:22-23 references the covenant relationship
+   - Ezekiel extensively references Levitical holiness codes (especially Ezekiel 18, 22)
+   - Malachi 4:4 concludes the prophets with a call to remember "the law of Moses"
+
+6. **Psalms** — Many psalms reflect on the law (Psalms 1, 19, 119), wilderness wanderings (Psalms 78, 105, 106), and God's covenant (Psalms 89, 132)
+
+### Statistical Summary
+
+**Pentateuch quotations by New Testament authors:**
+- Jesus: 26 of 78 Old Testament quotations (33%)
+- Paul: 33 of 93 Old Testament citations (35%)
+- Overall New Testament: 94 of 278 distinct Old Testament verses cited (34%)
+
+**Individual book prominence:**
+- Deuteronomy: ~60 references, 44 direct quotations
+- Leviticus: Multiple quotations, with 19:18 cited 9 times
+- Numbers: Fewer direct quotations but significant typological references
+
+### External Resources
+
+- [Quotations from the Hebrew Bible in the New Testament - Wikipedia](https://en.wikipedia.org/wiki/Quotations_from_the_Hebrew_Bible_in_the_New_Testament)
+- [List of 300 Old Testament Quotes in New Testament](https://www.bible.ca/manuscripts/List-of-300-Old-Testament-passage-quotes-in-New-Testament-Septuagint-Codex-Vaticanus-LXX-Masoretic-MT-Jewish-Tanakh-Bible.htm)
+- [New Testament Use of the Old Testament by Roger Nicole](https://www.bible-researcher.com/nicole.html)
+- [Deuteronomy in the New Testament](https://wwugoodword.com/2021/12/deuteronomy-in-the-new-testament/)
+
+The extensive use of these three law books throughout Scripture demonstrates their foundational importance for both Jewish and Christian theology. They established the covenantal, ethical, and theological framework upon which the rest of biblical revelation builds.
