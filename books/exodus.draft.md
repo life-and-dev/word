@@ -930,3 +930,143 @@ More than perhaps any other single book, Exodus shapes how both Jews and Christi
 - [Exodus Theology - Baker's Evangelical Dictionary](https://www.biblestudytools.com/dictionaries/bakers-evangelical-dictionary/exodus-theology-of.html)
 - [The Divine Name - Biblical Mind](https://thebiblicalmind.org/article/meaning-of-gods-name-i-am-exodus/)
 - [Tabernacle Theology](https://stretchtheology.com/the-theology-of-the-tabernacle/)
+
+## Textual Variants
+
+The text of Exodus has been transmitted through multiple manuscript traditions, each with distinctive characteristics and variants. The primary textual witnesses are the [Masoretic Text](https://en.wikipedia.org/wiki/Masoretic_Text) (MT), the [Septuagint](https://en.wikipedia.org/wiki/Septuagint) (LXX), the [Samaritan Pentateuch](https://en.wikipedia.org/wiki/Samaritan_Pentateuch) (SP), and the [Dead Sea Scrolls](https://en.wikipedia.org/wiki/Dead_Sea_Scrolls) (DSS). These witnesses reveal significant textual diversity that scholars continue to debate.
+
+### Overview of Textual Witnesses
+
+**Masoretic Text (MT)**: The Hebrew text preserved by Jewish scribes (Masoretes) between the 7th-10th centuries CE, based on earlier manuscripts. This is the standard Hebrew text used in modern translations.
+
+**Septuagint (LXX)**: The Greek translation made in the 3rd-2nd centuries BCE, based on a Hebrew text (Vorlage) that sometimes differed from the MT.
+
+**Samaritan Pentateuch (SP)**: The version preserved by the Samaritan community, written in paleo-Hebrew script, diverging from the Jewish text sometime before the 2nd century BCE.
+
+**Dead Sea Scrolls (DSS)**: Biblical manuscripts from Qumran (3rd century BCE - 1st century CE) that predate the MT by 1,000 years and show connections to all three major textual traditions.
+
+### Extent of Variants
+
+Between the MT and LXX alone, scholars have identified **approximately 300 textual differences** in the Torah, ranging from insignificant spelling variations to theologically significant changes. The Samaritan Pentateuch contains roughly **6,000 variants** compared to the MT, with about **1,900 agreeing with the Septuagint**. Most variants involve grammar, spelling, and punctuation, but approximately **40 major variants** carry narrative and theological implications.
+
+### Major Textual Variants in Exodus
+
+#### 1. Exodus 1:5 - The Number of Jacob's Descendants
+
+**Masoretic Text**: "All the souls that came out of the loins of Jacob were seventy souls"
+**Septuagint**: Records "seventy-five souls"
+**New Testament**: Acts 7:14 follows the Septuagint's count of 75
+
+**Scholarly Discussion**: This variant affects historical reconstruction. The LXX likely includes Joseph's grandchildren (Genesis 46:27 LXX) while the MT excludes them. Neither reading changes theological meaning, but it demonstrates how different manuscript traditions preserve distinct numerical traditions.
+
+#### 2. Exodus 3:6 - "Father" vs. "Fathers"
+
+**Masoretic Text**: "I am the God of your **father** (singular), the God of Abraham, the God of Isaac, and the God of Jacob"
+**Samaritan Pentateuch & Septuagint**: "I am the God of your **fathers** (plural)"
+**New Testament**: Acts 7:32 uses the plural "fathers"
+
+**Scholarly Discussion**: The MT's singular "father" (אָבִ֔יךָ) may refer to the most recent patriarch (Jacob/Israel as the father of the nation), while the SP/LXX plural encompasses all three patriarchs collectively. The variant doesn't alter theology but affects linguistic precision. The Dead Sea Scrolls evidence is mixed, with some fragments supporting each reading.
+
+#### 3. Exodus 12:40 - Duration of the Sojourn
+
+**Masoretic Text**: "Now the time that the people of Israel lived in Egypt was 430 years"
+**Septuagint & Samaritan Pentateuch**: "Now the sojourning of the children of Israel and of their fathers which they dwelt in **the land of Canaan and in Egypt** was 430 years"
+
+**Scholarly Discussion**: This is one of the most debated variants. The MT restricts the 430 years to Egypt alone, while the LXX/SP include the time in Canaan (from Abraham's call to the Exodus). This profoundly affects chronology:
+- MT timeline: 430 years in Egypt only
+- LXX/SP timeline: 430 years total (including patriarchal period in Canaan, reducing Egyptian sojourn to ~215 years)
+
+Paul's statement in Galatians 3:17 (430 years from Abraham to the Law) appears to follow the LXX/SP chronology. This variant has sparked extensive scholarly debate about which tradition preserves the original reading.
+
+#### 4. Exodus 15:3 - God as "Man of War"
+
+**Masoretic Text**: "The LORD is a **man of war**"
+**Samaritan Pentateuch**: "The LORD is a **hero of war**"
+
+**Scholarly Discussion**: The SP reflects a tendency toward less anthropomorphic language when describing God. The MT's "man of war" (אִ֣ישׁ מִלְחָמָ֔ה) uses the term for a human male, while the SP prefers language associated with spiritual beings or champions. This variant illustrates the SP's theological sensitivities regarding divine descriptions.
+
+#### 5. Exodus 20 & Deuteronomy 5 - The Samaritan Tenth Commandment
+
+**Masoretic Text & Septuagint**: The tenth commandment prohibits coveting
+**Samaritan Pentateuch**: Adds a tenth commandment: "You shall build an altar on Mount Gerizim"
+
+**Scholarly Discussion**: This is the most significant ideological variant in the SP. Following the ninth commandment, the SP inserts material commanding worship at Mount Gerizim (the Samaritan holy site). This insertion, known as the "Gerizim composition," combines elements from Deuteronomy 11:29 and 27:2-7. Most scholars view this as a sectarian addition promoting Samaritan theology, though Samaritans consider it original.
+
+The variant fundamentally changes the nature of the Decalogue, tying it explicitly to Samaritan worship practices. No other manuscript tradition (MT, LXX, DSS) contains this reading, strongly suggesting it is a Samaritan theological insertion rather than an omission by other traditions.
+
+#### 6. Exodus 6-11 - Repetitious Expansions in Samaritan Pentateuch
+
+**Masoretic Text**: Records God's instructions to Moses, then summarizes Moses delivering the message to Pharaoh
+**Samaritan Pentateuch**: Records God's instructions, then repeats the same words verbatim as Moses speaks to Pharaoh
+
+**Scholarly Discussion**: The SP contains **19 major expansions** in the plague narrative where Moses's words to Pharaoh exactly duplicate God's prior instructions to Moses. The MT typically summarizes: "Moses did as the LORD commanded." The SP expands: "Moses said to Pharaoh, 'Thus says the LORD...' [repeating God's entire speech]."
+
+This creates significant textual expansion but doesn't alter theology. Scholars debate whether:
+- The MT abbreviated an originally repetitious text (SP position)
+- The SP expanded for liturgical or pedagogical purposes (most scholars)
+
+The Dead Sea Scrolls contain some manuscripts that agree with the SP's expansions, suggesting this textual tradition existed in the Second Temple period.
+
+#### 7. Exodus 24:10 - Seeing God
+
+**Masoretic Text**: "And they saw the God of Israel"
+**Targums (Aramaic translations)**: "And they saw the glory of the God of Israel"
+
+**Scholarly Discussion**: While not a variant in the Hebrew manuscripts themselves, the Targums' consistent interpretation—adding "glory of"—reflects theological discomfort with the anthropomorphic statement that humans "saw God." This demonstrates how translation traditions sometimes function as textual commentary, softening direct statements about seeing God (compare Exodus 33:20: "You cannot see my face").
+
+### Dead Sea Scrolls Evidence
+
+The Exodus manuscripts from Qumran (particularly from Cave 4) have revolutionized understanding of textual transmission:
+
+**Key Findings:**
+
+1. **Textual Diversity**: The DSS demonstrate that in the Second Temple period (3rd cent. BCE - 1st cent. CE), **multiple text types coexisted without controversy**. Long texts, short texts, and texts with unique readings were copied and used side by side.
+
+2. **Alignment with Known Traditions**: Some Qumran Exodus manuscripts align closely with the MT, others with the LXX's Hebrew Vorlage, and still others with the SP tradition. This validates that these three textual families represent ancient, independent traditions.
+
+3. **Pre-Masoretic Diversity**: The discovery of the DSS has demonstrated that the Septuagint is not a "loose translation" but is based on **a different and older Hebrew text** than the MT. This has elevated the LXX's status in textual criticism.
+
+4. **No Single "Original"**: The Qumran evidence has led scholars to abandon the quest for a single "original" text. Instead, textual criticism now recognizes that Exodus circulated in multiple authoritative forms in antiquity.
+
+### Implications for Textual Criticism
+
+The textual variants in Exodus have led to significant shifts in scholarly methodology:
+
+#### 1. From Three Families to Multidimensional Models
+
+The traditional model of three textual families (MT, LXX, SP) has proven inadequate. Scholar Ronald Hendel proposes an "eclectic and multidimensional stemmatic model" that acknowledges complex relationships and cross-contamination between textual traditions.
+
+#### 2. Recognition of the Septuagint's Value
+
+Professor Emanuel Tov and others now argue that the Septuagint should be recognized as **an alternative textual tradition with "equal status" to the MT**, not merely as a secondary translation. This represents a major shift from earlier Protestant scholarship that privileged the MT.
+
+#### 3. Acceptance of Textual Fluidity
+
+The Qumran evidence demonstrates that textual variants were **"the norm rather than the exception"** in the Second Temple period. The attempt to rigidly classify all manuscripts into fixed families "was doomed to failure."
+
+### Conservative vs. Critical Perspectives
+
+**Conservative/Traditional View**: Many conservative scholars maintain that variants are generally minor and don't affect doctrine. They often prefer the MT as the most carefully preserved tradition, viewing LXX and SP variants as either corruptions or translations, not alternative Hebrew originals.
+
+**Critical/Academic View**: Most academic scholars recognize genuine textual plurality in antiquity. They utilize all textual witnesses equally in reconstructing the text, often favoring readings that best explain how other variants arose (lectio difficilior—the more difficult reading is often original).
+
+### Theological Impact
+
+Despite hundreds of variants, **no major theological doctrine depends on disputed Exodus texts**. The variants affect:
+- Chronological calculations
+- Precise wording of legal/moral commands (but not their substance)
+- Details of narrative sequences
+- Stylistic features
+
+The core theological message—God's deliverance of Israel, the covenant at Sinai, and the giving of the law—remains consistent across all textual traditions.
+
+### Conclusion
+
+The textual transmission of Exodus reveals a complex history of copying, translating, and interpreting sacred texts across multiple communities over millennia. While significant variants exist, they demonstrate the general reliability of transmission rather than undermining it. The existence of multiple textual traditions enriches rather than diminishes our understanding of how ancient communities received, preserved, and interpreted Scripture.
+
+Modern critical editions (such as the [Biblia Hebraica Stuttgartensia](https://en.wikipedia.org/wiki/Biblia_Hebraica_Stuttgartensia) and its successor, Biblia Hebraica Quinta) carefully document variants, allowing translators and scholars to make informed decisions about the biblical text.
+
+**External Resources:**
+- [Textual Variants in the Book of Exodus - Wikipedia](https://en.wikipedia.org/wiki/Textual_variants_in_the_Book_of_Exodus)
+- [Samaritan Pentateuch - Wikipedia](https://en.wikipedia.org/wiki/Samaritan_Pentateuch)
+- [Septuagint vs. Masoretic Text Comparison](https://www.myrtlefieldhouse.com/sermons/versions-and-variants-in-the-old-testament-text)
