@@ -886,3 +886,123 @@ These unique teachings demonstrate how Deuteronomy, Leviticus, and Numbers serve
 - [Nazirite - Wikipedia](https://en.wikipedia.org/wiki/Nazirite)
 - [The Shema - My Jewish Learning](https://www.myjewishlearning.com/article/deuteronomy-64-the-shema/)
 - [Code of Holiness - Britannica](https://www.britannica.com/topic/Code-of-Holiness)
+
+## Textual Variants
+
+The text of Deuteronomy, Leviticus, and Numbers has been transmitted through multiple textual traditions, resulting in variants between the [Masoretic Text](https://en.wikipedia.org/wiki/Masoretic_Text) (MT), [Septuagint](https://en.wikipedia.org/wiki/Septuagint) (LXX), [Samaritan Pentateuch](https://en.wikipedia.org/wiki/Samaritan_Pentateuch) (SP), and Dead Sea Scrolls (DSS). While most variants involve minor spelling or grammatical differences, some significantly affect meaning or theological interpretation.
+
+### Overview of Textual Traditions
+
+**Masoretic Text (MT)**: The authoritative Hebrew text for Judaism and most Protestant translations, standardized by the Masoretes between the 6th-10th centuries CE. Represents a single textual family selected from multiple earlier traditions.
+
+**Septuagint (LXX)**: The Greek translation completed c. 250 BCE. Early Christians primarily used this version. Often differs from the MT, sometimes preserving earlier Hebrew readings now lost.
+
+**Samaritan Pentateuch (SP)**: The Hebrew text preserved by Samaritans, containing approximately 6,000 differences from the MT. Most are minor, but some reflect theological distinctives, particularly regarding Mount Gerizim.
+
+**Dead Sea Scrolls (DSS)**: Dating from 250 BCE to 68 CE, these manuscripts reveal textual plurality in the Second Temple period. About 35% align with the proto-MT, 5% with the proto-Septuagint, 5% with the proto-Samaritan, and the remainder represent independent text types.
+
+### Significant Textual Variants
+
+#### 1. Deuteronomy 32:8-9 - "Sons of Israel" vs. "Sons of God"
+
+**Masoretic Text**: "When the Most High gave to the nations their inheritance, when he divided mankind, he fixed the borders of the peoples according to the number of the **sons of Israel**."
+
+**Dead Sea Scrolls (4QDeutj) and Septuagint**: "...according to the number of the **sons of God** (or angels of God)."
+
+**Significance**: This variant dramatically affects interpretation. The MT reading suggests God divided nations based on Israel's tribal numbers. The DSS/LXX reading implies God assigned divine beings ("sons of God") to oversee different nations, with Israel reserved for Yahweh himself (Deuteronomy 32:9). This reading fits the ancient Near Eastern concept of divine councils and national patron deities. Most modern scholars consider "sons of God" the original reading, with "sons of Israel" representing a later theological correction to avoid implications of polytheism. Modern translations like ESV, NRSV, and NET Bible follow the DSS reading.
+
+#### 2. Deuteronomy 27:4 - Mount Ebal vs. Mount Gerizim
+
+**Masoretic Text**: "And when you have crossed over the Jordan, you shall set up these stones, concerning which I command you today, on **Mount Ebal**."
+
+**Samaritan Pentateuch**: "...on **Mount Gerizim**."
+
+**Significance**: This reflects the central theological dispute between Judaism and Samaritanism regarding the legitimate worship site. Samaritans worship on Mount Gerizim, claiming it as God's chosen place. Some Dead Sea Scroll fragments (though debated) may support the Gerizim reading, leading some scholars to suggest it might be original, later changed by Jewish scribes to delegitimize Samaritan claims. However, most scholars consider Ebal original, with the SP change reflecting Samaritan theological interests. The issue remains hotly debated.
+
+Additionally, the SP changes Deuteronomy 11:30 and 27:12-13 to emphasize Mount Gerizim's importance and changes twenty-one occurrences from future tense ("the place the LORD will choose") to past tense ("the place the LORD has chosen"), implying God already chose Gerizim.
+
+#### 3. Deuteronomy 31:1 - Moses's Speech
+
+**Masoretic Text**: "So Moses continued to speak these words to all Israel."
+
+**Septuagint**: "And Moses finished speaking all these words to all the sons of Israel."
+
+**Significance**: Minor difference reflecting either Hebrew textual variants or Greek translation choices, affecting whether Moses continued or concluded his speech.
+
+#### 4. Numbers 27:23 - Laying on of Hands
+
+**Masoretic Text**: "And he laid his hands on him."
+
+**Septuagint**: "And he laid his hand on him" (singular).
+
+**Significance**: Affects understanding of ordination ritual—whether Moses used one or both hands when commissioning Joshua. While seemingly minor, it matters for ritual reconstruction.
+
+#### 5. Leviticus 4:3 - The Anointed Priest
+
+Various minor textual differences exist in Leviticus's sacrificial instructions between the MT, LXX, and DSS fragments. The manuscript 4Q120 (a first-century BCE Septuagint manuscript of Leviticus found at Qumran) demonstrates that Greek translations sometimes derived from legitimate Hebrew variants, not translation errors.
+
+### General Patterns of Variation
+
+**Samaritan Pentateuch Characteristics**:
+- Tends toward harmonization, making parallel passages more consistent
+- Includes explanatory additions for clarity
+- Reflects Samaritan theological priorities, especially regarding Gerizim
+- Nearly 2,000 SP readings agree with the LXX against the MT, suggesting a common textual ancestor
+
+**Septuagint Characteristics**:
+- Sometimes more literal, sometimes more interpretive
+- Occasionally preserves Hebrew readings lost in the MT
+- Reflects Greek-speaking Jewish interpretive traditions
+- Influenced by Alexandrian Jewish theology
+
+**Masoretic Text Characteristics**:
+- Generally more conservative, shorter readings
+- Careful preservation by professional scribes
+- Represents Babylonian Jewish textual tradition
+- Some readings appear to be theologically motivated corrections
+
+### Scholarly Implications
+
+The Dead Sea Scrolls revolutionized understanding of Old Testament textual history by revealing:
+
+1. **Textual Plurality**: No single "original" text existed in the Second Temple period; multiple legitimate textual families circulated simultaneously.
+
+2. **LXX Vindication**: The Septuagint translators often worked from genuine Hebrew variants, not faulty manuscripts or poor translation.
+
+3. **MT Selection**: The Masoretic Text represents one textual family chosen and preserved by rabbinic Judaism after 70 CE, not necessarily always the "original" reading.
+
+4. **Gradual Standardization**: Textual uniformity increased over time, with diversity tolerated in earlier periods but gradually eliminated.
+
+### Theological and Practical Considerations
+
+**For Translation**: Modern English translations must decide which readings to follow. NET Bible, ESV, NRSV, and others increasingly incorporate DSS readings when deemed original. Traditional translations like KJV follow the MT exclusively.
+
+**For Interpretation**: Textual variants sometimes significantly affect interpretation. Deuteronomy 32:8's "sons of God" reading changes the entire theological framework of the passage.
+
+**For Textual Criticism**: These variants provide data for reconstructing the text's history and development, helping scholars trace how biblical texts were transmitted, edited, and standardized.
+
+**For Faith Communities**: Different traditions handle variants differently:
+- Judaism relies exclusively on the Masoretic Text
+- Eastern Orthodox churches give weight to the Septuagint
+- Protestant churches generally favor the MT but consider other witnesses
+- Samaritans exclusively use their Pentateuch
+
+### Extent of Variation
+
+Despite thousands of variants, the overwhelming majority are minor:
+- Spelling differences (plene vs. defective writing)
+- Synonyms or grammatical variations
+- Word order changes
+- Harmonizations between parallel passages
+
+Variants affecting meaning represent a small minority. The basic content, structure, and theology of Deuteronomy, Leviticus, and Numbers remain consistent across all textual traditions.
+
+### External Resources
+
+- [Masoretic Text - Wikipedia](https://en.wikipedia.org/wiki/Masoretic_Text)
+- [Septuagint - Wikipedia](https://en.wikipedia.org/wiki/Septuagint)
+- [Samaritan Pentateuch - Wikipedia](https://en.wikipedia.org/wiki/Samaritan_Pentateuch)
+- [Textual Variants in the Hebrew Bible - Wikipedia](https://en.wikipedia.org/wiki/Textual_variants_in_the_Hebrew_Bible)
+- [Dead Sea Scrolls - Wikipedia](https://en.wikipedia.org/wiki/Dead_Sea_Scrolls)
+
+The study of textual variants enriches understanding of how Scripture was transmitted, preserved, and interpreted across millennia and diverse communities. While variants exist, they generally affect details rather than core theological content, demonstrating remarkable stability in transmission despite the challenges of ancient manuscript copying.
