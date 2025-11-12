@@ -209,3 +209,155 @@ The audience varied by compositional layer:
 - [Deuteronomic Reform - Britannica](https://www.britannica.com/event/Deuteronomic-Reform)
 
 The historical environment of these books thus encompasses both the ancient Near Eastern world of the Late Bronze Age (their narrative setting) and the complex political, religious, and social developments of Israel and Judah from the monarchy through the Persian period (their probable compositional contexts).
+
+## Purpose
+
+While each of the three law books has its distinctive purposes, they collectively served to define Israel's identity, regulate worship, establish social order, and maintain covenant relationship with Yahweh. The purposes operated on both narrative and historical levels—the stated purposes within the texts themselves, and the actual purposes for which they were composed and compiled.
+
+### Deuteronomy: Covenant Renewal and Preparation
+
+[Deuteronomy](https://www.britannica.com/topic/Deuteronomy) is structured as Moses' farewell address to the Israelites on the plains of Moab, just before they entered the Promised Land. Its purposes are multiple and interconnected:
+
+#### 1. Covenant Renewal
+
+The central purpose of Deuteronomy is the renewal of the covenant between Yahweh and Israel. The book follows the structure of ancient Near Eastern suzerain-vassal treaties, presenting Yahweh as the divine king and Israel as his covenant people. Moses delivered these addresses as essential parts of a covenant renewal ritual immediately prior to Israel's crossing of the Jordan and commencing the conquest.
+
+Key elements of this covenant renewal include:
+- Recounting God's past faithfulness (Deuteronomy 1-4)
+- Reiterating covenant stipulations and laws (Deuteronomy 5-26)
+- Listing blessings for obedience and curses for disobedience (Deuteronomy 27-28)
+- Calling for renewed commitment (Deuteronomy 29-30)
+
+#### 2. Teaching Love and Loyalty
+
+Deuteronomy emphasizes that the covenant was initiated by Yahweh's love, and by love the people were to maintain their relationship with him. The famous Shema (Deuteronomy 6:4-5) encapsulates this: "Hear, O Israel: The LORD our God, the LORD is one. Love the LORD your God with all your heart and with all your soul and with all your strength."
+
+#### 3. Centralization of Worship
+
+A major purpose—particularly evident in the Josianic reform context—is mandating centralized worship at "the place the LORD your God will choose" (Deuteronomy 12:5-14). This served to:
+- Eliminate syncretistic practices at local shrines
+- Consolidate religious authority
+- Purify Yahwistic worship
+- Strengthen national unity around Jerusalem
+
+#### 4. Preparing for Life in the Land
+
+Deuteronomy provides practical and theological preparation for the transition from wilderness wandering to settled agricultural life in Canaan. It addresses issues like:
+- Land tenure and property rights
+- Treatment of the poor and vulnerable
+- Judicial systems and governance
+- Warfare regulations
+- Distinction from Canaanite practices
+
+#### 5. Explaining the Exile (Later Purpose)
+
+For the exilic audience, Deuteronomy served to explain why catastrophe had befallen Judah. The covenant curses (Deuteronomy 28:15-68) eerily predicted the Babylonian destruction and exile, providing a theological framework: Israel had been unfaithful to Yahweh, and the exile was God's covenant punishment. Yet the book also offered hope of restoration if the people repented (Deuteronomy 30:1-10).
+
+### Leviticus: Holiness and Ritual Order
+
+[Leviticus](https://en.wikipedia.org/wiki/Book_of_Leviticus) contains primarily ritual, legal, and ethical regulations. Its overarching purpose is expressed in its central command: "You shall be holy, for I the LORD your God am holy" (Leviticus 19:2).
+
+#### 1. Establishing Holiness Standards
+
+The fundamental purpose is to define what it means for Israel to be God's holy people, separated from the nations. This holiness encompasses:
+- **Ritual purity**: Regulations about clean and unclean animals, bodily discharges, skin diseases
+- **Moral conduct**: Sexual ethics, social justice, honest business practices
+- **Religious devotion**: Proper worship, festivals, Sabbath observance
+
+The [Holiness Code](https://en.wikipedia.org/wiki/Holiness_code) (Leviticus 17-26) stresses that Israel is separated from the rest of the world because Yahweh has chosen them, and they must demonstrate their unique election by disassociating themselves from profane worldliness.
+
+#### 2. Regulating Sacrificial Worship
+
+Leviticus 1-7 provides detailed instructions for five types of sacrifices (burnt offering, grain offering, peace offering, sin offering, guilt offering). These regulations served to:
+- Provide means of atonement for sin
+- Maintain proper relationship with God
+- Create standardized worship practices
+- Define priestly roles and responsibilities
+
+#### 3. Maintaining the Priestly System
+
+Leviticus establishes the priesthood's role, responsibilities, and maintenance:
+- Ordination ceremonies (Leviticus 8-9)
+- Priestly conduct standards (Leviticus 21-22)
+- Priestly portions of sacrifices
+- Distinction between priests (descendants of Aaron) and Levites
+
+#### 4. Organizing the Religious Calendar
+
+Leviticus 23 establishes Israel's sacred calendar, including Sabbath, Passover, Pentecost, Day of Atonement, and Feast of Tabernacles. These festivals served to:
+- Commemorate God's saving acts
+- Structure agricultural and social life
+- Reinforce communal identity
+- Provide regular times of worship and celebration
+
+#### 5. Preserving Priestly Traditions in Exile
+
+For the exilic audience, Leviticus preserved priestly knowledge and ritual traditions when the temple lay in ruins. It maintained hope for restored worship and prepared the community for eventual temple reconstruction. The emphasis on holiness addressed questions of identity and distinctiveness in the Babylonian diaspora.
+
+### Numbers: Testing, Organization, and Transition
+
+The [Book of Numbers](https://bibleproject.com/videos/numbers/) chronicles Israel's wilderness journey from Mount Sinai to the plains of Moab. Its purposes are reflected in its dual character—combining census lists and legal material with narrative accounts.
+
+#### 1. Demonstrating Divine Testing and Formation
+
+A central purpose is showing how God tested, disciplined, and formed his people in the wilderness. The wilderness functioned as:
+- A place of testing to reveal faith or unbelief
+- A school of dependence on God for provision (manna, water, guidance)
+- A period of transformation from slaves into a covenant nation
+- A demonstration of God's justice and mercy in response to rebellion
+
+The repeated rebellion narratives serve to show that despite Israel's faithfulness, God's covenant promises remained sure.
+
+#### 2. Organizing the Community
+
+Numbers emphasizes communal organization and order:
+- Two censuses (chapters 1 and 26) for military and community organization
+- Tribal arrangement around the tabernacle with God at the center (chapter 2)
+- Levitical duties and structure (chapters 3-4)
+- Leadership structure with Moses, Aaron, and the seventy elders
+
+This organizational emphasis served practical purposes for the wilderness period and provided models for later community structure.
+
+#### 3. Recording Transitional Events
+
+Numbers documents the crucial transition between the Exodus generation and the conquest generation:
+- The death of the rebellious generation in the wilderness
+- Rise of new leadership (Joshua succeeding Moses in preparation)
+- Conquests in Transjordan as foretaste of the conquest to come
+- Tribal allocations east of the Jordan (chapters 32-34)
+
+#### 4. Addressing Specific Legal and Ritual Issues
+
+Interspersed throughout are laws addressing particular situations:
+- Nazirite vows (chapter 6)
+- Priestess responsibilities (chapter 18)
+- Red heifer ritual (chapter 19)
+- Inheritance laws for daughters (chapters 27, 36)
+- Regulations for vows (chapter 30)
+
+These addressed real questions that arose in community life.
+
+#### 5. Demonstrating God's Faithfulness Despite Human Failure
+
+A theological purpose is showing that God's covenant faithfulness endures despite human rebellion. Even when the first generation forfeited their entry into Canaan (chapters 13-14), God preserved a remnant and continued his purposes with the next generation. This theme would resonate powerfully with exilic and post-exilic audiences facing their own failures and hoping for divine restoration.
+
+### Collective Purpose
+
+Together, these three books served multiple overarching purposes:
+
+1. **Identity Formation**: Defining who Israel is as God's chosen, holy people distinct from the nations
+2. **Covenant Constitution**: Establishing the terms, obligations, and blessings of the relationship between Yahweh and Israel
+3. **Worship Regulation**: Standardizing how Israel approaches God through sacrifice, priesthood, and festival
+4. **Social Order**: Creating a just society based on divine law rather than human wisdom or royal decree
+5. **Theological Framework**: Explaining God's character, human responsibility, the problem of sin, and the possibility of atonement
+6. **Historical Memory**: Preserving the story of Israel's formation and the giving of the law
+7. **Hope and Warning**: Offering both the promise of blessing for faithfulness and the warning of judgment for rebellion
+
+### External Resources
+
+- [Deuteronomy - Britannica](https://www.britannica.com/topic/Deuteronomy)
+- [Covenant Renewal in Deuteronomy - Bible.org](https://bible.org/seriespage/13-israel-s-covenant-renewal-deuteronomy)
+- [Holiness Code - Wikipedia](https://en.wikipedia.org/wiki/Holiness_code)
+- [Book of Numbers Summary - Bible Project](https://bibleproject.com/videos/numbers/)
+
+The purposes of these books operated on multiple levels—meeting the narrative needs of the wilderness generation, addressing the historical crises of monarchy and exile, and providing enduring guidance for how God's people should live in covenant relationship with him.
