@@ -779,3 +779,175 @@ Genesis establishes fundamental theological truths through God's direct speech a
 6. **Promise and Fulfillment**: God's promises span generations but will certainly be fulfilled
 
 Genesis ends with Israel in Egypt, awaiting the fulfillment of God's promise to bring them to Canaan—setting the stage for the Exodus.
+
+## Unique Teachings
+
+Genesis introduces foundational theological concepts and narratives found nowhere else in Scripture. As "the book of beginnings," Genesis serves as the seedbed for all major Christian doctrines, providing unique accounts and teachings that establish the framework for the entire biblical narrative.
+
+### 1. Creation Ex Nihilo (Creation from Nothing)
+
+Genesis is the only biblical book that provides a detailed account of the creation of the universe. The doctrine of [creation ex nihilo](https://en.wikipedia.org/wiki/Ex_nihilo)—that God created everything from nothing—stands in sharp contrast to ancient Near Eastern mythologies.
+
+**Unique to Genesis:**
+- God creates solely through spoken command without using preexisting materials (Genesis 1:3-31)
+- The sequential six-day creation account structured by temporal ordering (Genesis 1:1-2:3)
+- God's pronouncement that creation is "very good" (Genesis 1:31)
+- The Sabbath rest established at creation (Genesis 2:2-3)
+
+**Significance:** Ancient Near Eastern creation myths depicted gods creating from preexisting chaotic matter and often through violent cosmic battles. Genesis uniquely presents one sovereign God who effortlessly speaks creation into existence, establishing His transcendence over creation. This temporal structure of creation also provides the foundation for the Sabbath observance central to Israelite worship.
+
+### 2. The Image of God (Imago Dei)
+
+Genesis uniquely teaches that humans—both male and female—are created in God's image and likeness (Genesis 1:26-27). This concept appears nowhere in ancient Near Eastern literature and is foundational to biblical anthropology.
+
+**Unique Elements:**
+- Both sexes bear God's image equally (Genesis 1:27)
+- Humanity's role as God's representatives with dominion over creation (Genesis 1:26, 28)
+- The relational aspect of God ("Let us make mankind") (Genesis 1:26)
+
+**Significance:** While later Scripture references humanity's divine image (1 Corinthians 11:7; James 3:9), only Genesis provides the original account. This teaching establishes human dignity, purpose, and moral responsibility—radically different from ancient views that saw humans as slaves of capricious gods.
+
+### 3. The Fall and Original Sin
+
+Genesis contains the only biblical account of humanity's fall into sin through Adam and Eve's disobedience (Genesis 3). This narrative explains the origin of evil, suffering, and death.
+
+**Unique Narrative Elements:**
+- The serpent's temptation and humanity's first sin (Genesis 3:1-7)
+- The immediate consequences: shame, fear, and broken relationships (Genesis 3:7-13)
+- God's curse upon the serpent, ground, and human labor (Genesis 3:14-19)
+- Banishment from Eden and loss of access to the tree of life (Genesis 3:22-24)
+
+**Significance:** While Paul develops theology based on Adam's sin (Romans 5; 1 Corinthians 15), Genesis alone provides the historical narrative. Without Genesis 3, the biblical explanation for sin's presence and God's redemptive plan would lack foundation.
+
+### 4. The Proto-Evangelium (First Gospel Promise)
+
+Genesis 3:15 contains the first messianic prophecy—the promise that the woman's offspring will crush the serpent's head: "And I will put enmity between you and the woman, and between your offspring and hers; he will crush your head, and you will strike his heel."
+
+**Unique Features:**
+- First promise of redemption immediately following the fall
+- Prophecy of conflict between the serpent and woman's seed
+- Anticipation of victory despite suffering (crushed head vs. struck heel)
+
+**Significance:** This verse, found only in Genesis, introduces God's redemptive plan and is traditionally interpreted as pointing to Christ's victory over Satan. It establishes the pattern of promise that runs throughout Scripture.
+
+### 5. Pre-Flood World and Antediluvian Longevity
+
+Genesis provides unique information about the pre-flood world, including extraordinary human lifespans and mysterious figures.
+
+**Unique Accounts:**
+- Genealogies recording lifespans of 900+ years (Genesis 5)
+- Enoch's translation to heaven without dying (Genesis 5:24)
+- The Nephilim—"mighty men" or "heroes of old" (Genesis 6:4)
+- The "sons of God" and "daughters of humans" (Genesis 6:1-4)
+
+**Significance:** These details appear nowhere else in Scripture except brief references (Hebrews 11:5 mentions Enoch; Matthew 24:38-39 references Noah's time). Genesis alone preserves this unique period of human history.
+
+### 6. The Flood Narrative
+
+While brief flood references appear elsewhere in Scripture, only Genesis provides the detailed narrative of God's judgment through a worldwide flood and preservation through Noah's ark (Genesis 6-9).
+
+**Unique Details:**
+- Specific ark dimensions and construction instructions (Genesis 6:14-16)
+- The 40-day rain and 150-day flood duration (Genesis 7:12, 24)
+- Detailed timeline of the flood events (Genesis 7-8)
+- Sending of the raven and dove (Genesis 8:6-12)
+- Noahic covenant with the rainbow sign (Genesis 9:8-17)
+
+**Significance:** The flood represents God's judgment on sin and foreshadows baptism (1 Peter 3:20-21). Only Genesis provides the full narrative that later Scripture references.
+
+### 7. The Tower of Babel and Language Diversity
+
+Genesis uniquely explains the origin of different human languages and the scattering of nations through the Tower of Babel account (Genesis 11:1-9).
+
+**Unique Teaching:**
+- Original universal language (Genesis 11:1)
+- Human pride in building a tower to reach heaven (Genesis 11:4)
+- God's direct intervention to confuse languages (Genesis 11:7)
+- Resulting dispersion of peoples across the earth (Genesis 11:8-9)
+
+**Significance:** This account, found only in Genesis, explains linguistic diversity and sets the stage for God's plan to bless all nations through Abraham—reversing Babel's curse at Pentecost (Acts 2).
+
+### 8. The Binding of Isaac (Akedah)
+
+The narrative of Abraham's test to sacrifice Isaac (Genesis 22) appears nowhere else in Scripture, though later texts reference it (Hebrews 11:17-19; James 2:21-23).
+
+**Unique Elements:**
+- God's command to sacrifice Isaac, Abraham's "only son" (Genesis 22:2)
+- Abraham's three-day journey and preparations (Genesis 22:3-5)
+- Isaac's question, "Where is the lamb?" (Genesis 22:7)
+- Divine intervention and provision of a substitute ram (Genesis 22:11-13)
+- God's covenant oath reaffirmation (Genesis 22:16-18)
+
+**Significance:** This account establishes the principle of substitutionary sacrifice and foreshadows Christ's sacrifice. The theological richness of this narrative, found only in Genesis, profoundly influenced Jewish and Christian thought.
+
+### 9. Circumcision as Covenant Sign
+
+Genesis introduces circumcision as the sign of God's covenant with Abraham and his descendants (Genesis 17:9-14).
+
+**Unique Aspects:**
+- God's command for circumcision on the eighth day (Genesis 17:12)
+- Circumcision as "sign of the covenant" (Genesis 17:11)
+- Requirement for all male descendants and household members (Genesis 17:12-13)
+- Penalty for non-circumcision: being "cut off from his people" (Genesis 17:14)
+
+**Significance:** While later Scripture discusses circumcision extensively, Genesis alone records its origin and divine institution. Paul's theological use of circumcision in Romans 4 depends on this Genesis foundation.
+
+### 10. The Patriarchal Narratives
+
+The detailed narratives of Abraham, Isaac, Jacob, and Joseph exist only in Genesis. These accounts provide models of faith, demonstrate God's covenant faithfulness, and trace Israel's ancestry.
+
+**Unique Stories:**
+- Abraham's call and journey (Genesis 12)
+- The three visitors to Abraham (Genesis 18)
+- Lot's rescue from Sodom (Genesis 19)
+- Rebekah at the well (Genesis 24)
+- Jacob's ladder vision (Genesis 28)
+- Jacob wrestling with God (Genesis 32)
+- Joseph's dreams, betrayal, and rise to power (Genesis 37-50)
+
+**Significance:** While later Scripture references these patriarchs, only Genesis provides their full narratives. These stories establish Israel's identity, model faithfulness, and demonstrate God's providence.
+
+### 11. Foundational Theological Concepts
+
+Several theological concepts introduced in Genesis become foundational for all subsequent Scripture:
+
+**Marriage and Family:**
+- God's institution of marriage (Genesis 2:24)
+- "One flesh" union between husband and wife
+- Monogamous ideal established at creation
+
+**Moral Law Before Sinai:**
+- Murder condemned (Genesis 4:10-11; 9:6)
+- Sexual immorality judged (Genesis 19; 38)
+- Lying and deception shown as sin (Genesis 12:10-20; 27)
+
+**God's Attributes Revealed:**
+- Creator and Sovereign
+- Just Judge (Genesis 18:25: "Will not the Judge of all the earth do right?")
+- Merciful Redeemer
+- Covenant-keeper
+
+### 12. Nations and Genealogies
+
+Genesis uniquely provides the Table of Nations (Genesis 10), explaining the origins of various people groups descended from Noah's sons. The genealogical emphasis throughout Genesis—from Adam through Jacob's twelve sons—appears nowhere else with such detail.
+
+**Significance:** These genealogies establish historical connections, demonstrate God's faithfulness across generations, and trace the line leading to Christ (Matthew 1; Luke 3).
+
+### Why These Teachings Matter
+
+Genesis' unique teachings provide the necessary foundation for understanding:
+
+1. **Who God is**: Creator, Sovereign, Judge, Redeemer
+2. **Who humanity is**: Image-bearers, fallen sinners, objects of redemption
+3. **What went wrong**: Sin's origin and consequences
+4. **God's solution**: Covenant promises pointing to ultimate redemption
+5. **Israel's identity**: Chosen people descended from Abraham, Isaac, and Jacob
+
+Without Genesis' unique teachings, the rest of Scripture would lack essential context. Genesis serves as "the seedbed of all Christian doctrine," introducing concepts that Scripture later develops but never duplicates in their foundational form.
+
+### Resources for Further Study
+
+- [Genesis—The Seedbed of All Christian Doctrine - Creation.com](https://creation.com/genesis-the-seedbed-of-all-christian-doctrine)
+- [Theological Themes in Genesis - Enter the Bible](https://enterthebible.org/courses/genesis/lessons/theological-themes-in-genesis)
+- [Genesis Creation Narrative - Wikipedia](https://en.wikipedia.org/wiki/Genesis_creation_narrative)
+- [Key Themes in Genesis - IVP](https://ivpbooks.com/blog/key-themes-in-genesis.html)
