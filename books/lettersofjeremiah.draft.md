@@ -692,3 +692,164 @@ The Letter of Jeremiah is best understood as a **specialized application** of es
 - **Practical apologetics**: Equipping Jews with concrete arguments for resisting assimilation
 
 The Letter exemplifies how Second Temple Judaism took canonical traditions and creatively reapplied them to address new challenges. While it contains little that is theologically novel, its distinctive emphases and comprehensive approach made it useful for diaspora communities facing pressure to accommodate Hellenistic religion—which explains why it circulated widely enough to be included in the Septuagint and found at Qumran, even if it never achieved canonical status in Judaism or Protestant Christianity.
+
+## Textual Variants
+
+The textual history of the Letter of Jeremiah presents unique challenges compared to most biblical books. Unlike texts that exist in multiple ancient languages with substantial manuscript evidence, the Letter survives almost exclusively in Greek manuscripts, with minimal Hebrew or Aramaic evidence. This limited manuscript base means that while we can discuss variations in **versification, placement, and organization**, we have relatively little evidence of significant **textual variants** in the sense of different readings of the same passages.
+
+### The Manuscript Evidence
+
+#### Greek Manuscripts: The Primary Evidence
+
+All surviving ancient manuscripts of the Letter of Jeremiah are in Greek. [The earliest manuscript is 7Q2 from Qumran](https://en.wikipedia.org/wiki/List_of_manuscripts_from_Qumran_Cave_7), dating to approximately the 1st century BCE. This fragment, discovered in Cave 7 at Qumran, contains verses 43-44 of the Letter and confirms that the text was circulating in Palestine in Greek by the late Second Temple period.
+
+The Letter appears in [various Septuagint manuscripts](https://en.wikipedia.org/wiki/Letter_of_Jeremiah) from subsequent centuries, including:
+- **Codex Vaticanus** (4th century CE)
+- **Codex Sinaiticus** (4th century CE)
+- **Codex Alexandrinus** (5th century CE)
+- Various later Greek manuscripts
+
+These manuscripts generally show **remarkable textual stability**—the Greek text is relatively consistent across surviving witnesses, with only minor variations in word order, spelling, and grammatical forms typical of ancient manuscript transmission.
+
+#### Absence of Hebrew/Aramaic Manuscripts
+
+No Hebrew or Aramaic manuscript of the Letter of Jeremiah has survived, despite scholarly debate about whether the text was originally composed in a Semitic language or in Greek.
+
+[Jerome's refusal to include the Letter in his Vulgate translation](https://www.newadvent.org/cathen/02319c.htm) was based precisely on this absence: "Since no Hebrew text was available, Jerome refused to consider the Epistle of Jeremiah, as the other books he called apocryphal, canonical." Jerome's principle of *Hebraica veritas* ("Hebrew truth") meant he only considered texts with extant Hebrew manuscripts fully authoritative.
+
+This absence creates a unique textual situation: we cannot compare Greek manuscripts against Hebrew or Aramaic originals to identify translation choices, expansions, omissions, or errors. The Greek text is all we have, making it impossible to reconstruct an earlier textual stage with confidence.
+
+### Versification Differences
+
+The most significant "variants" in the Letter of Jeremiah concern **how many verses** the text contains—a difference arising from medieval chapter and verse divisions rather than from ancient textual differences.
+
+#### 72 vs. 73 Verses
+
+Different manuscript traditions and modern translations enumerate the verses differently:
+
+**72 Verses**: Some traditions, following certain Septuagint manuscripts and Latin Vulgate divisions, count the Letter as containing 72 verses.
+
+**73 Verses**: Other traditions, including many modern English translations and some Greek manuscripts, count 73 verses.
+
+**The Difference**: This discrepancy typically involves how verse 6 or 7 is counted in the introduction. Some manuscripts divide what others treat as a single verse into two distinct verses, creating a difference of one verse that carries through the rest of the text. Functionally, the actual textual content is identical; only the numbering differs.
+
+**Implication for Citation**: When citing the Letter of Jeremiah, scholars must be careful to note which versification system they're using, as "Letter of Jeremiah 1:50" might refer to slightly different content depending on whether one uses the 72-verse or 73-verse system. This article uses the 73-verse system with references to "Letter of Jeremiah 1:X."
+
+### Placement and Organization Variants
+
+A more substantial form of textual variation involves **where the Letter appears** in biblical manuscripts and **whether it is treated as a separate book or as part of Baruch**.
+
+#### Septuagint Tradition: Separate Book
+
+In [Greek Septuagint manuscripts](https://en.wikipedia.org/wiki/Letter_of_Jeremiah), the Letter of Jeremiah typically appears as a **separate book**, distinct from both Jeremiah and Baruch. Moreover, in the Septuagint arrangement, the Letter is "separated from Baruch by the Book of Lamentations," creating the sequence:
+
+1. Jeremiah
+2. Baruch
+3. Lamentations
+4. Letter of Jeremiah
+
+This arrangement treats the Letter as an independent prophetic text, though one associated with the Jeremianic tradition.
+
+#### Latin Vulgate Tradition: Baruch Chapter 6
+
+In [the Latin Vulgate](http://mbfallon.com/Baruch/5_letter_of_jeremiah.pdf) and Bibles influenced by it (including Catholic Bibles), the Letter of Jeremiah is **combined with Baruch as chapter 6**. This creates the Book of Baruch with six chapters:
+
+1. Baruch 1-5 (the main text of Baruch)
+2. Baruch 6 (the Letter of Jeremiah)
+
+**Historical Development**: This arrangement was not original to the Vulgate. Initially, Jerome excluded both Baruch and the Letter of Jeremiah as non-canonical. However, "in the 9th century the Vetus Latina texts of Baruch and the Letter of Jeremiah were introduced into the Vulgate in versions revised by Theodulf of Orleans." By the 13th century, "when the booksellers of Paris began to produce commercial single volume Vulgate bibles in large numbers, these commonly included both Baruch and the Letter of Jeremiah as the Book of Baruch."
+
+This combination made practical sense: both texts are deuterocanonical, both are associated with the prophet Jeremiah, and both address the Babylonian exile context. Combining them created a more substantial "book" (six chapters instead of five and one).
+
+#### Orthodox Tradition: Variable
+
+[Eastern Orthodox Bibles](https://en.wikipedia.org/wiki/Deuterocanonical_books) show variation:
+- Some Orthodox traditions treat the Letter as a **separate book**, following the Septuagint arrangement
+- Other Orthodox traditions include it as **part of Baruch**, following a practice similar to the Vulgate
+
+This variation reflects the Eastern Church's generally less rigid approach to canonical boundaries and textual organization.
+
+#### The Synod of Laodicea (4th Century)
+
+Early evidence of combining these texts comes from the [Synod of Laodicea](https://www.biblesociety.org.uk/), which "wrote that Jeremiah, and Baruch, the Lamentations, and the Epistle are canonical in only one book." This suggests that as early as the 4th century CE, some Christian communities were grouping all Jeremianic material together as a single literary unit.
+
+### Scholarly Debate: Original Language
+
+While not strictly a "textual variant" in the traditional sense, scholarly debate about the Letter's **original language** affects how we understand its textual history.
+
+#### Arguments for Greek Original
+
+[E. H. Gifford reported](https://en.wikipedia.org/wiki/Letter_of_Jeremiah) that "the great majority of competent and impartial critics" considered Greek to be the original language, with O. F. Fritzsche stating emphatically, "If any one of the Apocryphal books was composed in Greek, this certainly was."
+
+Evidence supporting Greek original composition includes:
+- **Linguistic features**: "The Greek text has dozens of linguistic features available in Greek, but not in Hebrew; this shows that the Greek text is more than a minimalist translation."
+- **No Semitic original ever discovered**: Despite extensive searches and the recovery of Hebrew texts of Sirach and Tobit among the Dead Sea Scrolls and at Masada, no Hebrew or Aramaic Letter of Jeremiah has emerged.
+- **Hellenistic context**: The text's probable composition in Alexandria, a Greek-speaking center of Hellenistic Judaism, makes Greek composition plausible.
+
+#### Arguments for Hebrew/Aramaic Original
+
+Other scholars argue for an original Semitic language (Hebrew or Aramaic) that was later translated into Greek:
+- **Semitic idioms**: "Certain linguistic and stylistic elements characteristic of Semitic languages" appear in the Greek text, suggesting translation from Hebrew or Aramaic.
+- **Pattern of Jewish religious literature**: Most Jewish religious texts of this period were composed in Hebrew or Aramaic, even if later translated into Greek for diaspora use.
+- **The general pattern**: Other deuterocanonical books (Tobit, Sirach, 1 Maccabees) were originally written in Hebrew or Aramaic despite surviving primarily or exclusively in Greek.
+
+#### Current Consensus
+
+"In recent years the tide of opinion has shifted and now the consensus is that the 'letter' was originally composed in Hebrew," though significant scholars continue to defend Greek original composition. This debate remains unresolved, and absent discovery of a Semitic manuscript, definitive proof is impossible.
+
+**Implications**: If the Letter was originally Hebrew or Aramaic, then all surviving Greek manuscripts represent translations, and we should expect some translation variations and interpretive choices embedded in the Greek text. If it was originally Greek, then the surviving manuscripts more directly reflect the author's work.
+
+### Minor Textual Variations
+
+Within the Greek manuscript tradition itself, scholars have identified various **minor textual variants**—differences in wording, word order, spelling, and grammatical forms between manuscripts. However, these variants are generally:
+
+1. **Minor in scope**: Involving individual words or phrases rather than substantial passages
+2. **Non-theological**: Not affecting the meaning or theological content significantly
+3. **Typical of manuscript transmission**: Similar to variations found in any ancient text copied by hand over centuries
+4. **Uncontroversial**: Not subject to major scholarly debate
+
+Examples of typical minor variants include:
+- Differences in grammatical forms (e.g., singular vs. plural)
+- Variations in word order (Greek word order is flexible)
+- Spelling differences (ancient Greek had no standardized orthography)
+- Minor additions or omissions of articles, conjunctions, or particles
+
+Unfortunately, detailed critical apparatuses documenting all specific textual variants in the Letter of Jeremiah are not widely available in English scholarship, as the text has received less critical attention than canonical books. The most comprehensive textual work exists in specialized German and French Septuagint studies.
+
+### Comparison with the Book of Jeremiah's Textual Situation
+
+It's instructive to compare the Letter of Jeremiah's textual situation with that of the canonical Book of Jeremiah, which has one of the most complex textual histories in the Hebrew Bible.
+
+The **canonical Book of Jeremiah** exists in two substantially different versions:
+- **Masoretic Text (Hebrew)**: Longer version with approximately 2,700 words more than the Greek
+- **Septuagint**: Shorter version with different chapter order
+
+Scholarly debate continues about which version is earlier and whether the differences represent editorial expansion, deliberate abridgment, or use of different Hebrew textual traditions.
+
+In stark contrast, the **Letter of Jeremiah** shows minimal variation across witnesses. This relative stability might reflect:
+- **Later composition**: Written after the main prophetic books when textual practices were more standardized
+- **Limited circulation**: Less widely copied and therefore fewer opportunities for textual divergence
+- **Shorter length**: A brief text of 72-73 verses has less opportunity for variation than a major prophetic book
+- **Functional nature**: As a practical polemic rather than a prophetic oracle collection, it may have been treated more carefully
+
+### Summary of Textual Variants
+
+The textual history of the Letter of Jeremiah can be summarized as follows:
+
+| Type of Variation | Significance | Examples |
+|-------------------|--------------|----------|
+| **Versification** | Minor | 72 vs. 73 verses |
+| **Placement** | Major for canonical organization | Separate book vs. Baruch 6 |
+| **Language of Original** | Scholarly debate, uncertain | Greek vs. Hebrew/Aramaic |
+| **Word-level variants** | Minor, typical of manuscript transmission | Spelling, grammar, word order |
+| **Substantial content variants** | None identified | N/A |
+
+### Conclusion
+
+Unlike many biblical books where textual variants create significant interpretive challenges and theological debates, the Letter of Jeremiah presents a relatively stable textual tradition. The main issues concern **organizational questions** (where it belongs in biblical order, whether it's independent or part of Baruch) rather than **textual content** (what the words actually say).
+
+This stability is both a strength and a limitation:
+- **Strength**: We can be confident that the Greek text we possess closely represents what ancient readers encountered
+- **Limitation**: We cannot reconstruct earlier textual stages or identify how the text may have been edited or revised before reaching its current form
+
+For readers and scholars, this means that interpretive questions focus primarily on understanding the single Greek text we possess rather than adjudicating between competing textual traditions or reconstructing lost original readings.
