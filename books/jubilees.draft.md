@@ -108,3 +108,83 @@ The discovery of fifteen manuscript copies of Jubilees at Qumran demonstrates th
 ### Summary of Historical Environment
 
 The Book of Jubilees was written in Judea around 160-150 BCE by a Jewish priest during a period of acute cultural crisis. The author lived in the aftermath of brutal religious persecution under Antiochus IV Epiphanes, during or shortly after the Maccabean revolt, and at a time when Jewish identity was under severe pressure from Hellenistic culture. Writing to fellow priests and devout Jews who shared his concerns, the author sought to establish a definitive interpretation of Torah that would preserve Jewish distinctiveness, correct the calendar, and define proper worship—even if it meant standing against the Jerusalem Temple establishment itself.
+
+## Purpose
+
+The Book of Jubilees was written with multiple interconnected purposes, all aimed at addressing the religious and cultural crisis facing Judaism in the second century BCE. The author's objectives were both theological and practical, seeking to provide his community with a comprehensive framework for maintaining Jewish identity and purity in a hostile cultural environment.
+
+### Primary Theological Purpose: Supplementing and Interpreting Torah
+
+The [Book of Jubilees](https://www.christianity.com/wiki/bible/what-is-the-book-of-jubilees.html) is an ancient Jewish apocryphal text of 50 chapters that **retells the narrative of Genesis through Exodus 19**. The text was apparently aimed at "theologizing" this section of the Bible to address the specific concerns of the community that constituted its audience.
+
+Those who wrote Jubilees likely **did not intend to replace Genesis or Exodus**, but rather to **supplement** these foundational texts with authoritative interpretation. By placing these interpretations in the mouth of "the angel of the presence" speaking to Moses on Mount Sinai, the author granted his theological agenda the highest possible authority—presenting it as original revelation rather than later interpretation.
+
+### Establishing Jewish Separation and Exclusivity
+
+A central purpose of Jubilees was to establish and enforce **strict boundaries between Jews and Gentiles**. [Using a jubilean chronological system](https://scielo.org.za/scielo.php?script=sci_arttext&pid=S0259-94222008000100032) and the spatial concept of demarcated territory, the book aims at "the separation of the pure chosen line from the impure gentiles."
+
+This means the **strict segregation of people descending from Seth-Noah-Shem from all others**. The emphasis of the writing is upon:
+
+- **The exclusiveness of the Jews** (no intermarriage, no eating with the Gentiles, and a special heavenly calendar)
+- **The blessed joy of the Law**
+- **The sanctity and separation of Israel as God's holy people**
+
+### Prohibiting Intermarriage with Gentiles
+
+One of the most emphatic purposes of Jubilees is to establish a comprehensive and severe **prohibition against intermarriage** between Jews and Gentiles. [Jubilees 30](https://www.cambridge.org/core/journals/harvard-theological-review/article/abs/jubilees-30-building-a-paradigm-for-the-ban-on-intermarriage/AA6BA9D0CAE193E9DF9BF2599201669C) establishes a general ban on intermarriages, linking it to purity concerns and the sanctity of Israel's holiness.
+
+The text goes further by:
+
+- **Equating intermarriage with idolatry**: Postulating that sexual relationships with Gentiles threaten the sanctity of Israel
+- **Connecting mixed marriages with the worship of Molech**: One of the most abhorrent forms of idolatry in ancient Israel
+- **Declaring that any sexual contact with Gentiles is inherently polluting**
+- **Outlining severe consequences for such unions**, including divine judgment
+
+This concern likely reflects the author's contemporary situation, where intermarriage with Hellenized peoples posed a threat to Jewish distinctiveness.
+
+### Promoting Calendar Reform
+
+The author had a **major preoccupation with calendar reform**, using Jubilees as a platform for proposing a **solar calendar of 364 days** divided into **12 months**. This would have been a radical departure from the [traditional Jewish lunar calendar](https://www.gotquestions.org/book-of-Jubilees.html).
+
+**The 364-Day Solar Calendar**:
+- Consists of exactly 52 weeks (364 ÷ 7 = 52)
+- Each month has exactly 30 or 31 days, arranged symmetrically
+- Since 7 is a factor of 364, **the same date falls on the same day of the week each year**
+- This ensures that holy days always occur on the same day of the week
+- Religious festivals never "drift" across the weekly cycle
+
+**Theological Rationale**: According to Jubilees, to prevent confusion and to keep holy days from getting "dislodged," God instituted the 364-day solar calendar at creation. The text presents a clear **polemic against the lunar calendar**, suggesting that those who follow it are in error and cannot properly observe the feasts of YHWH.
+
+This calendar advocacy was not merely academic—it represented a fundamental dispute with the Jerusalem Temple establishment, which followed the lunar calendar. By claiming that the Temple was observing festivals on the wrong dates, the author delegitimized the central institution of Judaism.
+
+### Establishing the Antiquity of Halakha (Jewish Law)
+
+The Book of Jubilees places strong emphasis on [Jewish legal tradition (Halakha)](https://www.earlyjewishwritings.com/jubilees.html), with a specific purpose of demonstrating that many laws and practices were observed from the very beginning of human history, not just from the time of Moses.
+
+**Key Halakhic Emphases**:
+- **Sabbath observance**: Traced back to creation itself
+- **Festival observance**: Passover, Firstfruits, Pentecost, Tabernacles, and other holy days
+- **Dietary laws**: Clean and unclean animals
+- **Purity regulations**: Menstruation, childbirth, and other sources of ritual impurity
+- **Circumcision**: Commanded to Abraham and all his descendants
+
+**Purpose**: By claiming that "the feasts of the Lord were observed by the patriarchs long before the time of Moses," the author argues that these practices are not cultural innovations but eternal divine decrees embedded in creation itself. This gives halakhic practices an authority that transcends historical contingency.
+
+### Addressing Hellenistic Threat and Assimilation
+
+In the context of pervasive [Hellenistic cultural pressure](https://en.wikipedia.org/wiki/Book_of_Jubilees), Jubilees was written to combat assimilation and maintain Jewish distinctiveness. The message being achieved is that **"Jewish practices and laws must be preserved despite opposition from incoming culture."**
+
+The author writes in the aftermath of the Maccabean Revolts (which were caused by this cultural divide), urgently pushing the importance of the Law to a community tempted by Greek culture, philosophy, and lifestyle.
+
+### Multiple Purposes Summary
+
+The Book of Jubilees was written to achieve several interconnected objectives:
+
+1. **Theological**: To provide an authoritative interpretation of Genesis and Exodus that addresses contemporary concerns
+2. **Calendrical**: To promote a solar calendar and discredit the lunar calendar used by the Temple
+3. **Social**: To prohibit intermarriage and social interaction with Gentiles
+4. **Legal**: To establish the eternal and universal validity of Jewish legal traditions
+5. **Identity**: To define and preserve Jewish distinctiveness against assimilation pressures
+6. **Polemical**: To challenge the authority of the Jerusalem Temple establishment
+
+Ultimately, Jubilees aims to create a comprehensive worldview and practical framework that would enable its readers to maintain pure, faithful, and distinctive Jewish identity in a world increasingly hostile to their values and threatening to their survival as a people set apart for God.
