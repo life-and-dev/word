@@ -200,3 +200,133 @@ It should be noted that some recent scholars have questioned whether the textual
 ### Summary
 
 The Johannine Epistles were written in Ephesus and surrounding regions of Asia Minor between AD 90-110, during a period of significant challenge for early Christianity. The community faced external pressures from Roman imperial religion, the aftermath of Jerusalem's destruction, and increasing separation from Judaism. More immediately, the epistles addressed an internal crisis: the departure of members who denied the true incarnation of Jesus Christ. These letters represent the mature theological reflection of a late first-century Christian community grappling with how to maintain theological integrity, ethical faithfulness, and communal unity in a diverse and often hostile environment.
+
+## Purpose
+
+The three Johannine Epistles, while related in authorship and theological perspective, serve distinct yet complementary purposes. Each letter addresses specific needs and challenges within the early Christian community, ranging from doctrinal instruction to practical guidance on Christian fellowship and hospitality.
+
+### The Purpose of 1 John
+
+1 John is the longest and most theologically developed of the three epistles. The author explicitly states multiple purposes throughout the letter, creating a multi-layered objective:
+
+#### 1. Providing Assurance of Eternal Life
+
+The most clearly stated purpose appears near the end of the epistle: **"I write these things to you who believe in the name of the Son of God so that you may know that you have eternal life"** (1 John 5:13). This statement closely parallels the purpose of the Gospel of John: "But these are written that you may believe that Jesus is the Messiah, the Son of God, and that by believing you may have life in his name" (John 20:31).
+
+The key distinction is that while the Gospel was written to **arouse faith** in unbelievers, 1 John was written to **establish certainty** in those who already believe. The epistle provides believers with concrete tests and marks by which they can examine themselves and gain confidence in their salvation.
+
+The author offers two basic components to assurance:
+1. **Objective evidence:** Obedience to God's commands, belief in Jesus Christ, and love for fellow believers
+2. **Subjective confirmation:** The inner witness of the Holy Spirit given to believers (1 John 3:24; 4:13)
+
+This emphasis on assurance was particularly important given the confusion and doubt created by the recent schism in the community. Believers needed reassurance that they possessed eternal life despite the departure of the secessionists.
+
+#### 2. Combating False Teaching and Heresy
+
+A second major purpose, stated explicitly in 1 John 2:26, is polemical: **"I am writing these things to you about those who are trying to lead you astray."** The epistle was written to **combat certain false ideas, especially about Jesus**, and to protect believers from deceptive teachers who had emerged in the community.
+
+The specific [heresy](https://en.wikipedia.org/wiki/Heresy) addressed appears to be early [Docetism](https://en.wikipedia.org/wiki/Docetism) or proto-[Gnosticism](https://en.wikipedia.org/wiki/Gnosticism), which:
+- Denied the reality of Jesus' incarnation ("Jesus Christ has come in the flesh" - 1 John 4:2)
+- Claimed superior spiritual knowledge that separated "spiritual" Christians from ordinary believers
+- Minimized the significance of ethical behavior, possibly leading to moral libertinism
+- Severed the connection between the divine Christ and the human Jesus
+
+The author emphasizes that this is not merely an academic dispute but a matter of eternal significance. He declares that anyone who denies the incarnation is an "antichrist" (1 John 2:22; 4:3) and does not have God (2 John 1:9). The epistle serves as a theological defense of orthodox Christology, particularly **the humanity and divinity of Christ as an apostolic teaching**.
+
+#### 3. Promoting Fellowship and Joy
+
+At the beginning of the letter, the author states another purpose: **"We proclaim to you what we have seen and heard, so that you also may have fellowship with us. And our fellowship is with the Father and with his Son, Jesus Christ. We write this to make our joy complete"** (1 John 1:3-4).
+
+This reveals both a vertical dimension (fellowship with God) and a horizontal dimension (fellowship with other believers). The schism had fractured the community's unity, and the author writes to restore and strengthen authentic Christian fellowship based on apostolic truth.
+
+The mention of "joy" being made complete indicates that the welfare and spiritual health of the community directly affected the author's own emotional state. This pastoral concern runs throughout the epistle.
+
+#### 4. Encouraging Believers to Avoid Sin
+
+Another explicitly stated purpose is ethical: **"I write this to you so that you will not sin"** (1 John 2:1). While the epistle offers assurance of salvation, it also maintains high ethical standards and calls believers to pursue holiness.
+
+The author emphasizes:
+- Walking in the light (1 John 1:7)
+- Keeping God's commands (1 John 2:3-6)
+- Loving one another (1 John 3:11-18)
+- Not loving the world or the things in the world (1 John 2:15-17)
+
+The ethical imperatives are not legalistic requirements for earning salvation, but evidence that one truly knows God and has been born of God. Right behavior flows from right belief.
+
+#### 5. Deepening Spiritual and Social Awareness
+
+The epistle also aims to **deepen the spiritual and social awareness of the Christian community**. The author wants believers to understand:
+- The nature of God's character (God is light, love, truth)
+- Their identity as children of God
+- Their responsibilities toward fellow believers
+- The cosmic conflict between truth and error, light and darkness
+- The signs of the "last hour" (1 John 2:18)
+
+### The Purpose of 2 John
+
+2 John is a brief letter with a focused purpose that complements the concerns of 1 John but applies them to a specific practical situation.
+
+#### Warning Against False Teachers and Inappropriate Hospitality
+
+The primary purpose of 2 John is to **warn believers not to show hospitality to false teachers**. While 1 John focuses on fellowship with God, **2 John focuses on protecting that fellowship from those who teach falsehood**.
+
+The author writes: **"Many deceivers, who do not acknowledge Jesus Christ as coming in the flesh, have gone out into the world. Any such person is the deceiver and the antichrist"** (2 John 1:7). He then gives explicit instructions: **"If anyone comes to you and does not bring this teaching, do not take them into your house or welcome them. Anyone who welcomes them shares in their wicked work"** (2 John 1:10-11).
+
+In the context of early Christianity, traveling teachers depended on the hospitality of local believers for food, shelter, and financial support. 2 John addresses a critical practical question: **What should Christians do when a traveling teacher claims to be Christian but teaches false doctrine?**
+
+The author's answer is clear: Do not provide hospitality or support to such teachers, as doing so makes one complicit in spreading their false teaching. This is not a violation of Christian love but rather a defense of truth. The false teachers in view are specifically those who deny the incarnation of Christ.
+
+#### Encouraging Love and Obedience
+
+Despite the warning against false teachers, 2 John also emphasizes positive themes:
+- Walking in truth (2 John 1:4)
+- Love for one another as a command from God (2 John 1:5-6)
+- Obedience to God's commands as the essence of love
+
+The author rejoices that some members of the community are "walking in the truth" and encourages continued faithfulness.
+
+### The Purpose of 3 John
+
+3 John is the shortest book in the New Testament and the most personal of the three epistles. It has a very specific purpose related to a church leadership conflict.
+
+#### Commending and Encouraging Christian Hospitality
+
+While 2 John warns **against** inappropriate hospitality to false teachers, **3 John encourages the proper practice of Christian hospitality toward true gospel teachers**. The purposes of these two short epistles are virtual opposites, yet both are necessary for maintaining healthy churches.
+
+The author writes to **commend Gaius** for his faithful practice of Christian hospitality: **"Dear friend, you are faithful in what you are doing for the brothers and sisters, even though they are strangers to you. They have told the church about your love"** (3 John 1:5-6).
+
+The author asks Gaius to continue supporting traveling missionaries financially: "We ought therefore to show hospitality to such people so that we may work together for the truth" (3 John 1:8).
+
+#### Confronting a Problematic Church Leader
+
+A secondary but significant purpose is to **confront a church leader named Diotrephes** who was:
+- Prideful and "loved to be first" (3 John 1:9)
+- Refusing to acknowledge the authority of the elder (the author)
+- Rejecting traveling missionaries and refusing them hospitality
+- Forbidding others in the church from showing hospitality
+- Expelling from the church those who disagreed with him
+- Spreading malicious gossip about the author
+
+The author writes: "I wrote to the church, but Diotrephes, who loves to be first, will not welcome us. So when I come, I will call attention to what he is doing, spreading malicious nonsense about us" (3 John 1:9-10).
+
+This reveals a power struggle in the early church and shows that not all church leaders were faithful to apostolic teaching and authority.
+
+#### Commending Demetrius
+
+The author also **commends Demetrius**, presumably the bearer of this letter and a traveling missionary: "Demetrius is well spoken of by everyone—and even by the truth itself. We also speak well of him, and you know that our testimony is true" (3 John 1:12).
+
+This commendation serves as a letter of recommendation, ensuring that Gaius will receive Demetrius and provide him with proper hospitality and support.
+
+### Interconnected Purposes
+
+While each epistle has distinct purposes, they share common theological and practical objectives:
+
+1. **Defending orthodox Christology:** All three letters are concerned with maintaining the truth about Jesus Christ's incarnation against Docetic heresy
+2. **Promoting authentic Christian love:** True love is defined not by sentiment but by obedience to God's commands and care for fellow believers
+3. **Establishing boundaries:** The epistles help believers discern true from false teachers and appropriate from inappropriate fellowship
+4. **Encouraging perseverance:** The letters aim to strengthen believers to remain faithful despite internal conflicts and external pressures
+5. **Maintaining apostolic authority:** The author asserts his authority to define truth and give direction to the churches
+
+### Summary
+
+The Johannine Epistles serve multiple complementary purposes within the early Christian community. 1 John provides theological instruction and assurance of salvation while combating Docetic heresy. 2 John warns against showing hospitality to false teachers who deny the incarnation. 3 John encourages proper hospitality toward true gospel teachers and confronts a problematic church leader. Together, these three letters address both the doctrinal and practical challenges facing a late first-century Christian community, seeking to maintain theological integrity, ethical faithfulness, communal unity, and proper discernment in an environment of theological controversy and social complexity.
