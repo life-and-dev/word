@@ -972,3 +972,141 @@ The unique contributions of the Johannine Epistles have shaped Christian theolog
 - The emphasis on fellowship (koinonia) has influenced ecclesiology and understanding of Christian community
 
 These teachings demonstrate that despite their brevity, the Johannine Epistles make profound and lasting contributions to biblical theology that cannot be found elsewhere in Scripture.
+
+## Textual Variants
+
+The Johannine Epistles, like all ancient texts, have been transmitted through centuries of manuscript copying, resulting in some textual variations. However, compared to many other biblical books, the text of these epistles is remarkably stable, with relatively few significant variants. The most notable exception is the famous [Comma Johanneum](https://en.wikipedia.org/wiki/Johannine_Comma) in 1 John 5:7-8, which represents one of the most controversial textual variants in the entire New Testament.
+
+### The Comma Johanneum (1 John 5:7-8)
+
+The [Johannine Comma](https://en.wikipedia.org/wiki/Johannine_Comma) (Latin: *Comma Johanneum*) is by far the most significant and debated textual variant in the Johannine Epistles. It concerns whether 1 John 5:7-8 originally contained an explicit Trinitarian formula.
+
+#### The Two Readings
+
+**Shorter Reading** (found in critical editions and modern translations):
+"For there are three that testify: the Spirit, the water and the blood; and the three are in agreement." (1 John 5:7-8, NIV)
+
+**Longer Reading** (found in the King James Version and some other traditional translations):
+"For there are three that bear record in heaven, **the Father, the Word, and the Holy Ghost: and these three are one. And there are three that bear witness in earth**, the Spirit, and the water, and the blood: and these three agree in one." (1 John 5:7-8, KJV)
+
+The words in bold represent the Comma Johanneum—the disputed addition.
+
+#### Manuscript Evidence
+
+The manuscript evidence overwhelmingly supports the shorter reading:
+
+**Greek Manuscript Evidence:**
+- The longer reading is found in **only eight late Greek manuscripts**, four of which have the words in a marginal note
+- The earliest Greek manuscript containing the Comma is **GA 629**, a Latin-Greek manuscript dated to **1362**
+- Other Greek manuscripts include GA 61 (early 1500s), GA 918 and 2318 (in the text), and MSS 88, 221, 429, and 636 (in marginal notes)
+- **There is no Greek manuscript made before the 1500s** in which the Comma Johanneum appears in the text in a form that does not appear to be derived from Latin
+- The reading appears in **no Greek witness of any kind until AD 1215** (in a Greek translation of the Acts of the Lateran Council, originally written in Latin)
+
+**Major Greek Uncial Codices:**
+The great uncial manuscripts—**[Codex Sinaiticus](https://en.wikipedia.org/wiki/Codex_Sinaiticus)**, **[Codex Alexandrinus](https://en.wikipedia.org/wiki/Codex_Alexandrinus)**, and **[Codex Vaticanus](https://en.wikipedia.org/wiki/Codex_Vaticanus)**—all contain the three Johannine Epistles, and **none of them include the Comma Johanneum**.
+
+**Latin Manuscript Evidence:**
+The Comma appears to have originated in Latin manuscripts:
+- The first undisputed work to quote the Comma Johanneum is the 4th-century Latin homily *Liber Apologeticus*, probably written by [Priscillian of Ávila](https://en.wikipedia.org/wiki/Priscillian) (died 385)
+- However, it is **not found in two of the oldest extant Vulgate manuscripts**, **[Codex Fuldensis](https://en.wikipedia.org/wiki/Codex_Fuldensis)** and **[Codex Amiatinus](https://en.wikipedia.org/wiki/Codex_Amiatinus)**
+- The earliest extant Latin manuscripts supporting the Comma are dated from the **5th to 7th century**
+
+**Patristic Evidence:**
+- The reading seems to have arisen in a 4th-century Latin homily in which the text was allegorized to refer to members of the Trinity
+- **None of the very early church fathers include it** when quoting or referencing the passage
+- Even Latin fathers who wrote extensively on the Trinity do not cite this passage
+
+#### How the Comma Entered the Textus Receptus
+
+The inclusion of the Comma Johanneum in many English Bibles has a fascinating history:
+
+1. [Erasmus](https://en.wikipedia.org/wiki/Erasmus) initially **excluded** the Comma from his first two editions of the Greek New Testament (1516, 1519) because he could find no Greek manuscripts containing it
+2. He was criticized for this omission, particularly by Catholic scholars who saw it as support for Trinitarian doctrine
+3. Erasmus promised to include it if even one Greek manuscript could be produced containing the reading
+4. A Greek manuscript (now known as **Codex Montfortianus** or **GA 61**) was produced, apparently written specifically for this purpose around 1520
+5. Erasmus reluctantly included the Comma in his **third edition (1522)**, though he expressed doubts about its authenticity in his notes
+6. This edition became the basis for the **[Textus Receptus](https://en.wikipedia.org/wiki/Textus_Receptus)** (the "Received Text")
+7. The Textus Receptus was used as the basis for the **King James Version** (1611) and other Reformation-era translations
+
+#### Modern Scholarly Consensus
+
+**Nearly all contemporary textual critics and biblical scholars agree that the Comma Johanneum is not original to 1 John.** The reasons include:
+
+1. **Absence from early manuscripts:** No Greek manuscript before the 14th century contains the reading in the text
+2. **Absence from early versions:** The Comma is absent from all early translations (Syriac, Coptic, Armenian, Ethiopic, Arabic, Slavonic)
+3. **Absence from patristic quotations:** Early church fathers do not cite it, even when the Trinitarian controversies would have made it extremely useful
+4. **Latin origin:** The reading appears to have originated in Latin, not Greek
+5. **Theological rather than textual motivation:** The reading appears to be a marginal gloss that was later incorporated into the text
+
+**Modern Bible translations** based on critical editions of the Greek text (such as the NIV, ESV, NRSV, NASB) **omit the Comma** or relegate it to a footnote. Only translations based on the Textus Receptus (such as the KJV and NKJV) retain it in the main text.
+
+#### Theological Implications
+
+The Comma Johanneum is significant because:
+- It provides the **only explicit statement of the Trinity in the New Testament** using the terms "Father, Word, and Holy Ghost" (or Spirit)
+- Without it, Trinitarian doctrine must be derived from other passages and theological reasoning
+- However, **orthodox Trinitarian theology does not depend on this verse**, as the Trinity is taught throughout Scripture in other ways
+
+Modern defenders of the Comma tend to fall into two camps:
+1. Those who argue for the authority of the Textus Receptus tradition over critical editions
+2. Those who argue that despite late manuscript evidence, the Comma may have been removed from earlier manuscripts
+
+The scholarly consensus, however, firmly supports the shorter reading as original.
+
+### Other Textual Variants in 1 John
+
+While the Comma Johanneum is the most significant variant, there are other minor textual differences in 1 John:
+
+**1 John 1:4:** Some manuscripts read "our joy" while others read "your joy." The meaning is essentially the same—complete joy for the community of believers.
+
+**1 John 2:20:** The reading varies between "you all know" and "you know all things." The difference is subtle and doesn't significantly change the meaning.
+
+**1 John 3:1:** Some manuscripts add "and we are" after "that we should be called children of God." This addition emphasizes the reality of the designation.
+
+**1 John 5:18:** Variations exist in the phrase "the one who was born of God keeps him safe" versus "he keeps himself." This affects whether the protection is attributed to Christ or the believer's own vigilance, though most scholars favor the former reading.
+
+These variants are relatively minor and do not affect major doctrinal points.
+
+### Textual Variants in 2 and 3 John
+
+**2 John and 3 John have remarkably stable texts** with very few significant variants.
+
+**2 John:**
+The epistle is found in the major uncial manuscripts with minimal variation. The brief nature of the letter and its straightforward content meant there was less opportunity for scribal variation or theological controversy that might have led to intentional changes.
+
+**3 John:**
+**Between different manuscript copies there are no major difficulties or differences**, meaning there is very little doubt over determining the original text. The epistle is found in many of the oldest New Testament manuscripts, and its text is **free of major discrepancies or textual variants**.
+
+This textual stability for 2 and 3 John is noteworthy and provides confidence that we possess these texts essentially as they were originally written.
+
+### Manuscript Witnesses
+
+The Johannine Epistles are attested in several important early manuscripts:
+
+**Greek Uncial Manuscripts:**
+- **[Codex Sinaiticus](https://en.wikipedia.org/wiki/Codex_Sinaiticus)** (4th century): Contains all three Johannine Epistles
+- **[Codex Alexandrinus](https://en.wikipedia.org/wiki/Codex_Alexandrinus)** (5th century): Contains all three Johannine Epistles
+- **[Codex Vaticanus](https://en.wikipedia.org/wiki/Codex_Vaticanus)** (4th century): Contains all three Johannine Epistles
+- **[Codex Ephraemi Rescriptus](https://en.wikipedia.org/wiki/Codex_Ephraemi_Rescriptus)** (5th century): Contains 3 John 3-15 and 1 John 1:1-4
+- **[Codex Bezae](https://en.wikipedia.org/wiki/Codex_Bezae)** (5th/6th century): Contains 3 John 11-15 in Latin translation
+
+**Papyrus Manuscripts:**
+While not as numerous as for the Gospels, several papyrus fragments of the Johannine Epistles exist, providing early textual witnesses.
+
+The multiplicity of early manuscript witnesses contributes to confidence in the text of these epistles (with the exception of the Comma Johanneum).
+
+### Comparison with Other New Testament Books
+
+Compared to other New Testament books:
+- The Johannine Epistles have **fewer and less significant textual variants** than most
+- The text is generally well-preserved and stable
+- The major exception (the Comma Johanneum) is clearly identifiable as a later addition
+- This textual stability contrasts with books like the Gospels, which have more extensive textual variation due to their length and the frequency with which they were copied
+
+### Modern Critical Editions
+
+Modern critical editions of the Greek New Testament ([Nestle-Aland](https://en.wikipedia.org/wiki/Novum_Testamentum_Graece), [United Bible Societies](https://en.wikipedia.org/wiki/Greek_New_Testament)) include extensive textual apparatus showing variants, but for the Johannine Epistles, the apparatus is relatively sparse compared to other New Testament books, reflecting the textual stability of these documents.
+
+### Conclusion
+
+The textual transmission of the Johannine Epistles has been remarkably stable, with the significant exception of the Comma Johanneum (1 John 5:7-8). This variant, while doctrinally significant, is absent from the earliest and best manuscripts and represents a later addition to the text. Modern translations based on critical scholarship omit or footnote this passage. Apart from this major variant, the Johannine Epistles present few textual challenges, giving us confidence that we possess these important theological documents substantially as they were originally written in the late first century.
