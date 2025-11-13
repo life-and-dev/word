@@ -96,3 +96,66 @@ The four Books of Maccabees span nearly three centuries of Jewish history under 
 - **4 Maccabees** (written c. 20-70 CE): Roman period philosophical discourse, Hellenistic Judaism, martyrdom theology
 
 Together, they provide a window into how Jewish communities in different times and places understood their history, articulated their identity, and responded to the challenges of maintaining distinctive religious practices under foreign rule and cultural pressure.
+
+## Purpose
+
+The four Books of Maccabees were written for distinctly different purposes, reflecting their diverse authorial perspectives, audiences, and theological concerns. Understanding these purposes is crucial for properly interpreting each work.
+
+### 1 Maccabees: Legitimizing the Hasmonean Dynasty
+
+The primary purpose of [1 Maccabees](https://www.myjewishlearning.com/article/the-book-of-first-maccabees/) was to **legitimize the Hasmonean dynasty's claim to political and religious leadership** of Judea. Written circa 134-104 BCE in Hebrew for a Judean audience in biblical style, the book emphasizes how God specifically chose the Hasmonean family to save Israel from Seleucid oppression and foreign domination.
+
+**Political Legitimization:** As a court historian who supported the Hasmonean dynasty, the author attempted to **glorify Mattathias and his descendants** and to justify their rule, including the eradication of their Jewish political opponents. The book makes clear that God has specifically chosen a new dynasty to rule Judea—the Hasmoneans—in the tradition of the judges and kings of ancient Israel. The narrative culminates in a detailed description of the people's assembly that ratified Simon's claim to the high priesthood and the governorship, providing democratic legitimacy to Hasmonean rule.
+
+**Religious Legitimization:** A crucial issue was that the Hasmoneans were not descended from the Zadokite line that traditionally held the high priesthood. By presenting the Hasmoneans as divinely chosen deliverers comparable to biblical heroes like Moses, Joshua, and David, the author sought to overcome objections to their religious authority. The book portrays God working through the Hasmonean family to restore proper Temple worship and Torah observance after the Seleucid desecration.
+
+**Military Valor Over Martyrdom:** Significantly, 1 Maccabees comes across as **dismissive of martyrdom** and passive approaches to resistance, seeing such gestures as futile and pointless. Some scholars, including Jonathan Goldstein, argue that the author has "considerable contempt for martyrs." For this author, bold military action while living is the proper response to oppression—a perspective that supports the Hasmoneans' militaristic approach to securing Jewish independence.
+
+**Connection to Hanukkah:** [1 Maccabees](https://en.wikipedia.org/wiki/1_Maccabees) is best known for its account of the **recapture of Jerusalem in 164 BCE** and the **rededication of the Second Temple**—the origin behind the Jewish holiday of Hanukkah. The book describes how in 165 BCE the Temple was freed and reconsecrated so that ritual sacrifices could resume. The festival of Hanukkah was instituted by Judas Maccabeus and his brothers to celebrate this event, establishing an eight-day celebration modeled on the Feast of Tabernacles.
+
+### 2 Maccabees: Theological Interpretation and Diaspora Encouragement
+
+In stark contrast to 1 Maccabees, [2 Maccabees](https://en.wikipedia.org/wiki/2_Maccabees) is **not interested in the Hasmonean dynasty**. While Judah Maccabee is portrayed as a hero, not a word is said about his father Mattathias or the Hasmonean dynasty that Judah's brother Simon would found. The theory is that 2 Maccabees praises Judas for saving the Temple but deliberately excludes mention of how his brothers and extended family later took the throne. This omission may indicate either that the book was composed before the dynasty became established or that the author had theological objections to the Hasmoneans' political rule.
+
+**Theological Interpretation:** [2 Maccabees is written as a theological interpretation](https://www.thetorah.com/article/the-maccabean-victory-explained-between-1-and-2-maccabees) of the Maccabean Revolt rather than as political history. The author's concern is to explain the theological meaning of the persecution, martyrdom, and deliverance experienced by the Jewish people. The literary style chosen by Jason of Cyrene (whose work the author abridges) **highlights martyrdom** using a melodramatic Greek style that describes graphically the deaths of innocent children, women, and elderly people.
+
+**Resurrection Theology:** Unlike 1 Maccabees, which makes no reference to bodily resurrection and contains no doctrine of individual immortality except in the survival of one's name and fame, [2 Maccabees has a more overt theological agenda](https://www.myjewishlearning.com/article/the-book-of-second-maccabees/) focused on **resurrection of the dead**. The book contrasts righteous martyrs who will be resurrected with apostates who face eternal punishment. 2 Maccabees discusses several doctrinal issues, including **prayers and sacrifices for the dead**, **intercession of the saints**, and **resurrection on Judgment Day**—theological innovations that would become important in later Jewish and Christian thought.
+
+**Martyrdom as Vicarious Atonement:** In 2 Maccabees, there is a unique emphasis on **religious martyrdom**. Hannah (the mother) and her seven sons, along with Eleazar the elderly scribe, are presented as philosophers rationally defending the decision to die rather than abandon their ancestral faith. Their deaths are seen not only as a way to sanctify God's name (kiddush ha-Shem) but as a way to **vicariously remove the sins of Israel** and to evoke supernatural intervention by God. This theology of martyrdom stands in direct opposition to 1 Maccabees' militaristic ethos.
+
+**Diaspora Audience:** Written for diaspora Jewish communities, particularly in Egypt, the book addresses questions about how to maintain Jewish identity in Hellenistic contexts. Its emphasis on martyrdom, resurrection, and divine judgment provided theological resources for Jews under cultural and occasionally physical pressure to assimilate. The beginning of 2 Maccabees includes **two letters sent by Jews in Jerusalem to Jews of the diaspora** in Hellenistic Egypt encouraging the celebration of the feast day set up to honor the purification of the Temple (Hanukkah), showing its concern for diaspora-homeland connections.
+
+### 3 Maccabees: Encouragement Through Divine Deliverance
+
+[3 Maccabees](https://en.wikipedia.org/wiki/3_Maccabees), despite its misleading name, has nothing to do with the Maccabean Revolt. Its purpose was to **encourage Alexandrian Jews** during times of persecution by recounting (or inventing) a story of divine deliverance from persecution in Egypt.
+
+**Encouragement in Crisis:** The book was likely written to **comfort and encourage Alexandrian Jews** during times of persecution, possibly during the reign of Emperor Caligula (37-41 CE), when severe anti-Jewish violence occurred in Alexandria. By presenting a narrative of miraculous deliverance from past persecution, the author sought to inspire hope that God would similarly deliver the current generation.
+
+**Liturgical Purpose:** The story purports to explain the **origin of a Purim-like festival** celebrated by Egyptian Jews, establishing a religious observance commemorating God's deliverance. This suggests a practical liturgical purpose beyond mere encouragement—the book provides an etiological foundation for an existing festival practice.
+
+**Positive Tone:** The tone is largely positive, with **glad thanksgivings for God's deliverance** rather than thundering apocalyptic proclamations. The author emphasizes that "The Jews continued to maintain goodwill and unswerving loyalty towards the [Ptolemaic] dynasty," encouraging Jews to remain loyal citizens while maintaining their religious distinctiveness. This represents a strategy of peaceful coexistence rather than resistance or separation.
+
+### 4 Maccabees: Philosophical Defense of Torah Observance
+
+[4 Maccabees](https://en.wikipedia.org/wiki/4_Maccabees) has the most explicitly philosophical purpose among the Maccabean books. It seeks to demonstrate that **"pious reason exercises mastery over the emotions"** (4 Maccabees 1:1), using the martyrdom stories from 2 Maccabees as illustrations of this philosophical thesis.
+
+**Synthesis of Judaism and Greek Philosophy:** The book's primary purpose is to show that **Jewish Torah observance produces the virtues** that Greek philosophy values, particularly the Stoic ideal of rational self-mastery over passions and emotions. Rather than presenting Judaism as incompatible with Greek culture, the author argues that authentic Jewish practice fulfills the highest ideals of Greek philosophy. This represents a sophisticated apologetic strategy for Jews living in a Hellenistic cultural environment.
+
+**Endorsement of Fidelity to Torah:** The book functions as an **endorsement of fidelity to Jewish customs and law** and **against assimilation** to Gentile practice where this conflicted with the Torah. By demonstrating that the martyrs acted rationally in choosing death over Torah violation, the author counters the argument that Jewish dietary laws, circumcision, and other distinctive practices are irrational or unnecessary.
+
+**Rational Martyrdom:** [4 Maccabees recasts the martyrdom story](https://blogs.ancientfaith.com/wholecounsel/2018/11/08/4-maccabees-martyrdom-and-reason/) as one of **reason and logic**: the martyrs will be rewarded in the afterlife, so it is rational to continue to obey Jewish law, even at the risk of torture and death. This transforms martyrdom from an emotional or fanatical act into a carefully reasoned philosophical decision, making it respectable in Greco-Roman cultural terms.
+
+**Vicarious Atonement:** Like 2 Maccabees, but with more explicit theological development, **the suffering and martyrdom of the Maccabees is seen as vicarious** for the Jewish nation. The author portrays martyrdom in general as bringing **atonement for the past sins** of the Jews, developing a theology of redemptive suffering that would become central to Christian thought about the crucifixion of Jesus.
+
+**Early Christian Martyrology:** The narrative reflects Second Temple Jewish understanding of martyrdom in its fullest form, with all the elements that characterize **early Christian martyrology** present: the heroic resistance of the martyrs to the denial of their faith, the characterization of their tortures as a struggle or contest over which they are victorious by being willing to go to their deaths, and the urging of close family members and friends not to save themselves by denial but to endure even unto death.
+
+### Summary of Purposes
+
+The four Books of Maccabees serve very different purposes:
+
+- **1 Maccabees**: Political legitimization of Hasmonean rule; celebration of military resistance; establishment of Hanukkah; dismissive of martyrdom
+- **2 Maccabees**: Theological interpretation of persecution and deliverance; development of resurrection theology; elevation of martyrdom; encouragement for diaspora Jews; promotion of Hanukkah observance
+- **3 Maccabees**: Encouragement during persecution through narratives of divine deliverance; etiological explanation for a festival; promotion of loyal citizenship with religious fidelity
+- **4 Maccabees**: Philosophical defense of Torah observance using Greek categories; rational justification for martyrdom; development of vicarious atonement theology; resistance to assimilation
+
+These diverse purposes reflect the different challenges faced by Jewish communities over three centuries: establishing political independence, maintaining religious identity in diaspora, surviving persecution, and articulating Jewish distinctiveness within Hellenistic culture.
