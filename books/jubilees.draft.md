@@ -562,3 +562,126 @@ Jubilees introduces the concept of [**heavenly tablets**](https://wesley.nnu.edu
 ### Conclusion
 
 These unique teachings reflect the concerns of a Second Temple Jewish sectarian community struggling to maintain strict observance, correct worship practices, and separation from perceived corruption. Many of these ideas influenced later Jewish and Christian thought, even though Jubilees itself was not included in most biblical canons. The text represents an important window into the diversity of Second Temple Judaism and the development of ideas that would shape rabbinic Judaism and early Christianity.
+
+## Textual Variants
+
+The Book of Jubilees presents a fascinating textual history involving multiple languages and manuscript traditions. Unlike most biblical books, Jubilees survives complete only in Ethiopic translation, with fragmentary evidence from Hebrew, Greek, Latin, and Syriac. The discovery of Hebrew fragments at Qumran has enabled scholars to evaluate the accuracy of the translations and to identify significant textual variants.
+
+### Manuscript Traditions and Languages
+
+#### Hebrew Original (Qumran Fragments)
+
+The original language of Jubilees was **Biblical Hebrew**. [Between 1947 and 1956](https://en.wikipedia.org/wiki/Book_of_Jubilees), approximately **fifteen scrolls of Jubilees were found in five caves at Qumran**, all written in Biblical Hebrew. These fragments are designated by scholars as:
+
+- **4Q216-4Q228**: Various Jubilees manuscripts from Cave 4
+- **1Q17-18, 2Q19-20, 3Q5, 11Q12**: Fragments from other caves
+
+**Extent of Hebrew Evidence**: Altogether, [the Dead Sea Scroll fragments contain words](https://missourireview.com/article/the-dead-sea-scrolls-the-book-of-jubilees/) or in some cases just letters from some **215 of the 1,307 verses** in the Book of Jubilees (approximately 16.5% of the text).
+
+**Significance**: The large number of Jubilees manuscripts at Qumran—more than for any biblical books except Psalms, Deuteronomy, Isaiah, Exodus, and Genesis—indicates that Jubilees was widely used and highly valued by the Qumran community.
+
+#### Ethiopic (Ge'ez) - Complete Text
+
+The **complete text of Jubilees survives only in Ethiopic (Ge'ez)**, the liturgical language of the Ethiopian Orthodox Church. This translation was likely made from Greek (not directly from Hebrew) sometime in the 5th-6th century CE.
+
+**Manuscript Evidence**: Multiple Ethiopic manuscripts exist, with some textual variations among them. The most important Ethiopic manuscripts date to the 15th-16th centuries.
+
+**Textual Accuracy**: [A comparison of the Qumran texts with the Ge'ez version](https://www.newworldencyclopedia.org/entry/Jubilees,_Book_of), performed by James VanderKam, found that **the Ge'ez was in most respects an accurate and literalistic translation**. This vindicated the Ethiopian tradition and demonstrated that the Ethiopic text is generally reliable for reconstructing the original Hebrew.
+
+#### Greek - Fragmentary
+
+No complete Greek manuscript of Jubilees has survived, but substantial portions can be reconstructed from:
+
+1. **Direct quotations** in the writings of Church Fathers (especially Epiphanius, Origen, and Byzantine chroniclers)
+2. **Indirect allusions** in patristic literature
+
+[You can reconstruct almost the entire Book of Jubilees in Greek](https://readingacts.com/2017/08/02/what-is-the-book-of-jubilees/) from quotes found in the writings of the Church Fathers, demonstrating how extensively it was cited.
+
+**Translation from Hebrew**: The Greek version was translated from the original Hebrew, probably in the 2nd-1st century BCE.
+
+#### Latin - Partial
+
+One Latin manuscript survives, preserved in a 7th-9th century codex. However, the Latin manuscript contains **only about one-third of the complete text**, primarily from the later chapters.
+
+**Translation Source**: The Latin was likely translated from the Greek rather than directly from Hebrew.
+
+#### Syriac - Fragmentary
+
+A few brief Syriac quotations of Jubilees have been identified in later Christian literature, but no substantial Syriac manuscript is known.
+
+### Major Textual Variants
+
+#### 1. Textual Diversity at Qumran
+
+[The diverse collection of material related to Jubilees found at Qumran](https://www.detailedpedia.com/wiki-Book_of_Jubilees) suggests that **the work did not have a single textual or literary form in the late Second Temple period**. There appear to have been multiple Hebrew recensions (editions) circulating simultaneously.
+
+**Implications**: Different copies of Jubilees may have contained minor variations in wording, chronology, or content even in antiquity. This is similar to the textual diversity found in other Dead Sea Scrolls.
+
+#### 2. Relationship to Genesis Text-Type
+
+Passages in Jubilees that directly parallel verses in Genesis **do not directly reproduce either of the two surviving manuscript traditions** (Masoretic Text or Septuagint).
+
+[Even before the Qumran discoveries](https://en.wikipedia.org/wiki/Book_of_Jubilees), **R. H. Charles had deduced** that the Hebrew original had used **an otherwise unrecorded text for Genesis** and for the early chapters of Exodus, one independent either of the Masoretic Text or of the Hebrew text that was the basis for the Septuagint.
+
+**Significance**: This suggests that the author of Jubilees had access to a Hebrew text of Genesis/Exodus that represents a different textual tradition from those that have survived. This is significant for understanding the diversity of biblical texts in the Second Temple period.
+
+#### 3. Translation Accuracy
+
+[The published and unpublished Qumran fragments show](https://www.newworldencyclopedia.org/entry/Jubilees,_Book_of), when they are compared with the Ethiopic and Latin versions, that **the ancient translators of the book did their work with remarkable care**.
+
+Where Hebrew fragments overlap with Ethiopic or Latin translations, the correspondence is generally very close, with few significant variants. This is remarkable given the complex transmission history (Hebrew → Greek → Ethiopic).
+
+#### 4. Notable Translation Error Discovered
+
+[A Notre Dame scholar analyzing the Dead Sea Scrolls](https://news.nd.edu/news/dead-sea-scroll-scholar-finds-error-in-book-of-jubilee-translation/) discovered a translation error in the Book of Jubilees. The Ethiopic translation had misunderstood or mistranslated certain Hebrew words, leading to minor but noteworthy discrepancies when compared to the Qumran Hebrew fragments.
+
+**Example**: Specific instances where the Ethiopic translator misunderstood Hebrew idioms or technical terms have been identified through comparison with the Hebrew fragments.
+
+### Chronological and Numerical Variants
+
+One category of textual variants involves the precise chronological calculations that are central to Jubilees' jubilee system.
+
+**Numbers and Dates**: Where Hebrew fragments overlap with Ethiopic in chronological data, they generally agree, but minor numerical variations occur in some manuscripts. This is significant because Jubilees' entire structure depends on precise chronology.
+
+**Possible Causes**:
+- Scribal errors in copying numbers
+- Intentional harmonization attempts
+- Different calculation methods
+
+### Variants in Patristic Citations
+
+The Greek text preserved in Church Father quotations sometimes varies from the Ethiopic. These variants may represent:
+
+1. **Different Greek textual traditions** that existed before the 4th century
+2. **Loose quotation from memory** rather than exact citation
+3. **Intentional modification** by Church Fathers for theological reasons
+4. **Ethiopic translation choices** that differ from the Greek text quoted by Church Fathers
+
+### Ethiopic Manuscript Variations
+
+Among the various Ethiopic manuscripts themselves, minor textual variants exist. These include:
+
+- **Spelling variations** in proper names
+- **Minor word order changes** that don't affect meaning
+- **Rare omissions or additions** of short phrases
+- **Variations in numbers and dates**
+
+Scholars have worked to establish a critical text of the Ethiopic Jubilees by comparing all available manuscripts.
+
+### Scholarly Significance of Textual Variants
+
+The textual variants in Jubilees are significant for several reasons:
+
+1. **Transmission Reliability**: The general agreement between Hebrew fragments and Ethiopic translation demonstrates remarkable textual stability across centuries and languages.
+
+2. **Textual Diversity in Antiquity**: The multiple Hebrew recensions at Qumran show that Second Temple texts did not always have fixed, standardized forms.
+
+3. **Biblical Text History**: Jubilees' use of an otherwise unknown Genesis text-type provides evidence for the diversity of biblical texts before the standardization of the Masoretic Text.
+
+4. **Translation Technique**: The close correspondence between Hebrew and Ethiopic (via Greek) demonstrates that ancient translators could and did produce highly literal translations.
+
+5. **Canon and Text**: The fact that Jubilees was not canonized in most traditions may have actually preserved its textual integrity—it was not subjected to the same scribal standardization that canonical books underwent.
+
+### Conclusion
+
+Despite its complex transmission history through multiple languages (Hebrew → Greek → Ethiopic), the Book of Jubilees has been transmitted with remarkable fidelity. The discovery of Hebrew fragments at Qumran vindicated the Ethiopic tradition and demonstrated that medieval Ethiopic manuscripts preserve an ancient and generally accurate translation. However, the existence of multiple Hebrew recensions at Qumran indicates that the text was not rigidly fixed in the Second Temple period. The textual variants that do exist generally involve minor details rather than major theological or narrative changes, and they provide valuable insights into ancient translation techniques and the history of biblical texts.
