@@ -69,3 +69,68 @@ This extended period of composition means that 1 Enoch reflects the evolving con
 - [Second Temple Judaism - Wikipedia](https://en.wikipedia.org/wiki/Second_Temple_Judaism)
 - [Maccabean Revolt - Wikipedia](https://en.wikipedia.org/wiki/Maccabean_Revolt)
 - [Qumran community | Britannica](https://www.britannica.com/topic/Qumran-community)
+
+## Purpose
+
+The Book of 1 Enoch serves multiple interconnected purposes, addressing some of the most pressing theological, cosmological, and practical questions facing Second Temple Judaism. As a composite work spanning several centuries, different sections address different concerns, but all share common themes related to theodicy, divine justice, cosmological order, and the ultimate fate of humanity.
+
+### Explaining the Origin and Persistence of Evil (Theodicy)
+
+Perhaps the most fundamental purpose of 1 Enoch is to provide a comprehensive explanation for the existence and intensity of evil in the world—a question that troubled ancient Jews who believed in an omnipotent, benevolent God. The book's answer is found primarily in the Book of the Watchers (chapters 1-36), which dramatically expands on the cryptic reference in Genesis 6:1-4 to the "sons of God" taking human wives.
+
+According to 1 Enoch, two hundred angels called "Watchers," led by Shemihazah and Azazel, descended to Mount Hermon and rebelled against God by taking human wives and revealing forbidden heavenly secrets to humanity. Their offspring were the Nephilim—giants who consumed humanity's resources and eventually turned to cannibalism. This angelic rebellion introduced corruption, violence, idolatry, witchcraft, warfare, and sexual immorality into the world. By attributing evil's origin to rebellious supernatural beings rather than to God or purely to human nature, 1 Enoch absolves God of responsibility for evil while explaining its supernatural intensity and persistence.
+
+This theodicy served to reassure readers that evil was not part of God's original creation nor evidence of divine weakness, but rather the temporary result of cosmic rebellion that God would ultimately judge and eliminate.
+
+### Vindicating the Righteous and Warning the Wicked
+
+A central concern throughout 1 Enoch is the apparent prosperity of the wicked and suffering of the righteous—a classic problem in Jewish wisdom literature (compare Job, certain Psalms, and Ecclesiastes). The book repeatedly addresses communities of faithful Jews who were being oppressed, marginalized, or tempted to apostasy. The apocalyptic framework provides assurance that current circumstances do not reflect the final reality.
+
+The Epistle of Enoch (chapters 91-108) particularly emphasizes the coming reversal of fortunes. The righteous who currently suffer will be vindicated, rewarded, and elevated, while the wicked who currently prosper will face eternal judgment. This message provided encouragement to remain faithful despite persecution or the temptation to compromise with Hellenistic culture. The book functions as both comfort to the oppressed and warning to potential apostates.
+
+The Book of Parables (chapters 37-71) develops this theme by introducing the figure of the "Chosen One" or "Son of Man" who will execute God's judgment, dethrone earthly kings and rulers, and establish divine justice. This messianic figure provides hope that God has not abandoned history but will intervene decisively.
+
+### Providing Hope During Persecution and Crisis
+
+Written during periods of intense pressure—from Hellenistic cultural dominance to outright persecution under Antiochus IV Epiphanes—1 Enoch functions as "resistance literature." The Book of Dream Visions (chapters 83-90), composed during the Maccabean crisis, uses symbolic animal imagery to retell Israel's history culminating in the contemporary persecution. This section assures readers that their current suffering fits within God's sovereign plan and will soon culminate in divine intervention and the establishment of God's kingdom.
+
+The apocalyptic genre itself serves this purpose: by revealing that current earthly circumstances are temporary and that heavenly realities will soon break through, the text encourages perseverance and faithfulness. The repeated visions of judgment, the punishment of oppressors (both human and angelic), and the reward of the faithful provided psychological and theological resources for enduring persecution.
+
+### Preserving Correct Cosmological and Astronomical Knowledge
+
+The Astronomical Book (chapters 72-82), also called the Book of the Heavenly Luminaries, serves a distinctive purpose: to reveal the true structure of the cosmos and the correct calendar for calculating holy days and festivals. This section presents detailed information about the movements of the sun, moon, and stars, the gates through which they pass at the edges of the earth, and the proper calculation of time.
+
+Crucially, this section promotes a 364-day solar calendar (52 weeks of exactly 7 days, with all festivals falling on the same day of the week each year) as opposed to the lunar-solar calendar used by the Jerusalem Temple establishment. This calendar is presented not as human wisdom but as divine revelation given to Enoch by the angel Uriel. The purpose is both theological and practical: using the wrong calendar means celebrating festivals on the wrong days, which constitutes disobedience to God's cosmic order.
+
+For communities like the Qumran sect, this calendrical disagreement was fundamental enough to justify separating from the Jerusalem Temple. The Astronomical Book thus serves to legitimate alternative religious practice based on claims to superior heavenly knowledge.
+
+### Developing Angelology and Demonology
+
+1 Enoch provides one of the most detailed and influential accounts of angelic and demonic beings in ancient Jewish literature. It names specific archangels (Michael, Gabriel, Raphael, Uriel) and assigns them specific functions in God's cosmic administration. It also provides names and roles for fallen angels and explains the origin of demons as the spirits of the deceased Nephilim.
+
+This developed angelology serves several purposes: it provides a framework for understanding intermediate spiritual beings between God and humanity; it explains spiritual warfare and temptation; it offers a cosmic context for understanding evil as an organized supernatural conspiracy rather than random human wickedness; and it establishes a hierarchy of spiritual authority. This angelological framework would prove enormously influential on later Jewish and Christian thought.
+
+### Promoting Wisdom and Ethical Living
+
+Beyond its apocalyptic visions, 1 Enoch contains significant wisdom material, particularly in the Epistle of Enoch. These sections exhort readers to righteous living, condemn specific sins (oppression of the poor, dishonest business practices, blasphemy, idolatry), and promise rewards for those who follow wisdom. The book presents Enoch as a wisdom teacher who has access to divine mysteries and cosmic secrets, making him an authoritative source for both ethical instruction and revealed knowledge.
+
+The purpose here is practical: to shape the behavior and worldview of the community, distinguishing between righteous and wicked conduct, and providing motivation (both positive rewards and negative consequences) for choosing the path of righteousness.
+
+### Warning Against Apostasy and Hellenization
+
+Implicitly throughout and explicitly in certain sections, 1 Enoch warns against abandoning Jewish tradition and covenant faithfulness. The repeated condemnations of those who "alter the words of truth" and "lead many astray" likely refer to Jewish Hellenizers who compromised traditional practices. The emphasis on revealed cosmic order, angelic hierarchies, and coming judgment functions to reinforce traditional Jewish distinctiveness against the pressure to assimilate into Hellenistic culture.
+
+### Summary of Purposes by Section
+
+Different sections emphasize different purposes:
+- **Book of the Watchers**: Theodicy, origin of evil, angelology
+- **Book of Parables**: Messianic hope, vindication of righteous, judgment of oppressors
+- **Astronomical Book**: Correct calendar, cosmological knowledge, legitimating alternative practice
+- **Book of Dream Visions**: Hope during persecution, God's control of history
+- **Epistle of Enoch**: Ethical instruction, warning to wicked, encouragement to righteous
+
+Collectively, these purposes address a community (or communities) facing external persecution, internal temptation to apostasy, theological questions about evil and justice, and practical questions about how to remain faithful to God in difficult circumstances. The book provides both comfort and challenge, both cosmic explanation and practical guidance, both future hope and present ethical demands.
+
+**For further reading:**
+- [What are the main themes and content of the Book of Enoch? | Crosstalk AI](https://crosstalk.ai/knowledgebase/biblical-studies/inter-testamental-period/what-main-themes-content-book-enoch/)
+- [Book of Enoch - Wikipedia](https://en.wikipedia.org/wiki/Book_of_Enoch)
