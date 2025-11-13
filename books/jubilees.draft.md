@@ -364,3 +364,71 @@ Modern biblical scholarship recognizes that canonicity is a matter of religious 
 ### Summary
 
 The Book of Jubilees occupies a unique canonical position: rejected as pseudepigrapha by Protestant, Catholic, and Eastern Orthodox churches, yet fully canonical in the Ethiopian Orthodox Tewahedo Church. Though widely read and cited by early Church Fathers in the first three centuries, it was largely suppressed in the 4th century in the Western church due to theological concerns, calendrical disputes, and its pseudepigraphal nature. Its survival in Ethiopia preserves an ancient tradition that values this text as divinely inspired Scripture. The debate over Jubilees' canonical status illustrates that the boundaries of Scripture have been understood differently by different Christian communities throughout history, and that canonicity reflects the judgments and needs of particular religious traditions rather than any intrinsic quality of the text itself.
+
+## Summary
+
+The [Book of Jubilees](https://en.wikipedia.org/wiki/Book_of_Jubilees) is an ancient Jewish text of **50 chapters** (1,341 verses) that presents itself as a **divine revelation** which God communicated to Moses through the Angel of the Presence on Mount Sinai. The book recounts biblical history from creation to the arrival of the Israelites at Mount Sinai, covering the same material as Genesis 1 through Exodus 19, but with significant expansions, interpretations, and additional material.
+
+### Literary Framework and Structure
+
+The book opens with a narrative frame (Jubilees 1) describing Moses on Mount Sinai. God speaks to Moses and reveals Israel's future apostasy, exile, and ultimate restoration when they return to the way of the Lord (Jubilees 1:7-18). God commands Moses to write down these words, and then the Angel of the Presence begins to dictate "the history of the division of the days of the Law and of the testimony, of the events of the years, of their year-weeks, of their jubilees throughout all the years of the world" (Jubilees 1:29).
+
+The text is organized by a unique chronological system: a **jubilee** is a period of **49 years** (7 weeks of years), and the author meticulously dates all events according to this system. This precise chronology is one of the book's distinguishing features, demonstrating the author's concern with establishing an exact timeline from creation to the Exodus.
+
+### Creation and the Primeval History (Jubilees 2-10)
+
+**Creation Week** (Jubilees 2): The angel recounts the six days of creation, closely following Genesis 1 but adding significant detail about **the creation of angels**. On the first day, God created the highest angels—the angels of the presence and the angels of sanctification—along with spirits of various natural forces. The text emphasizes that **the Sabbath was established at creation** (Jubilees 2:17-33) and that the angels observed it from the beginning, making Sabbath observance a cosmic law, not merely a Mosaic innovation.
+
+**Adam and Eve** (Jubilees 3): Adam was created on the sixth day and placed in the Garden of Eden. Eve was created from his rib on day 13. The text provides precise dates for their creation, entrance into Eden, and expulsion. After 7 years in the Garden, Adam and Eve sinned and were expelled (Jubilees 3:17). The author adds details not in Genesis, such as the covering of Adam and Eve's nakedness and their continued offering of incense in the Garden.
+
+**Cain and Abel** (Jubilees 4): The narrative of Cain and Abel follows Genesis closely, with Cain murdering his brother and being cursed (Jubilees 4:2-7). The text then provides detailed genealogies of the line of Seth, including **Enoch, who "was taken" by God** after walking with Him for 300 years (Jubilees 4:21-23). The text emphasizes that Enoch was the first to learn writing and knowledge and that he testified against the Watchers.
+
+**The Watchers and Their Fall** (Jubilees 5): One of the most significant expansions in Jubilees concerns the **Watchers (angels) who descended to earth**. These angels saw the daughters of men and took them as wives, producing the Nephilim giants (Jubilees 5:1-2). God determined to destroy humanity because of this corruption, declaring: **"I will destroy man and all flesh"** (Jubilees 5:4). This divine judgment introduces the Flood narrative.
+
+**Noah and the Flood** (Jubilees 5-6): Noah is portrayed as righteous and given extensive material not found in Genesis. The flood waters covered the earth for 150 days, and Noah's ark rested on Mount Lubar in the land of Ararat (Jubilees 5:28). After the flood, God made a covenant with Noah, commanding him and his descendants never to eat blood, establishing basic laws for humanity (Jubilees 6:4-14).
+
+**The 364-Day Calendar** (Jubilees 6): This section contains one of the book's most emphatic divine commands: God established a **solar calendar of exactly 364 days** divided into 4 seasons of 91 days (13 weeks) each. The angel declares: **"Command thou the children of Israel that they observe the years according to this reckoning—three hundred and sixty-four days"** (Jubilees 6:32). This divine commandment regarding the calendar is presented as binding for all generations.
+
+**Noah's Laws and Descendants** (Jubilees 7): After the flood, Noah gave laws to his sons, forbidding blood consumption, sexual immorality, and injustice (Jubilees 7:20-28). The text presents **Noah as a preacher of righteousness**, an idea not explicit in Genesis but alluded to in 2 Peter 2:5. The narrative follows Noah's descendants and the division of the earth among Shem, Ham, and Japheth (Jubilees 8-9).
+
+**The Tower of Babel** (Jubilees 10): The confusion of languages at Babel is briefly recounted (Jubilees 10:18-27), followed by accounts of demons afflicting Noah's grandchildren and Noah's prayers for protection.
+
+### The Abraham Cycle (Jubilees 11-23)
+
+**Abraham's Birth and Youth** (Jubilees 11-12): Abraham is born in the third year of the sixth week of this jubilee period. The text provides extensive material not in Genesis about Abraham's youth. As a young man, **Abraham rejected the idolatry of his father Terah**, recognizing the futility of worshiping images made by human hands (Jubilees 11:16-17). Abraham prayed: **"My God, God Most High, Thou alone art my God"** (Jubilees 12:19), demonstrating his monotheistic faith from youth.
+
+**Abraham's Call and Blessing** (Jubilees 12-13): God called Abraham to leave Ur and go to Canaan. The divine promise is recorded: **"I will make thee into a great and numerous nation. And I will bless thee and make thy name great"** (Jubilees 12:23). Abraham's obedience and God's covenant blessings are central themes throughout the Abraham narrative.
+
+**Abraham and Covenant** (Jubilees 14-16): The covenant ceremony between God and Abraham is described with additions to the Genesis account. **God swore to Abraham: "I am God Almighty; trust in Me, and I will multiply thy seed as the stars of heaven"** (Jubilees 14:6). The birth of Ishmael and later Isaac are recounted, with Isaac receiving the covenant promises while Ishmael receives blessings but not the covenant inheritance (Jubilees 16:17-18).
+
+**Abraham's Final Instructions** (Jubilees 20-22): Before his death, Abraham gathered his children and grandchildren and gave them extensive instructions. He commanded them to **practice righteousness, love their neighbors, circumcise their sons, separate from Gentiles, and avoid intermarriage** (Jubilees 20:2-13). Abraham declared: **"Separate yourselves from the nations, and eat not with them; and do not according to their works"** (Jubilees 22:16). These commands reflect the book's central concern with Jewish separation and purity.
+
+**Abraham's Death** (Jubilees 23): Abraham died at age 175 and was buried by his sons Isaac and Ishmael (Jubilees 23:1). The chapter then shifts to a prophetic discourse about the decline of humanity and Israel's future apostasy and restoration.
+
+### The Isaac and Jacob Narratives (Jubilees 24-35)
+
+**Isaac's Blessing** (Jubilees 24-26): Isaac receives the covenant blessings from Abraham. Rebecca is portrayed as receiving divine revelation about her twin sons before their birth, with God declaring: **"The elder shall serve the younger"** (Jubilees 25:23), confirming Jacob's election.
+
+**Jacob's Character and Calling** (Jubilees 27-28): The author attempts to portray **Jacob more favorably** than in Genesis, presenting him as righteous from the beginning. Jacob receives Isaac's blessing, and God appears to him at Bethel, declaring: **"I am the Lord God of Abraham thy father and the God of Isaac; the land whereon thou sleepest I will give to thee and to thy seed"** (Jubilees 27:22).
+
+**Jacob's Family and Dinah** (Jubilees 29-30): The birth of Jacob's twelve sons is recounted. The Dinah incident is retold with strong emphasis on the wickedness of intermarriage. When Shechem defiled Dinah, Levi and Simeon's violent response is justified as **righteous zeal against sexual sin with Gentiles** (Jubilees 30:5-6). The text declares: **"It is not proper for Israel to give their daughters to the Gentiles or to take daughters from the Gentiles"** (Jubilees 30:7), with the punishment for such unions being death.
+
+**Jacob's Return and Esau** (Jubilees 35-37): Jacob's return to Canaan, his reunion with Esau, and Isaac's death are recounted. Esau's departure to Mount Seir is presented as divinely ordained separation.
+
+### The Joseph Story and Israel in Egypt (Jubilees 38-46)
+
+**Joseph and His Brothers** (Jubilees 38-40): The story follows Genesis closely, with Joseph sold into slavery in Egypt, falsely accused, imprisoned, and eventually elevated to second in command. The text emphasizes **God's providential care** for Joseph throughout his trials.
+
+**Jacob in Egypt** (Jubilees 42-45): Jacob and his family settle in Egypt. Jacob blesses his sons before his death, with **Levi receiving special priestly blessings** (Jubilees 45:16). Jacob commands his sons to bury him in Canaan with his fathers, which they do.
+
+### Israel's Exodus and Law-Giving (Jubilees 46-50)
+
+**Israel's Oppression and Moses' Birth** (Jubilees 46-47): The Israelites multiply in Egypt and are oppressed by Pharaoh. Moses is born, preserved from death, and raised in Pharaoh's household.
+
+**The Exodus** (Jubilees 48-49): God hears Israel's cry and sends Moses to deliver them. The plagues upon Egypt are briefly recounted, emphasizing God's mighty power in judging Egypt and delivering Israel. The **Passover** is instituted with the command: **"Celebrate this festival in its season on the fourteenth day of the first month, that ye may be accepted before the Lord"** (Jubilees 49:7).
+
+**Journey to Sinai and the Sabbath Command** (Jubilees 50): Israel journeys to Mount Sinai. The final chapter contains an extensive discourse on **Sabbath observance**, with the angel commanding Moses: **"Observe the Sabbath day to sanctify it"** (Jubilees 50:6). The text lists numerous activities forbidden on the Sabbath and declares that **anyone who profanes the Sabbath shall die** (Jubilees 50:13).
+
+### Conclusion
+
+The Book of Jubilees thus provides a comprehensive retelling of Genesis and early Exodus from a Second Temple Jewish perspective, emphasizing God's eternal covenant with Israel, the divine origin of the calendar and Sabbath, the necessity of separation from Gentiles, and strict observance of Torah. Throughout the text, divine commands and angelic revelations establish the authority of these interpretations, presenting them as part of the original revelation to Moses on Mount Sinai.
