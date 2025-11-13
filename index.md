@@ -11,13 +11,13 @@ Many Christians refer to the Bible as ***"the Word of God"*** and while the Bibl
 
 ## Defining the Word of God
 
-The Word of God is God's own words, which include God's personal commands, promises, laws, revelations, and teachings. While the Bible includes these inspired texts, it also contains non-inspired texts, such as historical records, witness accounts, and teachings from human commentators, which are technically not God's own words.
+The Word of God is God's own words, which include God's personal commands, promises, laws, revelations, and teachings. While the Bible includes these [inspired texts](inspired.md), it also contains non-inspired texts, such as historical records, witness accounts, and teachings from human commentators, which are technically not God's own words.
 
 In addition, many people tend to confuse "the Word of God" with [the pre-incarnated form of Jesus Christ](https://son.ofgod/word). While Jesus Christ taught "the Word of God" and the Bible contains Jesus' commands, promises, laws, revelations, and teachings, Jesus is not technically the Bible itself. The Christian term "preaching Christ" means to preach **[the message of Christ](https://kingdom.ofgod/christ)**.
 
 ## Defining the Bible
 
-The Bible is considered by many Christians to be [the most authoritative book](https://eternal.family.net.za/bible/inspired) in Christianity. It is a collection of many [books](https://eternal.family.net.za/bible/books) that were [historically](history.md) written by many [authors](authors.md) over centuries.
+The Bible is considered by many Christians to be [the most authoritative book](inspired.md) in Christianity. It is a collection of many [books](https://eternal.family.net.za/bible/books) that were [historically](history.md) written by many [authors](authors.md) over centuries.
 
 The Bible contains diverse literary forms including historical narratives, laws, poetry, wisdom literature, apocalyptic writings, epistles, and the gospels. Many biblical [concepts](https://eternal.family.net.za/bible/concepts) are expressed through [metaphors](https://eternal.family.net.za/bible/metaphors) and [symbolism](https://eternal.family.net.za/bible/symbolism).
 
