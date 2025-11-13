@@ -265,3 +265,129 @@ While no formal statistical analysis has been done on quotations of the Maccabee
 - **Theological concepts**: Several key doctrines in 2 Maccabees influenced New Testament theology, including bodily resurrection, prayers for the dead, and intercession of saints
 
 The Books of Maccabees, while not formally canonical in Protestant traditions, clearly influenced the theological and historical understanding of early Christians, particularly regarding martyrdom, resurrection, and the fulfillment of Old Testament prophecy.
+
+## Canonical Status
+
+The canonical status of the Books of Maccabees varies significantly across different religious traditions, with 1 and 2 Maccabees accepted as deuterocanonical by Catholic and Orthodox churches, while Protestant churches classify them as apocrypha. The books have never been part of the Jewish canon. 3 Maccabees holds a more limited acceptance in Eastern Orthodoxy, and 4 Maccabees is canonical only in the Georgian Orthodox Church. Understanding the reasons for these different canonical judgments requires examining historical, linguistic, theological, and ecclesiastical evidence.
+
+### Jewish Canon: Excluded from the Tanakh
+
+**All four Books of Maccabees were never included in the Hebrew Bible (Tanakh)** and are not considered canonical by any of the major branches of Judaism today. This exclusion requires explanation, particularly since 1 and 2 Maccabees deal with one of the most celebrated events in Jewish history—the Maccabean Revolt and the origin of Hanukkah.
+
+[Judaism regards the Age of Prophecy](https://www.myjewishlearning.com/article/omitting-the-maccabees/) as having ended about 2400 years ago (approximately 400 BCE), before the Hanukkah story occurred (167-164 BCE). According to Jewish tradition, anything written after this point was no longer "Divinely inspired" in the same way as the canonical Hebrew scriptures. The books were written during the Second Temple period, after the traditional closing of the prophetic canon.
+
+Additionally, the **unpopularity of the Hasmonean dynasty** in the centuries following the Maccabean Revolt contributed to the books' exclusion. As mentioned in the Authorship section, the Hasmoneans eventually became hellenized themselves and engaged in political corruption, which led to Jewish disillusionment with the dynasty. The primary reason for no Hebrew versions of 1 Maccabees surviving has to do with this unpopularity—the original Hebrew text was apparently not preserved by the Jewish community.
+
+However, paradoxically, both 1 and 2 Maccabees **were included in the Septuagint**, the Greek translation of the Hebrew Bible originally prepared for the Jewish community of Alexandria in the 3rd-2nd centuries BCE. This Septuagint inclusion would later prove crucial for their acceptance in Christian canons.
+
+### Catholic Canon: Deuterocanonical Status for 1 and 2 Maccabees
+
+The [Catholic Church officially pronounced](https://en.wikipedia.org/wiki/Deuterocanonical_books) **1 and 2 Maccabees as canonical** at the **Council of Trent** in 1546, listing "the two books of Maccabees, the first and the second" as sacred and canonical. However, this was not the first time these books had been recognized as canonical in Christian tradition.
+
+**Early Church Councils** had previously affirmed the canonicity of 1 and 2 Maccabees:
+- **Council of Rome** (382 CE under Pope Damasus I)
+- **Council of Hippo** (393 CE)
+- **Third Council of Carthage** (397 CE)
+- **Council of Carthage** (419 CE)
+- **Council of Florence** (1442 CE)
+
+These councils consistently included the books of Maccabees in the canon from the 300s through the 1400s, long before the Protestant Reformation. The Council of Trent's declaration was primarily a **response to the Protestant Reformation**, which had rejected these books as non-canonical.
+
+**Why the Catholic Church Included Them:**
+
+1. **Septuagint Usage**: The early Church used the **Septuagint** as its primary Old Testament source until the fifth century. Since the Septuagint contained 1 and 2 Maccabees (along with other deuterocanonical books), the early Church naturally regarded them as Scripture.
+
+2. **Early Church Fathers**: Many Church Fathers cited the books as authoritative Scripture, demonstrating their widespread acceptance in the early Church.
+
+3. **Theological Value**: The books contain important theological teachings, particularly 2 Maccabees' emphasis on **resurrection of the dead**, **prayers for the dead** (2 Maccabees 12:42-46), **intercession of the saints**, and **vicarious atonement through martyrdom**—doctrines that became important in Catholic theology.
+
+4. **Historical Continuity**: The Catholic Church emphasized continuity with the tradition of the early Church, which had consistently recognized these books.
+
+**Why 3 and 4 Maccabees Are Not in the Catholic Canon:**
+
+[Catholic Answers explains](https://www.catholic.com/qa/why-are-3-and-4-maccabees-not-in-the-bible) that 3 and 4 Maccabees were not included in the Latin Vulgate translation by St. Jerome, which became the standard Bible of the Western Church. Since the Western Church relied heavily on the Vulgate, books not included in it did not achieve canonical status in the Catholic tradition. Additionally, the historical and theological value of 3 and 4 Maccabees was considered less significant than 1 and 2 Maccabees.
+
+### Protestant Canon: Apocryphal Status
+
+During the **Protestant Reformation**, Maccabees (along with other books in the Catholic deuterocanon) was **classed as biblical apocrypha** in Protestantism—material useful for background and edification but not canonical. The **1643 Westminster Confession** declared these books "are of no authority in the Church of God."
+
+**Why Protestants Excluded Them:**
+
+1. **Hebrew Canon Principle**: Reformers like Martin Luther and John Calvin sought a return to what they believed to be the **original Hebrew canon**. They argued that the Old Testament should only contain books that were part of the Hebrew Bible used by the Jews. Since 1 Maccabees was originally written in Hebrew but that version was lost, and 2 Maccabees was written in Greek with no Hebrew original, they reasoned these books were not part of the original Jewish Scriptures.
+
+2. **Language Issues**: The fact that **1 Maccabees survives only in Greek translation** (the original Hebrew having been lost) and **2 Maccabees was written in Greek** raised questions about their status as Hebrew Scripture. Protestants gave priority to books that existed in the Hebrew Masoretic Text.
+
+3. **Doctrinal Concerns**: Significant theological objections existed, particularly regarding **2 Maccabees 12:42-46**, which teaches that believers should **pray for the dead** and supports concepts like **purgatory** and **intercession of angels**. These teachings conflicted with Protestant doctrines, especially the principle of "**Salvation by grace alone**" (sola gratia) and the rejection of purgatory.
+
+4. **Historical Precedent**: The Reformers noted that some early Church authorities, including **St. Jerome** (translator of the Latin Vulgate), had expressed reservations about the deuterocanonical books, distinguishing them from the books in the Hebrew canon.
+
+### Eastern Orthodox Canon: Broader Acceptance
+
+The [Eastern Orthodox canon](https://en.wikipedia.org/wiki/Deuterocanonical_books) includes the deuterocanonical books accepted by the Catholic Church **plus additional books**, including **1 Esdras and 3 Maccabees**. The **Synod of Jerusalem in 1672** declared "The Maccabees" as "genuine parts of Scripture."
+
+**1 and 2 Maccabees**: Fully canonical, accepted with the same status as in Catholicism.
+
+**3 Maccabees**: [3 Maccabees is included in the deuterocanon](https://en.wikipedia.org/wiki/3_Maccabees) of the **Eastern Orthodox Church** and some **Oriental Orthodox Churches** (Armenian Apostolic, Syriac Orthodox) as well as the **Assyrian Church of the East**. The **Council in Trullo in 692 CE** verified that 1, 2, and 3 Maccabees were deuterocanonical.
+
+However, despite its canonical status, [3 Maccabees has been relatively neglected](https://christianity.stackexchange.com/questions/105171/why-has-3-maccabees-been-neglected) over time:
+
+- **Not in the Latin Vulgate**: The book was not translated into the Latin Vulgate, leading to the Western Church's rejection of it even as deuterocanonical.
+- **Limited Ancient References**: No Jewish writers of the ancient era appear to reference it or be familiar with it, even those who wrote in Greek.
+- **Rarely Referenced**: While kept in the Greek-speaking Eastern Church's scripture, it is only very rarely referenced or alluded to in liturgy or theological writing.
+- **Lower Theological Value**: People did not believe 3 and 4 Maccabees had the same theological value as the first two books.
+
+**4 Maccabees**: The [Council in Trullo's list](https://en.wikipedia.org/wiki/4_Maccabees) included the first three books of Maccabees but **did not include 4 Maccabees as canonical** in the broader Orthodox tradition.
+
+### Georgian Orthodox Canon: Unique Status of 4 Maccabees
+
+The **Georgian Orthodox Church** is the **only church which considers 4 Maccabees canonical**. However, even this status has evolved:
+
+- **Historical Practice**: Historically, the Greek Orthodox Church and the Georgian Orthodox Church printed 4 Maccabees in their Bibles together with the rest of the Old Testament, but this **did not necessarily entail** that they officially considered 4 Maccabees "canonical."
+- **Recent Changes**: More recently, the **Greek Church moved it to an appendix**, and a recent Georgian Bible marks it as **"noncanonical,"** suggesting a shift in its status even within Georgian Orthodoxy.
+
+### Scholarly Debates About Canonicity
+
+Modern scholarship has produced several debates regarding the canonical status of the Maccabees:
+
+#### 1. **Language and Original Text Debate**
+
+The question of whether a book must exist in Hebrew to be considered part of the Old Testament canon remains contentious:
+- **1 Maccabees**: Both Origen and Jerome claimed to have seen Hebrew manuscripts, but no Hebrew text survives today. Does the loss of the original Hebrew text affect its canonical status?
+- **2 Maccabees**: Written originally in Greek with no evidence of a Hebrew version. Can a book composed in Greek be considered part of the Hebrew Bible?
+
+#### 2. **Septuagint vs. Masoretic Text Priority**
+
+- The early Church used the **Septuagint** (which included Maccabees), while later Jewish tradition standardized around the **Masoretic Text** (which excluded them).
+- Should the Church follow the broader Septuagint canon used by early Christians, or the narrower Hebrew canon used by Jews?
+
+#### 3. **Doctrinal Influence on Canon Formation**
+
+Critics argue that **doctrinal preferences** influenced canonical decisions:
+- Catholics accepted books that supported their theology (prayers for the dead, purgatory, good works)
+- Protestants rejected books that contradicted their theology (salvation by faith alone, rejection of purgatory)
+- How much should theological compatibility affect canonical decisions? Should canon be determined by theology or should theology be determined by canon?
+
+#### 4. **Historical Reliability and Inspiration**
+
+Some scholars question whether historical works (even accurate ones like 1 Maccabees) should be considered divinely inspired Scripture, or whether they should be valued as historical sources without canonical status.
+
+### Summary of Canonical Status by Tradition
+
+| Book | Jewish | Catholic | Protestant | Eastern Orthodox | Georgian Orthodox |
+|------|--------|----------|------------|------------------|-------------------|
+| **1 Maccabees** | Not canonical | Deuterocanonical | Apocrypha | Deuterocanonical | Deuterocanonical |
+| **2 Maccabees** | Not canonical | Deuterocanonical | Apocrypha | Deuterocanonical | Deuterocanonical |
+| **3 Maccabees** | Not canonical | Not canonical | Not included | Deuterocanonical | Deuterocanonical |
+| **4 Maccabees** | Not canonical | Not canonical | Not included | Appendix (not canonical) | Disputed/Appendix |
+
+### Evidence-Based Considerations
+
+Rather than appealing to ecclesiastical authority alone, several evidence-based considerations inform the canonical debate:
+
+1. **Ancient Usage**: Which books did the earliest Jewish and Christian communities use as Scripture?
+2. **Manuscript Evidence**: Which books were included in ancient biblical manuscripts and codices?
+3. **Theological Coherence**: Do the books cohere theologically with undisputed canonical books?
+4. **Historical Accuracy**: How reliable are the books as historical sources?
+5. **Spiritual Impact**: Have the books demonstrably edified and guided faith communities throughout history?
+
+The Books of Maccabees present a complex case because they score differently on these criteria depending on the tradition evaluating them. The canonical status of these books remains one of the significant differences between Christian denominations, though all traditions recognize their historical and theological value even when disagreeing about their canonical authority.
