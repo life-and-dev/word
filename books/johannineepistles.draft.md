@@ -659,3 +659,150 @@ The historical debates about 2 and 3 John serve as a window into the early churc
 ### Summary
 
 The canonical journey of the Johannine Epistles reveals two distinct paths: 1 John enjoyed early and universal acceptance due to its length, theological depth, and clear apostolic authority. In contrast, 2 and 3 John faced questions and were classified among the *antilegomena* due to authorship uncertainties and their brief, personal nature. By the fourth century, the Western Church accepted all three epistles, with the Eastern Church following shortly after. Regional variations persisted in some Eastern traditions (particularly the Syriac-speaking churches) into the fifth century and beyond. Today, all major Christian traditions—Catholic, Protestant, and Orthodox—fully accept all three Johannine Epistles as divinely inspired Scripture, recognizing their value for theology, ethics, and practical Christian living.
+
+## Summary
+
+The three Johannine Epistles provide rich theological teaching, pastoral guidance, and practical instruction for Christian communities facing doctrinal challenges and internal conflicts. While 1 John is a substantial theological treatise, 2 and 3 John are brief personal letters addressing specific situations. Together they form a coherent body of apostolic teaching on the nature of God, the person of Christ, Christian love, assurance of salvation, and faithfulness to the truth.
+
+### 1 John: Walking in Light and Love
+
+1 John is the longest and most theologically developed of the three epistles, containing five chapters of dense theological reflection interwoven with ethical exhortation.
+
+#### Prologue: Eyewitness Testimony (1 John 1:1-4)
+
+The epistle opens with a powerful assertion of eyewitness testimony: **"That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked at and our hands have touched—this we proclaim concerning the Word of life"** (1 John 1:1). The author declares that the eternal life that was with the Father **"has appeared to us"** (1 John 1:2), emphasizing the physical reality of Jesus' incarnation against those who deny it.
+
+The stated purpose is fellowship—both vertical (with the Father and Son) and horizontal (with other believers)—**"so that our joy may be complete"** (1 John 1:4).
+
+#### God is Light: Sin, Confession, and Cleansing (1 John 1:5-2:2)
+
+The first major theological declaration is **"God is light; in him there is no darkness at all"** (1 John 1:5). This foundational statement about God's character leads to ethical implications:
+
+- **Walking in darkness** while claiming fellowship with God is a lie (1 John 1:6)
+- **Walking in the light** results in fellowship and cleansing from sin through Jesus' blood (1 John 1:7)
+- Claiming to be without sin is self-deception (1 John 1:8)
+- **God's faithful promise:** **"If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness"** (1 John 1:9)
+
+The author acknowledges human frailty while pointing to Jesus Christ as **"the atoning sacrifice for our sins"**—not only for believers but **"for the sins of the whole world"** (1 John 2:2). This is a significant theological statement about the universal scope of Christ's atonement.
+
+#### Knowing God Through Obedience (1 John 2:3-17)
+
+The epistle presents concrete tests for authentic faith. **Knowing God** is demonstrated through **keeping his commands**: **"We know that we have come to know him if we keep his commands"** (1 John 2:3). Claiming to know God while disobeying Him is a lie (1 John 2:4).
+
+The **"old command"** that is also a **"new command"** is the command to love (1 John 2:7-8). This paradox—old yet new—reflects that love has always been God's requirement, but in Christ it takes on new meaning and power.
+
+**Loving one's brother** means walking in the light, while **hating one's brother** means remaining in darkness and spiritual blindness (1 John 2:9-11).
+
+The author warns against **loving the world**: **"Do not love the world or anything in the world. If anyone loves the world, love for the Father is not in them"** (1 John 2:15). The world's desires—the lust of the flesh, the lust of the eyes, and the pride of life—**"come not from the Father but from the world"** (1 John 2:16). The world and its desires pass away, but **"whoever does the will of God lives forever"** (1 John 2:17).
+
+#### The Last Hour and the Antichrists (1 John 2:18-27)
+
+A prophetic warning follows: **"Dear children, this is the last hour; and as you have heard that the antichrist is coming, even now many antichrists have come. This is how we know it is the last hour"** (1 John 2:18). These "antichrists" are identified as those who **left the community**, proving they never truly belonged (1 John 2:19).
+
+The specific heresy is clearly named: **"Who is the liar? It is whoever denies that Jesus is the Christ. Such a person is the antichrist—denying the Father and the Son"** (1 John 2:22). The theological stakes are ultimate: **"No one who denies the Son has the Father; whoever acknowledges the Son has the Father also"** (1 John 2:23).
+
+Believers have **"an anointing from the Holy One"** (1 John 2:20) and this anointing **"teaches you about all things"** and **"is real, not counterfeit"** (1 John 2:27). Christians are commanded to **remain in Christ** so they may have confidence when He appears (1 John 2:28).
+
+#### Children of God (1 John 2:29-3:10)
+
+One of the epistle's most beautiful passages celebrates believers' identity as **God's children**: **"See what great love the Father has lavished on us, that we should be called children of God! And that is what we are!"** (1 John 3:1).
+
+A glorious hope is promised: **"What we will be has not yet been made known. But we know that when Christ appears, we shall be like him, for we shall see him as he is"** (1 John 3:2). This hope leads to purification: **"All who have this hope in him purify themselves, just as he is pure"** (1 John 3:3).
+
+The author makes stark statements about sin and righteousness:
+- **"Everyone who sins breaks the law; in fact, sin is lawlessness"** (1 John 3:4)
+- Christ appeared **"to take away our sins"** (1 John 3:5)
+- **"No one who lives in him keeps on sinning"** (1 John 3:6)
+- **"The one who does what is right is righteous, just as he is righteous"** (1 John 3:7)
+- **"The one who does what is sinful is of the devil, because the devil has been sinning from the beginning"** (1 John 3:8)
+
+A controversial statement follows: **"No one who is born of God will continue to sin, because God's seed remains in them; they cannot go on sinning, because they have been born of God"** (1 John 3:9). This has generated much theological discussion about the relationship between regeneration and ongoing sin.
+
+The test for distinguishing **children of God** from **children of the devil** is clear: **"Anyone who does not do what is right is not God's child, nor is anyone who does not love their brother and sister"** (1 John 3:10).
+
+#### The Command to Love (1 John 3:11-24)
+
+The message heard **"from the beginning"** is **"we should love one another"** (1 John 3:11). Cain is presented as the negative example—**"who belonged to the evil one and murdered his brother"** (1 John 3:12).
+
+Christians should not be surprised by the world's hatred (1 John 3:13). The author makes a stunning theological claim: **"We know that we have passed from death to life, because we love each other. Anyone who does not love remains in death"** (1 John 3:14). Even more starkly: **"Anyone who hates a brother or sister is a murderer, and you know that no murderer has eternal life residing in him"** (1 John 3:15).
+
+The definition and example of love is Christ: **"This is how we know what love is: Jesus Christ laid down his life for us. And we ought to lay down our lives for our brothers and sisters"** (1 John 3:16).
+
+Practical love is emphasized: **"If anyone has material possessions and sees a brother or sister in need but has no pity on them, how can the love of God be in that person?"** (1 John 3:17). The exhortation follows: **"Dear children, let us not love with words or speech but with actions and in truth"** (1 John 3:18).
+
+God's indwelling presence and the Spirit's witness provide assurance: **"This is how we know that he lives in us: We know it by the Spirit he gave us"** (1 John 3:24).
+
+#### Testing the Spirits (1 John 4:1-6)
+
+A crucial command is given: **"Dear friends, do not believe every spirit, but test the spirits to see whether they are from God, because many false prophets have gone out into the world"** (1 John 4:1).
+
+The test for authentic faith is explicit: **"This is how you can recognize the Spirit of God: Every spirit that acknowledges that Jesus Christ has come in the flesh is from God, but every spirit that does not acknowledge Jesus is not from God. This is the spirit of the antichrist"** (1 John 4:2-3).
+
+Encouragement is given: **"You, dear children, are from God and have overcome them, because the one who is in you is greater than the one who is in the world"** (1 John 4:4). False prophets belong to the world and speak from the world's viewpoint (1 John 4:5), but believers are **"from God"** and know God, while those who don't know God don't listen to apostolic teaching (1 John 4:6).
+
+#### God is Love (1 John 4:7-21)
+
+The second great theological declaration about God's nature follows: **"Dear friends, let us love one another, for love comes from God. Everyone who loves has been born of God and knows God. Whoever does not love does not know God, because God is love"** (1 John 4:7-8).
+
+God's love is demonstrated supremely in the incarnation and atonement: **"This is how God showed his love among us: He sent his one and only Son into the world that we might live through him"** (1 John 4:9). The nature of this love is clarified: **"This is love: not that we loved God, but that he loved us and sent his Son as an atoning sacrifice for our sins"** (1 John 4:10).
+
+From God's love flows the command to love: **"Dear friends, since God so loved us, we also ought to love one another"** (1 John 4:11). While **"No one has ever seen God"**, **"if we love one another, God lives in us and his love is made complete in us"** (1 John 4:12).
+
+The author testifies: **"We have seen and testify that the Father has sent his Son to be the Savior of the world"** (1 John 4:14). Confession of Jesus as Son of God results in mutual indwelling: **"God lives in them and they in God"** (1 John 4:15).
+
+A profound summary statement follows: **"God is love. Whoever lives in love lives in God, and God in them"** (1 John 4:16). Perfect love casts out fear (1 John 4:18), because **"fear has to do with punishment"**.
+
+The connection between loving God and loving others is inseparable: **"Whoever claims to love God yet hates a brother or sister is a liar. For whoever does not love their brother and sister, whom they have seen, cannot love God, whom they have not seen"** (1 John 4:20). The command is explicit: **"Whoever loves God must also love their brother and sister"** (1 John 4:21).
+
+#### Faith Overcomes the World (1 John 5:1-12)
+
+Faith in Jesus as the Christ demonstrates one is **"born of God"** (1 John 5:1). Loving God and obeying His commands proves one loves God's children (1 John 5:2). A significant statement about obedience follows: **"This is love for God: to keep his commands. And his commands are not burdensome"** (1 John 5:3).
+
+Victory is promised: **"Everyone born of God overcomes the world. This is the victory that has overcome the world, even our faith"** (1 John 5:4). The triumphant question is asked: **"Who is it that overcomes the world? Only the one who believes that Jesus is the Son of God"** (1 John 5:5).
+
+The incarnation's reality is emphasized: Jesus Christ came **"by water and blood—not by water only, but by water and blood"** (1 John 5:6), likely referring to His baptism and crucifixion, affirming His full humanity against Docetic denial.
+
+Three witnesses testify: **"the Spirit, the water and the blood; and the three are in agreement"** (1 John 5:8). God's testimony about His Son is the greatest testimony (1 John 5:9), and **"whoever believes in the Son of God accepts this testimony"** (1 John 5:10).
+
+The climactic testimony is stated: **"God has given us eternal life, and this life is in his Son. Whoever has the Son has life; whoever does not have the Son of God does not have life"** (1 John 5:11-12).
+
+#### Assurance, Prayer, and Sin (1 John 5:13-21)
+
+The purpose statement appears: **"I write these things to you who believe in the name of the Son of God so that you may know that you have eternal life"** (1 John 5:13).
+
+Confidence in prayer is promised: **"This is the confidence we have in approaching God: that if we ask anything according to his will, he hears us"** (1 John 5:14-15).
+
+The epistle addresses **"sin that leads to death"** versus sin that does not (1 John 5:16-17), a difficult passage that has generated much discussion.
+
+Final assurances are given:
+- **"We know that anyone born of God does not continue to sin"** (1 John 5:18)
+- **"We know that we are children of God, and that the whole world is under the control of the evil one"** (1 John 5:19)
+- **"We know also that the Son of God has come and has given us understanding, so that we may know him who is true"** (1 John 5:20)
+
+The epistle concludes with a stark warning: **"Dear children, keep yourselves from idols"** (1 John 5:21).
+
+### 2 John: Truth and Hospitality
+
+2 John is a brief letter (13 verses) from **"the elder"** to **"the lady chosen by God and to her children"** (2 John 1:1), likely a metaphor for a local church.
+
+The theme is **truth**, mentioned five times in the opening verses. The elder expresses joy that some are **"walking in the truth"** (2 John 1:4) and repeats the command to love: **"And this is love: that we walk in obedience to his commands"** (2 John 1:6).
+
+The warning about deceivers is explicit: **"Many deceivers, who do not acknowledge Jesus Christ as coming in the flesh, have gone out into the world. Any such person is the deceiver and the antichrist"** (2 John 1:7).
+
+The instruction about hospitality to false teachers is clear: **"If anyone comes to you and does not bring this teaching, do not take them into your house or welcome them. Anyone who welcomes them shares in their wicked work"** (2 John 1:10-11). This protects the church from spreading heresy.
+
+### 3 John: Supporting True Teachers
+
+3 John is the shortest letter (14 verses), addressed to **Gaius**, **"whom I love in the truth"** (3 John 1:1).
+
+The elder commends Gaius for **walking in the truth** (3 John 1:3-4) and for showing hospitality to **"traveling teachers"** (3 John 1:5-8), supporting God's work.
+
+Diotrephes is criticized for **"loving to be first"** (3 John 1:9), refusing to welcome the brothers, and even expelling those who do (3 John 1:10)—a cautionary example of destructive church leadership.
+
+Demetrius is commended as one who is **"well spoken of by everyone—and even by the truth itself"** (3 John 1:12).
+
+The letter concludes with hopes for a face-to-face visit (3 John 1:13-14).
+
+### Conclusion
+
+Together, these three epistles provide essential apostolic teaching on God's nature (light and love), Christ's incarnation (against Docetism), assurance of salvation (through faith in the Son), the necessity of love (demonstrating authentic faith), obedience to God's commands (as proof of knowing God), and discernment (testing spirits and teachers). They address both theological truth and practical church life, making them invaluable for Christian faith and practice across all generations.
