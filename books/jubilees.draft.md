@@ -281,3 +281,86 @@ It should be noted that while Jubilees is not canonical in Catholic, Orthodox, o
 ### Summary
 
 While Jubilees is not quoted explicitly by name in the New Testament, it appears to have influenced or shared traditions with several New Testament authors, particularly the writers of 2 Peter, Galatians, and Revelation. More significantly, early Church Fathers extensively cited and referenced Jubilees, preserving nearly the entire Greek text through their quotations. This indicates that Jubilees was widely known and valued in early Christianity, even though most Christian traditions did not ultimately include it in their biblical canons.
+
+## Canonical Status
+
+The canonical status of the Book of Jubilees presents a fascinating case study in how different Christian traditions have defined the boundaries of Scripture. While widely read and influential in both ancient Judaism and early Christianity, Jubilees occupies different positions in different religious traditions—ranging from rejected pseudepigrapha to fully canonical Scripture.
+
+### Current Canonical Status by Tradition
+
+#### Protestant Churches
+The Book of Jubilees is [considered pseudepigrapha](https://en.wikipedia.org/wiki/Deuterocanonical_books) by Protestant churches. It is not included in the Protestant Old Testament canon of 39 books (or 66 books total including the New Testament). Protestant tradition generally follows the Jewish Masoretic canon and does not recognize books written in Greek or those not included in the Hebrew Bible.
+
+**Why Excluded**: Protestant reformers in the 16th century adopted the principle of *sola scriptura* (Scripture alone) and sought to return to what they considered the original Hebrew canon. Books not found in the Hebrew Bible, including Jubilees, were categorized as apocryphal or pseudepigraphal—useful for reading but not authoritative for doctrine.
+
+#### Roman Catholic Church
+The Roman Catholic Church also considers Jubilees to be pseudepigrapha, excluding it from its canon. The [Catholic canon contains 73 books](https://factually.co/fact-checks/other/ethiopian-bible-excluded-books-760df7), which includes the deuterocanonical books (books accepted by Catholics but rejected by Protestants), but Jubilees is not among them.
+
+**Why Excluded**: The Catholic Church's canon was essentially established at the councils of Hippo (393 CE) and Carthage (397 CE, 419 CE), and definitively affirmed at the Council of Trent (1546 CE). By this time, Jubilees was already not widely used in the Western church, and it was not included in the Vulgate (Latin translation) which became the standard for Catholic biblical texts.
+
+#### Eastern Orthodox Churches
+Eastern Orthodox churches also categorize Jubilees as pseudepigrapha and do not include it in their canonical Old Testament. The Orthodox canon is similar to the Catholic canon but includes a few additional books like 3 Maccabees and Psalm 151.
+
+**Why Excluded**: The Eastern Orthodox tradition, while more fluid about exactly which books are "deuterocanonical," generally did not include Jubilees in liturgical use, which was the primary criterion for canonicity in Orthodox tradition.
+
+#### Ethiopian Orthodox Tewahedo Church
+In stark contrast to Western and Eastern Christianity, the Book of Jubilees **is considered fully canonical Scripture** by the [Ethiopian Orthodox Tewahedo Church](https://en.wikipedia.org/wiki/Orthodox_Tewahedo_biblical_canon), where it is known as the **Book of Division** (Ge'ez: **Mets'hafe Kufale**).
+
+The [Ethiopian Orthodox canon contains approximately 81 books](https://www.gotquestions.org/Ethiopian-Bible.html), significantly more than the Catholic canon (73 books) and the Protestant canon (66 books). Unique to the Ethiopian Orthodox Tewahedo canon are:
+
+- **Jubilees** (Mets'hafe Kufale)
+- **1 Enoch** (Henok)
+- **Paralipomena of Jeremiah** (4 Baruch)
+- **Three books of Meqabyan** (distinct from the Maccabees books)
+
+**Why Included**: The Ethiopian Orthodox Church traces its roots to ancient Jewish-Christian communities and has maintained a broader canon than other Christian traditions. [Scholarly research demonstrates](https://www.academia.edu/15037288/Enoch_and_Jubilees_in_the_Canon_of_the_Ethiopian_Orthodox_Church) that **Jubilees was accepted into the Ethiopian canon earlier and more definitively than 1 Enoch**, and that the primary significance of Jubilees in Ethiopian thought has been **Christological**—it was understood to contain prophecies and teachings pointing to Christ.
+
+### Early Christian Reception and Eventual Exclusion
+
+The question of why Jubilees was excluded from most Christian canons is particularly intriguing given its widespread use in early Christianity.
+
+#### Evidence of Early Acceptance
+
+[Early Church Fathers extensively cited Jubilees](https://history.stackexchange.com/questions/9161/who-suppressed-the-book-of-jubilees-and-why):
+- Epiphanius, Justin Martyr, Origen, and many others quoted from it
+- The text was sufficiently cited that you can **reconstruct almost the entire Book of Jubilees in Greek** from patristic quotations
+- This indicates it was widely read and valued in the early centuries of Christianity
+
+#### The 4th Century Suppression
+
+According to historical evidence, Jubilees **was so thoroughly suppressed in the 4th century that no complete Hebrew, Greek or Latin version has survived**. Only the Ethiopic (Ge'ez) translation preserved the complete text, along with some Hebrew fragments found at Qumran.
+
+**Possible Reasons for Exclusion**:
+
+1. **Theological Concerns**: [Books like 1 Enoch and Jubilees](https://biblewisdomhub.org/books-of-the-ethiopian-bible-missing-from-the-protestant-canon/) carry theological themes (angelology, judgment, calendrical law) that influenced some early Christian writers but were later deemed problematic or unnecessary by church authorities.
+
+2. **Calendrical Disputes**: Jubilees' insistence on a 364-day solar calendar stood in opposition to the calendar systems used by both Judaism and Christianity in the 4th century. The church had adopted different calculations for determining Easter and other holy days, making Jubilees' calendar polemics irrelevant or even problematic.
+
+3. **Pseudepigraphal Nature**: By the 4th century, there was growing skepticism about works that claimed to be revelations to Moses or other ancient figures but were clearly written much later. The church became more conservative about what to include in Scripture.
+
+4. **Jewish Sectarian Origin**: As Christianity increasingly distinguished itself from Judaism, texts like Jubilees that emerged from sectarian Jewish movements (like the Qumran community) became less relevant to Christian identity.
+
+5. **Lack of Apostolic Usage**: While New Testament authors may have known Jubilees, they did not cite it explicitly by name as they did Isaiah, Psalms, and other canonical books. This lack of clear apostolic endorsement counted against it.
+
+### Jewish Reception
+
+It's worth noting that Jubilees was also excluded from the Jewish canon. Despite being found in multiple copies at Qumran and clearly valued by some Jewish groups in the Second Temple period, it was not included in the Masoretic canon that became standard for Rabbinic Judaism after 70 CE.
+
+**Why Judaism Excluded It**:
+- Written in the Second Temple period, not by ancient prophets
+- Sectarian origin (likely Essene or proto-Essene)
+- Rabbinic Judaism after the destruction of the Temple consolidated around texts that supported their interpretation of Torah
+- Jubilees' solar calendar and other positions were at odds with Pharisaic/Rabbinic tradition
+
+### Scholarly Perspective on Canonicity
+
+Modern biblical scholarship recognizes that canonicity is a matter of religious tradition, not necessarily textual quality or historical importance. Scholars point out that:
+
+1. **Jubilees was authoritative for some ancient communities**: The Qumran community clearly valued it highly, and the Ethiopian church preserves this ancient tradition
+2. **Canon formation was a gradual process**: Different communities drew different boundaries around Scripture
+3. **Exclusion does not mean worthlessness**: Even communities that don't consider Jubilees canonical recognize its value for understanding Second Temple Judaism and early Christian thought
+4. **No universal "biblical canon" in antiquity**: The very concept of a fixed, closed canon is a later development
+
+### Summary
+
+The Book of Jubilees occupies a unique canonical position: rejected as pseudepigrapha by Protestant, Catholic, and Eastern Orthodox churches, yet fully canonical in the Ethiopian Orthodox Tewahedo Church. Though widely read and cited by early Church Fathers in the first three centuries, it was largely suppressed in the 4th century in the Western church due to theological concerns, calendrical disputes, and its pseudepigraphal nature. Its survival in Ethiopia preserves an ancient tradition that values this text as divinely inspired Scripture. The debate over Jubilees' canonical status illustrates that the boundaries of Scripture have been understood differently by different Christian communities throughout history, and that canonicity reflects the judgments and needs of particular religious traditions rather than any intrinsic quality of the text itself.
