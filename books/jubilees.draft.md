@@ -188,3 +188,96 @@ The Book of Jubilees was written to achieve several interconnected objectives:
 6. **Polemical**: To challenge the authority of the Jerusalem Temple establishment
 
 Ultimately, Jubilees aims to create a comprehensive worldview and practical framework that would enable its readers to maintain pure, faithful, and distinctive Jewish identity in a world increasingly hostile to their values and threatening to their survival as a people set apart for God.
+
+## Cross-References
+
+The Book of Jubilees, while not included in the canonical Old Testament of most Christian traditions, shows fascinating connections to both the New Testament and early Christian literature. Though the New Testament writers do not explicitly cite Jubilees by name, several passages contain ideas, phrases, and theological concepts that appear to reflect knowledge of or influence from this Second Temple Jewish text.
+
+### Possible New Testament Allusions to Jubilees
+
+The [Book of Jubilees contains many ideas](https://blogs.ancientfaith.com/wholecounsel/2019/10/30/the-book-of-jubilees/) that appear in the New Testament, and in some places the New Testament authors seem to allude to Jubilees directly or draw from the same interpretive traditions.
+
+#### 2 Peter
+
+The Epistle of 2 Peter contains several striking parallels to Jubilees:
+
+**Noah as Preacher of Righteousness** (2 Peter 2:5):
+- The New Testament calls Noah a "preacher of righteousness" (2 Peter 2:5)
+- The canonical Genesis has no account of Noah preaching
+- However, Jubilees **describes Noah as a preacher and records one of his sermons** (Jubilees 7:20-39)
+- This suggests that the author of 2 Peter may have been familiar with traditions preserved in Jubilees
+
+**New Heaven and New Earth** (2 Peter 3:13):
+- The description of the renewal of heaven and earth in 2 Peter 3:13 parallels the language of **Jubilees 1:29**
+- Both texts speak of God creating a new heaven and a new earth where righteousness dwells
+
+**A Day as a Thousand Years** (2 Peter 3:8):
+- The famous maxim "one day is as a thousand years" in 2 Peter 3:8 is also recorded in **Jubilees 4:30**
+- This interpretive principle was apparently circulating in Second Temple Judaism
+
+#### Revelation
+
+The Book of Revelation contains language and imagery that may reflect knowledge of Jubilees:
+
+**Kingdom and Priests** (Revelation 1:6; 5:10):
+- Revelation uses the phrase "kingdom and priests" to describe believers
+- This specific wording is found in **Jubilees 16:18** as a promise to Israel
+- The connection suggests shared interpretive traditions
+
+**Lightnings, Voices, and Thunderings**:
+- Revelation's repeated references to "lightnings and voices and thunderings" (Revelation 4:5; 8:5; 11:19; 16:18)
+- Echo **Jubilees 2:2's** mention of angels of voices, thunder, and lightnings
+- Both texts describe the heavenly throne room with similar imagery
+
+#### Galatians
+
+**Angels as Mediators of the Law** (Galatians 3:19):
+- The Epistle to the Galatians mentions that the Law was "ordained by angels in the hand of a mediator" (Galatians 3:19)
+- Jubilees contains [one of the earliest references](https://www.gotquestions.org/book-of-Jubilees.html) to the Law being given through an angelic mediator
+- This tradition of angelic involvement in giving the Law appears to have been known to Paul
+
+### Jubilees' Relationship to Other Biblical Books
+
+Since Jubilees is a **retelling and expansion of Genesis 1 through Exodus 19**, it is fundamentally a commentary on and supplement to these biblical books. The entire text is essentially a cross-reference to the Torah, though presenting an interpretive expansion rather than a word-for-word quotation.
+
+**Books Jubilees Directly Relates To:**
+- **Genesis**: Chapters 1-50 (the entire book)
+- **Exodus**: Chapters 1-19
+
+Jubilees also shows awareness of and alludes to other parts of the Hebrew Bible, particularly:
+- **Leviticus**: For its legal and purity regulations
+- **Numbers**: For genealogical and chronological information
+- **Deuteronomy**: For covenantal language and warnings
+
+### Citations by Early Church Fathers
+
+While the New Testament allusions to Jubilees are debated, there is no question that [early Christian writers knew and cited Jubilees](https://www.cambridge.org/core/journals/church-history/article/abs/from-jewish-apocrypha-to-christian-tradition-citations-of-jubilees-in-epiphaniuss-panarion/67C96456FC25D3BDD567406F31D758C0). The book was well known to early Christians, as evidenced by the writings of:
+
+1. **Epiphanius of Salamis** (4th century): Cited Jubilees extensively in his *Panarion*, a work against heresies
+2. **Justin Martyr** (2nd century): One of the earliest Christian apologists
+3. **Origen** (3rd century): Alexandrian theologian and biblical scholar
+4. **Diodorus of Tarsus** (4th century): Biblical exegete
+5. **Isidore of Alexandria** (5th century): Monastic writer
+6. **Isidore of Seville** (6th-7th century): Spanish bishop and encyclopedist
+7. **Eutychius of Alexandria** (9th-10th century): Patriarch of Alexandria
+8. **John Malalas** (6th century): Byzantine chronicler
+9. **George Syncellus** (8th-9th century): Byzantine chronicler
+10. **George Kedrenos** (11th-12th century): Byzantine historian
+
+### Extent of Patristic Citations
+
+The extent of early Christian knowledge of Jubilees is remarkable. According to [scholarly research](https://biblehub.com/library/deane/pseudepigrapha/the_book_of_jubilees.htm):
+
+- **You can reconstruct almost the entire Book of Jubilees in Greek** from quotes found in the writings of the Church Fathers
+- European scholars knew about Jubilees from citations and allusions in patristic literature, which were **collected by J.A. Fabricius** in his 1722-23 work *Codex Pseudepigraphus Veteris Testamenti*
+- The total amount of text from Jubilees in patristic citations **occupied nineteen pages** in Fabricius' collection
+
+This demonstrates that Jubilees was widely read and considered significant by early Christians, even if it was not ultimately included in the biblical canon.
+
+### Jubilees in the Ethiopian Orthodox Canon
+
+It should be noted that while Jubilees is not canonical in Catholic, Orthodox, or Protestant traditions, it **is considered canonical Scripture by the Ethiopian Orthodox Tewahedo Church**. In this tradition, Jubilees is not treated as a cross-reference to other books but as an authoritative biblical text in its own right.
+
+### Summary
+
+While Jubilees is not quoted explicitly by name in the New Testament, it appears to have influenced or shared traditions with several New Testament authors, particularly the writers of 2 Peter, Galatians, and Revelation. More significantly, early Church Fathers extensively cited and referenced Jubilees, preserving nearly the entire Greek text through their quotations. This indicates that Jubilees was widely known and valued in early Christianity, even though most Christian traditions did not ultimately include it in their biblical canons.
