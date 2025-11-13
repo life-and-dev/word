@@ -1110,3 +1110,336 @@ Modern critical editions of the Greek New Testament ([Nestle-Aland](https://en.w
 ### Conclusion
 
 The textual transmission of the Johannine Epistles has been remarkably stable, with the significant exception of the Comma Johanneum (1 John 5:7-8). This variant, while doctrinally significant, is absent from the earliest and best manuscripts and represents a later addition to the text. Modern translations based on critical scholarship omit or footnote this passage. Apart from this major variant, the Johannine Epistles present few textual challenges, giving us confidence that we possess these important theological documents substantially as they were originally written in the late first century.
+
+## Textual Errors
+
+The Johannine Epistles are generally regarded as having very few textual or factual errors compared to other biblical books. Due to their theological and pastoral nature rather than historical narrative, they contain less material subject to factual verification. However, certain passages have generated scholarly discussion regarding potential linguistic issues, theological tensions, or interpretive challenges.
+
+### 1. The Identity of "Sin That Leads to Death" (1 John 5:16-17)
+
+**The Issue:**
+1 John 5:16-17 introduces a distinction between "sin that leads to death" and "sin that does not lead to death," but **the text never identifies what this deadly sin is**. This ambiguity has puzzled interpreters for centuries.
+
+**Critical Scholarly View:**
+Some scholars argue this represents an **unclear or incomplete communication** by the author. If the original audience knew what sin was meant, that context has been lost to us, making the passage effectively "erroneous" in communicating to later readers. The instruction not to pray for this sin (1 John 5:16) is troubling without clear identification.
+
+**Conservative Scholarly Explanation:**
+1. **Context-specific knowledge:** The original audience likely understood the reference from the author's previous teaching or the community's situation
+2. **Apostasy interpretation:** Many scholars identify it as **apostasy**—the complete renunciation of faith in Christ—parallel to Hebrews 6:4-6 and 10:26-27
+3. **The Docetic heresy:** Others suggest it refers to the specific heresy addressed in the epistle: denying Christ came in the flesh (1 John 2:22; 4:2-3)
+4. **Physical death:** Some interpret it as sin leading to physical death as divine judgment (cf. 1 Corinthians 11:30; Acts 5:1-11), not eternal death
+5. **Intentional ambiguity:** The author may have deliberately left it unspecified, allowing the principle to apply to various situations
+
+**Assessment:**
+While the lack of explicit identification creates interpretive challenges, it does not necessarily constitute an "error." The passage functions to distinguish between sins that are forgivable through intercession and some ultimate rejection of God that places one beyond the reach of prayer.
+
+### 2. The Paradox of Sin and Sinlessness (1 John 1:8 vs. 3:6, 9; 5:18)
+
+**The Issue:**
+1 John contains statements that appear to create a logical contradiction about believers and sin:
+
+**1 John 1:8, 10:** "If we claim to be without sin, we deceive ourselves... If we claim we have not sinned, we make him out to be a liar."
+
+**But then:**
+**1 John 3:6:** "No one who lives in him keeps on sinning."
+**1 John 3:9:** "No one who is born of God will continue to sin, because God's seed remains in them; they cannot go on sinning."
+**1 John 5:18:** "We know that anyone born of God does not continue to sin."
+
+Critics argue these statements are **logically incompatible** and represent either confused thinking or an internal error in the epistle.
+
+**Critical Scholarly View:**
+Some critical scholars suggest:
+1. The epistle may reflect **multiple authorship** or **editorial layers** with different theological perspectives
+2. The author had **inconsistent** views on sin and perfection
+3. The statements represent an **impossible ideal** that even the author didn't truly believe
+
+**Conservative Scholarly Explanation:**
+Most scholars (both conservative and many critical) resolve this through **grammatical and theological analysis**:
+
+1. **Greek verb tenses:** The present tense in Greek (especially the continuous present) indicates ongoing, habitual action. Thus:
+   - 1 John 3:6, 9; 5:18 refer to **habitual, unrepentant sin** as a lifestyle
+   - 1 John 1:8, 10 refer to **individual acts of sin** that believers commit
+
+2. **Different contexts:**
+   - Chapter 1 addresses those who claim **sinless perfection** (likely the Docetic/Gnostic false teachers)
+   - Chapter 3 addresses the **incompatibility** between being born of God and living a life characterized by sin
+
+3. **Progressive sanctification:** The epistle teaches that:
+   - True believers **do** sin (1:8, 10) but have an advocate in Jesus (2:1)
+   - True believers **cannot habitually practice sin** as a lifestyle (3:6, 9) because of the new nature
+   - When believers sin, they confess and receive forgiveness (1:9)
+
+4. **Theological balance:** John maintains both:
+   - The **reality** of sin in Christian experience
+   - The **incompatibility** of genuine faith with a lifestyle of unrepentant sin
+
+**Assessment:**
+When understood in terms of Greek grammar and the distinction between isolated acts versus habitual practice, the apparent contradiction dissolves. This is not an error but a nuanced teaching on sanctification.
+
+### 3. The Meaning of "Water and Blood" (1 John 5:6)
+
+**The Issue:**
+1 John 5:6 states that Jesus Christ came "by water and blood—not by water only, but by water and blood." The meaning of "water and blood" is **not explicitly defined**, leading to multiple interpretations.
+
+**Critical Scholarly View:**
+The passage's ambiguity could be seen as a **communication failure** or **assumption of knowledge** that modern readers don't possess, making the text unclear or effectively erroneous in its communication.
+
+**Conservative Scholarly Explanation:**
+Several interpretations have been proposed, each with textual support:
+
+1. **Baptism and crucifixion:** "Water" refers to Jesus' baptism, "blood" to His crucifixion—the beginning and end of His earthly ministry, affirming His full humanity
+2. **Birth and death:** "Water" refers to Jesus' natural birth (amniotic fluid), "blood" to His death
+3. **Sacraments:** "Water" represents baptism, "blood" the Lord's Supper (less likely given the epistle's context)
+4. **John 19:34 allusion:** References the blood and water that flowed from Jesus' side when pierced, proving His real physical death
+
+**Context:** The statement appears in a section combating Docetism. The emphasis "not by water only, but by water and blood" suggests the heretics accepted Jesus' baptism (water) but denied the reality of His physical death (blood).
+
+**Assessment:**
+While the exact referents are debated, the passage successfully communicates its main point: Jesus came in full humanity, not as a mere spiritual being. The ambiguity doesn't constitute an error but reflects the epistle's polemical context.
+
+### 4. The Third Person References in 1 John
+
+**The Issue:**
+1 John generally uses first-person plural ("we") but occasionally shifts to third person in ways that some find awkward or inconsistent.
+
+**Critical Scholarly View:**
+These shifts might indicate **multiple authors** or **editorial additions** to the text, representing a kind of compositional error or inconsistency.
+
+**Conservative Scholarly Explanation:**
+The shifts in person are **rhetorically purposeful**:
+1. First person plural ("we") emphasizes apostolic eyewitness testimony and authority
+2. Third person addresses specific groups (children, fathers, young men) within the community
+3. The shifts are common in ancient epistolary literature and serve rhetorical functions
+
+**Assessment:**
+This represents a stylistic feature rather than an error, reflecting ancient writing conventions.
+
+### 5. The Absence of Greetings in 1 John
+
+**The Issue:**
+Unlike most New Testament epistles, 1 John has **no opening greeting, no closing benediction, and no identification of sender or recipients**. This unusual structure has led some to question whether it's truly a letter or whether portions have been lost.
+
+**Critical Scholarly View:**
+The absence of these standard epistolary elements might indicate:
+1. **Textual corruption**—portions of the original have been lost
+2. **Incomplete composition**—the document was never finished
+3. **Genre confusion**—it's not actually a letter but a treatise or sermon
+
+**Conservative Scholarly Explanation:**
+1. **Circular letter:** 1 John was intended as a **general epistle** or **encyclical** to multiple churches, making specific greetings unnecessary
+2. **Known audience:** The author and recipients were well-known to each other, making formal identification unnecessary
+3. **Genre:** It's best understood as a **theological treatise in epistolary form** or **written sermon** rather than a personal letter
+4. **Complete as written:** The abrupt beginning and ending are intentional, focusing attention entirely on the message
+
+**Assessment:**
+This is a generic feature rather than an error. The document is complete as we have it.
+
+### Conclusion
+
+The Johannine Epistles contain remarkably few issues that could be classified as "textual errors." The primary challenges involve:
+
+1. **Ambiguities** (sin leading to death, water and blood) that likely would have been clear to the original audience
+2. **Apparent theological tensions** (sin and sinlessness) that resolve through careful grammatical and theological analysis
+3. **Genre features** (absence of greetings) that reflect the document's purpose and audience
+
+None of these rise to the level of factual, historical, or chronological errors. The epistles' focus on theological and ethical teaching, rather than historical narrative, means there is less opportunity for the kinds of errors (dates, places, chronology) found in historical texts. Both conservative and many critical scholars acknowledge the high quality and consistency of these documents.
+
+## Contradictions
+
+The Johannine Epistles contain relatively few alleged contradictions compared to other biblical books. However, several passages have generated discussion about internal consistency, both within the epistles themselves and in relation to other New Testament writings. This section examines the major alleged contradictions and provides scholarly explanations from both critical and conservative perspectives.
+
+### Internal Contradictions
+
+#### 1. Sin and Sinlessness (1 John 1:8-10 vs. 3:6, 9; 5:18)
+
+This is the most frequently cited internal contradiction in the Johannine Epistles (also discussed in the Textual Errors section above).
+
+**The Alleged Contradiction:**
+- **1 John 1:8:** "If we claim to be without sin, we deceive ourselves."
+- **1 John 3:6:** "No one who lives in him keeps on sinning."
+- **1 John 3:9:** "No one who is born of God will continue to sin... they cannot go on sinning."
+
+These statements appear **mutually exclusive**: believers both have sin (1:8) and cannot sin (3:9).
+
+**Critical Explanation:**
+Some scholars view this as a genuine contradiction reflecting:
+1. Different sources or authors combined into one document
+2. The author's inability to reconcile idealistic theology with practical reality
+3. An unresolved tension between perfectionist claims and experiential reality
+
+**Conservative Explanation:**
+The resolution lies in understanding:
+1. **Greek grammar:** The present tense in 3:6, 9 indicates **habitual, continuous action**, not isolated acts
+2. **Different targets:** Chapter 1 refutes claims of **sinless perfection**, while chapter 3 asserts the **incompatibility** of authentic faith with a lifestyle of sin
+3. **Theological balance:** Believers commit individual sins (requiring confession, 1:9) but are not characterized by habitual sin patterns
+
+**Scholarly Consensus:**
+Most contemporary scholars (both conservative and moderate critical) accept the grammatical resolution, viewing this as complementary teaching rather than contradiction.
+
+#### 2. Loving the World (2:15 vs. 3:17; 4:9)
+
+**The Alleged Contradiction:**
+- **1 John 2:15:** "Do not love the world or anything in the world. If anyone loves the world, love for the Father is not in them."
+- **1 John 3:17:** "If anyone has material possessions and sees a brother or sister in need but has no pity on them, how can the love of God be in that person?"
+- **1 John 4:9:** "This is how God showed his love among us: He sent his one and only Son into the world."
+- **John 3:16 (Gospel):** "For God so loved the world that he gave his one and only Son."
+
+How can Christians be commanded not to love "the world" when God loved "the world" and sent His Son into "the world"?
+
+**Explanation:**
+The term "world" (*kosmos*) has different meanings in Johannine literature:
+
+1. **World as creation/humanity:** The object of God's love (John 3:16; 1 John 4:9)—people in need of salvation
+2. **World as fallen system:** The realm opposed to God (1 John 2:15-17)—the system of values, desires, and priorities that exclude God
+
+In 2:15, "the world" refers specifically to "the lust of the flesh, the lust of the eyes, and the pride of life" (2:16)—not people, but the sinful value system.
+
+**Assessment:**
+This is a semantic issue, not a genuine contradiction. The same word has different referents depending on context.
+
+#### 3. Knowing God (2:4 vs. 4:8)
+
+**The Alleged Contradiction:**
+- **1 John 2:4:** "Whoever says, 'I know him,' but does not do what he commands is a liar."
+- **1 John 4:8:** "Whoever does not love does not know God, because God is love."
+
+These provide different criteria for "knowing God": keeping commands (2:4) versus loving (4:8).
+
+**Explanation:**
+These are not contradictory but **complementary tests** of authentic knowledge of God:
+
+1. Both passages present **negative tests** (what demonstrates one does NOT know God)
+2. Love and obedience are **inseparable** in Johannine theology: "This is love for God: to keep his commands" (1 John 5:3)
+3. The epistles employ **multiple criteria** to test authentic faith: right doctrine, ethical obedience, and love
+
+The tests work together rather than conflict.
+
+### Contradictions with Other New Testament Books
+
+#### 4. Works and Salvation (1 John vs. Paul's Epistles)
+
+**The Alleged Contradiction:**
+1 John emphasizes **obedience, love, and righteous living** as evidence and tests of salvation:
+- 1 John 2:3-4: Knowing God demonstrated by keeping His commands
+- 1 John 3:10: Children of God do what is right
+- 1 John 3:14: "We have passed from death to life, because we love each other"
+
+This seems to contradict **Paul's emphasis on salvation by grace through faith apart from works**:
+- Ephesians 2:8-9: "For it is by grace you have been saved, through faith... not by works"
+- Romans 3:28: "A person is justified by faith apart from the works of the law"
+
+**Critical Explanation:**
+Some scholars suggest:
+1. John and Paul represent **different theological traditions** within early Christianity
+2. John emphasizes **works-based salvation** while Paul emphasizes **faith-based salvation**
+3. This reflects genuine theological diversity and disagreement in the apostolic church
+
+**Conservative Explanation:**
+Paul and John are addressing **different issues** and are therefore complementary:
+
+1. **Paul's concern:** Combating Jewish legalism—the belief that obedience to the Mosaic Law earns salvation
+2. **John's concern:** Combating antinomianism and false profession—those who claim faith but live in sin
+3. **James' parallel:** James 2:14-26 similarly argues that "faith without works is dead"—not contradicting Paul but addressing different errors
+
+Both authors agree:
+- **Salvation is by grace through faith** (not earned)
+- **Genuine faith produces works** (obedience and love as evidence, not cause)
+- **1 John never says works save** but that works demonstrate the reality of salvation
+
+**Key distinction:**
+- Paul: Faith → Salvation (works are the result, not the cause)
+- John: Profession → Works (works prove the profession is genuine)
+
+They approach from different angles but arrive at the same conclusion.
+
+#### 5. Assurance of Salvation (1 John vs. Hebrews)
+
+**The Alleged Contradiction:**
+- **1 John 5:13:** "I write these things to you who believe... so that you may know that you have eternal life."
+- **Hebrews 6:4-6; 10:26-29:** Warns of the possibility of falling away after coming to knowledge of truth
+
+Does 1 John offer **absolute assurance** that contradicts Hebrews' **warning against apostasy**?
+
+**Explanation:**
+These passages address different situations:
+
+1. **1 John's assurance:** For genuine believers who demonstrate faith through love, obedience, and right doctrine
+2. **Hebrews' warning:** For those who have heard the gospel and made professions but may not be genuine believers
+
+Both books agree:
+- True believers have assurance (1 John) and will persevere (Hebrews "we are not of those who shrink back")
+- False professors lack assurance and may fall away
+
+The apparent contradiction dissolves when distinguishing between:
+- **Genuine believers** (who have assurance and persevere)
+- **False professors** (who lack assurance and may apostacize)
+
+#### 6. Prayer and Answered Prayer (1 John 3:22; 5:14-15 vs. Experience)
+
+**The Alleged Contradiction:**
+1 John makes sweeping promises about answered prayer:
+- **1 John 3:22:** "We receive from him anything we ask, because we keep his commands."
+- **1 John 5:14-15:** "If we ask anything according to his will, he hears us... we know that we have what we asked of him."
+
+These seem to contradict:
+1. **Experience:** Many faithful believers' prayers go unanswered
+2. **Other Scriptures:** Paul's unanswered prayer (2 Corinthians 12:8-9)
+3. **James 4:3:** "When you ask, you do not receive, because you ask with wrong motives"
+
+**Explanation:**
+Careful reading reveals important **qualifications** in 1 John's promises:
+
+1. **"According to his will" (5:14):** Prayer must align with God's purposes
+2. **"If we keep his commands" (3:22):** Answered prayer presupposes obedience
+3. **"We receive" vs. "he hears":** Receiving what we ask is qualified by asking according to His will
+
+1 John does not promise **everything we want** but everything we ask that:
+- Aligns with God's will
+- Comes from obedient believers
+- Serves God's purposes
+
+This harmonizes with:
+- **Jesus' teaching:** "If you remain in me and my words remain in you, ask whatever you wish, and it will be done for you" (John 15:7)—conditional on abiding
+- **James' qualification:** Wrong motives nullify prayer (James 4:3)
+
+#### 7. The Nature of Jesus' Manifestation (1 John vs. John's Gospel)
+
+**The Alleged Contradiction:**
+- **1 John 3:5:** "He appeared so that he might take away our sins."
+- **John 1:29:** "Look, the Lamb of God, who takes away the sin of the world!"
+- **1 John 3:8:** "The reason the Son of God appeared was to destroy the devil's work."
+
+Some suggest these give **different reasons** for the incarnation.
+
+**Explanation:**
+These are **complementary purposes**, not contradictory ones:
+1. Taking away sins (atonement)
+2. Destroying the devil's work (cosmic victory)
+
+Both were purposes of Christ's coming. The epistles and Gospel present different facets of the same redemptive work, emphasizing what's relevant to their respective purposes.
+
+### Contradiction with the Gospel of John
+
+#### 8. Perfectionism in 1 John vs. Realism in the Gospel
+
+**The Alleged Contradiction:**
+1 John's statements about believers "not sinning" (3:6, 9) seem more **perfectionist** than the Gospel's more **realistic** portrayal:
+- The disciples frequently fail and misunderstand in the Gospel
+- Peter denies Jesus three times
+- Thomas doubts
+
+**Explanation:**
+The Gospel narrates **events during Jesus' earthly ministry** (before the Spirit's empowering at Pentecost), while 1 John addresses **post-Pentecost Christian living** empowered by the indwelling Spirit. The disciples' failures in the Gospel occurred before they were "born of God" in the full New Covenant sense.
+
+### Conclusion
+
+The alleged contradictions in the Johannine Epistles largely resolve through:
+
+1. **Careful attention to grammar:** Especially verb tenses distinguishing habitual from occasional actions
+2. **Contextual understanding:** Recognizing different polemical targets and pastoral situations
+3. **Semantic precision:** Distinguishing different meanings of the same word ("world," "know")
+4. **Theological complementarity:** Recognizing that different authors emphasize different aspects of truth without contradicting each other
+
+Most contemporary scholars, both conservative and moderate critical, acknowledge that the Johannine Epistles present a **coherent theological vision** when properly understood in their historical and literary contexts. The apparent contradictions typically reflect modern readers' unfamiliarity with ancient rhetoric, Greek grammar, and the polemical situations the epistles address, rather than genuine logical inconsistencies in the texts themselves.
+
+The epistles' theological rigor, internal consistency, and harmony with the broader New Testament witness contribute to their enduring value for Christian theology and practice.
