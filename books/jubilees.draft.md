@@ -685,3 +685,138 @@ The textual variants in Jubilees are significant for several reasons:
 ### Conclusion
 
 Despite its complex transmission history through multiple languages (Hebrew → Greek → Ethiopic), the Book of Jubilees has been transmitted with remarkable fidelity. The discovery of Hebrew fragments at Qumran vindicated the Ethiopic tradition and demonstrated that medieval Ethiopic manuscripts preserve an ancient and generally accurate translation. However, the existence of multiple Hebrew recensions at Qumran indicates that the text was not rigidly fixed in the Second Temple period. The textual variants that do exist generally involve minor details rather than major theological or narrative changes, and they provide valuable insights into ancient translation techniques and the history of biblical texts.
+
+## Textual Errors
+
+Scholars have identified several types of textual problems in the Book of Jubilees, including chronological difficulties, internal inconsistencies, translation errors, and interpolations by later editors. These issues have contributed to scholarly debates about the book's composition, reliability, and canonical status.
+
+### 1. Chronological Problems
+
+#### Fictitious Chronology System
+
+One of the most significant scholarly criticisms concerns Jubilees' chronological framework. According to [critical analysis](https://www.bible.ca/manuscripts/book-of-Jubilees-full-text-PDF-Free-Online-Chronology-ancient-Jewish-calendar-Textual-variants-Bible-Old-Testament-Torah-Tanakh-Rabbinical-Judaism-170BC.htm), the chronological system in Jubilees is **"absolutely fictitious and unworkable when applied with real known history,"** and is **"driven by theology not factual chronological numbers for the history of the world."**
+
+**Scholarly Explanation**: The author's primary concern was not historical accuracy but theological symbolism. The jubilee system (49-year periods) serves to demonstrate divine order and planning, but forces biblical history into artificial time periods. Several major liberties/corrections were made in the book to make history fit world history in clean chunks of 49 years.
+
+**Conservative Response**: Defenders of Jubilees argue that its chronology represents an ancient Jewish interpretive tradition that should not be judged by modern historiographical standards. The jubilee framework was meaningful to ancient readers even if it doesn't align with modern historical reconstruction.
+
+#### Irreconcilable with External History
+
+The dating system in Jubilees, when extended beyond the biblical period, [cannot be reconciled with known ancient Near Eastern chronology](https://www.gotquestions.org/book-of-Jubilees.html). For instance, the dates given for the Flood, the patriarchs, and the Exodus do not align with either biblical chronology (as calculated from Genesis) or archaeological/historical evidence.
+
+**Scholarly Explanation**: The author was working within a closed literary system, not attempting to correlate biblical events with world history. The precise jubilee calculations were more concerned with theological symbolism than historical correspondence.
+
+**Critical Perspective**: This demonstrates that Jubilees is a work of creative interpretation rather than historical record, which raises questions about its reliability as a source for understanding actual biblical chronology.
+
+### 2. Translation Errors
+
+#### Enoch and the Flood Problem
+
+[A Notre Dame scholar analyzing the Dead Sea Scrolls](https://news.nd.edu/news/dead-sea-scroll-scholar-finds-error-in-book-of-jubilee-translation/) identified a significant problem in previous English translations of the Ethiopic text. A problematic verse **"doesn't make any sense"** because it implies God brought the flood on Eden because of Enoch's presence there, yet **"Enoch continues to live—he doesn't drown in the flood."**
+
+**Scholarly Explanation**: This represents either:
+1. A mistranslation from Hebrew → Greek → Ethiopic → English
+2. A textual corruption in the transmission process
+3. A scribal error in one of the manuscript traditions
+
+When the Hebrew fragments from Qumran were compared to the Ethiopic, the error could be corrected, revealing the original intended meaning.
+
+**Significance**: This demonstrates the value of the Qumran discoveries for correcting errors that had accumulated through the complex transmission history.
+
+#### Hebrew Idioms Misunderstood
+
+Comparison of Hebrew fragments with the Ethiopic translation has revealed instances where the Ethiopic translator misunderstood Hebrew idioms or technical terms, leading to minor but noteworthy discrepancies.
+
+**Scholarly Explanation**: The translator(s) working from Greek (which was itself translated from Hebrew) sometimes lacked sufficient knowledge of Hebrew linguistic nuances, especially idiomatic expressions and technical religious vocabulary.
+
+### 3. Evidence of Later Interpolations
+
+#### Multiple Authorship Theory
+
+[Recent studies suggest](https://www.researchgate.net/publication/290857616_On_the_interpolations_in_the_Book_of_Jubilees) the Book of Jubilees **may be the product of more than one author**, as **contradictions within Jubilees raise the possibility that this book underwent revision in the course of its transmission.**
+
+**Evidence**: Scholars have identified sections that:
+- Contradict earlier statements in the book
+- Exhibit different literary style or theological emphases
+- Appear to be additions to an originally coherent narrative
+
+**Scholarly Explanation**: An **interpolator frequently misunderstood or deliberately distorted** what the original author of Jubilees had said, creating contradictions and inconsistencies in the book. This suggests that Jubilees, like many ancient texts, underwent editorial expansion.
+
+**Implications**: If multiple authors/editors contributed to Jubilees over time, this would explain some of the internal tensions and contradictions (discussed in the next section).
+
+### 4. Radical Differences from Genesis
+
+#### Unexplained Departures from Biblical Text
+
+While Jubilees purports to describe the history of the world from Genesis and Exodus, [the story in Jubilees is radically different](https://booksnthoughts.com/the-strange-book-of-jubilees-vs-the-torah/), and **no one knows why these differences exist.**
+
+**Examples of Major Differences**:
+- Extended narratives about Abraham's youth and rejection of idolatry (not in Genesis)
+- Detailed laws about intermarriage with death penalty (goes far beyond Genesis)
+- Explicit attribution of temptations to Satan/Mastema (attributed to God in Genesis/Exodus)
+- Calendar system presented as divinely revealed (not mentioned in Genesis)
+- Pre-Sinaitic observance of Mosaic laws by patriarchs (contradicts Exodus 6:2-3)
+
+**Scholarly Explanation**: Jubilees is a **midrashic expansion** (interpretive retelling) of Genesis/Exodus, not a historical record. The author deliberately added material to address concerns of his Second Temple Jewish community. The "differences" are not errors but intentional interpretive expansions.
+
+**Critical Perspective**: These additions, while valuable for understanding Second Temple Judaism, demonstrate that Jubilees should not be treated as historically reliable. The author felt free to invent narratives and attribute them to divine revelation.
+
+### 5. Calendar System Impracticality
+
+#### The 364-Day Problem
+
+[Scholars have noted](https://davidwilber.com/articles/the-book-of-jubilees-is-not-inspired-scripture) that Jubilees' **364-day solar calendar is flawed** because it does not account for the actual solar year of approximately 365.25 days.
+
+**The Problem**: A 364-day calendar loses approximately 1.25 days per year. Over time:
+- After 8 years: approximately 10 days off
+- After 40 years: approximately 50 days off
+- After 100 years: approximately 125 days off
+
+**Scholarly Explanation - Conservative**: The Qumran community and author of Jubilees were aware of this discrepancy and likely used intercalation (adding extra days periodically) to keep the calendar aligned, though Jubilees does not explicitly describe this mechanism.
+
+**Scholarly Explanation - Critical**: This represents a **theological error** where the author prioritized symbolic perfection (364 = 52 weeks exactly) over astronomical reality. The calendar was never practically viable for long-term use, which may be one reason it was not adopted by mainstream Judaism or Christianity.
+
+#### No Biblical Support
+
+The 364-day calendar finds **no support in the Torah** (Genesis through Deuteronomy). The biblical texts speak of months and festivals but never prescribe a specific calendar length or structure.
+
+**Scholarly Explanation**: Jubilees retrojects a sectarian calendar preference back to creation and Moses, presenting it as original divine revelation. This is anachronistic—attributing later developments to earlier periods.
+
+### 6. Theological Inconsistencies
+
+#### Condemnation of Lot's Descendants
+
+Jubilees condemns intermarriage with Gentiles absolutely, yet [the text creates problems](https://www.academia.edu/122291337/The_Book_of_Jubilees_is_Not_Inspired_Scripture) by **condemning Lot's descendants** (Moab and Ammon) while the biblical Ruth was a Moabite who became an ancestor of David and Jesus (Ruth 1:4, Matthew 1:5).
+
+**Scholarly Explanation - Conservative**: Jubilees reflects one interpretive tradition within Second Temple Judaism that took an extremely strict position on intermarriage. Other Jewish groups (including the one that produced Ruth) took more nuanced positions.
+
+**Scholarly Explanation - Critical**: This demonstrates the sectarian and extreme nature of Jubilees' positions, which even contradict the more gracious theology found in canonical books like Ruth.
+
+### 7. Dating Discrepancies
+
+[The widely accepted dating](https://www.bible.ca/manuscripts/book-of-Jubilees-full-text-PDF-Free-Online-Chronology-ancient-Jewish-calendar-Textual-variants-Bible-Old-Testament-Torah-Tanakh-Rabbinical-Judaism-170BC.htm) of Jubilees to the second century BCE is more consistent with the textual evidence, but this creates a problem: the book claims to be revelation to Moses (ca. 1400 BCE or 1200 BCE depending on Exodus dating), creating a **1000+ year anachronism**.
+
+**Scholarly Explanation**: Like all pseudepigrapha, Jubilees is a **pious fiction**—a work written in a later period but attributed to an ancient authority to grant it legitimacy. Ancient readers may have understood this literary convention differently than modern readers expect.
+
+**Critical Perspective**: This pseudepigraphal nature (false attribution) is itself a kind of "textual error"—the book misrepresents its authorship and date of composition.
+
+### Scholarly Conclusions
+
+Scholars differ on how to interpret these textual errors:
+
+**Critical Scholars** argue that these problems demonstrate:
+- Jubilees is not divinely inspired Scripture
+- It should not be used as a historical source
+- Its theological positions are sectarian and sometimes erroneous
+- The book was rightly excluded from most biblical canons
+
+**Conservative Scholars** (especially in the Ethiopian Orthodox tradition) respond that:
+- Many "errors" are actually interpretive expansions serving theological purposes
+- Chronological symbolism shouldn't be judged by modern historiographical standards
+- Translation errors have been corrected through comparison with Qumran fragments
+- The book preserves legitimate ancient Jewish interpretive traditions
+- Canonical status is a matter of church authority, not intrinsic textual quality
+
+### Conclusion
+
+The Book of Jubilees contains various textual problems including chronological difficulties, translation errors, evidence of interpolations, and radical departures from the Genesis/Exodus narratives. These issues have been cited by critical scholars as evidence that Jubilees should not be considered inspired Scripture or reliable history. However, defenders of the text argue that many of these "errors" reflect ancient interpretive methods, theological symbolism, and sectarian perspectives that were meaningful in their original context, even if they don't meet modern standards of historical or scientific accuracy. The textual errors identified through comparison with Qumran fragments have actually improved our understanding of the text and corrected centuries of accumulated transmission errors.
