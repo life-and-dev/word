@@ -6,11 +6,11 @@ The Book of Acts, also known as the Acts of the Apostles, is traditionally attri
 
 ### Traditional View
 
-Church tradition has consistently identified the author as Luke the Evangelist, mentioned by Paul in his epistles as "Luke, the beloved physician" ([Colossians 4:14](https://eternal.family.net.za/bible/books/colossians/4#14)) and as a fellow worker ([Philemon 1:24](https://eternal.family.net.za/bible/books/philemon/1#24)). This attribution is supported by several lines of evidence:
+Church tradition has consistently identified the author as Luke the Evangelist, mentioned by Paul in his epistles as "Luke, the beloved physician" ([Colossians 4:14) and as a fellow worker ([Philemon 1:24). This attribution is supported by several lines of evidence:
 
 1. **The "We" Passages**: Acts contains several sections where the narrative shifts from third person to first person plural ("we"), suggesting the author was an eyewitness to certain events, particularly during Paul's missionary journeys (Acts 16:10-17, 20:5-15, 21:1-18, 27:1-28:16). These passages have traditionally been interpreted as indicating the author traveled with Paul.
 
-2. **Luke-Acts as a Two-Volume Work**: The Gospel of Luke and Acts share extensive linguistic and theological similarities, indicating they were written by the same author. Both are addressed to Theophilus and exhibit consistent writing style, vocabulary, and theological themes. Acts explicitly refers back to "the former book" ([Acts 1:1](https://eternal.family.net.za/bible/books/acts/1#1)), clearly connecting it to the Gospel of Luke.
+2. **Luke-Acts as a Two-Volume Work**: The Gospel of Luke and Acts share extensive linguistic and theological similarities, indicating they were written by the same author. Both are addressed to Theophilus and exhibit consistent writing style, vocabulary, and theological themes. Acts explicitly refers back to "the former book" ([Acts 1:1), clearly connecting it to the Gospel of Luke.
 
 3. **Medical Language**: Some scholars have noted the use of medical terminology throughout the work, which would be consistent with a physician author, though this argument is disputed as the terminology was common in educated Greek.
 
@@ -67,7 +67,7 @@ As discussed in the Authorship section, the majority of scholars date Acts to **
 
 ### Author and Original Audience
 
-The author addresses the work to **Theophilus**, whose name means "lover of God." The honorific title "most excellent" used in Luke 1:3 suggests Theophilus may have been a Roman official or person of high social standing, as this form of address appears elsewhere in the New Testament exclusively for governing officials ([Acts 23:26](https://eternal.family.net.za/bible/books/acts/23#26), [Acts 24:3](https://eternal.family.net.za/bible/books/acts/24#3), [Acts 26:25](https://eternal.family.net.za/bible/books/acts/26#25)).
+The author addresses the work to **Theophilus**, whose name means "lover of God." The honorific title "most excellent" used in Luke 1:3 suggests Theophilus may have been a Roman official or person of high social standing, as this form of address appears elsewhere in the New Testament exclusively for governing officials ([Acts 23:26, [Acts 24:3, [Acts 26:25).
 
 However, Acts was clearly crafted with a **broader readership in mind**, encompassing both Jewish and Gentile Christian communities. The work addresses the critical question of how the Jewish Messiah came to have an overwhelmingly non-Jewish church, arguing that the Gospel reached the Gentiles after initial Jewish rejection.
 
@@ -75,7 +75,7 @@ However, Acts was clearly crafted with a **broader readership in mind**, encompa
 
 Acts unfolds entirely within the context of the **Roman Empire**, which dominated the Mediterranean world in the first century. Key political realities included:
 
-1. **Roman Law and Administration**: The narrative frequently involves Roman officials, governors, and legal proceedings. Paul's Roman citizenship plays a crucial role in his protection and eventual appeal to Caesar ([Acts 16:37-38](https://eternal.family.net.za/bible/books/acts/16#37), [Acts 22:25-29](https://eternal.family.net.za/bible/books/acts/22#25), [Acts 25:11](https://eternal.family.net.za/bible/books/acts/25#11)).
+1. **Roman Law and Administration**: The narrative frequently involves Roman officials, governors, and legal proceedings. Paul's Roman citizenship plays a crucial role in his protection and eventual appeal to Caesar ([Acts 16:37-38, [Acts 22:25-29, [Acts 25:11).
 
 2. **Pax Romana**: The Roman Peace provided infrastructure (roads, sea travel) and relative stability that facilitated Paul's missionary journeys throughout Asia Minor, Greece, and eventually to Rome itself.
 
@@ -87,7 +87,7 @@ The events of Acts occur in a **Hellenistic** (Greek-influenced) cultural enviro
 
 1. **Greek Language**: The *koine* (common) Greek was the lingua franca of the eastern Mediterranean, enabling the Gospel message to spread across diverse regions.
 
-2. **Greek Philosophy**: Paul's speech at the Areopagus in Athens ([Acts 17:22-31](https://eternal.family.net.za/bible/books/acts/17#22)) demonstrates engagement with Greek philosophical thought, including Stoic and Epicurean philosophy.
+2. **Greek Philosophy**: Paul's speech at the Areopagus in Athens ([Acts 17:22-31) demonstrates engagement with Greek philosophical thought, including Stoic and Epicurean philosophy.
 
 3. **Syncretism**: The Greco-Roman world was religiously pluralistic, with numerous gods, mystery religions, magic practices, and philosophical schools competing for adherents.
 
@@ -95,17 +95,17 @@ The events of Acts occur in a **Hellenistic** (Greek-influenced) cultural enviro
 
 The most critical aspect of Acts' historical environment is the relationship between **Judaism and the emerging Christian movement**:
 
-1. **Christianity's Jewish Origins**: The book begins in Jerusalem with Jesus' Jewish followers. Early Christians continued to worship in the Temple ([Acts 2:46](https://eternal.family.net.za/bible/books/acts/2#46), [Acts 3:1](https://eternal.family.net.za/bible/books/acts/3#1)) and maintained Jewish practices.
+1. **Christianity's Jewish Origins**: The book begins in Jerusalem with Jesus' Jewish followers. Early Christians continued to worship in the Temple ([Acts 2:46, [Acts 3:1) and maintained Jewish practices.
 
 2. **The Gradual Split**: Acts documents the progressive separation between Judaism and Christianity. Initially viewed as a sect within Judaism, Christianity increasingly became a distinct religion as Gentile converts outnumbered Jewish believers and tensions grew over the Law of Moses.
 
-3. **Paul's Conversion (c. 33-36 AD)**: The conversion of Saul of Tarsus, a Pharisee who had persecuted Christians, marked a turning point. Paul's mission to the Gentiles ([Acts 9:15](https://eternal.family.net.za/bible/books/acts/9#15)) became central to Christianity's transformation into a predominantly Gentile movement.
+3. **Paul's Conversion (c. 33-36 AD)**: The conversion of Saul of Tarsus, a Pharisee who had persecuted Christians, marked a turning point. Paul's mission to the Gentiles ([Acts 9:15) became central to Christianity's transformation into a predominantly Gentile movement.
 
-4. **The Jerusalem Council (c. 49 AD)**: The debate over whether Gentile converts must follow Jewish Law ([Acts 15](https://eternal.family.net.za/bible/books/acts/15#1)) represents a watershed moment in defining Christianity's relationship to Judaism.
+4. **The Jerusalem Council (c. 49 AD)**: The debate over whether Gentile converts must follow Jewish Law ([Acts 15) represents a watershed moment in defining Christianity's relationship to Judaism.
 
 ### Geographic and Social Setting
 
-The narrative of Acts traces a geographic expansion from **Jerusalem to Rome**, fulfilling Jesus' commission: "you will be my witnesses in Jerusalem and in all Judea and Samaria, and to the end of the earth" ([Acts 1:8](https://eternal.family.net.za/bible/books/acts/1#8)).
+The narrative of Acts traces a geographic expansion from **Jerusalem to Rome**, fulfilling Jesus' commission: "you will be my witnesses in Jerusalem and in all Judea and Samaria, and to the end of the earth" ([Acts 1:8).
 
 **Major Regions Covered**:
 - **Judea and Samaria**: The initial spread of the Gospel (Acts 1-8)
@@ -158,8 +158,8 @@ The Book of Acts serves multiple interwoven purposes—historical, theological, 
 
 Acts provides the only canonical account of Christianity's first three decades. The author systematically documents:
 
-1. **The Church's Birth**: Beginning with Jesus' ascension and the outpouring of the Holy Spirit at Pentecost ([Acts 1-2](https://eternal.family.net.za/bible/books/acts/1#1))
-2. **Geographic Expansion**: Tracing the Gospel's spread from Jerusalem through Judea and Samaria to "the ends of the earth" ([Acts 1:8](https://eternal.family.net.za/bible/books/acts/1#8))
+1. **The Church's Birth**: Beginning with Jesus' ascension and the outpouring of the Holy Spirit at Pentecost ([Acts 1-2)
+2. **Geographic Expansion**: Tracing the Gospel's spread from Jerusalem through Judea and Samaria to "the ends of the earth" ([Acts 1:8)
 3. **Key Figures**: Chronicling the ministries of Peter (Acts 1-12) and Paul (Acts 13-28), along with other early leaders
 4. **Apostolic Authority**: Establishing the legitimacy and authority of the apostles as Jesus' authorized representatives
 
@@ -170,9 +170,9 @@ The narrative fulfills Jesus' commission in Acts 1:8: "But you will receive powe
 **1. Demonstrate the Holy Spirit's Central Role**
 
 Acts is sometimes called "The Acts of the Holy Spirit" because it emphasizes the Spirit's work throughout:
-- Empowering the apostles for witness ([Acts 1:8](https://eternal.family.net.za/bible/books/acts/1#8), [2:1-4](https://eternal.family.net.za/bible/books/acts/2#1))
-- Guiding missionary decisions ([Acts 13:2](https://eternal.family.net.za/bible/books/acts/13#2), [16:6-10](https://eternal.family.net.za/bible/books/acts/16#6))
-- Validating Gentile inclusion through dramatic manifestations ([Acts 10:44-48](https://eternal.family.net.za/bible/books/acts/10#44), [19:1-7](https://eternal.family.net.za/bible/books/acts/19#1))
+- Empowering the apostles for witness ([Acts 1:8, [2:1-4)
+- Guiding missionary decisions ([Acts 13:2, [16:6-10)
+- Validating Gentile inclusion through dramatic manifestations ([Acts 10:44-48, [19:1-7)
 - Enabling miracles, healings, and bold proclamation
 
 The author presents the Spirit as the continuing presence and power of the risen Jesus, accomplishing through his followers what Jesus began during his earthly ministry.
@@ -183,8 +183,8 @@ A central theological problem Acts addresses is: *How did the Jewish Messiah, re
 
 The author carefully constructs an answer:
 - **Divine Initiative**: God himself directs the Gentile mission through visions (Peter's vision in Acts 10), Spirit-guidance (Acts 13:2), and miraculous signs
-- **Scriptural Fulfillment**: The inclusion of Gentiles fulfills Old Testament prophecy ([Acts 15:15-18](https://eternal.family.net.za/bible/books/acts/15#15), quoting Amos)
-- **Jewish Rejection First**: The pattern throughout Acts shows Paul preaching first to Jews in synagogues; only after rejection does he turn to Gentiles ([Acts 13:46](https://eternal.family.net.za/bible/books/acts/13#46), [18:6](https://eternal.family.net.za/bible/books/acts/18#6), [28:25-28](https://eternal.family.net.za/bible/books/acts/28#25))
+- **Scriptural Fulfillment**: The inclusion of Gentiles fulfills Old Testament prophecy ([Acts 15:15-18, quoting Amos)
+- **Jewish Rejection First**: The pattern throughout Acts shows Paul preaching first to Jews in synagogues; only after rejection does he turn to Gentiles ([Acts 13:46, [18:6, [28:25-28)
 - **Apostolic Consensus**: The Jerusalem Council (Acts 15) provides apostolic authorization for Gentile Christianity without full Law observance
 
 **3. Legitimize Gentile Christianity**
@@ -200,7 +200,7 @@ The author establishes that Gentile believers are fully legitimate members of Go
 **4. Show Christianity as the Fulfillment of Judaism**
 
 Throughout Acts, speeches demonstrate from Scripture that:
-- Jesus is the promised Messiah ([Acts 2:14-36](https://eternal.family.net.za/bible/books/acts/2#14), [3:18-26](https://eternal.family.net.za/bible/books/acts/3#18), [13:16-41](https://eternal.family.net.za/bible/books/acts/13#16))
+- Jesus is the promised Messiah ([Acts 2:14-36, [3:18-26, [13:16-41)
 - His death and resurrection were prophesied in the Old Testament
 - The "age of fulfillment" prophesied by the prophets has arrived
 - Christianity is not a departure from Judaism but its fulfillment
@@ -211,8 +211,8 @@ Throughout Acts, speeches demonstrate from Scripture that:
 
 Several scholars argue Acts serves an apologetic function, showing Roman authorities that Christianity poses no political threat:
 
-- **Roman Officials as Fair Arbiters**: Repeatedly, Roman officials find no fault in Christians. The proconsul Gallio dismisses charges against Paul ([Acts 18:12-17](https://eternal.family.net.za/bible/books/acts/18#12)), as does Felix ([Acts 24:22-23](https://eternal.family.net.za/bible/books/acts/24#22)), Festus ([Acts 25:25](https://eternal.family.net.za/bible/books/acts/25#25)), and King Agrippa ([Acts 26:31-32](https://eternal.family.net.za/bible/books/acts/26#31))
-- **Paul's Roman Citizenship**: Highlighting Paul's citizenship ([Acts 16:37-38](https://eternal.family.net.za/bible/books/acts/16#37), [22:25-29](https://eternal.family.net.za/bible/books/acts/22#25)) presents Christianity as compatible with Roman identity
+- **Roman Officials as Fair Arbiters**: Repeatedly, Roman officials find no fault in Christians. The proconsul Gallio dismisses charges against Paul ([Acts 18:12-17), as does Felix ([Acts 24:22-23), Festus ([Acts 25:25), and King Agrippa ([Acts 26:31-32)
+- **Paul's Roman Citizenship**: Highlighting Paul's citizenship ([Acts 16:37-38, [22:25-29) presents Christianity as compatible with Roman identity
 - **Peaceful Intentions**: Christians are shown respecting authorities and seeking peaceful coexistence
 - **Jewish Opposition**: Conflicts arise from Jewish opposition, not Christian insurrection
 
@@ -221,9 +221,9 @@ This apologetic may have been directed toward Theophilus (possibly a Roman offic
 **2. Defend Paul's Apostolic Authority**
 
 A significant portion of Acts (chapters 13-28) focuses on Paul's ministry, establishing his credentials as an apostle:
-- His dramatic conversion and divine commissioning ([Acts 9](https://eternal.family.net.za/bible/books/acts/9#1), [22](https://eternal.family.net.za/bible/books/acts/22#1), [26](https://eternal.family.net.za/bible/books/acts/26#1))
+- His dramatic conversion and divine commissioning ([Acts 9, [22, [26)
 - His performance of apostolic signs and wonders
-- His acceptance by the Jerusalem apostles ([Acts 15](https://eternal.family.net.za/bible/books/acts/15#1))
+- His acceptance by the Jerusalem apostles ([Acts 15)
 - His missionary success
 
 This may address questions about Paul's authority, especially since he was not one of the original Twelve.
@@ -238,7 +238,7 @@ Acts serves the Christian community by:
 2. **Modeling Leadership**: Showing how apostles led, made decisions, resolved conflicts (Acts 6, 15), and appointed leaders
 3. **Encouraging Perseverance**: Demonstrating that opposition and suffering are normal for God's people, yet the Word continues to spread
 4. **Teaching Theology Through Narrative**: The speeches in Acts provide theological instruction on Jesus' identity, the resurrection, repentance, baptism, and the Holy Spirit
-5. **Illustrating Prayer and Worship**: Showing early Christians' devotion to prayer, communal life, and the apostles' teaching ([Acts 2:42](https://eternal.family.net.za/bible/books/acts/2#42))
+5. **Illustrating Prayer and Worship**: Showing early Christians' devotion to prayer, communal life, and the apostles' teaching ([Acts 2:42)
 
 ### Specific Issues Addressed
 
@@ -297,7 +297,7 @@ Acts extensively quotes and alludes to the Old Testament, particularly in the sp
 
 **1. Joel 2:28-32 in Peter's Pentecost Sermon**
 
-Perhaps the most famous Old Testament quotation in Acts appears in [Acts 2:17-21](https://eternal.family.net.za/bible/books/acts/2#17), where Peter quotes Joel's prophecy to explain the Pentecost experience:
+Perhaps the most famous Old Testament quotation in Acts appears in [Acts 2:17-21, where Peter quotes Joel's prophecy to explain the Pentecost experience:
 
 *"'And in the last days it shall be, God declares, that I will pour out my Spirit on all flesh, and your sons and your daughters shall prophesy, and your young men shall see visions, and your old men shall dream dreams; even on my male servants and female servants in those days I will pour out my Spirit, and they shall prophesy. And I will show wonders in the heavens above and signs on the earth below, blood, and fire, and vapor of smoke; the sun shall be turned to darkness and the moon to blood, before the day of the Lord comes, the great and magnificent day. And it shall come to pass that everyone who calls upon the name of the Lord shall be saved.'"*
 
@@ -305,15 +305,15 @@ Peter interprets the outpouring of the Holy Spirit as the fulfillment of Joel's 
 
 **2. Psalm 16:8-11 About the Messiah's Resurrection**
 
-In [Acts 2:25-28](https://eternal.family.net.za/bible/books/acts/2#25), Peter quotes Psalm 16 to argue for Jesus' resurrection:
+In [Acts 2:25-28, Peter quotes Psalm 16 to argue for Jesus' resurrection:
 
 *"For David says concerning him, 'I saw the Lord always before me, for he is at my right hand that I may not be shaken; therefore my heart was glad, and my tongue rejoiced; my flesh also will dwell in hope. For you will not abandon my soul to Hades, or let your Holy One see corruption. You have made known to me the paths of life; you will make me full of gladness with your presence.'"*
 
-Peter argues that David could not have been speaking of himself since David died and was buried ([Acts 2:29](https://eternal.family.net.za/bible/books/acts/2#29)), therefore the psalm must prophesy the Messiah who would not see corruption—fulfilled in Jesus' resurrection.
+Peter argues that David could not have been speaking of himself since David died and was buried ([Acts 2:29), therefore the psalm must prophesy the Messiah who would not see corruption—fulfilled in Jesus' resurrection.
 
 **3. Psalm 110:1 About the Messiah's Exaltation**
 
-Peter quotes Psalm 110:1 in [Acts 2:34-35](https://eternal.family.net.za/bible/books/acts/2#34):
+Peter quotes Psalm 110:1 in [Acts 2:34-35:
 
 *"For David did not ascend into the heavens, but he himself says, 'The Lord said to my Lord, "Sit at my right hand, until I make your enemies your footstool."'"*
 
@@ -321,13 +321,13 @@ This psalm, **the most quoted Psalm in the New Testament**, establishes Jesus' e
 
 **4. Psalms 69 and 109 About Judas' Replacement**
 
-In [Acts 1:20](https://eternal.family.net.za/bible/books/acts/1#20), Peter quotes two imprecatory psalms to explain the need to replace Judas:
+In [Acts 1:20, Peter quotes two imprecatory psalms to explain the need to replace Judas:
 
 *"For it is written in the Book of Psalms, 'May his camp become desolate, and let there be no one to dwell in it' [Psalm 69:25]; and 'Let another take his office' [Psalm 109:8]."*
 
 **5. Psalm 118:22 About the Rejected Stone**
 
-Peter quotes Psalm 118 in [Acts 4:11](https://eternal.family.net.za/bible/books/acts/4#11) when defending before the Sanhedrin:
+Peter quotes Psalm 118 in [Acts 4:11 when defending before the Sanhedrin:
 
 *"This Jesus is the stone that was rejected by you, the builders, which has become the cornerstone."*
 
@@ -335,7 +335,7 @@ This connects Jesus' rejection by the Jewish leaders with scriptural prophecy.
 
 ### Stephen's Speech: Extensive Old Testament History
 
-Stephen's defense speech in [Acts 7](https://eternal.family.net.za/bible/books/acts/7#1) is the longest speech in Acts and consists almost entirely of Old Testament history, recounting:
+Stephen's defense speech in [Acts 7 is the longest speech in Acts and consists almost entirely of Old Testament history, recounting:
 - Abraham's call and God's promises (7:2-8)
 - Joseph's rejection and eventual exaltation (7:9-16)
 - Moses' life, rejection, and leadership (7:17-44)
@@ -351,10 +351,10 @@ Paul's first recorded sermon contains multiple Old Testament references:
 
 - References to Israel's exodus and conquest history (13:17-22)
 - Quotes from 2 Samuel 7:6 about God seeking David (13:22)
-- Quotes Psalm 2:7: "You are my Son, today I have begotten you" ([Acts 13:33](https://eternal.family.net.za/bible/books/acts/13#33))
-- Quotes Isaiah 55:3: "I will give you the holy and sure blessings of David" ([Acts 13:34](https://eternal.family.net.za/bible/books/acts/13#34))
-- Quotes Psalm 16:10: "You will not let your Holy One see corruption" ([Acts 13:35](https://eternal.family.net.za/bible/books/acts/13#35))
-- Quotes Habakkuk 1:5: "Look, you scoffers, be astounded and perish" ([Acts 13:41](https://eternal.family.net.za/bible/books/acts/13#41))
+- Quotes Psalm 2:7: "You are my Son, today I have begotten you" ([Acts 13:33)
+- Quotes Isaiah 55:3: "I will give you the holy and sure blessings of David" ([Acts 13:34)
+- Quotes Psalm 16:10: "You will not let your Holy One see corruption" ([Acts 13:35)
+- Quotes Habakkuk 1:5: "Look, you scoffers, be astounded and perish" ([Acts 13:41)
 
 **2. Paul's Speech in Athens (Acts 17:22-31)**
 
@@ -362,7 +362,7 @@ While not quoting Hebrew Scripture, Paul quotes Greek poets: "In him we live and
 
 **3. Paul's Final Words to Jewish Leaders in Rome**
 
-In [Acts 28:26-27](https://eternal.family.net.za/bible/books/acts/28#26), Paul quotes Isaiah 6:9-10 to explain Jewish rejection:
+In [Acts 28:26-27, Paul quotes Isaiah 6:9-10 to explain Jewish rejection:
 
 *"'Go to this people, and say, "You will indeed hear but never understand, and you will indeed see but never perceive." For this people's heart has grown dull, and with their ears they can barely hear, and their eyes they have closed; lest they should see with their eyes and hear with their ears and understand with their heart and turn, and I would heal them.'"*
 
@@ -372,11 +372,11 @@ This quotation concludes Acts, explaining the book's central tension: why the Je
 
 Beyond explicit quotations, Acts demonstrates pervasive Old Testament typology:
 
-**Moses Typology**: Jesus is presented as a prophet like Moses ([Acts 3:22-23](https://eternal.family.net.za/bible/books/acts/3#22), quoting Deuteronomy 18:15-19)
+**Moses Typology**: Jesus is presented as a prophet like Moses ([Acts 3:22-23, quoting Deuteronomy 18:15-19)
 
 **Prophetic Fulfillment**: The phrase "age of fulfillment" repeatedly appears, with speakers arguing that Old Testament prophecies are now being realized in Jesus and the church
 
-**Amos 9:11-12**: Quoted by James at the Jerusalem Council ([Acts 15:16-17](https://eternal.family.net.za/bible/books/acts/15#16)) to justify Gentile inclusion: "After this I will return, and I will rebuild the tent of David that has fallen..."
+**Amos 9:11-12**: Quoted by James at the Jerusalem Council ([Acts 15:16-17) to justify Gentile inclusion: "After this I will return, and I will rebuild the tent of David that has fallen..."
 
 ### Acts Not Extensively Quoted in Other New Testament Books
 
@@ -666,9 +666,9 @@ Acts' most distinctive theological contribution is its **unprecedented emphasis 
 
 **Unique Aspects of Acts' Pneumatology**:
 
-- **The Spirit as Divine Director**: The Holy Spirit actively guides, prevents, and initiates missionary activities in ways not described elsewhere. The Spirit forbids Paul from entering Asia ([Acts 16:6](https://eternal.family.net.za/bible/books/acts/16#6)), prevents entry to Bithynia ([Acts 16:7](https://eternal.family.net.za/bible/books/acts/16#7)), and explicitly commands the church to commission Barnabas and Saul ([Acts 13:2](https://eternal.family.net.za/bible/books/acts/13#2)).
+- **The Spirit as Divine Director**: The Holy Spirit actively guides, prevents, and initiates missionary activities in ways not described elsewhere. The Spirit forbids Paul from entering Asia ([Acts 16:6), prevents entry to Bithynia ([Acts 16:7), and explicitly commands the church to commission Barnabas and Saul ([Acts 13:2).
 
-- **The Spirit as Validator**: The visible, audible manifestations of the Holy Spirit (tongues of fire, speaking in languages, prophesying) serve to validate Gentile inclusion in ways unique to Acts. At Cornelius's house, the Spirit's falling on Gentiles proves they are acceptable to God ([Acts 10:44-47](https://eternal.family.net.za/bible/books/acts/10#44)).
+- **The Spirit as Validator**: The visible, audible manifestations of the Holy Spirit (tongues of fire, speaking in languages, prophesying) serve to validate Gentile inclusion in ways unique to Acts. At Cornelius's house, the Spirit's falling on Gentiles proves they are acceptable to God ([Acts 10:44-47).
 
 - **Multiple "Pentecosts"**: Acts describes several distinct Spirit-outpourings: Jerusalem Jews (Acts 2), Samaritans (Acts 8:14-17), Gentiles at Cornelius's house (Acts 10), and Ephesian disciples (Acts 19:1-7). This pattern of multiple Spirit-baptisms is unique to Acts.
 
@@ -679,16 +679,16 @@ Acts provides the only biblical account of **Pentecost as the inaugural event** 
 **Unique Elements**:
 - The connection between the **Jewish festival of Pentecost** (celebrating the giving of the Law) and the Spirit's coming, suggesting the new covenant parallels the Sinai covenant
 - The specific details: wind, fire, speaking in foreign languages enabling international witness
-- The fulfillment of Joel 2:28-32 as inaugurating the "last days" ([Acts 2:17](https://eternal.family.net.za/bible/books/acts/2#17))
+- The fulfillment of Joel 2:28-32 as inaugurating the "last days" ([Acts 2:17)
 - The immediate result of 3,000 conversions establishing the church as a sizable community
 
 ### 3. Communal Living and Economic Sharing
 
 Acts uniquely describes the **radical economic practices** of the early Jerusalem church:
 
-"And all who believed were together and had all things in common. And they were selling their possessions and belongings and distributing the proceeds to all, as any had need." ([Acts 2:44-45](https://eternal.family.net.za/bible/books/acts/2#44))
+"And all who believed were together and had all things in common. And they were selling their possessions and belongings and distributing the proceeds to all, as any had need." ([Acts 2:44-45)
 
-"Now the full number of those who believed were of one heart and soul, and no one said that any of the things that belonged to him was his own, but they had everything in common... There was not a needy person among them, for as many as were owners of lands or houses sold them and brought the proceeds of what was sold and laid it at the apostles' feet, and it was distributed to each as any had need." ([Acts 4:32-35](https://eternal.family.net.za/bible/books/acts/4#32))
+"Now the full number of those who believed were of one heart and soul, and no one said that any of the things that belonged to him was his own, but they had everything in common... There was not a needy person among them, for as many as were owners of lands or houses sold them and brought the proceeds of what was sold and laid it at the apostles' feet, and it was distributed to each as any had need." ([Acts 4:32-35)
 
 **Unique Aspects**:
 - **No other New Testament book describes this practice** in such detail or presents it as normative for the early church
@@ -700,10 +700,10 @@ Acts uniquely describes the **radical economic practices** of the early Jerusale
 While the Gospels record Jesus' miracles and Paul's letters mention signs and wonders, **Acts provides the most extensive catalog of apostolic miracles**, emphasizing that miraculous power validated the apostles' message.
 
 **Unique Miracles in Acts**:
-- **Peter's shadow healing people** ([Acts 5:15](https://eternal.family.net.za/bible/books/acts/5#15))—a detail found nowhere else
-- **Handkerchiefs and aprons touched by Paul** healing diseases and exorcising demons ([Acts 19:11-12](https://eternal.family.net.za/bible/books/acts/19#11))
-- **Corporate miraculous events**: the shaking of the room after prayer ([Acts 4:31](https://eternal.family.net.za/bible/books/acts/4#31)), prison doors opening by themselves
-- **Multiple resurrections**: Tabitha by Peter ([Acts 9:36-42](https://eternal.family.net.za/bible/books/acts/9#36)), Eutychus by Paul ([Acts 20:9-12](https://eternal.family.net.za/bible/books/acts/20#9))
+- **Peter's shadow healing people** ([Acts 5:15)—a detail found nowhere else
+- **Handkerchiefs and aprons touched by Paul** healing diseases and exorcising demons ([Acts 19:11-12)
+- **Corporate miraculous events**: the shaking of the room after prayer ([Acts 4:31), prison doors opening by themselves
+- **Multiple resurrections**: Tabitha by Peter ([Acts 9:36-42), Eutychus by Paul ([Acts 20:9-12)
 
 ### 5. The Transition from Jewish to Gentile-Majority Church
 
@@ -711,11 +711,11 @@ Acts **uniquely documents the theological and historical transition** of Christi
 
 **Unique Teachings on This Transition**:
 
-- **The Jerusalem Council's Decision** ([Acts 15](https://eternal.family.net.za/bible/books/acts/15#1)): The authoritative ruling that Gentiles need not be circumcised or fully keep the Mosaic Law is recorded only in Acts. This monumental decision, attributed to the Holy Spirit's guidance ([Acts 15:28](https://eternal.family.net.za/bible/books/acts/15#28)), shaped Christianity's identity.
+- **The Jerusalem Council's Decision** ([Acts 15): The authoritative ruling that Gentiles need not be circumcised or fully keep the Mosaic Law is recorded only in Acts. This monumental decision, attributed to the Holy Spirit's guidance ([Acts 15:28), shaped Christianity's identity.
 
-- **Divine Initiative in Gentile Inclusion**: Peter's vision of clean and unclean animals ([Acts 10:9-16](https://eternal.family.net.za/bible/books/acts/10#9)) and the voice declaring "What God has made clean, do not call common" provides unique theological justification for Gentile inclusion.
+- **Divine Initiative in Gentile Inclusion**: Peter's vision of clean and unclean animals ([Acts 10:9-16) and the voice declaring "What God has made clean, do not call common" provides unique theological justification for Gentile inclusion.
 
-- **The Pattern of Jewish Rejection, Then Gentile Acceptance**: Paul's repeated pattern of preaching first in synagogues, facing Jewish rejection, then turning to receptive Gentiles ([Acts 13:46](https://eternal.family.net.za/bible/books/acts/13#46), [18:6](https://eternal.family.net.za/bible/books/acts/18#6), [28:28](https://eternal.family.net.za/bible/books/acts/28#28)) provides a theological explanation for why the Messiah's followers became predominantly non-Jewish.
+- **The Pattern of Jewish Rejection, Then Gentile Acceptance**: Paul's repeated pattern of preaching first in synagogues, facing Jewish rejection, then turning to receptive Gentiles ([Acts 13:46, [18:6, [28:28) provides a theological explanation for why the Messiah's followers became predominantly non-Jewish.
 
 ### 6. Geography as Theological Theme
 
@@ -731,12 +731,12 @@ Acts uniquely presents **geographic expansion as a theological principle**. Jesu
 Acts preserves the **earliest forms of Christian preaching** (the *kerygma*), showing what the first Christians emphasized when proclaiming Jesus. Scholars have identified a consistent pattern in Peter's and Paul's speeches unique to Acts:
 
 **Common Elements of Acts' Kerygma**:
-1. The age of fulfillment has dawned ([Acts 2:16](https://eternal.family.net.za/bible/books/acts/2#16))
-2. This has taken place through Jesus' ministry, death, and resurrection ([Acts 2:22-24](https://eternal.family.net.za/bible/books/acts/2#22))
-3. Jesus has been exalted to God's right hand ([Acts 2:33-36](https://eternal.family.net.za/bible/books/acts/2#33))
-4. The Holy Spirit's presence is the sign of Christ's present power and glory ([Acts 2:33](https://eternal.family.net.za/bible/books/acts/2#33))
-5. The messianic age will reach consummation in Christ's return ([Acts 3:20-21](https://eternal.family.net.za/bible/books/acts/3#20))
-6. Therefore, repent and be baptized ([Acts 2:38](https://eternal.family.net.za/bible/books/acts/2#38))
+1. The age of fulfillment has dawned ([Acts 2:16)
+2. This has taken place through Jesus' ministry, death, and resurrection ([Acts 2:22-24)
+3. Jesus has been exalted to God's right hand ([Acts 2:33-36)
+4. The Holy Spirit's presence is the sign of Christ's present power and glory ([Acts 2:33)
+5. The messianic age will reach consummation in Christ's return ([Acts 3:20-21)
+6. Therefore, repent and be baptized ([Acts 2:38)
 
 This consistent pattern provides unique insight into the earliest Christian proclamation.
 
@@ -745,25 +745,25 @@ This consistent pattern provides unique insight into the earliest Christian proc
 While Paul discusses spiritual gifts including tongues in 1 Corinthians, **Acts presents speaking in tongues specifically as a validating sign** that the Holy Spirit has been received, particularly for controversial groups (Samaritans, Gentiles, John's disciples).
 
 **Unique to Acts**:
-- At Pentecost, tongues are **recognizable foreign languages** enabling international witness ([Acts 2:4-11](https://eternal.family.net.za/bible/books/acts/2#4))
-- At Cornelius's house, tongues **prove to Jewish Christians** that Gentiles have received the same gift ([Acts 10:46](https://eternal.family.net.za/bible/books/acts/10#46))
+- At Pentecost, tongues are **recognizable foreign languages** enabling international witness ([Acts 2:4-11)
+- At Cornelius's house, tongues **prove to Jewish Christians** that Gentiles have received the same gift ([Acts 10:46)
 - The emphasis is on tongues as **evidence** of the Spirit's presence rather than as a gift for church edification (Paul's emphasis in 1 Corinthians)
 
 ### 9. The Church's Authority to Make Binding Decisions
 
-The Jerusalem Council ([Acts 15](https://eternal.family.net.za/bible/books/acts/15#1)) presents a **unique model of church governance** where the apostles and elders gather to resolve doctrinal disputes and make decisions "together with the whole church" ([Acts 15:22](https://eternal.family.net.za/bible/books/acts/15#22)).
+The Jerusalem Council ([Acts 15) presents a **unique model of church governance** where the apostles and elders gather to resolve doctrinal disputes and make decisions "together with the whole church" ([Acts 15:22).
 
 **Unique Elements**:
-- The explicit attribution of the decision to **both the Holy Spirit and church leaders**: "For it has seemed good to the Holy Spirit and to us..." ([Acts 15:28](https://eternal.family.net.za/bible/books/acts/15#28))
+- The explicit attribution of the decision to **both the Holy Spirit and church leaders**: "For it has seemed good to the Holy Spirit and to us..." ([Acts 15:28)
 - The model of **collegial decision-making** involving apostles, elders, and the congregation
 - The concept that the church has **authority to settle doctrinal matters** for all congregations
 
 ### 10. The "Word" as an Active Force
 
 Acts uniquely portrays **"the word" (of God/the Lord) as almost a character in the narrative**, actively growing and multiplying:
-- "And the word of God continued to increase, and the number of the disciples multiplied greatly in Jerusalem" ([Acts 6:7](https://eternal.family.net.za/bible/books/acts/6#7))
-- "But the word of God increased and multiplied" ([Acts 12:24](https://eternal.family.net.za/bible/books/acts/12#24))
-- "So the word of the Lord continued to increase and prevail mightily" ([Acts 19:20](https://eternal.family.net.za/bible/books/acts/19#20))
+- "And the word of God continued to increase, and the number of the disciples multiplied greatly in Jerusalem" ([Acts 6:7)
+- "But the word of God increased and multiplied" ([Acts 12:24)
+- "So the word of the Lord continued to increase and prevail mightily" ([Acts 19:20)
 
 This personification of "the word" as an active, growing entity is distinctive to Acts.
 
@@ -771,9 +771,9 @@ This personification of "the word" as an active, growing entity is distinctive t
 
 Acts provides **unique details about Paul's conversion** not found in his own epistles:
 - **Three separate accounts** (Acts 9, 22, 26), each with slightly different emphases
-- The **involvement of Ananias** and his vision from the Lord ([Acts 9:10-17](https://eternal.family.net.za/bible/books/acts/9#10))
-- Jesus' specific words: **"I am Jesus, whom you are persecuting"** ([Acts 9:5](https://eternal.family.net.za/bible/books/acts/9#5))
-- Jesus' commission of Paul as a **"chosen instrument"** to carry his name before Gentiles, kings, and Israel ([Acts 9:15](https://eternal.family.net.za/bible/books/acts/9#15))
+- The **involvement of Ananias** and his vision from the Lord ([Acts 9:10-17)
+- Jesus' specific words: **"I am Jesus, whom you are persecuting"** ([Acts 9:5)
+- Jesus' commission of Paul as a **"chosen instrument"** to carry his name before Gentiles, kings, and Israel ([Acts 9:15)
 - Paul's **blindness and healing** through Ananias
 
 While Paul mentions his conversion in his letters, Acts provides the narrative details that have shaped Christian understanding of this pivotal event.
@@ -951,7 +951,7 @@ The historical reliability of Acts has been extensively debated among biblical s
 
 In Gamaliel's speech before the Sanhedrin, he cites historical examples to counsel caution regarding the apostles:
 
-"For before these days **Theudas rose up, claiming to be somebody**, and a number of men, about four hundred, joined him. He was killed, and all who followed him were dispersed and came to nothing. **After him Judas the Galilean rose up** in the days of the census and drew away some of the people after him. He too perished, and all who followed him were scattered." ([Acts 5:36-37](https://eternal.family.net.za/bible/books/acts/5#36))
+"For before these days **Theudas rose up, claiming to be somebody**, and a number of men, about four hundred, joined him. He was killed, and all who followed him were dispersed and came to nothing. **After him Judas the Galilean rose up** in the days of the census and drew away some of the people after him. He too perished, and all who followed him were scattered." ([Acts 5:36-37)
 
 According to Josephus's *Antiquities of the Jews* (20.5.1), a rebel named **Theudas led a movement around 44-46 AD**, claiming to be a prophet. However, **Judas the Galilean** led a revolt **around 6 AD** during the census of Quirinius (which Josephus confirms in *Antiquities* 18.1.1).
 
@@ -976,7 +976,7 @@ According to Josephus's *Antiquities of the Jews* (20.5.1), a rebel named **Theu
 
 Stephen's lengthy speech recounting Israel's history contains several potential historical difficulties:
 
-**Problem A: Abraham's Residence** ([Acts 7:2-4](https://eternal.family.net.za/bible/books/acts/7#2))
+**Problem A: Abraham's Residence** ([Acts 7:2-4)
 
 Stephen states Abraham departed from Haran **after** his father Terah died. However, Genesis 11:26, 32 and 12:4 suggest Abraham left Haran when he was 75, while Terah lived to be 205—meaning Terah died about 60 years **after** Abraham left.
 
@@ -989,7 +989,7 @@ Stephen states Abraham departed from Haran **after** his father Terah died. Howe
 - Luke (through Stephen) made a chronological error based on misreading Genesis
 - Demonstrates Luke's historical inaccuracy
 
-**Problem B: Jacob's Burial** ([Acts 7:15-16](https://eternal.family.net.za/bible/books/acts/7#15))
+**Problem B: Jacob's Burial** ([Acts 7:15-16)
 
 Stephen states that Jacob and "our fathers" were "carried back to Shechem and laid in the tomb that Abraham had bought for a sum of silver from the sons of Hamor in Shechem."
 
@@ -1010,7 +1010,7 @@ This appears to conflate two different events:
 
 ### 3. The Census of Quirinius Reference (Acts 5:37)
 
-In the same Gamaliel speech, he mentions "Judas the Galilean rose up in the days of the census" ([Acts 5:37](https://eternal.family.net.za/bible/books/acts/5#37)). This census is described in Luke 2:2 as occurring when Quirinius was governor of Syria, at the time of Jesus' birth.
+In the same Gamaliel speech, he mentions "Judas the Galilean rose up in the days of the census" ([Acts 5:37). This census is described in Luke 2:2 as occurring when Quirinius was governor of Syria, at the time of Jesus' birth.
 
 **The Problem**:
 
@@ -1067,9 +1067,9 @@ This differs from Matthew 27:5, which states Judas hanged himself.
 
 Acts contains various numerical claims that scholars question:
 
-- 3,000 baptized at Pentecost ([Acts 2:41](https://eternal.family.net.za/bible/books/acts/2#41))
-- 5,000 men believe ([Acts 4:4](https://eternal.family.net.za/bible/books/acts/4#4))
-- 7 deacons for "tables" ([Acts 6:1-6](https://eternal.family.net.za/bible/books/acts/6#1))
+- 3,000 baptized at Pentecost ([Acts 2:41)
+- 5,000 men believe ([Acts 4:4)
+- 7 deacons for "tables" ([Acts 6:1-6)
 
 **Critical View**: These round numbers may be symbolic or exaggerated rather than precise historical data.
 

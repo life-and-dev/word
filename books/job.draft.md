@@ -105,80 +105,80 @@ The fact that no ancient sources record debates over Job's canonical status sugg
 
 The Book of Job stands as one of the most profound explorations of human suffering and divine justice in ancient literature. This summary pays special attention to God's direct words and the inspired teachings throughout the narrative.
 
-**The Prologue in Heaven ([Job 1:1-2:13](https://eternal.family.net.za/bible/books/job/1#1)):**
+**The Prologue in Heaven ([Job 1:1-2:13):**
 
-The book opens by introducing Job, a man from the land of Uz, described as "blameless and upright; he feared God and shunned evil" ([Job 1:1](https://eternal.family.net.za/bible/books/job/1#1)). Job enjoyed extraordinary prosperity: seven sons, three daughters, 7,000 sheep, 3,000 camels, 500 yoke of oxen, 500 donkeys, and many servants ([Job 1:2-3](https://eternal.family.net.za/bible/books/job/1#2)).
+The book opens by introducing Job, a man from the land of Uz, described as "blameless and upright; he feared God and shunned evil" ([Job 1:1). Job enjoyed extraordinary prosperity: seven sons, three daughters, 7,000 sheep, 3,000 camels, 500 yoke of oxen, 500 donkeys, and many servants ([Job 1:2-3).
 
-The scene shifts to the heavenly court, where **God Himself speaks** to the accuser (Satan): "Have you considered my servant Job? There is no one on earth like him; he is blameless and upright, a man who fears God and shuns evil" ([Job 1:8](https://eternal.family.net.za/bible/books/job/1#8)). This divine testimony establishes Job's righteousness as God-affirmed, not merely human opinion.
+The scene shifts to the heavenly court, where **God Himself speaks** to the accuser (Satan): "Have you considered my servant Job? There is no one on earth like him; he is blameless and upright, a man who fears God and shuns evil" ([Job 1:8). This divine testimony establishes Job's righteousness as God-affirmed, not merely human opinion.
 
-The accuser challenges Job's motives, suggesting he serves God only because of divine protection and blessing. **God permits** the accuser to test Job, first by destroying his possessions and children, then by afflicting his body—but commanding: "he is in your hands; but you must spare his life" ([Job 2:6](https://eternal.family.net.za/bible/books/job/2#6)).
+The accuser challenges Job's motives, suggesting he serves God only because of divine protection and blessing. **God permits** the accuser to test Job, first by destroying his possessions and children, then by afflicting his body—but commanding: "he is in your hands; but you must spare his life" ([Job 2:6).
 
-Job loses everything catastrophically: raiding parties steal his livestock, fire consumes his sheep and servants, and a windstorm kills all his children. Yet Job's response demonstrates profound faith: "Naked I came from my mother's womb, and naked I will depart. The LORD gave and the LORD has taken away; may the name of the LORD be praised" ([Job 1:21](https://eternal.family.net.za/bible/books/job/1#21)). The narrator confirms: "In all this, Job did not sin by charging God with wrongdoing" ([Job 1:22](https://eternal.family.net.za/bible/books/job/1#22)).
+Job loses everything catastrophically: raiding parties steal his livestock, fire consumes his sheep and servants, and a windstorm kills all his children. Yet Job's response demonstrates profound faith: "Naked I came from my mother's womb, and naked I will depart. The LORD gave and the LORD has taken away; may the name of the LORD be praised" ([Job 1:21). The narrator confirms: "In all this, Job did not sin by charging God with wrongdoing" ([Job 1:22).
 
-In the second test, Job is afflicted with painful sores from head to foot. His wife urges him to "curse God and die," but Job responds: "Shall we accept good from God, and not trouble?" ([Job 2:9-10](https://eternal.family.net.za/bible/books/job/2#9)). Again, Scripture records: "In all this, Job did not sin in what he said" ([Job 2:10](https://eternal.family.net.za/bible/books/job/2#10)).
+In the second test, Job is afflicted with painful sores from head to foot. His wife urges him to "curse God and die," but Job responds: "Shall we accept good from God, and not trouble?" ([Job 2:9-10). Again, Scripture records: "In all this, Job did not sin in what he said" ([Job 2:10).
 
-**The Dialogues ([Job 3:1-31:40](https://eternal.family.net.za/bible/books/job/3#1)):**
+**The Dialogues ([Job 3:1-31:40):**
 
-Job breaks the seven-day silence with a lament, cursing the day of his birth ([Job 3:1-26](https://eternal.family.net.za/bible/books/job/3#1)). This initiates three cycles of dialogue between Job and his three friends: Eliphaz, Bildad, and Zophar.
+Job breaks the seven-day silence with a lament, cursing the day of his birth ([Job 3:1-26). This initiates three cycles of dialogue between Job and his three friends: Eliphaz, Bildad, and Zophar.
 
 *First Cycle (Chapters 4-14):*
-Eliphaz opens by gently suggesting Job must have sinned: "Consider now: Who, being innocent, has ever perished?" ([Job 4:7](https://eternal.family.net.za/bible/books/job/4#7)). He claims divine revelation through a night vision, reporting the message: "Can a mortal be more righteous than God? Can even a strong man be more pure than his Maker?" ([Job 4:17](https://eternal.family.net.za/bible/books/job/4#17)).
+Eliphaz opens by gently suggesting Job must have sinned: "Consider now: Who, being innocent, has ever perished?" ([Job 4:7). He claims divine revelation through a night vision, reporting the message: "Can a mortal be more righteous than God? Can even a strong man be more pure than his Maker?" ([Job 4:17).
 
-Job responds by asserting his innocence while acknowledging God's overwhelming power: "Though I were innocent, I could not answer him; I could only plead with my Judge for mercy" ([Job 9:15](https://eternal.family.net.za/bible/books/job/9#15)). He boldly states: "I will say to God: Do not declare me guilty, but tell me what charges you have against me" ([Job 10:2](https://eternal.family.net.za/bible/books/job/10#2)).
+Job responds by asserting his innocence while acknowledging God's overwhelming power: "Though I were innocent, I could not answer him; I could only plead with my Judge for mercy" ([Job 9:15). He boldly states: "I will say to God: Do not declare me guilty, but tell me what charges you have against me" ([Job 10:2).
 
 *Second Cycle (Chapters 15-21):*
-The friends intensify their accusations. Eliphaz questions Job's wisdom: "Are you the first man ever born? Were you brought forth before the hills?" ([Job 15:7](https://eternal.family.net.za/bible/books/job/15#7)). Bildad insists the wicked always suffer.
+The friends intensify their accusations. Eliphaz questions Job's wisdom: "Are you the first man ever born? Were you brought forth before the hills?" ([Job 15:7). Bildad insists the wicked always suffer.
 
-Job maintains his innocence and makes one of Scripture's most remarkable statements of faith: "I know that my redeemer lives, and that in the end he will stand on the earth. And after my skin has been destroyed, yet in my flesh I will see God; I myself will see him with my own eyes—I, and not another. How my heart yearns within me!" ([Job 19:25-27](https://eternal.family.net.za/bible/books/job/19#25)). This prophetic statement points beyond the immediate narrative toward resurrection hope.
+Job maintains his innocence and makes one of Scripture's most remarkable statements of faith: "I know that my redeemer lives, and that in the end he will stand on the earth. And after my skin has been destroyed, yet in my flesh I will see God; I myself will see him with my own eyes—I, and not another. How my heart yearns within me!" ([Job 19:25-27). This prophetic statement points beyond the immediate narrative toward resurrection hope.
 
 *Third Cycle (Chapters 22-31):*
-Eliphaz now directly accuses Job of specific sins: oppressing the poor, denying water to the thirsty, and withholding food from the hungry ([Job 22:5-9](https://eternal.family.net.za/bible/books/job/22#5)).
+Eliphaz now directly accuses Job of specific sins: oppressing the poor, denying water to the thirsty, and withholding food from the hungry ([Job 22:5-9).
 
-Job responds with an extended oath of innocence (chapters 29-31), cataloging his righteous deeds and calling for God to answer him: "Oh, that I had someone to hear me! I sign now my defense—let the Almighty answer me" ([Job 31:35](https://eternal.family.net.za/bible/books/job/31#35)).
+Job responds with an extended oath of innocence (chapters 29-31), cataloging his righteous deeds and calling for God to answer him: "Oh, that I had someone to hear me! I sign now my defense—let the Almighty answer me" ([Job 31:35).
 
-**Elihu's Speeches ([Job 32:1-37:24](https://eternal.family.net.za/bible/books/job/32#1)):**
+**Elihu's Speeches ([Job 32:1-37:24):**
 
 A young man named Elihu, previously unmentioned, suddenly appears and delivers four speeches. Angry at both Job (for justifying himself rather than God) and the three friends (for condemning Job without adequate answers), Elihu attempts a different approach.
 
-Elihu emphasizes that God speaks to humans through various means—dreams, visions, and suffering itself—to turn them from sin: "For God does speak—now one way, now another—though no one perceives it" ([Job 33:14](https://eternal.family.net.za/bible/books/job/33#14)). He argues that God is greater than humans and not obligated to explain His actions: "Why do you complain to him that he responds to no one's words?" ([Job 33:13](https://eternal.family.net.za/bible/books/job/33#13)).
+Elihu emphasizes that God speaks to humans through various means—dreams, visions, and suffering itself—to turn them from sin: "For God does speak—now one way, now another—though no one perceives it" ([Job 33:14). He argues that God is greater than humans and not obligated to explain His actions: "Why do you complain to him that he responds to no one's words?" ([Job 33:13).
 
-**God's Speeches from the Whirlwind ([Job 38:1-42:6](https://eternal.family.net.za/bible/books/job/38#1)):**
+**God's Speeches from the Whirlwind ([Job 38:1-42:6):**
 
 Finally, **the LORD Himself answers Job from a storm**, fundamentally reorienting the entire discussion. Notably, God neither explains Job's suffering nor defends His justice. Instead, He demonstrates His transcendent wisdom and power through a series of penetrating questions.
 
 *First Divine Speech (38:1-40:2):*
-**God speaks:** "Who is this that obscures my plans with words without knowledge? Brace yourself like a man; I will question you, and you shall answer me" ([Job 38:2-3](https://eternal.family.net.za/bible/books/job/38#2)).
+**God speaks:** "Who is this that obscures my plans with words without knowledge? Brace yourself like a man; I will question you, and you shall answer me" ([Job 38:2-3).
 
 **God's questions** survey creation's wonders:
-- "Where were you when I laid the earth's foundation? Tell me, if you understand" ([Job 38:4](https://eternal.family.net.za/bible/books/job/38#4))
-- "Have you ever given orders to the morning, or shown the dawn its place?" ([Job 38:12](https://eternal.family.net.za/bible/books/job/38#12))
-- "Have you journeyed to the springs of the sea or walked in the recesses of the deep?" ([Job 38:16](https://eternal.family.net.za/bible/books/job/38#16))
-- "Can you bind the chains of the Pleiades? Can you loosen Orion's belt?" ([Job 38:31](https://eternal.family.net.za/bible/books/job/38#31))
-- "Do you hunt the prey for the lioness and satisfy the hunger of the lions?" ([Job 38:39](https://eternal.family.net.za/bible/books/job/38#39))
+- "Where were you when I laid the earth's foundation? Tell me, if you understand" ([Job 38:4)
+- "Have you ever given orders to the morning, or shown the dawn its place?" ([Job 38:12)
+- "Have you journeyed to the springs of the sea or walked in the recesses of the deep?" ([Job 38:16)
+- "Can you bind the chains of the Pleiades? Can you loosen Orion's belt?" ([Job 38:31)
+- "Do you hunt the prey for the lioness and satisfy the hunger of the lions?" ([Job 38:39)
 
 **God's teaching** emerges not through propositional answers but through overwhelming displays of creation's complexity—weather patterns, celestial bodies, and wild animals all governed by divine wisdom inaccessible to humans.
 
-Job responds humbly: "I am unworthy—how can I reply to you? I put my hand over my mouth" ([Job 40:4](https://eternal.family.net.za/bible/books/job/40#4)).
+Job responds humbly: "I am unworthy—how can I reply to you? I put my hand over my mouth" ([Job 40:4).
 
 *Second Divine Speech (40:6-41:34):*
-**God challenges Job** further: "Would you discredit my justice? Would you condemn me to justify yourself?" ([Job 40:8](https://eternal.family.net.za/bible/books/job/40#8)).
+**God challenges Job** further: "Would you discredit my justice? Would you condemn me to justify yourself?" ([Job 40:8).
 
-**God describes** two magnificent creatures—Behemoth ([Job 40:15-24](https://eternal.family.net.za/bible/books/job/40#15)) and Leviathan ([Job 41:1-34](https://eternal.family.net.za/bible/books/job/41#1))—creatures of such power that only God can master them. Regarding Leviathan, **God declares**: "Everything under heaven belongs to me" ([Job 41:11](https://eternal.family.net.za/bible/books/job/41#11)).
+**God describes** two magnificent creatures—Behemoth ([Job 40:15-24) and Leviathan ([Job 41:1-34)—creatures of such power that only God can master them. Regarding Leviathan, **God declares**: "Everything under heaven belongs to me" ([Job 41:11).
 
-**The Epilogue ([Job 42:7-17](https://eternal.family.net.za/bible/books/job/42#7)):**
+**The Epilogue ([Job 42:7-17):**
 
-Job responds with profound repentance: "My ears had heard of you but now my eyes have seen you. Therefore I despise myself and repent in dust and ashes" ([Job 42:5-6](https://eternal.family.net.za/bible/books/job/42#5)). Job's repentance concerns not moral sin but his presumption in demanding answers from God.
+Job responds with profound repentance: "My ears had heard of you but now my eyes have seen you. Therefore I despise myself and repent in dust and ashes" ([Job 42:5-6). Job's repentance concerns not moral sin but his presumption in demanding answers from God.
 
-**God then speaks** concerning the three friends: "I am angry with you and your two friends, because you have not spoken the truth about me, as my servant Job has" ([Job 42:7](https://eternal.family.net.za/bible/books/job/42#7)). This divine verdict is crucial—God vindicates Job's protests over the friends' pious explanations. **God commands** them to offer sacrifices and instructs: "My servant Job will pray for you, and I will accept his prayer" ([Job 42:8](https://eternal.family.net.za/bible/books/job/42#8)).
+**God then speaks** concerning the three friends: "I am angry with you and your two friends, because you have not spoken the truth about me, as my servant Job has" ([Job 42:7). This divine verdict is crucial—God vindicates Job's protests over the friends' pious explanations. **God commands** them to offer sacrifices and instructs: "My servant Job will pray for you, and I will accept his prayer" ([Job 42:8).
 
-**God restores** Job's fortunes doubly: 14,000 sheep, 6,000 camels, 1,000 yoke of oxen, and 1,000 donkeys. Job fathers seven more sons and three daughters (named Jemimah, Keziah, and Keren-Happuch, noted as the most beautiful women in the land). Job lives another 140 years, seeing four generations of descendants, and dies "old and full of years" ([Job 42:17](https://eternal.family.net.za/bible/books/job/42#17)).
+**God restores** Job's fortunes doubly: 14,000 sheep, 6,000 camels, 1,000 yoke of oxen, and 1,000 donkeys. Job fathers seven more sons and three daughters (named Jemimah, Keziah, and Keren-Happuch, noted as the most beautiful women in the land). Job lives another 140 years, seeing four generations of descendants, and dies "old and full of years" ([Job 42:17).
 
 ## Unique Teachings
 
 The Book of Job contains several theological and philosophical teachings that are either unique or receive their most profound treatment here:
 
 **1. Disinterested Righteousness:**
-Job introduces the concept that humans can serve God purely for God's sake, not merely for reward. The Satan's question—"Does Job fear God for nothing?" ([Job 1:9](https://eternal.family.net.za/bible/books/job/1#9))—and Job's faithful response establish the possibility of genuine, disinterested piety. This concept appears nowhere else in Scripture with such clarity.
+Job introduces the concept that humans can serve God purely for God's sake, not merely for reward. The Satan's question—"Does Job fear God for nothing?" ([Job 1:9)—and Job's faithful response establish the possibility of genuine, disinterested piety. This concept appears nowhere else in Scripture with such clarity.
 
 **2. Suffering Without Sin:**
 While other biblical texts acknowledge that suffering doesn't always result from personal sin, Job provides the most sustained exploration of innocent suffering. The narrative explicitly states Job's blamelessness multiple times, demolishing simple retribution theology.
@@ -187,7 +187,7 @@ While other biblical texts acknowledge that suffering doesn't always result from
 Uniquely, God appears directly but refuses to explain suffering or defend His justice. Instead, God overwhelms Job with questions about creation, establishing divine prerogative and human limitation. This non-answer becomes itself a profound theological statement: God's wisdom transcends human categories of justice.
 
 **4. The Inaccessibility of Wisdom:**
-Chapter 28's magnificent poem on wisdom's hiddenness—"Where can wisdom be found? Where does understanding dwell?" ([Job 28:12](https://eternal.family.net.za/bible/books/job/28#12))—uniquely emphasizes that ultimate wisdom belongs to God alone and cannot be purchased, discovered, or earned by humans.
+Chapter 28's magnificent poem on wisdom's hiddenness—"Where can wisdom be found? Where does understanding dwell?" ([Job 28:12)—uniquely emphasizes that ultimate wisdom belongs to God alone and cannot be purchased, discovered, or earned by humans.
 
 **5. Resurrection Hope:**
 Job 19:25-27 contains the Hebrew Bible's clearest pre-exilic expression of hope for post-mortem vindication and possibly bodily resurrection. While later texts develop this doctrine more fully, Job's statement stands remarkably early and isolated.
@@ -202,7 +202,7 @@ Job radically critiques the wisdom tradition's confident assertions about divine
 These creatures (chapters 40-41) represent chaos powers that God alone can master, unique in biblical literature for their detailed portrayal and theological significance regarding divine sovereignty over creation's dangerous forces.
 
 **9. Blessing the Divine Name in Calamity:**
-Job's response—"The LORD gave and the LORD has taken away; may the name of the LORD be praised" ([Job 1:21](https://eternal.family.net.za/bible/books/job/1#21))—models a form of radical trust in divine sovereignty that accepts both blessing and calamity as from God's hand without bitterness.
+Job's response—"The LORD gave and the LORD has taken away; may the name of the LORD be praised" ([Job 1:21)—models a form of radical trust in divine sovereignty that accepts both blessing and calamity as from God's hand without bitterness.
 
 **10. The Value of Protest:**
 Uniquely among biblical books, Job validates vigorous protest and complaint to God as legitimate piety. God ultimately vindicates Job's protests over his friends' pious platitudes, establishing that honest struggle with God surpasses false comfort.
@@ -318,7 +318,7 @@ Some scholars argue chapter 28's wisdom poem may be misplaced, as it interrupts 
 
 **5. The Friends' Condemnation:**
 
-**The problem:** God condemns the three friends for not speaking rightly about Him ([Job 42:7](https://eternal.family.net.za/bible/books/job/42#7)), yet much of what they say theologically aligns with statements God approves elsewhere in Scripture (divine justice, human sinfulness, God's power).
+**The problem:** God condemns the three friends for not speaking rightly about Him ([Job 42:7), yet much of what they say theologically aligns with statements God approves elsewhere in Scripture (divine justice, human sinfulness, God's power).
 
 **Possible explanations:**
 - **Application error:** The friends weren't wrong about God's general character but wrongly applied retribution theology to Job's specific situation
