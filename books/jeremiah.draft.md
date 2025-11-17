@@ -166,7 +166,9 @@ God promises: "I will restore health to you, and your wounds I will heal, declar
 
 > “Behold, the days are coming, declares the LORD, when I will make a new covenant with the house of Israel and the house of Judah, not like the covenant that I made with their fathers on the day when I took them by the hand to bring them out of the land of Egypt, My covenant that they broke, though I was their husband”, declares the LORD. 
 >
-> “For this is the covenant that I will make with the house of Israel after those days”, declares the LORD: “I will put my law within them, and I will write it on their hearts. And I will be their God, and they shall be my people. And no longer shall each one teach his neighbor and each his brother, saying, ‘Know the LORD,’ for they shall all know me, from the least of them to the greatest, declares the LORD. For I will forgive their iniquity, and I will remember their sin no more.” — Jeremiah 31:31-34 (ESV)
+> “For this is the covenant that I will make with the house of Israel after those days”, declares the LORD: “I will put my law within them, and I will write it on their hearts. And I will be their God, and they shall be my people. And no longer shall each one teach his neighbor and each his brother, saying, ‘Know the LORD,’ for they shall all know me, from the least of them to the greatest, declares the LORD. For I will forgive their iniquity, and I will remember their sin no more.” 
+>
+> — Jeremiah 31:31-34 (ESV)
 
 ### Jeremiah Buys a Field; Restoration Confirmed
 
@@ -214,11 +216,9 @@ Jeremiah 52 provides historical narrative largely duplicated from 2 Kings 24-25,
 
 Jeremiah contains several theological teachings that are either unique to this book or presented with distinctive clarity and emphasis. These contributions profoundly shaped both Jewish and Christian theology.
 
-### 1. The New Covenant
+### The New Covenant
 
-Jeremiah's most significant unique contribution is the promise of a New Covenant in Jeremiah 31:31-34. This is the only Old Testament passage where the term "new covenant" appears:
-
-"Behold, the days are coming, declares the Lord, when I will make a new covenant with the house of Israel and the house of Judah, not like the covenant that I made with their fathers... For this is the covenant that I will make with the house of Israel after those days, declares the Lord: I will put my law within them, and I will write it on their hearts. And I will be their God, and they shall be my people... For I will forgive their iniquity, and I will remember their sin no more."
+Jeremiah's most significant unique contribution is the promise of a New Covenant in Jeremiah 31:31-34. This is the only Old Testament passage where the term "new covenant" appears.
 
 **What Makes It Unique:**
 
@@ -229,39 +229,44 @@ Jeremiah's most significant unique contribution is the promise of a New Covenant
 
 This teaching revolutionized understanding of salvation and became foundational for Christian theology (quoted extensively in Hebrews 8 and 10).
 
-### 2. The Impossibility of Self-Transformation
+### The Impossibility of Self-Transformation
 
 Jeremiah uniquely emphasizes human inability to change without divine intervention: "Can the Ethiopian change his skin or the leopard its spots? Then also you can do good who are accustomed to do evil" (Jeremiah 13:23).
 
 This pessimistic anthropology—humans cannot reform themselves—stands in stark contrast to prophets who simply called for repentance. Jeremiah demonstrates that the call to repent is futile without God's transforming grace. This teaching influenced Paul's doctrine of human sinfulness and divine grace.
 
-### 3. The Deceitful Heart
+### The Deceitful Heart
 
 Jeremiah's diagnosis of the heart is unique in its bleakness: "The heart is deceitful above all things, and desperately sick; who can understand it? I the Lord search the heart and test the mind" (Jeremiah 17:9-10).
 
 While other biblical books mention human sinfulness, Jeremiah's characterization of the heart as inherently deceptive and beyond human understanding is distinctive. This anthropological pessimism explains why external reform fails and why only divine heart-surgery (the New Covenant) can save.
 
-### 4. Circumcision of the Heart
+### Circumcision of the Heart
 
-While Deuteronomy mentions heart circumcision (Deuteronomy 10:16, 30:6), Jeremiah develops this concept more fully. God commands: "Circumcise yourselves to the Lord; remove the foreskin of your hearts" (Jeremiah 4:4).
+While Deuteronomy mentions heart circumcision (Deuteronomy 10:16, 30:6), Jeremiah develops this concept more fully. God commands: 
 
-Jeremiah extends this to condemn those who are physically circumcised but spiritually uncircumcised: "Behold, the days are coming, declares the Lord, when I will punish all those who are circumcised merely in the flesh—Egypt, Judah, Edom, the sons of Ammon, Moab, and all who dwell in the desert who cut the corners of their hair, for all these nations are uncircumcised, and all the house of Israel are uncircumcised in heart" (Jeremiah 9:25-26).
+> Circumcise yourselves to the LORD; remove the foreskin of your hearts, O men of Judah and inhabitants of Jerusalem... — Jeremiah 4:4 (ESV)
+
+Jeremiah extends this to condemn those who are physically circumcised but spiritually uncircumcised: 
+
+> “Behold, the days are coming, declares the LORD, when I will punish all those who are circumcised merely in the flesh⁠— Egypt, Judah, Edom, the sons of Ammon, Moab, and all who dwell in the desert who cut the corners of their hair, for all these nations are uncircumcised, and all the house of Israel are uncircumcised in heart.”
+— Jeremiah 9:25-26 (ESV)
 
 This teaching that physical markers mean nothing without heart transformation influenced Paul's theology (Romans 2:29).
 
-### 5. The Seventy-Year Prophecy
+### The Seventy-Year Prophecy
 
-Jeremiah uniquely specifies the duration of Babylonian exile: "This whole land shall become a ruin and a waste, and these nations shall serve the king of Babylon seventy years. Then after seventy years are completed, I will punish the king of Babylon and that nation" (Jeremiah 25:11-12; also [29:10).
+Jeremiah uniquely specifies the duration of Babylonian exile: "This whole land shall become a ruin and a waste, and these nations shall serve the king of Babylon seventy years. Then after seventy years are completed, I will punish the king of Babylon and that nation" (Jeremiah 25:11-12, 29:10).
 
 This specific timeframe provided hope during the exile and was studied by later prophets like Daniel (Daniel 9:2). The number seventy may be symbolic (10 x 7, representing completeness) or literal, but it assured the exiles that judgment had limits and restoration would come.
 
-### 6. Individual Responsibility
+### Individual Responsibility
 
 While Ezekiel also emphasizes this theme, Jeremiah presents it distinctively: "In those days they shall no longer say: 'The fathers have eaten sour grapes, and the children's teeth are set on edge.' But everyone shall die for his own iniquity. Each man who eats sour grapes, his teeth shall be set on edge" (Jeremiah 31:29-30).
 
 This challenged the prevailing view of corporate/generational guilt and emphasized personal accountability before God. While the community remains important, individuals bear responsibility for their own choices.
 
-### 7. The Potter's House: Divine Sovereignty and Human Response
+### The Potter's House: Divine Sovereignty and Human Response
 
 Jeremiah's potter illustration (Jeremiah 18:1-10) presents a unique tension between divine sovereignty and human response. God is like a potter who has absolute authority over the clay, yet He responds to the clay's condition:
 
@@ -269,7 +274,7 @@ Jeremiah's potter illustration (Jeremiah 18:1-10) presents a unique tension betw
 
 This teaching holds together God's sovereignty and human moral responsibility in a unique way—God controls all things, yet genuinely responds to human repentance or rebellion.
 
-### 8. The Weeping Prophet: God's Emotional Life
+### The Weeping Prophet: God's Emotional Life
 
 Jeremiah uniquely reveals God's emotional anguish over judgment. Unlike prophets who emphasize only divine wrath, Jeremiah shows God's grief:
 
@@ -277,50 +282,33 @@ Jeremiah uniquely reveals God's emotional anguish over judgment. Unlike prophets
 
 Jeremiah's own weeping mirrors God's grief: "For these things I weep; my eyes flow with tears" ([Lamentations 1:16](https://en.wikipedia.org/wiki/Lamentations), traditionally attributed to Jeremiah). This portrayal of God as grieving—not merely angry—over judgment is Jeremiah's unique contribution to understanding divine pathos.
 
-### 9. Prophetic Celibacy as Sign
+### Prophetic Celibacy as Sign
 
 God uniquely commands Jeremiah not to marry or have children as a prophetic sign of the coming catastrophe (Jeremiah 16:1-4). This radical lifestyle choice was unprecedented among Hebrew prophets and demonstrated the severity of judgment—children would have no future.
 
 This foreshadows Jesus' and Paul's teachings about celibacy for the sake of the kingdom (Matthew 19:12; 1 Corinthians 7).
 
-### 10. The Permanence of God's Covenant with Creation
+### The Permanence of God's Covenant with Creation
 
 Jeremiah uniquely connects God's covenant faithfulness to the fixed order of creation: "Thus says the Lord: If the heavens above can be measured, and the foundations of the earth below can be explored, then I will cast off all the offspring of Israel for all that they have done, declares the Lord" (Jeremiah 31:37).
 
 God's covenant with David and Levi is as fixed as the laws governing day and night (Jeremiah 33:20-21). This teaching provided assurance during exile that God's promises remained certain despite apparent abandonment.
 
-### 11. Temple as "Den of Robbers"
+### Temple as "Den of Robbers"
 
 Jeremiah's Temple Sermon (Jeremiah 7:1-15) uniquely challenges temple theology. While other prophets criticized worship, Jeremiah directly attacked confidence in the temple's inviolability: "Do not trust in these deceptive words: 'This is the temple of the Lord, the temple of the Lord, the temple of the Lord'" (Jeremiah 7:4).
 
 He compares it to a "den of robbers" (Jeremiah 7:11)—a hideout where criminals feel safe after committing crimes. Jesus quotes this phrase when cleansing the temple (Matthew 21:13), showing Jeremiah's lasting influence.
 
-### 12. Submission to Foreign Powers as God's Will
+### Prophetic Confessions: Honest Wrestling with God
 
-Jeremiah's counsel to submit to Babylon was theologically unique and politically controversial. He proclaimed that Babylon was God's servant: "Now I have given all these lands into the hand of Nebuchadnezzar, the king of Babylon, my servant" (Jeremiah 27:6).
-
-Resistance to Babylon was thus resistance to God. This teaching that foreign conquest could be God's will—and that submission rather than resistance was the faithful response—was unprecedented and dangerous, leading to accusations of treason.
-
-### 13. Prophetic Confessions: Honest Wrestling with God
-
-Jeremiah's "confessions" (Jeremiah 11:18-12:6, [15:10-21, [17:14-18, [18:18-23, [20:7-18) are unique in prophetic literature. No other prophet so honestly expresses anger, despair, and questioning toward God:
+Jeremiah's "confessions" (Jeremiah 11:18-12:6, 15:10-21, 17:14-18, 18:18-23, 20:7-18) are unique in prophetic literature. No other prophet so honestly expresses anger, despair, and questioning toward God:
 
 "Cursed be the day on which I was born! The day when my mother bore me, let it not be blessed!" (Jeremiah 20:14).
 
 These confessions provide a model for honest prayer and demonstrate that faithfulness doesn't require suppressing doubt or pain.
 
-### Significance
-
-These unique teachings demonstrate Jeremiah's profound theological contributions:
-- Salvation requires divine transformation, not human effort
-- The heart is the fundamental problem requiring God's surgery
-- Covenant faithfulness sometimes means accepting judgment
-- God grieves over judgment even as He executes it
-- External religious practices mean nothing without heart transformation
-
-Jeremiah's theology deeply influenced both Second Temple Judaism and Christianity, providing vocabulary and concepts for understanding salvation, human nature, and divine-human relationship.
-
-## 8. Textual Variants
+## Textual Variants
 
 The Book of Jeremiah presents one of the most complex and fascinating textual situations in the entire Hebrew Bible. Two substantially different versions of the book existed in antiquity and have been transmitted to us: the Hebrew Masoretic Text (MT) and the Greek Septuagint (LXX). These differences are far more extensive than minor scribal variations—they represent two distinct editorial traditions of the book.
 
@@ -454,7 +442,7 @@ One of the most debated "errors" concerns Jeremiah's prophecy about the duration
 3. **Round number** - "Seventy" as a symbolic/round number for a complete period rather than exact chronology
 4. **Jehoiakim's reign** - Counting from first deportation in 605 BCE to 536 BCE = approximately 70 years
 
-[2 Chronicles 36:21 interprets the 70 years as sabbath rest for the land, while Daniel 9:2 treats it as a precise prophetic number requiring further interpretation.
+2 Chronicles 36:21 interprets the 70 years as sabbath rest for the land, while Daniel 9:2 treats it as a precise prophetic number requiring further interpretation.
 
 Critical scholars generally view this as a prophetic approximation that doesn't require exact fulfillment, while the number took on increasing significance in post-exilic interpretation.
 
@@ -506,7 +494,7 @@ Jeremiah contains two accounts of Jerusalem's fall with notable discrepancies:
 
 2. **Number deported**:
    - Jeremiah 52:28-30 gives specific numbers: 3,023 (7th year), 832 (18th year), 745 (23rd year) = 4,600 total
-   - [2 Kings 24-25 mentions deportations but with different numbers
+   - 2 Kings 24-25 mentions deportations but with different numbers
 
 3. **LXX vs MT**: Jeremiah 39:4-13 has significant differences between Hebrew and Greek versions
 
@@ -519,7 +507,7 @@ These discrepancies suggest multiple sources were combined without complete harm
 **Jeremiah 22:30** declares: "Write this man down as childless, a man who shall not succeed in his days, for none of his offspring shall succeed in sitting on the throne of David."
 
 **The Problem**:
-1. **Children**: [1 Chronicles 3:17-18 lists seven sons of Jehoiachin
+1. **Children**: 1 Chronicles 3:17-18 lists seven sons of Jehoiachin
 2. **Davidic line**: Matthew's genealogy (Matthew 1:12) traces Jesus through Shealtiel, son of Jeconiah (Jehoiachin)
 3. **Zerubbabel**: Grandson of Jehoiachin, served as governor and was promised divine favor in [Haggai 2:23
 
@@ -573,7 +561,7 @@ These textual difficulties demonstrate that Jeremiah, like other biblical books,
 
 Conservative scholars attempt various harmonizations of these difficulties, while critical scholars view them as windows into the text's compositional and transmission history. Both perspectives acknowledge the problems exist, differing primarily in whether ancient errors diminish scriptural authority or simply reflect human participation in textual preservation.
 
-## 10. Contradictions
+## Contradictions
 
 The Book of Jeremiah contains numerous internal contradictions and tensions that have puzzled readers throughout history. These contradictions concern theology, ethics, prophecy, and historical details. While some can be explained by development in Jeremiah's thought over his long ministry, others reflect the composite nature of the book assembled from multiple sources.
 
