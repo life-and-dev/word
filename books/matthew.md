@@ -1,3 +1,8 @@
+---
+description: Comprehensive overview of the Gospel of Matthew, its authorship, historical context, purpose, and detailed chapter summary.
+keywords: Gospel of Matthew, Matthew's Gospel, Messiah, New Testament, biblical commentary, Jesus Christ
+---
+
 # Matthew
 
 ## Authorship
@@ -95,12 +100,12 @@ Jesus delivers His first major discourse, presenting the kingdom's ethics and ri
 
 Jesus teaches that he came not to abolish but to fulfill the Law and the Prophets (Matthew 5:17), establishing that "unless your righteousness exceeds that of the scribes and Pharisees, you will never enter the kingdom of heaven" (Matthew 5:20). Six antitheses demonstrate kingdom ethics: 
 
-1. on murder (Matthew 5:21-26), 
-2. adultery (Matthew 5:27-30), 
-3. divorce ([5:31-32), 
-4. oaths ([5:33-37), 
-5. retaliation ([5:38-42), and 
-6. love for enemies ([5:43-48). 
+1. on murder (Matthew 5:21-26),
+2. adultery (Matthew 5:27-30),
+3. divorce (Matthew 5:31-32),
+4. oaths (Matthew 5:33-37),
+5. retaliation (Matthew 5:38-42), and
+6. love for enemies (Matthew 5:43-48). 
 
 Jesus commands, "Love your enemies and pray for those who persecute you" (Matthew 5:44), concluding, "You therefore must be perfect, as your heavenly Father is perfect" (Matthew 5:48).
 
@@ -238,7 +243,7 @@ On the third day, an angel rolls back the stone, declaring to the women, "Do not
 
 Guards report to the chief priests, who bribe them to spread the false story that disciples stole the body (Matthew 28:11-15). The Gospel concludes with the Great Commission (Matthew 28:16-20). Jesus declares, "All authority in heaven and on earth has been given to me" (Matthew 28:18), then commands His disciples: "Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you" (Matthew 28:19-20). Jesus' final promise concludes the Gospel: "And behold, I am with you always, to the end of the age" (Matthew 28:20).
 
-### Comission
+### Commission
 
 Throughout these 28 chapters, Matthew presents Jesus as the authoritative teacher, the miracle-working Messiah who demonstrates God's kingdom power, the suffering servant who gives His life as a ransom, and the risen Lord who commissions [his body](https://kingdom.ofgod.info/christ/body) to disciple all nations. Every major teaching, command, and promise emphasizes Jesus' role as the fulfillment of God's redemptive purposes and the foundation of the new covenant community.
 
@@ -356,7 +361,7 @@ After recording the giving of sour wine to Jesus on the cross, some manuscripts 
 
 > ἄλλος δὲ λαβὼν λόγχην ἔνυξεν αὐτοῦ τὴν πλευρὰν καὶ ἐξῆλθεν ὕδωρ καὶ αἷμα
 
-This reading appears in significant early witnesses including Sinaiticus, Vaticanus, Codices C, L, and U, approximately 35 minuscule manuscripts, some Old Latin and Vulgate manuscripts (including the Book of Kells), Palestinian Aramaic, Ethiopic, and Middle Egyptian versions. The passage closely parallels John 19:34, sharing vocabulary ("spear," "pierce," "side," "water and blood"). Despite this impressive early manuscript support, most scholars regard the reading as secondary for several reasons: 
+This reading appears in significant early witnesses including Sinaiticus, Vaticanus, Codices C, L, and U, approximately 35 minuscule manuscripts, some Old Latin and Vulgate manuscripts (including the Book of Kells), Aramaic, Ethiopic, and Middle Egyptian versions. The passage closely parallels John 19:34, sharing vocabulary ("spear," "pierce," "side," "water and blood"). Despite this impressive early manuscript support, most scholars regard the reading as secondary for several reasons: 
 
 1. it creates a chronological problem, suggesting Jesus was pierced before death rather than after as John explicitly states; 
 2. the verbal similarity to John suggests assimilation from John's Gospel; 
@@ -422,7 +427,7 @@ Matthew places Jesus' birth during Herod the Great's reign, who died in 4 BCE. L
 
 Matthew concludes his infancy narrative stating:
 
-> And he [Jesus] went and lived in a city called Nazareth, so that **what was spoken by the prophets might be fulfilled, that he would be called a Nazarene**. -- Matthew 2:23 (ESV)
+> And he [Jesus] went and lived in a city called Nazareth, so that **what was spoken by the prophets might be fulfilled, that he would be called a Nazarene**. — Matthew 2:23 (ESV)
 
 No such quotation exists in the Old Testament, leading skeptics to claim *Matthew fabricated a prophecy or erred in his citation*. 
 
@@ -442,7 +447,7 @@ Critics note *the mustard seed is not botanically the smallest seed*, for exampl
 
 Conservative responses recognize Jesus spoke within cultural-agricultural context, not as a modern botanist. 
 
-1. Jesus **addressed Palestinian farmers** familiar with commonly cultivated seeds (wheat, barley, lentils, beans); among agricultural seeds in first-century Palestine, mustard was proverbially the smallest. 
+1. Jesus **addressed Jewish farmers** familiar with commonly cultivated seeds (wheat, barley, lentils, beans); among agricultural seeds in first-century Israel, mustard was proverbially the smallest. 
 2. Jesus employed proverbial language; "smallest seed" was a common **Jewish idiom** (found in Talmudic literature) expressing minuteness, similar to modern "needle in a haystack" (not claiming needles exist only in haystacks). 
 
 Jesus used phenomenological language (describing appearances and common perceptions) rather than technical scientific description, a distinction hermeneutically essential for understanding ancient texts. To charge Jesus with error for using proverbial agricultural language reflects anachronistic imposition of modern scientific standards onto ancient rhetorical communication.
@@ -470,7 +475,7 @@ Alleged contradictions typically represent different perspectives on the same ev
 
 ### The Centurion's Servant (Matthew 8:5-13 cf. Luke 7:1-10)
 
-> When he [Jesus] had entered Capernaum, a centurion **came forward to him**, appealing... -- Matthew 8:5 (ESV)
+> When he [Jesus] had entered Capernaum, a centurion **came forward to him**, appealing... — Matthew 8:5 (ESV)
 
 Matthew states the centurion "came forward to him" directly requesting healing, while Luke records the centurion "sent to him elders of the Jews" (Luke 7:3) and later "sent friends" (Luke 7:6). Critics claim this demonstrates *irreconcilable contradiction* because either the centurion came personally or sent intermediaries, not both. 
 
