@@ -219,63 +219,63 @@ The Book of Psalms contains 150 poems spanning Israel's worship, theology, and s
 
 **Book 1 (Psalms 1-41): The Davidic Collection**
 
-The Psalter opens with Psalm 1, a wisdom meditation establishing the righteous-wicked contrast: "Blessed is the one who does not walk in step with the wicked" ([Psalm 1:1](https://eternal.family.net.za/bible/books/psalms/1#1)). This psalm introduces the Torah-centered spirituality pervading the collection: "But whose delight is in the law of the LORD, and who meditates on his law day and night" ([Psalm 1:2](https://eternal.family.net.za/bible/books/psalms/1#2)).
+The Psalter opens with Psalm 1, a wisdom meditation establishing the righteous-wicked contrast: "Blessed is the one who does not walk in step with the wicked" (Psalm 1:1). This psalm introduces the Torah-centered spirituality pervading the collection: "But whose delight is in the law of the LORD, and who meditates on his law day and night" (Psalm 1:2).
 
-Psalm 2, the first royal/messianic psalm, presents **God's decree** concerning His anointed king: "You are my son; today I have become your father" ([Psalm 2:7](https://eternal.family.net.za/bible/books/psalms/2#7)). **God warns** the nations: "Kiss his son, or he will be angry and your way will lead to your destruction" ([Psalm 2:12](https://eternal.family.net.za/bible/books/psalms/2#12)).
+Psalm 2, the first royal/messianic psalm, presents **God's decree** concerning His anointed king: "You are my son; today I have become your father" (Psalm 2:7). **God warns** the nations: "Kiss his son, or he will be angry and your way will lead to your destruction" (Psalm 2:12).
 
-David's psalms in this section express profound trust amid persecution. Psalm 8 celebrates human dignity in creation: "You have made them a little lower than the angels and crowned them with glory and honor" ([Psalm 8:5](https://eternal.family.net.za/bible/books/psalms/8#5)).
+David's psalms in this section express profound trust amid persecution. Psalm 8 celebrates human dignity in creation: "You have made them a little lower than the angels and crowned them with glory and honor" (Psalm 8:5).
 
-Psalm 19 contains **God's inspired testimony** about His revelation: "The law of the LORD is perfect, refreshing the soul. The statutes of the LORD are trustworthy, making wise the simple" ([Psalm 19:7](https://eternal.family.net.za/bible/books/psalms/19#7)).
+Psalm 19 contains **God's inspired testimony** about His revelation: "The law of the LORD is perfect, refreshing the soul. The statutes of the LORD are trustworthy, making wise the simple" (Psalm 19:7).
 
-Psalm 22, quoted by Jesus on the cross, prophetically describes crucifixion: "My God, my God, why have you forsaken me?" ([Psalm 22:1](https://eternal.family.net.za/bible/books/psalms/22#1)). The psalm includes remarkable details: "They pierce my hands and my feet" ([Psalm 22:16](https://eternal.family.net.za/bible/books/psalms/22#16)), "They divide my clothes among them and cast lots for my garment" ([Psalm 22:18](https://eternal.family.net.za/bible/books/psalms/22#18)).
+Psalm 22, quoted by Jesus on the cross, prophetically describes crucifixion: "My God, my God, why have you forsaken me?" (Psalm 22:1). The psalm includes remarkable details: "They pierce my hands and my feet" (Psalm 22:16), "They divide my clothes among them and cast lots for my garment" (Psalm 22:18).
 
-The beloved Psalm 23 declares God's shepherding care: "The LORD is my shepherd, I lack nothing" ([Psalm 23:1](https://eternal.family.net.za/bible/books/psalms/23#1)). This psalm affirms divine guidance and protection through death itself: "Even though I walk through the darkest valley, I will fear no evil, for you are with me" ([Psalm 23:4](https://eternal.family.net.za/bible/books/psalms/23#4)).
+The beloved Psalm 23 declares God's shepherding care: "The LORD is my shepherd, I lack nothing" (Psalm 23:1). This psalm affirms divine guidance and protection through death itself: "Even though I walk through the darkest valley, I will fear no evil, for you are with me" (Psalm 23:4).
 
 **Book 2 (Psalms 42-72): The Korahite and Davidic Collections**
 
-Psalm 45 is a royal wedding song with messianic overtones, addressing the king: "Your throne, O God, will last for ever and ever; a scepter of justice will be the scepter of your kingdom" ([Psalm 45:6](https://eternal.family.net.za/bible/books/psalms/45#6))—remarkably applying divine titles to the king.
+Psalm 45 is a royal wedding song with messianic overtones, addressing the king: "Your throne, O God, will last for ever and ever; a scepter of justice will be the scepter of your kingdom" (Psalm 45:6)—remarkably applying divine titles to the king.
 
-Psalm 46 celebrates God's presence as refuge: "God is our refuge and strength, an ever-present help in trouble" ([Psalm 46:1](https://eternal.family.net.za/bible/books/psalms/46#1)). **God speaks**: "Be still, and know that I am God; I will be exalted among the nations, I will be exalted in the earth" ([Psalm 46:10](https://eternal.family.net.za/bible/books/psalms/46#10)).
+Psalm 46 celebrates God's presence as refuge: "God is our refuge and strength, an ever-present help in trouble" (Psalm 46:1). **God speaks**: "Be still, and know that I am God; I will be exalted among the nations, I will be exalted in the earth" (Psalm 46:10).
 
-Psalm 51, David's penitential psalm after his sin with Bathsheba, models repentance: "Have mercy on me, O God, according to your unfailing love; according to your great compassion blot out my transgressions" ([Psalm 51:1](https://eternal.family.net.za/bible/books/psalms/51#1)). David acknowledges: "Against you, you only, have I sinned and done what is evil in your sight" ([Psalm 51:4](https://eternal.family.net.za/bible/books/psalms/51#4)). He requests: "Create in me a pure heart, O God, and renew a steadfast spirit within me" ([Psalm 51:10](https://eternal.family.net.za/bible/books/psalms/51#10)).
+Psalm 51, David's penitential psalm after his sin with Bathsheba, models repentance: "Have mercy on me, O God, according to your unfailing love; according to your great compassion blot out my transgressions" (Psalm 51:1). David acknowledges: "Against you, you only, have I sinned and done what is evil in your sight" (Psalm 51:4). He requests: "Create in me a pure heart, O God, and renew a steadfast spirit within me" (Psalm 51:10).
 
-Psalm 72, Solomon's psalm, prays for the righteous king and becomes messianic prophecy: "May he rule from sea to sea and from the River to the ends of the earth" ([Psalm 72:8](https://eternal.family.net.za/bible/books/psalms/72#8)). "May all kings bow down to him and all nations serve him" ([Psalm 72:11](https://eternal.family.net.za/bible/books/psalms/72#11)).
+Psalm 72, Solomon's psalm, prays for the righteous king and becomes messianic prophecy: "May he rule from sea to sea and from the River to the ends of the earth" (Psalm 72:8). "May all kings bow down to him and all nations serve him" (Psalm 72:11).
 
 **Book 3 (Psalms 73-89): The Asaphite Collection**
 
-Psalm 73 wrestles with theodicy—why the wicked prosper. Asaph confesses his near-loss of faith until entering God's sanctuary, where he understood their final destiny ([Psalm 73:17](https://eternal.family.net.za/bible/books/psalms/73#17)). He concludes: "Whom have I in heaven but you? And earth has nothing I desire besides you" ([Psalm 73:25](https://eternal.family.net.za/bible/books/psalms/73#25)).
+Psalm 73 wrestles with theodicy—why the wicked prosper. Asaph confesses his near-loss of faith until entering God's sanctuary, where he understood their final destiny (Psalm 73:17). He concludes: "Whom have I in heaven but you? And earth has nothing I desire besides you" (Psalm 73:25).
 
 Psalm 78 rehearses Israel's salvation history as warning and instruction, recounting the exodus, wilderness wanderings, and conquest. **God's inspired teaching** through history emphasizes His mighty acts and Israel's recurring rebellion, establishing patterns of divine faithfulness despite human unfaithfulness.
 
-Psalm 82 presents **God judging** the divine council: "How long will you defend the unjust and show partiality to the wicked?" ([Psalm 82:2](https://eternal.family.net.za/bible/books/psalms/82#2)). **God commands**: "Defend the weak and the fatherless; uphold the cause of the poor and the oppressed" ([Psalm 82:3](https://eternal.family.net.za/bible/books/psalms/82#3)).
+Psalm 82 presents **God judging** the divine council: "How long will you defend the unjust and show partiality to the wicked?" (Psalm 82:2). **God commands**: "Defend the weak and the fatherless; uphold the cause of the poor and the oppressed" (Psalm 82:3).
 
-Psalm 89 celebrates the Davidic covenant but ends in lament over its apparent failure, questioning **God's promises**: "You have said, 'I have made a covenant with my chosen one, I have sworn to David my servant, I will establish your line forever and make your throne firm through all generations'" ([Psalm 89:3-4](https://eternal.family.net.za/bible/books/psalms/89#3)).
+Psalm 89 celebrates the Davidic covenant but ends in lament over its apparent failure, questioning **God's promises**: "You have said, 'I have made a covenant with my chosen one, I have sworn to David my servant, I will establish your line forever and make your throne firm through all generations'" (Psalm 89:3-4).
 
 **Book 4 (Psalms 90-106): The Kingship of Yahweh Collection**
 
-Psalm 90, attributed to Moses, reflects on human mortality: "Our days may come to seventy years, or eighty, if our strength endures; yet the best of them are but trouble and sorrow" ([Psalm 90:10](https://eternal.family.net.za/bible/books/psalms/90#10)). Moses prays: "Teach us to number our days, that we may gain a heart of wisdom" ([Psalm 90:12](https://eternal.family.net.za/bible/books/psalms/90#12)).
+Psalm 90, attributed to Moses, reflects on human mortality: "Our days may come to seventy years, or eighty, if our strength endures; yet the best of them are but trouble and sorrow" (Psalm 90:10). Moses prays: "Teach us to number our days, that we may gain a heart of wisdom" (Psalm 90:12).
 
-Psalm 91 promises divine protection: "Whoever dwells in the shelter of the Most High will rest in the shadow of the Almighty" ([Psalm 91:1](https://eternal.family.net.za/bible/books/psalms/91#1)). **God speaks directly**: "Because he loves me," says the LORD, "I will rescue him; I will protect him, for he acknowledges my name" ([Psalm 91:14](https://eternal.family.net.za/bible/books/psalms/91#14)).
+Psalm 91 promises divine protection: "Whoever dwells in the shelter of the Most High will rest in the shadow of the Almighty" (Psalm 91:1). **God speaks directly**: "Because he loves me," says the LORD, "I will rescue him; I will protect him, for he acknowledges my name" (Psalm 91:14).
 
-Psalms 93-99 form the "Enthronement Psalms," celebrating Yahweh's kingship: "The LORD reigns, let the earth be glad" ([Psalm 97:1](https://eternal.family.net.za/bible/books/psalms/97#1)).
+Psalms 93-99 form the "Enthronement Psalms," celebrating Yahweh's kingship: "The LORD reigns, let the earth be glad" (Psalm 97:1).
 
-Psalm 100, the beloved worship psalm, calls: "Shout for joy to the LORD, all the earth. Worship the LORD with gladness; come before him with joyful songs" ([Psalm 100:1-2](https://eternal.family.net.za/bible/books/psalms/100#1)). It affirms: "Know that the LORD is God. It is he who made us, and we are his; we are his people, the sheep of his pasture" ([Psalm 100:3](https://eternal.family.net.za/bible/books/psalms/100#3)).
+Psalm 100, the beloved worship psalm, calls: "Shout for joy to the LORD, all the earth. Worship the LORD with gladness; come before him with joyful songs" (Psalm 100:1-2). It affirms: "Know that the LORD is God. It is he who made us, and we are his; we are his people, the sheep of his pasture" (Psalm 100:3).
 
-Psalm 103 praises God's compassion: "The LORD is compassionate and gracious, slow to anger, abounding in love" ([Psalm 103:8](https://eternal.family.net.za/bible/books/psalms/103#8)). God's forgiveness is celebrated: "As far as the east is from the west, so far has he removed our transgressions from us" ([Psalm 103:12](https://eternal.family.net.za/bible/books/psalms/103#12)).
+Psalm 103 praises God's compassion: "The LORD is compassionate and gracious, slow to anger, abounding in love" (Psalm 103:8). God's forgiveness is celebrated: "As far as the east is from the west, so far has he removed our transgressions from us" (Psalm 103:12).
 
 **Book 5 (Psalms 107-150): The Final Collection**
 
-Psalm 110, the most-quoted Old Testament passage in the New Testament, presents **the LORD's oracle** to David's Lord: "Sit at my right hand until I make your enemies a footstool for your feet" ([Psalm 110:1](https://eternal.family.net.za/bible/books/psalms/110#1)). **The LORD declares**: "You are a priest forever, in the order of Melchizedek" ([Psalm 110:4](https://eternal.family.net.za/bible/books/psalms/110#4))—a revolutionary combination of kingship and priesthood.
+Psalm 110, the most-quoted Old Testament passage in the New Testament, presents **the LORD's oracle** to David's Lord: "Sit at my right hand until I make your enemies a footstool for your feet" (Psalm 110:1). **The LORD declares**: "You are a priest forever, in the order of Melchizedek" (Psalm 110:4)—a revolutionary combination of kingship and priesthood.
 
-Psalm 118, part of the Hallel sung at Passover, proclaims: "The stone the builders rejected has become the cornerstone" ([Psalm 118:22](https://eternal.family.net.za/bible/books/psalms/118#22))—applied to Jesus in the New Testament.
+Psalm 118, part of the Hallel sung at Passover, proclaims: "The stone the builders rejected has become the cornerstone" (Psalm 118:22)—applied to Jesus in the New Testament.
 
-Psalm 119, the longest chapter in the Bible (176 verses), is an elaborate acrostic poem celebrating God's Torah. Every verse references God's word, law, statutes, precepts, commands, or decrees. Key affirmations include: "Your word is a lamp for my feet, a light on my path" ([Psalm 119:105](https://eternal.family.net.za/bible/books/psalms/119#105)). "The unfolding of your words gives light; it gives understanding to the simple" ([Psalm 119:130](https://eternal.family.net.za/bible/books/psalms/119#130)).
+Psalm 119, the longest chapter in the Bible (176 verses), is an elaborate acrostic poem celebrating God's Torah. Every verse references God's word, law, statutes, precepts, commands, or decrees. Key affirmations include: "Your word is a lamp for my feet, a light on my path" (Psalm 119:105). "The unfolding of your words gives light; it gives understanding to the simple" (Psalm 119:130).
 
-Psalms 120-134, the "Songs of Ascents," were sung by pilgrims traveling to Jerusalem. Psalm 121 affirms: "I lift up my eyes to the mountains—where does my help come from? My help comes from the LORD, the Maker of heaven and earth" ([Psalm 121:1-2](https://eternal.family.net.za/bible/books/psalms/121#1)). **God's promise**: "The LORD will watch over your coming and going both now and forevermore" ([Psalm 121:8](https://eternal.family.net.za/bible/books/psalms/121#8)).
+Psalms 120-134, the "Songs of Ascents," were sung by pilgrims traveling to Jerusalem. Psalm 121 affirms: "I lift up my eyes to the mountains—where does my help come from? My help comes from the LORD, the Maker of heaven and earth" (Psalm 121:1-2). **God's promise**: "The LORD will watch over your coming and going both now and forevermore" (Psalm 121:8).
 
-Psalm 137, written during Babylonian exile, expresses profound grief: "By the rivers of Babylon we sat and wept when we remembered Zion" ([Psalm 137:1](https://eternal.family.net.za/bible/books/psalms/137#1)).
+Psalm 137, written during Babylonian exile, expresses profound grief: "By the rivers of Babylon we sat and wept when we remembered Zion" (Psalm 137:1).
 
-The Psalter concludes with five hallelujah psalms (146-150) of pure praise. Psalm 150 calls all creation to praise: "Praise the LORD. Praise God in his sanctuary; praise him in his mighty heavens" ([Psalm 150:1](https://eternal.family.net.za/bible/books/psalms/150#1)). The final verse summarizes: "Let everything that has breath praise the LORD. Praise the LORD" ([Psalm 150:6](https://eternal.family.net.za/bible/books/psalms/150#6)).
+The Psalter concludes with five hallelujah psalms (146-150) of pure praise. Psalm 150 calls all creation to praise: "Praise the LORD. Praise God in his sanctuary; praise him in his mighty heavens" (Psalm 150:1). The final verse summarizes: "Let everything that has breath praise the LORD. Praise the LORD" (Psalm 150:6).
 
 ## Unique Teachings
 

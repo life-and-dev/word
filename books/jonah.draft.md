@@ -17,9 +17,9 @@ Several lines of evidence support a post-exilic date and anonymous authorship:
 
 1. **Linguistic Features**: The book contains words and linguistic features characteristic of late biblical Hebrew and shows strong Aramaic influences. Scholars have identified Persian loanwords in the text, suggesting composition during or after the Persian period.
 
-2. **Cultural and Historical Details**: Certain cultural practices described in the book reflect Persian-era customs rather than 8th-century realities. For example, the joint declaration by the king and his nobles [Jonah 3:7](https://eternal.family.net.za/bible/books/jonah/3#7) reflects later Persian administrative practice, and the inclusion of animals in mourning rites [Jonah 3:8](https://eternal.family.net.za/bible/books/jonah/3#8) corresponds to documented Persian customs.
+2. **Cultural and Historical Details**: Certain cultural practices described in the book reflect Persian-era customs rather than 8th-century realities. For example, the joint declaration by the king and his nobles [Jonah 3:7 reflects later Persian administrative practice, and the inclusion of animals in mourning rites [Jonah 3:8 corresponds to documented Persian customs.
 
-3. **Reference to Nineveh in the Past Tense**: The description of Nineveh as having been "an exceedingly great city" [Jonah 3:3](https://eternal.family.net.za/bible/books/jonah/3#3) uses language that some scholars interpret as referring to a city that no longer existed at the time of writing. Nineveh was destroyed in 612 BCE, which would place the composition after that date.
+3. **Reference to Nineveh in the Past Tense**: The description of Nineveh as having been "an exceedingly great city" [Jonah 3:3 uses language that some scholars interpret as referring to a city that no longer existed at the time of writing. Nineveh was destroyed in 612 BCE, which would place the composition after that date.
 
 4. **Theological Concerns**: The book addresses theological questions about God's universal mercy and the inclusion of Gentiles that were particularly relevant during the post-exilic period, when Jewish identity was being redefined and questions about relationships with foreigners were paramount.
 
@@ -41,13 +41,13 @@ The historical environment of the book of Jonah operates on two distinct levels:
 
 **The Narrative Setting: 8th Century BCE**
 
-The book's opening verse identifies Jonah as "the son of Amittai" [Jonah 1:1](https://eternal.family.net.za/bible/books/jonah/1#1), connecting him to the historical prophet mentioned in [2 Kings 14:25](https://www.biblegateway.com/passage/?search=2+Kings+14:25&version=ESV). This passage places Jonah during the reign of Jeroboam II of Israel (793-753 BCE), a period of significant territorial expansion and economic prosperity for the northern kingdom.
+The book's opening verse identifies Jonah as "the son of Amittai" [Jonah 1:1, connecting him to the historical prophet mentioned in [2 Kings 14:25](https://www.biblegateway.com/passage/?search=2+Kings+14:25&version=ESV). This passage places Jonah during the reign of Jeroboam II of Israel (793-753 BCE), a period of significant territorial expansion and economic prosperity for the northern kingdom.
 
 During this era, the [Neo-Assyrian Empire](https://www.worldhistory.org/assyria/) was the dominant superpower of the ancient Near East. Nineveh, located on the eastern bank of the Tigris River (in modern-day Iraq), served as one of Assyria's major cities and would later become the empire's capital under Sennacherib (705-681 BCE). The Assyrians were notorious for their military brutality and cruel treatment of conquered peoples, making them feared throughout the region.
 
 For an Israelite prophet of the 8th century, Nineveh represented the epitome of Israel's enemies—the very embodiment of oppression and cruelty. The Assyrians would eventually conquer the northern kingdom of Israel in 722 BCE, destroying Samaria and deporting much of the population. This historical reality makes Jonah's reluctance to preach to Nineveh understandable from a nationalistic perspective.
 
-The book's description of Nineveh as "an exceedingly great city, three days' journey in breadth" [Jonah 3:3](https://eternal.family.net.za/bible/books/jonah/3#3) has been the subject of much scholarly discussion. Archaeological excavations have revealed that Nineveh proper was approximately 3 miles in diameter, which could not be walked in three days. Various explanations have been proposed: the "three days' journey" might refer to the greater Nineveh administrative district, which included surrounding cities; it might describe the time needed to traverse the city while stopping to preach; or it might be hyperbolic language emphasizing the city's greatness.
+The book's description of Nineveh as "an exceedingly great city, three days' journey in breadth" [Jonah 3:3 has been the subject of much scholarly discussion. Archaeological excavations have revealed that Nineveh proper was approximately 3 miles in diameter, which could not be walked in three days. Various explanations have been proposed: the "three days' journey" might refer to the greater Nineveh administrative district, which included surrounding cities; it might describe the time needed to traverse the city while stopping to preach; or it might be hyperbolic language emphasizing the city's greatness.
 
 **The Composition Period: Post-Exilic Era (5th-4th Centuries BCE)**
 
@@ -65,8 +65,8 @@ The historical context of the Persian period profoundly shapes the book's theolo
 
 The text contains several features that reflect Persian-era customs and administration:
 
-- The decree issued jointly by the "king and his nobles" [Jonah 3:7](https://eternal.family.net.za/bible/books/jonah/3#7) reflects Persian administrative structures rather than ancient Near Eastern monarchical practice of the 8th century
-- The inclusion of animals in the fast and wearing of sackcloth [Jonah 3:8](https://eternal.family.net.za/bible/books/jonah/3#8) corresponds to documented Persian mourning customs
+- The decree issued jointly by the "king and his nobles" [Jonah 3:7 reflects Persian administrative structures rather than ancient Near Eastern monarchical practice of the 8th century
+- The inclusion of animals in the fast and wearing of sackcloth [Jonah 3:8 corresponds to documented Persian mourning customs
 - The use of the term "God of heaven" reflects Persian-period Jewish terminology for referring to Yahweh in multi-ethnic contexts
 
 **Geographic and Social Setting**
@@ -94,21 +94,21 @@ The narrative demonstrates that God's compassion extends beyond Israel to encomp
 
 A central purpose of the book is to reveal God's absolute sovereignty over all creation—the sea, the great fish, the plant, the worm, the wind, and all nations including Nineveh. God exercises his prerogative to show mercy to whomever he chooses, regardless of human expectations or nationalistic prejudices.
 
-The climactic dialogue in chapter 4 makes this explicit. God asks Jonah, "Should I not pity Nineveh, that great city, in which there are more than 120,000 persons who do not know their right hand from their left, and also much cattle?" [Jonah 4:11](https://eternal.family.net.za/bible/books/jonah/4#11). This rhetorical question asserts God's right to show compassion based on his own character, not on human merit or national identity.
+The climactic dialogue in chapter 4 makes this explicit. God asks Jonah, "Should I not pity Nineveh, that great city, in which there are more than 120,000 persons who do not know their right hand from their left, and also much cattle?" [Jonah 4:11. This rhetorical question asserts God's right to show compassion based on his own character, not on human merit or national identity.
 
 **Exploring Theodicy and Divine Justice**
 
 The composition of Jonah reflects functionality as "theodicy literature" challenging questions about God's fidelity and justice. If set in the pre-exilic context (8th century BCE), it addresses YHWH's justice in allowing Israel's enemies to prosper while Israel suffers. If composed post-exilically, it engages with the traumatic questions of why God allowed the exile and how divine justice operates in a world where the wicked sometimes repent and the righteous suffer.
 
-The book presents God as free to relent from judgment when people repent [Jonah 3:10](https://eternal.family.net.za/bible/books/jonah/3#10), challenging rigid understandings of divine justice that demand punishment regardless of repentance.
+The book presents God as free to relent from judgment when people repent [Jonah 3:10, challenging rigid understandings of divine justice that demand punishment regardless of repentance.
 
 **Calling for Authentic Repentance**
 
-The book functions as "didactic literature" in the exilic period, serving as "a call for repentance from the exiled community." The dramatic repentance of Nineveh—from the greatest to the least, including even the animals [Jonah 3:5-8](https://eternal.family.net.za/bible/books/jonah/3#5)—stands as a model of what genuine repentance looks like. Ironically, pagan Ninevites demonstrate more authentic response to God's word than God's own prophet, creating a sharp rebuke to Israel.
+The book functions as "didactic literature" in the exilic period, serving as "a call for repentance from the exiled community." The dramatic repentance of Nineveh—from the greatest to the least, including even the animals [Jonah 3:5-8—stands as a model of what genuine repentance looks like. Ironically, pagan Ninevites demonstrate more authentic response to God's word than God's own prophet, creating a sharp rebuke to Israel.
 
 **Critiquing Prophetic Nationalism**
 
-The book examines the role and attitudes of prophets, critiquing nationalistic prophecy that desires judgment on enemies rather than their repentance. Jonah represents a prophet who knows God's character ("I knew that you are a gracious God and merciful, slow to anger and abounding in steadfast love, and relenting from disaster" [Jonah 4:2](https://eternal.family.net.za/bible/books/jonah/4#2)) but resents it when applied to Israel's enemies.
+The book examines the role and attitudes of prophets, critiquing nationalistic prophecy that desires judgment on enemies rather than their repentance. Jonah represents a prophet who knows God's character ("I knew that you are a gracious God and merciful, slow to anger and abounding in steadfast love, and relenting from disaster" [Jonah 4:2) but resents it when applied to Israel's enemies.
 
 The narrative thus challenges readers to examine whether they share Jonah's perspective—desiring God's mercy for themselves but judgment for their enemies—or whether they align with God's universal compassion.
 
@@ -118,7 +118,7 @@ The book serves as "an indispensable tool for inter-religious dialogue, especial
 
 **Satirical Challenge to Religious Hypocrisy**
 
-Many scholars read the book as satire, using humor and irony to expose religious hypocrisy. Jonah is repeatedly portrayed as less responsive to God than pagans: the sailors pray while Jonah sleeps [Jonah 1:5-6](https://eternal.family.net.za/bible/books/jonah/1#5); the Ninevites immediately repent while Jonah resists God's will; Jonah shows more concern for a plant than for 120,000 human beings [Jonah 4:9-11](https://eternal.family.net.za/bible/books/jonah/4#9).
+Many scholars read the book as satire, using humor and irony to expose religious hypocrisy. Jonah is repeatedly portrayed as less responsive to God than pagans: the sailors pray while Jonah sleeps [Jonah 1:5-6; the Ninevites immediately repent while Jonah resists God's will; Jonah shows more concern for a plant than for 120,000 human beings [Jonah 4:9-11.
 
 This satirical purpose makes the book a "challenge to theodicy"—not providing easy answers but provoking readers to question their assumptions about God, justice, mercy, and their own attitudes toward outsiders.
 
@@ -139,7 +139,7 @@ The book of Jonah is most prominently referenced in the New Testament by Jesus h
 
 The most significant New Testament references to Jonah appear in the Synoptic Gospels when Jesus responds to demands for a sign from the scribes and Pharisees. In the Gospel of Matthew, Jonah is referenced **6 times in 5 verses**, and in the Gospel of Luke, Jonah is referenced **4 times in 3 verses**.
 
-**Matthew 12:38-41** provides the fullest treatment. When some scribes and Pharisees ask Jesus for a sign, he responds: "An evil and adulterous generation seeks for a sign, but no sign will be given to it except the sign of the prophet Jonah. For just as Jonah was three days and three nights in the belly of the great fish, so will the Son of Man be three days and three nights in the heart of the earth. The men of Nineveh will rise up at the judgment with this generation and condemn it, for they repented at the preaching of Jonah, and behold, something greater than Jonah is here" ([Matthew 12:39-41](https://www.biblegateway.com/passage/?search=Matthew+12:39-41&version=ESV)).
+**Matthew 12:38-41** provides the fullest treatment. When some scribes and Pharisees ask Jesus for a sign, he responds: "An evil and adulterous generation seeks for a sign, but no sign will be given to it except the sign of the prophet Jonah. For just as Jonah was three days and three nights in the belly of the great fish, so will the Son of Man be three days and three nights in the heart of the earth. The men of Nineveh will rise up at the judgment with this generation and condemn it, for they repented at the preaching of Jonah, and behold, something greater than Jonah is here" (Matthew 12:39-41](https://www.biblegateway.com/passage/?search=Matthew+12:39-41&version=ESV)).
 
 This passage makes two crucial connections:
 
@@ -147,9 +147,9 @@ This passage makes two crucial connections:
 
 2. **Comparative Superiority**: Jesus declares himself "greater than Jonah." While Jonah was a reluctant prophet whose message brought repentance to Nineveh, Jesus is the willing Savior whose message brings salvation to all who believe. The Ninevites' repentance at Jonah's preaching will condemn Jesus's generation for their rejection of one far greater.
 
-**Matthew 16:4** repeats the reference more briefly: "An evil and adulterous generation seeks for a sign, but no sign will be given to it except the sign of Jonah" ([Matthew 16:4](https://www.biblegateway.com/passage/?search=Matthew+16:4&version=ESV)). This condensed version emphasizes that the resurrection will be the decisive proof of Jesus's identity.
+**Matthew 16:4** repeats the reference more briefly: "An evil and adulterous generation seeks for a sign, but no sign will be given to it except the sign of Jonah" (Matthew 16:4](https://www.biblegateway.com/passage/?search=Matthew+16:4&version=ESV)). This condensed version emphasizes that the resurrection will be the decisive proof of Jesus's identity.
 
-**Luke 11:29-32** parallels Matthew's account with slight variations: "This generation is an evil generation. It seeks for a sign, but no sign will be given to it except the sign of Jonah. For as Jonah became a sign to the people of Nineveh, so will the Son of Man be to this generation. The men of Nineveh will rise up at the judgment with this generation and condemn it, for they repented at the preaching of Jonah, and behold, something greater than Jonah is here" ([Luke 11:29-30, 32](https://www.biblegateway.com/passage/?search=Luke+11:29-32&version=ESV)).
+**Luke 11:29-32** parallels Matthew's account with slight variations: "This generation is an evil generation. It seeks for a sign, but no sign will be given to it except the sign of Jonah. For as Jonah became a sign to the people of Nineveh, so will the Son of Man be to this generation. The men of Nineveh will rise up at the judgment with this generation and condemn it, for they repented at the preaching of Jonah, and behold, something greater than Jonah is here" (Luke 11:29-30, 32](https://www.biblegateway.com/passage/?search=Luke+11:29-32&version=ESV)).
 
 Luke's version emphasizes that Jonah himself "became a sign" to Nineveh—possibly referring to his experience of being delivered from death (the fish) as a credential for his message. Similarly, Jesus's resurrection would authenticate his claims.
 
@@ -201,7 +201,7 @@ The book is particularly significant in Jewish liturgical practice. Jonah is rea
 
 The Christian church inherited Jonah as canonical Scripture from the Jewish tradition. The book appears in all major Christian canonical lists from the earliest periods, including the [Muratorian Canon](https://en.wikipedia.org/wiki/Muratorian_fragment) and lists from church fathers such as Athanasius, Jerome, and Augustine.
 
-Jesus's explicit endorsement of Jonah provides dominical authentication of the book's canonical status. When Jesus refers to "the prophet Jonah" ([Matthew 12:39](https://www.biblegateway.com/passage/?search=Matthew+12:39&version=ESV)) and uses Jonah's experience as a prophetic type for his own death and resurrection, he affirms the book's authority and theological significance. For Christians, Jesus's use of Jonah settles any potential questions about the book's canonical validity.
+Jesus's explicit endorsement of Jonah provides dominical authentication of the book's canonical status. When Jesus refers to "the prophet Jonah" (Matthew 12:39](https://www.biblegateway.com/passage/?search=Matthew+12:39&version=ESV)) and uses Jonah's experience as a prophetic type for his own death and resurrection, he affirms the book's authority and theological significance. For Christians, Jesus's use of Jonah settles any potential questions about the book's canonical validity.
 
 The book is accepted equally by Protestant, Catholic, and Orthodox traditions without variation. There has never been any controversy about Jonah's inclusion in the Christian biblical canon comparable to debates about books like James, Hebrews, or Revelation in the early church.
 
@@ -209,7 +209,7 @@ The book is accepted equally by Protestant, Catholic, and Orthodox traditions wi
 
 While Jonah's canonical status has never been in doubt, modern scholarship has raised questions about the book's literary genre and historical character. "The modern objection to Jonah's inclusion in the Twelve is strictly formal, based on the assumption that properly prophetic material is oracular, and that a book that is entirely biography is by that fact alone something other than prophecy."
 
-Unlike other prophetic books that contain extensive oracles ("Thus says the LORD"), Jonah is primarily narrative, containing only one brief proclamation: "Yet forty days, and Nineveh shall be overthrown!" [Jonah 3:4](https://eternal.family.net.za/bible/books/jonah/3#4). This has led some scholars to question whether Jonah properly belongs in the prophetic corpus or whether it should be classified as didactic narrative, parable, or satire.
+Unlike other prophetic books that contain extensive oracles ("Thus says the LORD"), Jonah is primarily narrative, containing only one brief proclamation: "Yet forty days, and Nineveh shall be overthrown!" [Jonah 3:4. This has led some scholars to question whether Jonah properly belongs in the prophetic corpus or whether it should be classified as didactic narrative, parable, or satire.
 
 However, as scholars note, this modern formal objection differs fundamentally from ancient canonical debates. Ancient communities did not exclude books based on genre classification but on questions of divine inspiration, apostolic/prophetic authority, and conformity to received faith. By these traditional criteria, Jonah has always been recognized as inspired Scripture.
 
@@ -241,75 +241,75 @@ The book of Jonah is a tightly constructed narrative spanning four chapters, tel
 
 **Chapter 1: Jonah's Flight and the Storm**
 
-The book opens abruptly with a divine commission: "Now the word of the LORD came to Jonah the son of Amittai, saying, 'Arise, go to Nineveh, that great city, and call out against it, for their evil has come up before me'" [Jonah 1:1-2](https://eternal.family.net.za/bible/books/jonah/1#1). This straightforward command establishes the book's central conflict immediately.
+The book opens abruptly with a divine commission: "Now the word of the LORD came to Jonah the son of Amittai, saying, 'Arise, go to Nineveh, that great city, and call out against it, for their evil has come up before me'" [Jonah 1:1-2. This straightforward command establishes the book's central conflict immediately.
 
-Rather than obeying, Jonah responds with shocking disobedience: "But Jonah rose to flee to Tarshish from the presence of the LORD" [Jonah 1:3](https://eternal.family.net.za/bible/books/jonah/1#3). He goes down to Joppa, finds a ship bound for Tarshish (generally identified as Spain or Sardinia, representing the farthest western point of the known world—exactly opposite the direction of Nineveh to the east), pays the fare, and boards the vessel "to go with them to Tarshish, away from the presence of the LORD" [Jonah 1:3](https://eternal.family.net.za/bible/books/jonah/1#3). The repetition of this phrase emphasizes Jonah's deliberate attempt to escape God's calling.
+Rather than obeying, Jonah responds with shocking disobedience: "But Jonah rose to flee to Tarshish from the presence of the LORD" [Jonah 1:3. He goes down to Joppa, finds a ship bound for Tarshish (generally identified as Spain or Sardinia, representing the farthest western point of the known world—exactly opposite the direction of Nineveh to the east), pays the fare, and boards the vessel "to go with them to Tarshish, away from the presence of the LORD" [Jonah 1:3. The repetition of this phrase emphasizes Jonah's deliberate attempt to escape God's calling.
 
-God's response is immediate and sovereign: "But the LORD hurled a great wind upon the sea, and there was a mighty tempest on the sea, so that the ship threatened to break up" [Jonah 1:4](https://eternal.family.net.za/bible/books/jonah/1#4). The verb "hurled" (Hebrew: *tul*) will reappear throughout the narrative, emphasizing God's active control over events.
+God's response is immediate and sovereign: "But the LORD hurled a great wind upon the sea, and there was a mighty tempest on the sea, so that the ship threatened to break up" [Jonah 1:4. The verb "hurled" (Hebrew: *tul*) will reappear throughout the narrative, emphasizing God's active control over events.
 
-The pagan sailors respond to the crisis with religious devotion: "Then the mariners were afraid, and each cried out to his god" [Jonah 1:5](https://eternal.family.net.za/bible/books/jonah/1#5). They also take practical action, throwing cargo overboard to lighten the ship. Meanwhile, in bitter irony, Jonah "had gone down into the inner part of the ship and had lain down and was fast asleep" [Jonah 1:5](https://eternal.family.net.za/bible/books/jonah/1#5). The prophet of God sleeps while pagans pray—the first of many reversals in the narrative.
+The pagan sailors respond to the crisis with religious devotion: "Then the mariners were afraid, and each cried out to his god" [Jonah 1:5. They also take practical action, throwing cargo overboard to lighten the ship. Meanwhile, in bitter irony, Jonah "had gone down into the inner part of the ship and had lain down and was fast asleep" [Jonah 1:5. The prophet of God sleeps while pagans pray—the first of many reversals in the narrative.
 
-The captain finds Jonah and rebukes him: "What do you mean, you sleeper? Arise, call out to your god! Perhaps the god will give a thought to us, that we may not perish" [Jonah 1:6](https://eternal.family.net.za/bible/books/jonah/1#6). Remarkably, a pagan ship captain must command God's prophet to pray.
+The captain finds Jonah and rebukes him: "What do you mean, you sleeper? Arise, call out to your god! Perhaps the god will give a thought to us, that we may not perish" [Jonah 1:6. Remarkably, a pagan ship captain must command God's prophet to pray.
 
-To determine who is responsible for the calamity, the sailors cast lots, "and the lot fell on Jonah" [Jonah 1:7](https://eternal.family.net.za/bible/books/jonah/1#7). Under interrogation, Jonah makes his confession: "I am a Hebrew, and I fear the LORD, the God of heaven, who made the sea and the dry land" [Jonah 1:9](https://eternal.family.net.za/bible/books/jonah/1#9). The irony is palpable—Jonah claims to "fear" (worship) the God who made the sea, yet he attempted to flee across that very sea from God's presence.
+To determine who is responsible for the calamity, the sailors cast lots, "and the lot fell on Jonah" [Jonah 1:7. Under interrogation, Jonah makes his confession: "I am a Hebrew, and I fear the LORD, the God of heaven, who made the sea and the dry land" [Jonah 1:9. The irony is palpable—Jonah claims to "fear" (worship) the God who made the sea, yet he attempted to flee across that very sea from God's presence.
 
-When the sailors learn Jonah is fleeing from the LORD, "the men were exceedingly afraid" [Jonah 1:10](https://eternal.family.net.za/bible/books/jonah/1#10). They ask what should be done, and Jonah responds, "Pick me up and hurl me into the sea; then the sea will quiet down for you, for I know it is because of me that this great tempest has come upon you" [Jonah 1:12](https://eternal.family.net.za/bible/books/jonah/1#12).
+When the sailors learn Jonah is fleeing from the LORD, "the men were exceedingly afraid" [Jonah 1:10. They ask what should be done, and Jonah responds, "Pick me up and hurl me into the sea; then the sea will quiet down for you, for I know it is because of me that this great tempest has come upon you" [Jonah 1:12.
 
-Remarkably, the pagan sailors initially refuse this solution, instead rowing hard to bring the ship to land [Jonah 1:13](https://eternal.family.net.za/bible/books/jonah/1#13). These Gentiles show more compassion for the Hebrew prophet than he will later show for them. Only when their efforts fail do they reluctantly throw Jonah overboard, first praying to Jonah's God: "O LORD, let us not perish for this man's life, and lay not on us innocent blood, for you, O LORD, have done as it pleased you" [Jonah 1:14](https://eternal.family.net.za/bible/books/jonah/1#14).
+Remarkably, the pagan sailors initially refuse this solution, instead rowing hard to bring the ship to land [Jonah 1:13. These Gentiles show more compassion for the Hebrew prophet than he will later show for them. Only when their efforts fail do they reluctantly throw Jonah overboard, first praying to Jonah's God: "O LORD, let us not perish for this man's life, and lay not on us innocent blood, for you, O LORD, have done as it pleased you" [Jonah 1:14.
 
-When Jonah hits the water, "the sea ceased from its raging" [Jonah 1:15](https://eternal.family.net.za/bible/books/jonah/1#15). The sailors' response is immediate and profound: "Then the men feared the LORD exceedingly, and they offered a sacrifice to the LORD and made vows" [Jonah 1:16](https://eternal.family.net.za/bible/books/jonah/1#16). Ironically, Jonah's disobedience results in the conversion of pagan sailors to worship of the true God—the first hint that God's purposes will be accomplished despite human resistance.
+When Jonah hits the water, "the sea ceased from its raging" [Jonah 1:15. The sailors' response is immediate and profound: "Then the men feared the LORD exceedingly, and they offered a sacrifice to the LORD and made vows" [Jonah 1:16. Ironically, Jonah's disobedience results in the conversion of pagan sailors to worship of the true God—the first hint that God's purposes will be accomplished despite human resistance.
 
-The chapter concludes with the famous verse: "And the LORD appointed a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights" [Jonah 1:17](https://eternal.family.net.za/bible/books/jonah/1#17). The word "appointed" (Hebrew: *manah*) will recur, showing God's sovereign control over creation. Notably, the text does not sensationalize this miracle—it is stated matter-of-factly as another expression of divine sovereignty.
+The chapter concludes with the famous verse: "And the LORD appointed a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights" [Jonah 1:17. The word "appointed" (Hebrew: *manah*) will recur, showing God's sovereign control over creation. Notably, the text does not sensationalize this miracle—it is stated matter-of-factly as another expression of divine sovereignty.
 
 **Chapter 2: Jonah's Prayer from the Fish**
 
-Chapter 2 consists almost entirely of Jonah's prayer from inside the fish. "Then Jonah prayed to the LORD his God from the belly of the fish" [Jonah 2:1](https://eternal.family.net.za/bible/books/jonah/2#1). The prayer itself [Jonah 2:2-9](https://eternal.family.net.za/bible/books/jonah/2#2) is structured as a psalm of thanksgiving, using traditional psalmic language and imagery.
+Chapter 2 consists almost entirely of Jonah's prayer from inside the fish. "Then Jonah prayed to the LORD his God from the belly of the fish" [Jonah 2:1. The prayer itself [Jonah 2:2-9 is structured as a psalm of thanksgiving, using traditional psalmic language and imagery.
 
-Jonah describes his distress: "I called out to the LORD, out of my distress, and he answered me; out of the belly of Sheol I cried, and you heard my voice" [Jonah 2:2](https://eternal.family.net.za/bible/books/jonah/2#2). He acknowledges that God cast him into the deep: "For you cast me into the deep, into the heart of the seas, and the flood surrounded me" [Jonah 2:3](https://eternal.family.net.za/bible/books/jonah/2#3).
+Jonah describes his distress: "I called out to the LORD, out of my distress, and he answered me; out of the belly of Sheol I cried, and you heard my voice" [Jonah 2:2. He acknowledges that God cast him into the deep: "For you cast me into the deep, into the heart of the seas, and the flood surrounded me" [Jonah 2:3.
 
-The prayer vividly describes the experience of drowning: "The waters closed in over me to take my life; the deep surrounded me; weeds were wrapped about my head at the roots of the mountains. I went down to the land whose bars closed upon me forever" [Jonah 2:5-6](https://eternal.family.net.za/bible/books/jonah/2#5). Yet God intervened: "yet you brought up my life from the pit, O LORD my God" [Jonah 2:6](https://eternal.family.net.za/bible/books/jonah/2#6).
+The prayer vividly describes the experience of drowning: "The waters closed in over me to take my life; the deep surrounded me; weeds were wrapped about my head at the roots of the mountains. I went down to the land whose bars closed upon me forever" [Jonah 2:5-6. Yet God intervened: "yet you brought up my life from the pit, O LORD my God" [Jonah 2:6.
 
-Jonah contrasts his faithfulness with idolaters: "Those who pay regard to vain idols forsake their hope of steadfast love" [Jonah 2:8](https://eternal.family.net.za/bible/books/jonah/2#8). This is deeply ironic given that the pagan sailors have just demonstrated remarkable faithfulness and have come to worship the LORD, while Jonah himself has been fleeing from God.
+Jonah contrasts his faithfulness with idolaters: "Those who pay regard to vain idols forsake their hope of steadfast love" [Jonah 2:8. This is deeply ironic given that the pagan sailors have just demonstrated remarkable faithfulness and have come to worship the LORD, while Jonah himself has been fleeing from God.
 
-The prayer concludes with a vow: "But I with the voice of thanksgiving will sacrifice to you; what I have vowed I will pay. Salvation belongs to the LORD!" [Jonah 2:9](https://eternal.family.net.za/bible/books/jonah/2#9). This final proclamation—"Salvation belongs to the LORD!"—is theologically rich, affirming that deliverance is God's sovereign prerogative, a theme that will become central in Jonah's subsequent objections to God's mercy toward Nineveh.
+The prayer concludes with a vow: "But I with the voice of thanksgiving will sacrifice to you; what I have vowed I will pay. Salvation belongs to the LORD!" [Jonah 2:9. This final proclamation—"Salvation belongs to the LORD!"—is theologically rich, affirming that deliverance is God's sovereign prerogative, a theme that will become central in Jonah's subsequent objections to God's mercy toward Nineveh.
 
-God responds to the prayer: "And the LORD spoke to the fish, and it vomited Jonah out upon the dry land" [Jonah 2:10](https://eternal.family.net.za/bible/books/jonah/2#10). Jonah's deliverance prefigures resurrection—he has been brought up from the realm of death.
+God responds to the prayer: "And the LORD spoke to the fish, and it vomited Jonah out upon the dry land" [Jonah 2:10. Jonah's deliverance prefigures resurrection—he has been brought up from the realm of death.
 
 **Chapter 3: Nineveh's Repentance**
 
-The divine commission is renewed: "Then the word of the LORD came to Jonah the second time, saying, 'Arise, go to Nineveh, that great city, and call out against it the message that I tell you'" [Jonah 3:1-2](https://eternal.family.net.za/bible/books/jonah/3#1). Notably, God does not rebuke Jonah for his previous disobedience but simply reissues the command.
+The divine commission is renewed: "Then the word of the LORD came to Jonah the second time, saying, 'Arise, go to Nineveh, that great city, and call out against it the message that I tell you'" [Jonah 3:1-2. Notably, God does not rebuke Jonah for his previous disobedience but simply reissues the command.
 
-This time, Jonah obeys: "So Jonah arose and went to Nineveh, according to the word of the LORD" [Jonah 3:3](https://eternal.family.net.za/bible/books/jonah/3#3). The text emphasizes Nineveh's size: "Now Nineveh was an exceedingly great city, three days' journey in breadth" [Jonah 3:3](https://eternal.family.net.za/bible/books/jonah/3#3).
+This time, Jonah obeys: "So Jonah arose and went to Nineveh, according to the word of the LORD" [Jonah 3:3. The text emphasizes Nineveh's size: "Now Nineveh was an exceedingly great city, three days' journey in breadth" [Jonah 3:3.
 
-Jonah's prophetic message is remarkably brief: "Jonah began to go into the city, going a day's journey. And he called out, 'Yet forty days, and Nineveh shall be overthrown!'" [Jonah 3:4](https://eternal.family.net.za/bible/books/jonah/3#4). This five-word proclamation in Hebrew is the entirety of his preaching—no call to repentance, no offer of mercy, just a stark announcement of coming judgment.
+Jonah's prophetic message is remarkably brief: "Jonah began to go into the city, going a day's journey. And he called out, 'Yet forty days, and Nineveh shall be overthrown!'" [Jonah 3:4. This five-word proclamation in Hebrew is the entirety of his preaching—no call to repentance, no offer of mercy, just a stark announcement of coming judgment.
 
-The response is immediate and total: "And the people of Nineveh believed God. They called for a fast and put on sackcloth, from the greatest of them to the least of them" [Jonah 3:5](https://eternal.family.net.za/bible/books/jonah/3#5). Remarkably, the text says they "believed God," not "believed Jonah"—their faith is directed to God himself.
+The response is immediate and total: "And the people of Nineveh believed God. They called for a fast and put on sackcloth, from the greatest of them to the least of them" [Jonah 3:5. Remarkably, the text says they "believed God," not "believed Jonah"—their faith is directed to God himself.
 
-When news reaches the king of Nineveh, his response is equally dramatic: "he rose from his throne, removed his robe, covered himself with sackcloth, and sat in ashes" [Jonah 3:6](https://eternal.family.net.za/bible/books/jonah/3#6). The king then issues a decree "by the decree of the king and his nobles" [Jonah 3:7](https://eternal.family.net.za/bible/books/jonah/3#7)—a formal royal proclamation commanding universal fasting and repentance.
+When news reaches the king of Nineveh, his response is equally dramatic: "he rose from his throne, removed his robe, covered himself with sackcloth, and sat in ashes" [Jonah 3:6. The king then issues a decree "by the decree of the king and his nobles" [Jonah 3:7—a formal royal proclamation commanding universal fasting and repentance.
 
-The decree is comprehensive: "Let neither man nor beast, herd nor flock, taste anything. Let them not feed or drink water, but let man and beast be covered with sackcloth, and let them call out mightily to God" [Jonah 3:7-8](https://eternal.family.net.za/bible/books/jonah/3#7). Even the animals participate in the fast and wear sackcloth—a detail that some interpreters see as hyperbolic or satirical, though it reflects documented ancient Near Eastern mourning practices.
+The decree is comprehensive: "Let neither man nor beast, herd nor flock, taste anything. Let them not feed or drink water, but let man and beast be covered with sackcloth, and let them call out mightily to God" [Jonah 3:7-8. Even the animals participate in the fast and wear sackcloth—a detail that some interpreters see as hyperbolic or satirical, though it reflects documented ancient Near Eastern mourning practices.
 
-Most importantly, the decree calls for moral transformation: "Let everyone turn from his evil way and from the violence that is in his hands. Who knows? God may turn and relent and turn from his fierce anger, so that we may not perish" [Jonah 3:8-9](https://eternal.family.net.za/bible/books/jonah/3#8). The king's "Who knows?" expresses humble hope rather than presumption—he recognizes that mercy cannot be demanded but only humbly received.
+Most importantly, the decree calls for moral transformation: "Let everyone turn from his evil way and from the violence that is in his hands. Who knows? God may turn and relent and turn from his fierce anger, so that we may not perish" [Jonah 3:8-9. The king's "Who knows?" expresses humble hope rather than presumption—he recognizes that mercy cannot be demanded but only humbly received.
 
-God's response validates the king's hope: "When God saw what they did, how they turned from their evil way, God relented of the disaster that he had said he would do to them, and he did not do it" [Jonah 3:10](https://eternal.family.net.za/bible/books/jonah/3#10). This verse is theologically significant, showing that God responds to genuine repentance with mercy, even for those outside the covenant community. God's justice includes the possibility of forgiveness when people turn from evil.
+God's response validates the king's hope: "When God saw what they did, how they turned from their evil way, God relented of the disaster that he had said he would do to them, and he did not do it" [Jonah 3:10. This verse is theologically significant, showing that God responds to genuine repentance with mercy, even for those outside the covenant community. God's justice includes the possibility of forgiveness when people turn from evil.
 
 **Chapter 4: Jonah's Anger and God's Response**
 
-Nineveh's salvation provokes an unexpected response from Jonah: "But it displeased Jonah exceedingly, and he was angry" [Jonah 4:1](https://eternal.family.net.za/bible/books/jonah/4#1). Rather than rejoicing in the success of his mission, Jonah is furious that God showed mercy.
+Nineveh's salvation provokes an unexpected response from Jonah: "But it displeased Jonah exceedingly, and he was angry" [Jonah 4:1. Rather than rejoicing in the success of his mission, Jonah is furious that God showed mercy.
 
-Jonah's complaint reveals his theological knowledge and his problem: "O LORD, is not this what I said when I was yet in my country? That is why I made haste to flee to Tarshish; for I knew that you are a gracious God and merciful, slow to anger and abounding in steadfast love, and relenting from disaster" [Jonah 4:2](https://eternal.family.net.za/bible/books/jonah/4#2). Jonah quotes the classic creedal statement about God's character (Exodus 34:6), which should be cause for praise, but he presents it as an accusation. He knew God would show mercy to Nineveh, and he wanted no part in facilitating it.
+Jonah's complaint reveals his theological knowledge and his problem: "O LORD, is not this what I said when I was yet in my country? That is why I made haste to flee to Tarshish; for I knew that you are a gracious God and merciful, slow to anger and abounding in steadfast love, and relenting from disaster" [Jonah 4:2. Jonah quotes the classic creedal statement about God's character (Exodus 34:6), which should be cause for praise, but he presents it as an accusation. He knew God would show mercy to Nineveh, and he wanted no part in facilitating it.
 
-Jonah's despair is so great that he wishes for death: "Therefore now, O LORD, please take my life from me, for it is better for me to die than to live" [Jonah 4:3](https://eternal.family.net.za/bible/books/jonah/4#3). God responds with a gentle question: "Do you do well to be angry?" [Jonah 4:4](https://eternal.family.net.za/bible/books/jonah/4#4).
+Jonah's despair is so great that he wishes for death: "Therefore now, O LORD, please take my life from me, for it is better for me to die than to live" [Jonah 4:3. God responds with a gentle question: "Do you do well to be angry?" [Jonah 4:4.
 
-Without answering, Jonah leaves the city and builds a booth to sit under, waiting "to see what would become of the city" [Jonah 4:5](https://eternal.family.net.za/bible/books/jonah/4#5). Perhaps he still hopes God will destroy Nineveh despite their repentance.
+Without answering, Jonah leaves the city and builds a booth to sit under, waiting "to see what would become of the city" [Jonah 4:5. Perhaps he still hopes God will destroy Nineveh despite their repentance.
 
-God then provides an object lesson through nature. "Now the LORD God appointed a plant and made it come up over Jonah, that it might be a shade over his head, to save him from his discomfort" [Jonah 4:6](https://eternal.family.net.za/bible/books/jonah/4#6). Jonah's response is immediate: "So Jonah was exceedingly glad because of the plant" [Jonah 4:6](https://eternal.family.net.za/bible/books/jonah/4#6).
+God then provides an object lesson through nature. "Now the LORD God appointed a plant and made it come up over Jonah, that it might be a shade over his head, to save him from his discomfort" [Jonah 4:6. Jonah's response is immediate: "So Jonah was exceedingly glad because of the plant" [Jonah 4:6.
 
-But God's lesson continues: "But when dawn came up the next day, God appointed a worm that attacked the plant, so that it withered" [Jonah 4:7](https://eternal.family.net.za/bible/books/jonah/4#7). Then "God appointed a scorching east wind, and the sun beat down on the head of Jonah so that he was faint" [Jonah 4:8](https://eternal.family.net.za/bible/books/jonah/4#8). Once again Jonah asks to die: "It is better for me to die than to live" [Jonah 4:8](https://eternal.family.net.za/bible/books/jonah/4#8).
+But God's lesson continues: "But when dawn came up the next day, God appointed a worm that attacked the plant, so that it withered" [Jonah 4:7. Then "God appointed a scorching east wind, and the sun beat down on the head of Jonah so that he was faint" [Jonah 4:8. Once again Jonah asks to die: "It is better for me to die than to live" [Jonah 4:8.
 
-God asks again: "Do you do well to be angry for the plant?" [Jonah 4:9](https://eternal.family.net.za/bible/books/jonah/4#9). This time Jonah answers defiantly: "Yes, I do well to be angry, angry enough to die" [Jonah 4:9](https://eternal.family.net.za/bible/books/jonah/4#9).
+God asks again: "Do you do well to be angry for the plant?" [Jonah 4:9. This time Jonah answers defiantly: "Yes, I do well to be angry, angry enough to die" [Jonah 4:9.
 
-The book concludes with God's powerful rhetorical argument: "And the LORD said, 'You pity the plant, for which you did not labor, nor did you make it grow, which came into being in a night and perished in a night. And should not I pity Nineveh, that great city, in which there are more than 120,000 persons who do not know their right hand from their left, and also much cattle?'" [Jonah 4:10-11](https://eternal.family.net.za/bible/books/jonah/4#10).
+The book concludes with God's powerful rhetorical argument: "And the LORD said, 'You pity the plant, for which you did not labor, nor did you make it grow, which came into being in a night and perished in a night. And should not I pity Nineveh, that great city, in which there are more than 120,000 persons who do not know their right hand from their left, and also much cattle?'" [Jonah 4:10-11.
 
 This final question is left unanswered—the book ends without telling us Jonah's response. The question is directed not only at Jonah but at all readers: Will we accept God's sovereign right to show mercy to whomever he chooses, even our enemies? The mention of "120,000 persons who do not know their right hand from their left" emphasizes human moral ignorance and vulnerability, while the inclusion of "also much cattle" shows God's care extends to all creation.
 
@@ -323,17 +323,17 @@ The book of Jonah contains several theological themes that, while not entirely u
 
 The book's most distinctive teaching is its radical emphasis on God's universal compassion extending beyond Israel to encompass even Israel's most hated enemies. As scholars note, "the book of Jonah advocates for a theology of universalism," promoting "God's mercy for all nations." This universalism is emphasized through the Hebrew term *Elohei HaShamayim* ("God of Heaven"), which appears strategically to emphasize YHWH's universal authority over all peoples and nations.
 
-While other prophetic books occasionally address foreign nations (notably Isaiah, Jeremiah, and Ezekiel), Jonah is unique in making God's compassion for Gentiles the central theological point. The book challenges the notion that God's covenant with Israel implies exclusive divine concern for Israel alone. The climactic question—"Should I not pity Nineveh...?" [Jonah 4:11](https://eternal.family.net.za/bible/books/jonah/4#11)—asserts God's sovereign freedom to show compassion to any people regardless of their covenant status.
+While other prophetic books occasionally address foreign nations (notably Isaiah, Jeremiah, and Ezekiel), Jonah is unique in making God's compassion for Gentiles the central theological point. The book challenges the notion that God's covenant with Israel implies exclusive divine concern for Israel alone. The climactic question—"Should I not pity Nineveh...?" [Jonah 4:11—asserts God's sovereign freedom to show compassion to any people regardless of their covenant status.
 
 **God's Repentance/Relenting**
 
-Jonah explicitly teaches that God changes his declared course of action in response to human repentance: "When God saw what they did, how they turned from their evil way, God relented of the disaster that he had said he would do to them, and he did not do it" [Jonah 3:10](https://eternal.family.net.za/bible/books/jonah/3#10). While this theme appears elsewhere in Scripture (Jeremiah 18:7-10; Joel 2:13-14), Jonah makes it central and explores its implications provocatively.
+Jonah explicitly teaches that God changes his declared course of action in response to human repentance: "When God saw what they did, how they turned from their evil way, God relented of the disaster that he had said he would do to them, and he did not do it" [Jonah 3:10. While this theme appears elsewhere in Scripture (Jeremiah 18:7-10; Joel 2:13-14), Jonah makes it central and explores its implications provocatively.
 
 The book raises challenging questions about divine immutability and prophetic reliability. If a prophet announces judgment and it doesn't occur because people repent, has the prophecy failed? Jonah suggests that prophetic announcements of judgment are implicitly conditional—they contain an unspoken "unless you repent." This understanding of prophecy as warning rather than fatalistic prediction is theologically significant.
 
 **Reversal of Expected Religious Behavior**
 
-Jonah uniquely employs sustained irony by consistently portraying pagans as more spiritually responsive than God's prophet. The sailors pray while Jonah sleeps; they show compassion while Jonah shows callousness; they worship the true God while God's prophet flees from him. The Ninevites immediately believe God's message and repent in sackcloth and ashes, while Jonah resents God's mercy. Even animals participate in repentance [Jonah 3:8](https://eternal.family.net.za/bible/books/jonah/3#8).
+Jonah uniquely employs sustained irony by consistently portraying pagans as more spiritually responsive than God's prophet. The sailors pray while Jonah sleeps; they show compassion while Jonah shows callousness; they worship the true God while God's prophet flees from him. The Ninevites immediately believe God's message and repent in sackcloth and ashes, while Jonah resents God's mercy. Even animals participate in repentance [Jonah 3:8.
 
 This consistent pattern of reversal makes a pointed theological argument: covenant status does not guarantee spiritual responsiveness, nor does lack of covenant status prevent genuine faith. The book thus challenges religious presumption and ethnocentric pride.
 
@@ -345,21 +345,21 @@ Jonah's character serves as a foil, representing attitudes the book critiques ra
 
 **Explicit Critique of Nationalism in Prophetic Ministry**
 
-The book uniquely challenges the notion that prophets should desire judgment on Israel's enemies. Jonah knows God's merciful character [Jonah 4:2](https://eternal.family.net.za/bible/books/jonah/4#2) but resents it when applied to Ninevites. The book thus explores the tension between national loyalty and universal divine compassion, coming down decisively on the side of the latter.
+The book uniquely challenges the notion that prophets should desire judgment on Israel's enemies. Jonah knows God's merciful character [Jonah 4:2 but resents it when applied to Ninevites. The book thus explores the tension between national loyalty and universal divine compassion, coming down decisively on the side of the latter.
 
 This makes Jonah particularly relevant for contexts of ethnic or national conflict, as it insists that God's people should align their desires with God's compassionate purposes rather than with nationalistic vengeance.
 
 **God's Sovereignty Over Creation**
 
-While divine sovereignty over nature appears throughout Scripture, Jonah emphasizes it through the repeated verb "appointed" (Hebrew: *manah*). God appoints the storm [Jonah 1:4](https://eternal.family.net.za/bible/books/jonah/1#4), the fish [Jonah 1:17](https://eternal.family.net.za/bible/books/jonah/1#17), the plant [Jonah 4:6](https://eternal.family.net.za/bible/books/jonah/4#6), the worm [Jonah 4:7](https://eternal.family.net.za/bible/books/jonah/4#7), and the wind [Jonah 4:8](https://eternal.family.net.za/bible/books/jonah/4#8). Every element of creation serves God's purposes, becoming an instrument of his pedagogical and redemptive work. This comprehensive divine sovereignty extends equally to sea creatures, weather patterns, plants, and insects—all responding to God's command.
+While divine sovereignty over nature appears throughout Scripture, Jonah emphasizes it through the repeated verb "appointed" (Hebrew: *manah*). God appoints the storm [Jonah 1:4, the fish [Jonah 1:17, the plant [Jonah 4:6, the worm [Jonah 4:7, and the wind [Jonah 4:8. Every element of creation serves God's purposes, becoming an instrument of his pedagogical and redemptive work. This comprehensive divine sovereignty extends equally to sea creatures, weather patterns, plants, and insects—all responding to God's command.
 
 **Salvation Through Near-Death Experience**
 
-Jonah's experience in the fish, described in terms of death and Sheol [Jonah 2:2, 6](https://eternal.family.net.za/bible/books/jonah/2#2), represents a unique form of prophetic credentialing. His salvation from drowning and emergence from the fish after three days and nights becomes a "sign" [Luke 11:30](https://www.biblegateway.com/passage/?search=Luke+11:30&version=ESV) with typological significance. While the exodus served as Israel's foundational salvation narrative, Jonah's individual death-and-resurrection experience prefigures Christ's death and resurrection in a way no other Old Testament narrative does as explicitly.
+Jonah's experience in the fish, described in terms of death and Sheol [Jonah 2:2, 6, represents a unique form of prophetic credentialing. His salvation from drowning and emergence from the fish after three days and nights becomes a "sign" Luke 11:30](https://www.biblegateway.com/passage/?search=Luke+11:30&version=ESV) with typological significance. While the exodus served as Israel's foundational salvation narrative, Jonah's individual death-and-resurrection experience prefigures Christ's death and resurrection in a way no other Old Testament narrative does as explicitly.
 
 **Repentance Without Knowledge of Torah**
 
-The Ninevites repent without access to Israel's law, prophets, or covenant traditions. They respond to a five-word announcement of judgment by turning from evil and violence [Jonah 3:8](https://eternal.family.net.za/bible/books/jonah/3#8). This demonstrates that genuine repentance is possible based on general revelation and conscience, not requiring detailed knowledge of specific religious traditions. The book thus affirms a form of moral accountability and responsiveness to God that transcends covenant boundaries.
+The Ninevites repent without access to Israel's law, prophets, or covenant traditions. They respond to a five-word announcement of judgment by turning from evil and violence [Jonah 3:8. This demonstrates that genuine repentance is possible based on general revelation and conscience, not requiring detailed knowledge of specific religious traditions. The book thus affirms a form of moral accountability and responsiveness to God that transcends covenant boundaries.
 
 **The Openendedness of Divine-Human Dialogue**
 
@@ -373,7 +373,7 @@ Compared to many Old Testament books, Jonah has relatively few major textual var
 
 **Jonah 1:17 (2:1 in Hebrew): Fish or Whale?**
 
-The most discussed textual variant involves the creature that swallowed Jonah. The Masoretic Text uses the Hebrew word *dag gadol* (דָּ֣ג גָּד֔וֹל), literally "great fish" or "large fish" [Jonah 1:17](https://eternal.family.net.za/bible/books/jonah/1#17). However, the Septuagint translates this as *kētei megalō* (κήτει μεγάλω), meaning "great sea monster" or "whale."
+The most discussed textual variant involves the creature that swallowed Jonah. The Masoretic Text uses the Hebrew word *dag gadol* (דָּ֣ג גָּד֔וֹל), literally "great fish" or "large fish" [Jonah 1:17. However, the Septuagint translates this as *kētei megalō* (κήτει μεγάλω), meaning "great sea monster" or "whale."
 
 Interestingly, the LXX's choice of *kētei* may reflect ancient understanding where the distinction between "fish" and "whale" was primarily based on size rather than modern zoological categories. When the same Hebrew word *dag* appears in Genesis 9:2 ("fish of the sea"), the Septuagint translates it as *ichthyas*, a generic word for fish. This suggests the LXX translators understood Jonah's creature as something extraordinarily large, hence the term typically associated with whales or sea monsters.
 
@@ -449,7 +449,7 @@ Jonah 4:11 mentions "more than 120,000 persons who do not know their right hand 
 
 Jonah 1:3 states Jonah fled "from the presence of the LORD," and verse 10 mentions fleeing "away from the presence of the LORD." Theologically, this creates a problem, as Psalm 139:7-10 affirms that one cannot actually flee from God's presence.
 
-**Conservative Explanation**: The phrase is phenomenological, describing Jonah's intention or the geographical distance from the temple/land where God's presence was especially manifest, not claiming he could actually escape divine omnipresence. Jonah himself confesses God as creator of sea and land [Jonah 1:9](https://eternal.family.net.za/bible/books/jonah/1#9), acknowledging God's universal sovereignty.
+**Conservative Explanation**: The phrase is phenomenological, describing Jonah's intention or the geographical distance from the temple/land where God's presence was especially manifest, not claiming he could actually escape divine omnipresence. Jonah himself confesses God as creator of sea and land [Jonah 1:9, acknowledging God's universal sovereignty.
 
 **The Great Fish**
 
@@ -469,7 +469,7 @@ Whether one views these elements as errors, hyperbole, or accurate reporting dep
 
 **Jonah's Knowledge of God's Character**
 
-Jonah 4:2 reveals that Jonah fled to Tarshish because "I knew that you are a gracious God and merciful, slow to anger and abounding in steadfast love, and relenting from disaster." This creates an apparent contradiction with chapter 1. If Jonah knew God's character so well, why did he think he could flee "from the presence of the LORD" [Jonah 1:3](https://eternal.family.net.za/bible/books/jonah/1#3)?
+Jonah 4:2 reveals that Jonah fled to Tarshish because "I knew that you are a gracious God and merciful, slow to anger and abounding in steadfast love, and relenting from disaster." This creates an apparent contradiction with chapter 1. If Jonah knew God's character so well, why did he think he could flee "from the presence of the LORD" [Jonah 1:3?
 
 **Explanation**: Jonah wasn't attempting to escape God's omnipresence (which he acknowledges in 1:9) but rather to avoid being the instrument of mercy to Nineveh. His flight was motivated not by ignorance of God's omnipresence but by unwillingness to participate in extending mercy to enemies. The apparent contradiction reveals Jonah's irrational but very human resistance to God's will—he knew he couldn't truly escape God, but he tried anyway.
 
@@ -481,7 +481,7 @@ Jonah's prayer in chapter 2 is structured as a thanksgiving psalm, celebrating d
 
 **Jonah's Double Death Wish**
 
-Jonah wishes to die twice [Jonah 4:3, 8](https://eternal.family.net.za/bible/books/jonah/4#3), which seems to contradict his prayer for deliverance in chapter 2, where he desperately calls out for God to save his life.
+Jonah wishes to die twice [Jonah 4:3, 8, which seems to contradict his prayer for deliverance in chapter 2, where he desperately calls out for God to save his life.
 
 **Explanation**: This reveals the inconsistency of human emotion and spiritual state. Jonah wanted to live when drowning but wants to die when God shows mercy to Nineveh. The "contradiction" is intentional, exposing Jonah's irrational priorities—he values his own comfort and national pride over his life, and certainly over the lives of 120,000 Ninevites. The book deliberately portrays Jonah as contradictory to critique his attitude.
 
@@ -495,7 +495,7 @@ Jonah 3:10 states "God relented of the disaster that he had said he would do to 
 
 **Prophetic Failure**
 
-Jonah prophesied "Yet forty days, and Nineveh shall be overthrown" [Jonah 3:4](https://eternal.family.net.za/bible/books/jonah/3#4), but Nineveh was not overthrown in forty days. This seems to contradict Deuteronomy 18:21-22, which says unfulfilled prophecy identifies a false prophet.
+Jonah prophesied "Yet forty days, and Nineveh shall be overthrown" [Jonah 3:4, but Nineveh was not overthrown in forty days. This seems to contradict Deuteronomy 18:21-22, which says unfulfilled prophecy identifies a false prophet.
 
 **Explanation**: Prophetic warnings of judgment contain an implicit condition—"unless you repent." Jeremiah 18:7-8 explicitly states this principle: "If at any time I declare concerning a nation or a kingdom, that I will pluck up and break down and destroy it, and if that nation, concerning which I have spoken, turns from its evil, I will relent of the disaster that I intended to do to it." Jonah's prophecy functioned as a warning intended to provoke repentance, not as unconditional prediction. When Nineveh repented, the conditions changed, and God's response appropriately changed. This doesn't constitute prophetic failure but rather prophetic success—the warning accomplished its purpose.
 

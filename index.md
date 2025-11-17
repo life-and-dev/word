@@ -27,7 +27,23 @@ The Bible contains diverse literary forms including historical narratives, laws,
 
 The books of the Bible themselves were not invented out of later human creativity but were [drawn from earlier writings and traditions—especially the Hebrew scriptures](https://www.britannica.com/topic/Hebrew-Bible) (the Torah, the Prophets, and the Writings), collections of prophetic oracles, historical records, liturgical texts, and letters.
 
-Church history shows that the Reformation produced many different [Bible translations](translations.md), which differ in language style, translation philosophy, and source texts.
+### Textual Variants
+
+A **textual variant** is any difference in wording between [manuscript copies of biblical texts](https://en.wikipedia.org/wiki/Textual_criticism_of_the_New_Testament). When ancient scribes hand-copied Scripture, they occasionally made changes—whether intentional (clarifications, harmonizations) or unintentional (spelling errors, skipped words, word order changes). [Textual criticism](https://www.britannica.com/topic/textual-criticism) is the scholarly discipline that compares these manuscripts to reconstruct the most likely original wording.
+
+The text of New Testament books exists in thousands of manuscript copies containing variations arising from scribal transmission over centuries. 
+
+Modern critical editions such as [Nestle-Aland 28th edition (NA28)](https://www.academic-bible.com/en/bible-society-and-biblical-studies/greek-new-testament/) and [United Bible Societies 5th edition (UBS5)](https://www.academic-bible.com/en/bible-society-and-biblical-studies/greek-new-testament/comparison-na28-ubs5/) present the same reconstructed Greek text with [critical apparatuses documenting significant variants](https://hendricksonpublishers.blog/2019/09/19/whats-the-difference-between-the-na28-and-the-ubs5/). While the UBS apparatus focuses on variants important for translation, the NA28 apparatus provides comprehensive documentation for scholarly study. 
+
+Though textual scholars estimate [between 200,000 and 400,000 total textual variants](https://bible.org/article/number-textual-variants-evangelical-miscalculation) exist across all New Testament manuscripts, [the vast majority represent minor spelling differences, word order variations, or copyist errors](https://en.wikipedia.org/wiki/Textual_variants_in_the_New_Testament) that do not affect doctrine or meaning. [Less than 1% of variants are both "meaningful" and "viable"](https://danielbwallace.com/2013/09/09/the-number-of-textual-variants-an-evangelical-miscalculation/) in terms of affecting interpretation.
+
+### Bible Translations
+
+Bible translations differ not only in language style and translation philosophy, but also in how they handle textual variants. Different [Bible translations](translations.md) make different decisions about which manuscript readings to include—some follow earlier manuscript traditions (like the critical text used in modern versions), while others follow later Byzantine manuscripts (like the Textus Receptus used in the King James Version). 
+
+Church history shows that the Reformation era particularly produced many different translations as scholars gained access to earlier Greek and Hebrew manuscripts and debated which textual traditions to follow.
+
+### Evaluating the Bible
 
 This, however, does not make the original "Word of God" invalid. The early believers did not even have a Bible and relied on the guidance of the Holy Spirit (John 14:26).
 
@@ -46,9 +62,6 @@ However, we should not discard our Bibles. Instead, here are some practical guid
 Unlike English, both Hebrew and Greek do not have lowercase letters. In both languages, the same word can have multiple meanings depending on context.
 
 Therefore, it is up to the translator's [interpretation](https://eternal.family.net.za/bible/interpretations) to decide how a scripture should be translated. This is often [influenced by the church denomination](https://eternal.family.net.za/kingdom/church/history) that sponsored the translation. Thankfully, the repetitive Hebrew style of writing and different witnesses from Bible times provide ways to cross-check important concepts.
-
-### Understanding Bible Structure
-
 
 ### The Importance of Personal Study
 

@@ -6,7 +6,7 @@ The authorship of the Book of Isaiah has been one of the most extensively debate
 
 ### Traditional View: Single Authorship by Isaiah ben Amoz
 
-According to traditional interpretation, Isaiah ben Amoz wrote the entire book that bears his name. [Isaiah 1:1](https://eternal.family.net.za/bible/books/isaiah/1#1) identifies the author as "Isaiah son of Amoz," and ancient Jewish and Christian sources consistently attributed the whole work to this prophet. The book itself contains internal references suggesting Isaiah's ministry spanned the reigns of Kings Uzziah, Jotham, Ahaz, and Hezekiah of Judah, placing his prophetic career from approximately 740 BCE to at least 701 BCE.
+According to traditional interpretation, Isaiah ben Amoz wrote the entire book that bears his name. Isaiah 1:1 identifies the author as "Isaiah son of Amoz," and ancient Jewish and Christian sources consistently attributed the whole work to this prophet. The book itself contains internal references suggesting Isaiah's ministry spanned the reigns of Kings Uzziah, Jotham, Ahaz, and Hezekiah of Judah, placing his prophetic career from approximately 740 BCE to at least 701 BCE.
 
 Traditional arguments for single authorship include:
 - The phrase "the Holy One of Israel" appears 12 times in chapters 1-39 and 14 times in chapters 40-66, suggesting linguistic unity
@@ -21,14 +21,14 @@ The dominant view in modern biblical scholarship, originating in the 19th centur
 **Proto-Isaiah (Chapters 1-39):** Attributed to the historical prophet Isaiah ben Amoz of the 8th century BCE. This section contains oracles of judgment against Judah and foreign nations, along with promises of future restoration. The historical context clearly reflects the Assyrian crisis of Isaiah's time.
 
 **Deutero-Isaiah (Chapters 40-55):** Scholars assign this section to an anonymous prophet writing during the Babylonian exile (597-538 BCE). Key evidence includes:
-- Direct references to the Babylonian captivity and imminent return ([Isaiah 40:1-2](https://eternal.family.net.za/bible/books/isaiah/40#1-2))
-- Naming of King Cyrus of Persia ([Isaiah 44:28](https://eternal.family.net.za/bible/books/isaiah/44#28), [45:1](https://eternal.family.net.za/bible/books/isaiah/45#1)), who reigned 559-530 BCE, over 150 years after the historical Isaiah
+- Direct references to the Babylonian captivity and imminent return (Isaiah 40:1-2](https://eternal.family.net.za/bible/books/isaiah/40#1-2))
+- Naming of King Cyrus of Persia (Isaiah 44:28, [45:1), who reigned 559-530 BCE, over 150 years after the historical Isaiah
 - Different theological emphases, including monotheism more explicitly stated
 - Distinct literary style and vocabulary
 - Changed historical circumstances: Assyria is no longer a threat; Babylon is the dominant power
 
 **Trito-Isaiah (Chapters 56-66):** Many scholars attribute this section to yet another author (or authors) writing after the return from Babylonian exile (post-538 BCE). Evidence includes:
-- References to a rebuilt temple ([Isaiah 56:5-7](https://eternal.family.net.za/bible/books/isaiah/56#5-7))
+- References to a rebuilt temple (Isaiah 56:5-7](https://eternal.family.net.za/bible/books/isaiah/56#5-7))
 - Concerns with post-exilic community issues
 - Different theological tone from Deutero-Isaiah
 
@@ -57,7 +57,7 @@ The Book of Isaiah emerged from one of the most turbulent periods in ancient Nea
 
 ### The 8th Century BCE: Proto-Isaiah's World (Chapters 1-39)
 
-The historical prophet Isaiah ben Amoz lived and prophesied during the latter half of the 8th century BCE, primarily in Jerusalem. According to [Isaiah 1:1](https://eternal.family.net.za/bible/books/isaiah/1#1), his ministry spanned the reigns of Kings Uzziah (also called Azariah), Jotham, Ahaz, and Hezekiah of Judah. This places Isaiah's prophetic career approximately from 740 BCE (probably beginning a few years before King Uzziah's death) until at least 701 BCE, when the Assyrian king Sennacherib invaded Judah. Isaiah may have had a prophetic career spanning forty years or more.
+The historical prophet Isaiah ben Amoz lived and prophesied during the latter half of the 8th century BCE, primarily in Jerusalem. According to Isaiah 1:1, his ministry spanned the reigns of Kings Uzziah (also called Azariah), Jotham, Ahaz, and Hezekiah of Judah. This places Isaiah's prophetic career approximately from 740 BCE (probably beginning a few years before King Uzziah's death) until at least 701 BCE, when the Assyrian king Sennacherib invaded Judah. Isaiah may have had a prophetic career spanning forty years or more.
 
 **Geopolitical Context: The Assyrian Threat**
 
@@ -66,15 +66,15 @@ This was the age of the [Neo-Assyrian Empire](https://en.wikipedia.org/wiki/Neo-
 Key events during Isaiah's lifetime:
 - **734-732 BCE:** Assyria destroyed Aram-Damascus (Syria)
 - **722-721 BCE:** Assyria conquered the Northern Kingdom of Israel, deporting most of its inhabitants in what became known as the "Assyrian captivity" or the "Lost Ten Tribes"
-- **701 BCE:** Assyrian king Sennacherib invaded Judah, besieging Jerusalem (described in [Isaiah 36-37](https://eternal.family.net.za/bible/books/isaiah/36#1))
+- **701 BCE:** Assyrian king Sennacherib invaded Judah, besieging Jerusalem (described in Isaiah 36-37)
 
 **The Syro-Ephraimite War (735-732 BCE)**
 
-A crucial episode in Isaiah's ministry was the Syro-Ephraimite War, when King Rezin of Damascus (Aram) and King Pekah of Israel (Ephraim) allied against Assyria and tried to force King Ahaz of Judah to join their coalition. When Ahaz refused, they invaded Judah to replace him with a puppet king. Isaiah counseled Ahaz to trust in God rather than seeking Assyrian help ([Isaiah 7:1-17](https://eternal.family.net.za/bible/books/isaiah/7#1)), but Ahaz appealed to Assyria anyway, making Judah an Assyrian vassal state.
+A crucial episode in Isaiah's ministry was the Syro-Ephraimite War, when King Rezin of Damascus (Aram) and King Pekah of Israel (Ephraim) allied against Assyria and tried to force King Ahaz of Judah to join their coalition. When Ahaz refused, they invaded Judah to replace him with a puppet king. Isaiah counseled Ahaz to trust in God rather than seeking Assyrian help (Isaiah 7:1-17), but Ahaz appealed to Assyria anyway, making Judah an Assyrian vassal state.
 
 **Social and Economic Conditions**
 
-The 8th century BCE was a period of relative prosperity for Judah but also of growing social inequality. Isaiah frequently condemned the wealthy elite for oppressing the poor, corrupt judges, and economic exploitation ([Isaiah 1:21-23](https://eternal.family.net.za/bible/books/isaiah/1#21), [3:14-15](https://eternal.family.net.za/bible/books/isaiah/3#14), [5:8-23](https://eternal.family.net.za/bible/books/isaiah/5#8)).
+The 8th century BCE was a period of relative prosperity for Judah but also of growing social inequality. Isaiah frequently condemned the wealthy elite for oppressing the poor, corrupt judges, and economic exploitation (Isaiah 1:21-23, [3:14-15, [5:8-23).
 
 **Isaiah's Social Position**
 
@@ -90,7 +90,7 @@ After Assyria's fall, the [Neo-Babylonian Empire](https://en.wikipedia.org/wiki/
 
 **Cyrus the Great and Persian Conquest**
 
-By 550 BCE, a new power was rising: [Cyrus the Great](https://en.wikipedia.org/wiki/Cyrus_the_Great) of Persia. Deutero-Isaiah explicitly names Cyrus ([Isaiah 44:28](https://eternal.family.net.za/bible/books/isaiah/44#28), [45:1](https://eternal.family.net.za/bible/books/isaiah/45#1)) and predicts Babylon's fall. In 539 BCE, Cyrus conquered Babylon and issued a decree allowing exiled peoples, including the Jews, to return to their homelands. This is the historical backdrop for Deutero-Isaiah's message of comfort and imminent return: "Comfort, comfort my people, says your God. Speak tenderly to Jerusalem, and cry to her that her warfare is ended, that her iniquity is pardoned" ([Isaiah 40:1-2](https://eternal.family.net.za/bible/books/isaiah/40#1)).
+By 550 BCE, a new power was rising: [Cyrus the Great](https://en.wikipedia.org/wiki/Cyrus_the_Great) of Persia. Deutero-Isaiah explicitly names Cyrus (Isaiah 44:28, [45:1) and predicts Babylon's fall. In 539 BCE, Cyrus conquered Babylon and issued a decree allowing exiled peoples, including the Jews, to return to their homelands. This is the historical backdrop for Deutero-Isaiah's message of comfort and imminent return: "Comfort, comfort my people, says your God. Speak tenderly to Jerusalem, and cry to her that her warfare is ended, that her iniquity is pardoned" (Isaiah 40:1-2).
 
 **Theological Context**
 
@@ -102,7 +102,7 @@ If Trito-Isaiah represents a third author or school, it likely dates to the peri
 
 **Return and Disappointment**
 
-The return from exile was not the glorious restoration many had hoped for. The temple lay in ruins until it was rebuilt (completed 516 BCE). The community was small, poor, and vulnerable. Internal divisions emerged between those who had remained in the land and those returning from exile. Trito-Isaiah addresses these post-exilic community tensions, temple concerns ([Isaiah 56:5-7](https://eternal.family.net.za/bible/books/isaiah/56#5), [66:1-2](https://eternal.family.net.za/bible/books/isaiah/66#1)), and questions about who truly belongs to God's people.
+The return from exile was not the glorious restoration many had hoped for. The temple lay in ruins until it was rebuilt (completed 516 BCE). The community was small, poor, and vulnerable. Internal divisions emerged between those who had remained in the land and those returning from exile. Trito-Isaiah addresses these post-exilic community tensions, temple concerns (Isaiah 56:5-7, [66:1-2), and questions about who truly belongs to God's people.
 
 **Persian Period Context**
 
@@ -113,7 +113,7 @@ Judah was now a small province within the vast [Persian Empire](https://en.wikip
 Throughout all periods, Jerusalem serves as the geographic and theological center of Isaiah's prophecies. The prophet speaks primarily to the people of Judah and Jerusalem, though he also addresses the Northern Kingdom of Israel and foreign nations. The book's geography ranges from Jerusalem and Judah to references to Egypt, Assyria, Babylon, Persia, and other ancient Near Eastern peoples.
 
 External resources:
-- [Isaiah the Prophet, 8th Century BCE (Center for Online Judaic Studies)](https://cojs.org/isaiah_the_prophet-_8th_century_bce/)
+- Isaiah the Prophet, 8th Century BCE (Center for Online Judaic Studies)](https://cojs.org/isaiah_the_prophet-_8th_century_bce/)
 - [The History of Isaiah and the Age of Empires (The Ancient Near East Today)](https://anetoday.org/stromberg-isaiah-empires/)
 - [Historical Context for Isaiah (Yale Bible Study)](https://yalebiblestudy.org/courses/first-isaiah/lessons/historical-context-study-guide/)
 
@@ -125,65 +125,65 @@ The Book of Isaiah served multiple purposes across its compositional history, ad
 
 **1. Call to Covenant Faithfulness and Social Justice**
 
-Isaiah's primary purpose was to call Judah and Jerusalem back to faithful covenant relationship with Yahweh. The opening chapter establishes this theme: "Hear, O heavens, and give ear, O earth; for the Lord has spoken: 'Children have I reared and brought up, but they have rebelled against me'" ([Isaiah 1:2](https://eternal.family.net.za/bible/books/isaiah/1#2)). The prophet condemned ritual worship divorced from justice and righteousness ([Isaiah 1:10-17](https://eternal.family.net.za/bible/books/isaiah/1#10)).
+Isaiah's primary purpose was to call Judah and Jerusalem back to faithful covenant relationship with Yahweh. The opening chapter establishes this theme: "Hear, O heavens, and give ear, O earth; for the Lord has spoken: 'Children have I reared and brought up, but they have rebelled against me'" (Isaiah 1:2). The prophet condemned ritual worship divorced from justice and righteousness (Isaiah 1:10-17).
 
-A major concern was social injustice: exploitation of the poor, corrupt courts, greedy land-grabbing by the wealthy, and abuse of power by leaders ([Isaiah 1:21-23](https://eternal.family.net.za/bible/books/isaiah/1#21), [3:13-15](https://eternal.family.net.za/bible/books/isaiah/3#13), [5:8-23](https://eternal.family.net.za/bible/books/isaiah/5#8), [10:1-2](https://eternal.family.net.za/bible/books/isaiah/10#1)). Isaiah spoke for the oppressed and called the nation to practice justice and righteousness as essential expressions of true faith.
+A major concern was social injustice: exploitation of the poor, corrupt courts, greedy land-grabbing by the wealthy, and abuse of power by leaders (Isaiah 1:21-23, [3:13-15, [5:8-23, [10:1-2). Isaiah spoke for the oppressed and called the nation to practice justice and righteousness as essential expressions of true faith.
 
 **2. Warn of Coming Judgment**
 
-Isaiah warned that if Judah persisted in rebellion and injustice, judgment would come. The famous "Song of the Vineyard" ([Isaiah 5:1-7](https://eternal.family.net.za/bible/books/isaiah/5#1)) portrays God's disappointment: "He looked for justice, but behold, bloodshed; for righteousness, but behold, an outcry!" The prophet announced that Assyria would be God's instrument of judgment ([Isaiah 10:5-6](https://eternal.family.net.za/bible/books/isaiah/10#5)).
+Isaiah warned that if Judah persisted in rebellion and injustice, judgment would come. The famous "Song of the Vineyard" (Isaiah 5:1-7) portrays God's disappointment: "He looked for justice, but behold, bloodshed; for righteousness, but behold, an outcry!" The prophet announced that Assyria would be God's instrument of judgment (Isaiah 10:5-6).
 
 **3. Counsel Trust in God Rather Than Political Alliances**
 
-A recurring theme in Isaiah's ministry was calling kings and people to trust in God rather than making alliances with foreign powers. During the Syro-Ephraimite crisis, Isaiah told King Ahaz, "If you are not firm in faith, you will not be firm at all" ([Isaiah 7:9](https://eternal.family.net.za/bible/books/isaiah/7#9)). He opposed alliances with both Assyria and Egypt, arguing that such alliances showed lack of faith in God's protection ([Isaiah 30:1-7](https://eternal.family.net.za/bible/books/isaiah/30#1), [31:1-3](https://eternal.family.net.za/bible/books/isaiah/31#1)).
+A recurring theme in Isaiah's ministry was calling kings and people to trust in God rather than making alliances with foreign powers. During the Syro-Ephraimite crisis, Isaiah told King Ahaz, "If you are not firm in faith, you will not be firm at all" (Isaiah 7:9). He opposed alliances with both Assyria and Egypt, arguing that such alliances showed lack of faith in God's protection (Isaiah 30:1-7, [31:1-3).
 
 **4. Preserve Hope in God's Future Restoration**
 
-Even amid judgment oracles, Isaiah proclaimed hope for a remnant and future restoration. God would not completely destroy His people; a faithful remnant would survive ([Isaiah 10:20-22](https://eternal.family.net.za/bible/books/isaiah/10#20)). The prophet envisioned a future righteous king from David's line who would rule with justice ([Isaiah 9:1-7](https://eternal.family.net.za/bible/books/isaiah/9#1), [11:1-9](https://eternal.family.net.za/bible/books/isaiah/11#1)), and a time when all nations would stream to Jerusalem to learn God's ways ([Isaiah 2:2-4](https://eternal.family.net.za/bible/books/isaiah/2#2)).
+Even amid judgment oracles, Isaiah proclaimed hope for a remnant and future restoration. God would not completely destroy His people; a faithful remnant would survive (Isaiah 10:20-22). The prophet envisioned a future righteous king from David's line who would rule with justice (Isaiah 9:1-7, [11:1-9), and a time when all nations would stream to Jerusalem to learn God's ways (Isaiah 2:2-4).
 
 **5. Assert God's Sovereignty Over All Nations**
 
-The oracles against foreign nations (chapters 13-23) served to demonstrate that Yahweh was sovereign not only over Judah but over all nations. Even great empires like Assyria and Babylon were subject to God's judgment and served His purposes ([Isaiah 10:12-19](https://eternal.family.net.za/bible/books/isaiah/10#12), [13:1-22](https://eternal.family.net.za/bible/books/isaiah/13#1)).
+The oracles against foreign nations (chapters 13-23) served to demonstrate that Yahweh was sovereign not only over Judah but over all nations. Even great empires like Assyria and Babylon were subject to God's judgment and served His purposes (Isaiah 10:12-19, [13:1-22).
 
 ### Purpose of Deutero-Isaiah (Chapters 40-55)
 
 **1. Comfort and Encourage the Exiles**
 
-The opening words establish this section's primary purpose: "Comfort, comfort my people, says your God. Speak tenderly to Jerusalem, and cry to her that her warfare is ended, that her iniquity is pardoned" ([Isaiah 40:1-2](https://eternal.family.net.za/bible/books/isaiah/40#1)). The exilic community, traumatized by the destruction of Jerusalem and the temple, needed assurance that God had not abandoned them.
+The opening words establish this section's primary purpose: "Comfort, comfort my people, says your God. Speak tenderly to Jerusalem, and cry to her that her warfare is ended, that her iniquity is pardoned" (Isaiah 40:1-2). The exilic community, traumatized by the destruction of Jerusalem and the temple, needed assurance that God had not abandoned them.
 
 **2. Proclaim Imminent Liberation and Return**
 
-Deutero-Isaiah announced that liberation was at hand. God would use Cyrus of Persia as His "anointed" (messiah) to free the exiles and enable their return to Jerusalem ([Isaiah 44:28](https://eternal.family.net.za/bible/books/isaiah/44#28), [45:1-13](https://eternal.family.net.za/bible/books/isaiah/45#1)). The return is portrayed as a new exodus, even more glorious than the exodus from Egypt ([Isaiah 43:16-21](https://eternal.family.net.za/bible/books/isaiah/43#16), [52:11-12](https://eternal.family.net.za/bible/books/isaiah/52#11)).
+Deutero-Isaiah announced that liberation was at hand. God would use Cyrus of Persia as His "anointed" (messiah) to free the exiles and enable their return to Jerusalem (Isaiah 44:28, [45:1-13). The return is portrayed as a new exodus, even more glorious than the exodus from Egypt (Isaiah 43:16-21, [52:11-12).
 
 **3. Assert Radical Monotheism**
 
-In a polytheistic world, Deutero-Isaiah makes the most explicit monotheistic claims in the Hebrew Bible. "I am the Lord, and there is no other, besides me there is no God" ([Isaiah 45:5](https://eternal.family.net.za/bible/books/isaiah/45#5)). The idols of Babylon are mocked as powerless ([Isaiah 44:9-20](https://eternal.family.net.za/bible/books/isaiah/44#9), [46:1-7](https://eternal.family.net.za/bible/books/isaiah/46#1)). Only Yahweh is creator, redeemer, and sovereign over history.
+In a polytheistic world, Deutero-Isaiah makes the most explicit monotheistic claims in the Hebrew Bible. "I am the Lord, and there is no other, besides me there is no God" (Isaiah 45:5). The idols of Babylon are mocked as powerless (Isaiah 44:9-20, [46:1-7). Only Yahweh is creator, redeemer, and sovereign over history.
 
 **4. Redefine Israel's Mission**
 
-Through the Servant Songs, Deutero-Isaiah presents Israel's (or the ideal servant's) mission as bringing light and justice to the nations ([Isaiah 42:1-9](https://eternal.family.net.za/bible/books/isaiah/42#1), [49:1-6](https://eternal.family.net.za/bible/books/isaiah/49#1)). Suffering itself becomes redemptive in the fourth song ([Isaiah 52:13-53:12](https://eternal.family.net.za/bible/books/isaiah/52#13)), offering a profound theological reflection on vicarious suffering.
+Through the Servant Songs, Deutero-Isaiah presents Israel's (or the ideal servant's) mission as bringing light and justice to the nations (Isaiah 42:1-9, [49:1-6). Suffering itself becomes redemptive in the fourth song (Isaiah 52:13-53:12), offering a profound theological reflection on vicarious suffering.
 
 **5. Affirm God's Continuing Relationship with Israel**
 
-The exile raised questions about whether God's covenant was still in effect. Deutero-Isaiah emphatically affirms God's enduring love: "Can a woman forget her nursing child, that she should have no compassion on the son of her womb? Even these may forget, yet I will not forget you" ([Isaiah 49:15](https://eternal.family.net.za/bible/books/isaiah/49#15)).
+The exile raised questions about whether God's covenant was still in effect. Deutero-Isaiah emphatically affirms God's enduring love: "Can a woman forget her nursing child, that she should have no compassion on the son of her womb? Even these may forget, yet I will not forget you" (Isaiah 49:15).
 
 ### Purpose of Trito-Isaiah (Chapters 56-66)
 
 **1. Address Post-Exilic Community Issues**
 
-The returned exiles faced practical questions about community boundaries, worship practices, and inclusion. Who counted as part of God's people? Trito-Isaiah offers surprisingly inclusive answers, welcoming foreigners and even eunuchs who were traditionally excluded ([Isaiah 56:3-8](https://eternal.family.net.za/bible/books/isaiah/56#3)).
+The returned exiles faced practical questions about community boundaries, worship practices, and inclusion. Who counted as part of God's people? Trito-Isaiah offers surprisingly inclusive answers, welcoming foreigners and even eunuchs who were traditionally excluded (Isaiah 56:3-8).
 
 **2. Call for Social Justice in the Restored Community**
 
-Despite the return, injustice persisted. Trito-Isaiah calls for genuine fasting that includes acts of justice ([Isaiah 58:6-7](https://eternal.family.net.za/bible/books/isaiah/58#6)) and condemns continued oppression and violence ([Isaiah 59:1-15](https://eternal.family.net.za/bible/books/isaiah/59#1)).
+Despite the return, injustice persisted. Trito-Isaiah calls for genuine fasting that includes acts of justice (Isaiah 58:6-7) and condemns continued oppression and violence (Isaiah 59:1-15).
 
 **3. Maintain Hope Despite Disappointment**
 
-The return was not the glorious restoration many had envisioned. The community was poor, vulnerable, and still under foreign rule. Trito-Isaiah maintains hope for future glory: "Arise, shine, for your light has come, and the glory of the Lord has risen upon you" ([Isaiah 60:1](https://eternal.family.net.za/bible/books/isaiah/60#1)). The prophetic vision looks beyond present disappointments to ultimate divine vindication.
+The return was not the glorious restoration many had envisioned. The community was poor, vulnerable, and still under foreign rule. Trito-Isaiah maintains hope for future glory: "Arise, shine, for your light has come, and the glory of the Lord has risen upon you" (Isaiah 60:1). The prophetic vision looks beyond present disappointments to ultimate divine vindication.
 
 **4. Define True Worship**
 
-In debates about the temple and sacrificial worship, Trito-Isaiah emphasizes that God desires humble, contrite hearts more than temple buildings: "Heaven is my throne, and the earth is my footstool; what is the house that you would build for me?" ([Isaiah 66:1](https://eternal.family.net.za/bible/books/isaiah/66#1)).
+In debates about the temple and sacrificial worship, Trito-Isaiah emphasizes that God desires humble, contrite hearts more than temple buildings: "Heaven is my throne, and the earth is my footstool; what is the house that you would build for me?" (Isaiah 66:1).
 
 ### Overarching Theological Purpose
 
@@ -205,39 +205,39 @@ Isaiah is quoted or alluded to more than any other prophetic book in the New Tes
 
 The Gospels frequently cite Isaiah to demonstrate Jesus' fulfillment of prophecy:
 
-- **Matthew 1:22-23** quotes [Isaiah 7:14](https://eternal.family.net.za/bible/books/isaiah/7#14) regarding the virgin birth: "Behold, the virgin shall conceive and bear a son"
-- **Matthew 3:3** (also Mark 1:3, Luke 3:4-6, John 1:23) quotes [Isaiah 40:3](https://eternal.family.net.za/bible/books/isaiah/40#3) about John the Baptist preparing the way
-- **Matthew 4:14-16** quotes [Isaiah 9:1-2](https://eternal.family.net.za/bible/books/isaiah/9#1) about light dawning in Galilee
-- **Matthew 8:17** quotes [Isaiah 53:4](https://eternal.family.net.za/bible/books/isaiah/53#4) regarding Jesus healing the sick: "He took our illnesses and bore our diseases"
-- **Matthew 12:17-21** quotes [Isaiah 42:1-4](https://eternal.family.net.za/bible/books/isaiah/42#1), the first Servant Song
-- **Matthew 13:14-15** (also Mark 4:12, Luke 8:10, John 12:40, Acts 28:26-27) quotes [Isaiah 6:9-10](https://eternal.family.net.za/bible/books/isaiah/6#9) about hearing but not understanding—this passage is quoted at least five times in the New Testament
-- **Matthew 15:7-9** (also Mark 7:6) quotes [Isaiah 29:13](https://eternal.family.net.za/bible/books/isaiah/29#13) about honoring God with lips but not hearts
-- **Luke 4:17-19** records Jesus reading from [Isaiah 61:1-2](https://eternal.family.net.za/bible/books/isaiah/61#1) in the Nazareth synagogue and declaring "Today this scripture has been fulfilled in your hearing"
-- **John 12:38** quotes [Isaiah 53:1](https://eternal.family.net.za/bible/books/isaiah/53#1): "Lord, who has believed our message?"
+- **Matthew 1:22-23** quotes Isaiah 7:14 regarding the virgin birth: "Behold, the virgin shall conceive and bear a son"
+- **Matthew 3:3** (also Mark 1:3, Luke 3:4-6, John 1:23) quotes Isaiah 40:3 about John the Baptist preparing the way
+- **Matthew 4:14-16** quotes Isaiah 9:1-2 about light dawning in Galilee
+- **Matthew 8:17** quotes Isaiah 53:4 regarding Jesus healing the sick: "He took our illnesses and bore our diseases"
+- **Matthew 12:17-21** quotes Isaiah 42:1-4, the first Servant Song
+- **Matthew 13:14-15** (also Mark 4:12, Luke 8:10, John 12:40, Acts 28:26-27) quotes Isaiah 6:9-10 about hearing but not understanding—this passage is quoted at least five times in the New Testament
+- **Matthew 15:7-9** (also Mark 7:6) quotes Isaiah 29:13 about honoring God with lips but not hearts
+- **Luke 4:17-19** records Jesus reading from Isaiah 61:1-2 in the Nazareth synagogue and declaring "Today this scripture has been fulfilled in your hearing"
+- **John 12:38** quotes Isaiah 53:1: "Lord, who has believed our message?"
 
 **Paul's Letters**
 
 Paul draws extensively on Isaiah, particularly for themes of salvation, God's righteousness, and inclusion of the Gentiles:
 
-- **Romans 9:27-29** quotes [Isaiah 10:22-23](https://eternal.family.net.za/bible/books/isaiah/10#22) and [Isaiah 1:9](https://eternal.family.net.za/bible/books/isaiah/1#9) about the remnant
-- **Romans 10:16** quotes [Isaiah 53:1](https://eternal.family.net.za/bible/books/isaiah/53#1) about belief
-- **Romans 10:20-21** quotes [Isaiah 65:1-2](https://eternal.family.net.za/bible/books/isaiah/65#1) about God being found by those who didn't seek Him (Gentiles)
-- **Romans 11:8** alludes to [Isaiah 29:10](https://eternal.family.net.za/bible/books/isaiah/29#10) about spiritual blindness
-- **Romans 15:12** quotes [Isaiah 11:10](https://eternal.family.net.za/bible/books/isaiah/11#10) about the root of Jesse and Gentiles hoping in Him
-- **Romans 15:21** quotes [Isaiah 52:15](https://eternal.family.net.za/bible/books/isaiah/52#15) about those who have never been told
-- **1 Corinthians 15:54** alludes to [Isaiah 25:8](https://eternal.family.net.za/bible/books/isaiah/25#8): "Death is swallowed up in victory"
-- **2 Corinthians 6:2** quotes [Isaiah 49:8](https://eternal.family.net.za/bible/books/isaiah/49#8) about the day of salvation
+- **Romans 9:27-29** quotes Isaiah 10:22-23 and Isaiah 1:9 about the remnant
+- **Romans 10:16** quotes Isaiah 53:1 about belief
+- **Romans 10:20-21** quotes Isaiah 65:1-2 about God being found by those who didn't seek Him (Gentiles)
+- **Romans 11:8** alludes to Isaiah 29:10 about spiritual blindness
+- **Romans 15:12** quotes Isaiah 11:10 about the root of Jesse and Gentiles hoping in Him
+- **Romans 15:21** quotes Isaiah 52:15 about those who have never been told
+- **1 Corinthians 15:54** alludes to Isaiah 25:8: "Death is swallowed up in victory"
+- **2 Corinthians 6:2** quotes Isaiah 49:8 about the day of salvation
 
 **Other New Testament Books**
 
-- **Hebrews 2:13** quotes [Isaiah 8:17-18](https://eternal.family.net.za/bible/books/isaiah/8#17)
-- **1 Peter 2:6** quotes [Isaiah 28:16](https://eternal.family.net.za/bible/books/isaiah/28#16) about the cornerstone in Zion
-- **1 Peter 2:22-25** alludes extensively to [Isaiah 53](https://eternal.family.net.za/bible/books/isaiah/53#1), applying the Suffering Servant to Christ
+- **Hebrews 2:13** quotes Isaiah 8:17-18
+- **1 Peter 2:6** quotes Isaiah 28:16 about the cornerstone in Zion
+- **1 Peter 2:22-25** alludes extensively to Isaiah 53, applying the Suffering Servant to Christ
 - **Revelation** contains numerous allusions to Isaiah's apocalyptic imagery, particularly from chapters 24-27 and 65-66
 
 ### The Suffering Servant in the New Testament
 
-The Suffering Servant passages, especially [Isaiah 52:13-53:12](https://eternal.family.net.za/bible/books/isaiah/52#13), are among the most important Old Testament texts for Christian interpretation. The New Testament explicitly applies these passages to Jesus at least seven times:
+The Suffering Servant passages, especially Isaiah 52:13-53:12, are among the most important Old Testament texts for Christian interpretation. The New Testament explicitly applies these passages to Jesus at least seven times:
 
 1. **Matthew 8:17** - Jesus' healing ministry
 2. **Mark 15:28** - Jesus numbered with transgressors (textual variant)
@@ -278,7 +278,7 @@ These cross-references reveal how early Christians understood Isaiah:
 The extensive use of Isaiah demonstrates that the early church saw this prophet as uniquely important for understanding who Jesus was and what his mission accomplished.
 
 External resources:
-- [Isaiah in the New Testament - Quotations Chart (Simply Bible)](https://www.simplybible.com/f591-isaiah-in-new-testament.htm)
+- Isaiah in the New Testament - Quotations Chart (Simply Bible)](https://www.simplybible.com/f591-isaiah-in-new-testament.htm)
 - [Old Testament Messianic Prophecies in the New Testament (Wikipedia)](https://en.wikipedia.org/wiki/Old_Testament_messianic_prophecies_quoted_in_the_New_Testament)
 - [Appendix 5: New Testament Quotations from Isaiah (JesusWalk)](https://www.jesuswalk.com/isaiah/a5_nt_quotations.htm)
 
@@ -326,7 +326,7 @@ Several factors contributed to Isaiah's canonical status:
 
 **New Testament Recognition**
 
-Christians inherited the Jewish scriptures, including Isaiah, as their "Old Testament." The New Testament's extensive use of Isaiah (discussed in the Cross-References section) demonstrates that early Christians viewed it as authoritative scripture. Jesus himself quoted Isaiah ([Luke 4:17-21](https://eternal.family.net.za/bible/books/isaiah/61#1)), and the apostles repeatedly appealed to Isaiah as prophetic witness to Christ.
+Christians inherited the Jewish scriptures, including Isaiah, as their "Old Testament." The New Testament's extensive use of Isaiah (discussed in the Cross-References section) demonstrates that early Christians viewed it as authoritative scripture. Jesus himself quoted Isaiah (Luke 4:17-21), and the apostles repeatedly appealed to Isaiah as prophetic witness to Christ.
 
 **Early Church Fathers**
 
@@ -394,123 +394,123 @@ The Book of Isaiah is a prophetic masterwork spanning 66 chapters, presenting Go
 
 **The Opening Indictment (Chapters 1-6)**
 
-Isaiah opens with God's own words of accusation against His people: "Hear, O heavens, and give ear, O earth; for the Lord has spoken: 'Children have I reared and brought up, but they have rebelled against me'" ([Isaiah 1:2](https://eternal.family.net.za/bible/books/isaiah/1#2)). God condemns their empty religious rituals while they oppress the vulnerable. Through Isaiah, God commands: "Wash yourselves; make yourselves clean; remove the evil of your deeds from before my eyes; cease to do evil, learn to do good; seek justice, correct oppression; bring justice to the fatherless, plead the widow's cause" ([Isaiah 1:16-17](https://eternal.family.net.za/bible/books/isaiah/1#16)).
+Isaiah opens with God's own words of accusation against His people: "Hear, O heavens, and give ear, O earth; for the Lord has spoken: 'Children have I reared and brought up, but they have rebelled against me'" (Isaiah 1:2). God condemns their empty religious rituals while they oppress the vulnerable. Through Isaiah, God commands: "Wash yourselves; make yourselves clean; remove the evil of your deeds from before my eyes; cease to do evil, learn to do good; seek justice, correct oppression; bring justice to the fatherless, plead the widow's cause" (Isaiah 1:16-17).
 
-God offers a striking promise: "Come now, let us reason together, says the Lord: though your sins are like scarlet, they shall be as white as snow; though they are red like crimson, they shall become like wool" ([Isaiah 1:18](https://eternal.family.net.za/bible/books/isaiah/1#18)). Yet judgment is coming for those who persist in rebellion.
+God offers a striking promise: "Come now, let us reason together, says the Lord: though your sins are like scarlet, they shall be as white as snow; though they are red like crimson, they shall become like wool" (Isaiah 1:18). Yet judgment is coming for those who persist in rebellion.
 
-[Isaiah 2:2-4](https://eternal.family.net.za/bible/books/isaiah/2#2) presents a magnificent vision of the future: "It shall come to pass in the latter days that the mountain of the house of the Lord shall be established as the highest of the mountains... and all the nations shall flow to it." God declares that nations will learn His ways and "He shall judge between the nations, and shall decide disputes for many peoples; and they shall beat their swords into plowshares, and their spears into pruning hooks" ([Isaiah 2:4](https://eternal.family.net.za/bible/books/isaiah/2#4)).
+Isaiah 2:2-4 presents a magnificent vision of the future: "It shall come to pass in the latter days that the mountain of the house of the Lord shall be established as the highest of the mountains... and all the nations shall flow to it." God declares that nations will learn His ways and "He shall judge between the nations, and shall decide disputes for many peoples; and they shall beat their swords into plowshares, and their spears into pruning hooks" (Isaiah 2:4).
 
-Chapters 3-5 continue God's indictment. The Lord "will enter into judgment with the elders and princes of his people: 'It is you who have devoured the vineyard, the spoil of the poor is in your houses. What do you mean by crushing my people, by grinding the face of the poor?'" ([Isaiah 3:14-15](https://eternal.family.net.za/bible/books/isaiah/3#14)). The Song of the Vineyard ([Isaiah 5:1-7](https://eternal.family.net.za/bible/books/isaiah/5#1)) depicts God's disappointment: "He looked for justice, but behold, bloodshed; for righteousness, but behold, an outcry!" ([Isaiah 5:7](https://eternal.family.net.za/bible/books/isaiah/5#7)).
+Chapters 3-5 continue God's indictment. The Lord "will enter into judgment with the elders and princes of his people: 'It is you who have devoured the vineyard, the spoil of the poor is in your houses. What do you mean by crushing my people, by grinding the face of the poor?'" (Isaiah 3:14-15). The Song of the Vineyard (Isaiah 5:1-7) depicts God's disappointment: "He looked for justice, but behold, bloodshed; for righteousness, but behold, an outcry!" (Isaiah 5:7).
 
-Chapter 6 records Isaiah's profound vision of God's holiness. Isaiah sees "the Lord sitting upon a throne, high and lifted up" ([Isaiah 6:1](https://eternal.family.net.za/bible/books/isaiah/6#1)). Seraphim cry out: "Holy, holy, holy is the Lord of hosts; the whole earth is full of his glory!" ([Isaiah 6:3](https://eternal.family.net.za/bible/books/isaiah/6#3)). God commissions Isaiah with a difficult message: the people will hear but not understand, see but not perceive ([Isaiah 6:9-10](https://eternal.family.net.za/bible/books/isaiah/6#9)), yet "a holy seed" will remain ([Isaiah 6:13](https://eternal.family.net.za/bible/books/isaiah/6#13)).
+Chapter 6 records Isaiah's profound vision of God's holiness. Isaiah sees "the Lord sitting upon a throne, high and lifted up" (Isaiah 6:1). Seraphim cry out: "Holy, holy, holy is the Lord of hosts; the whole earth is full of his glory!" (Isaiah 6:3). God commissions Isaiah with a difficult message: the people will hear but not understand, see but not perceive (Isaiah 6:9-10), yet "a holy seed" will remain (Isaiah 6:13).
 
 **The Book of Immanuel (Chapters 7-12)**
 
-During the Syro-Ephraimite crisis, God sends Isaiah to King Ahaz with the message: "Be careful, be quiet, do not fear, and do not let your heart be faint" ([Isaiah 7:4](https://eternal.family.net.za/bible/books/isaiah/7#4)). God offers Ahaz a sign, and when he refuses, God declares: "Therefore the Lord himself will give you a sign. Behold, the virgin shall conceive and bear a son, and shall call his name Immanuel" ([Isaiah 7:14](https://eternal.family.net.za/bible/books/isaiah/7#14)).
+During the Syro-Ephraimite crisis, God sends Isaiah to King Ahaz with the message: "Be careful, be quiet, do not fear, and do not let your heart be faint" (Isaiah 7:4). God offers Ahaz a sign, and when he refuses, God declares: "Therefore the Lord himself will give you a sign. Behold, the virgin shall conceive and bear a son, and shall call his name Immanuel" (Isaiah 7:14).
 
-God speaks directly in [Isaiah 8:11-15](https://eternal.family.net.za/bible/books/isaiah/8#11), warning not to fear what others fear but to regard the Lord as holy: "The Lord of hosts, him you shall honor as holy. Let him be your fear, and let him be your dread" ([Isaiah 8:13](https://eternal.family.net.za/bible/books/isaiah/8#13)).
+God speaks directly in Isaiah 8:11-15, warning not to fear what others fear but to regard the Lord as holy: "The Lord of hosts, him you shall honor as holy. Let him be your fear, and let him be your dread" (Isaiah 8:13).
 
-[Isaiah 9:1-7](https://eternal.family.net.za/bible/books/isaiah/9#1) contains the famous messianic prophecy: "For to us a child is born, to us a son is given; and the government shall be upon his shoulder, and his name shall be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace" ([Isaiah 9:6](https://eternal.family.net.za/bible/books/isaiah/9#6)). God promises: "Of the increase of his government and of peace there will be no end, on the throne of David and over his kingdom" ([Isaiah 9:7](https://eternal.family.net.za/bible/books/isaiah/9#7)).
+Isaiah 9:1-7 contains the famous messianic prophecy: "For to us a child is born, to us a son is given; and the government shall be upon his shoulder, and his name shall be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace" (Isaiah 9:6). God promises: "Of the increase of his government and of peace there will be no end, on the throne of David and over his kingdom" (Isaiah 9:7).
 
-Chapter 10 pronounces woes on unjust legislators: "Woe to those who decree iniquitous decrees, and the writers who keep writing oppression" ([Isaiah 10:1](https://eternal.family.net.za/bible/books/isaiah/10#1)). God reveals that Assyria is His instrument: "Ah, Assyria, the rod of my anger; the staff in their hands is my fury!" ([Isaiah 10:5](https://eternal.family.net.za/bible/books/isaiah/10#5)). Yet Assyria's arrogance will also be judged ([Isaiah 10:12-19](https://eternal.family.net.za/bible/books/isaiah/10#12)).
+Chapter 10 pronounces woes on unjust legislators: "Woe to those who decree iniquitous decrees, and the writers who keep writing oppression" (Isaiah 10:1). God reveals that Assyria is His instrument: "Ah, Assyria, the rod of my anger; the staff in their hands is my fury!" (Isaiah 10:5). Yet Assyria's arrogance will also be judged (Isaiah 10:12-19).
 
-[Isaiah 11:1-9](https://eternal.family.net.za/bible/books/isaiah/11#1) envisions a righteous king from David's line: "There shall come forth a shoot from the stump of Jesse, and a branch from his roots shall bear fruit. And the Spirit of the Lord shall rest upon him" ([Isaiah 11:1-2](https://eternal.family.net.za/bible/books/isaiah/11#1)). This ruler will judge with righteousness: "He shall strike the earth with the rod of his mouth, and with the breath of his lips he shall kill the wicked" ([Isaiah 11:4](https://eternal.family.net.za/bible/books/isaiah/11#4)). In that day, "The wolf shall dwell with the lamb... for the earth shall be full of the knowledge of the Lord as the waters cover the sea" ([Isaiah 11:6-9](https://eternal.family.net.za/bible/books/isaiah/11#6)).
+Isaiah 11:1-9 envisions a righteous king from David's line: "There shall come forth a shoot from the stump of Jesse, and a branch from his roots shall bear fruit. And the Spirit of the Lord shall rest upon him" (Isaiah 11:1-2). This ruler will judge with righteousness: "He shall strike the earth with the rod of his mouth, and with the breath of his lips he shall kill the wicked" (Isaiah 11:4). In that day, "The wolf shall dwell with the lamb... for the earth shall be full of the knowledge of the Lord as the waters cover the sea" (Isaiah 11:6-9).
 
 **Oracles Against the Nations (Chapters 13-23)**
 
-God pronounces judgment on the nations, demonstrating His sovereignty over all peoples. Against Babylon, God declares: "Behold, I am stirring up the Medes against them" ([Isaiah 13:17](https://eternal.family.net.za/bible/books/isaiah/13#17)). God will "punish the world for its evil, and the wicked for their iniquity" ([Isaiah 13:11](https://eternal.family.net.za/bible/books/isaiah/13#11)).
+God pronounces judgment on the nations, demonstrating His sovereignty over all peoples. Against Babylon, God declares: "Behold, I am stirring up the Medes against them" (Isaiah 13:17). God will "punish the world for its evil, and the wicked for their iniquity" (Isaiah 13:11).
 
-Chapter 14 contains a taunt against Babylon's king, including the famous passage often interpreted as referring to Satan's fall: "How you are fallen from heaven, O Day Star, son of Dawn!" ([Isaiah 14:12](https://eternal.family.net.za/bible/books/isaiah/14#12)). God declares: "This is the purpose that is purposed concerning the whole earth... For the Lord of hosts has purposed, and who will annul it?" ([Isaiah 14:26-27](https://eternal.family.net.za/bible/books/isaiah/14#26)).
+Chapter 14 contains a taunt against Babylon's king, including the famous passage often interpreted as referring to Satan's fall: "How you are fallen from heaven, O Day Star, son of Dawn!" (Isaiah 14:12). God declares: "This is the purpose that is purposed concerning the whole earth... For the Lord of hosts has purposed, and who will annul it?" (Isaiah 14:26-27).
 
 Similar oracles follow against Moab (chapters 15-16), Damascus (chapter 17), Ethiopia (chapter 18), Egypt (chapters 19-20), and Tyre (chapter 23). Through these judgments, God demonstrates that He alone controls the destiny of nations.
 
 **Isaiah's Apocalypse (Chapters 24-27)**
 
-These chapters present cosmic judgment and ultimate restoration. God will "empty the earth and make it desolate" ([Isaiah 24:1](https://eternal.family.net.za/bible/books/isaiah/24#1)), but He promises: "On this mountain the Lord of hosts will make for all peoples a feast of rich food" ([Isaiah 25:6](https://eternal.family.net.za/bible/books/isaiah/25#6)). Most remarkably, God declares: "He will swallow up death forever; and the Lord God will wipe away tears from all faces" ([Isaiah 25:8](https://eternal.family.net.za/bible/books/isaiah/25#8)).
+These chapters present cosmic judgment and ultimate restoration. God will "empty the earth and make it desolate" (Isaiah 24:1), but He promises: "On this mountain the Lord of hosts will make for all peoples a feast of rich food" (Isaiah 25:6). Most remarkably, God declares: "He will swallow up death forever; and the Lord God will wipe away tears from all faces" (Isaiah 25:8).
 
-Chapter 26 celebrates God as the people's strength: "You keep him in perfect peace whose mind is stayed on you, because he trusts in you" ([Isaiah 26:3](https://eternal.family.net.za/bible/books/isaiah/26#3)). The chapter ends with a promise of resurrection: "Your dead shall live; their bodies shall rise" ([Isaiah 26:19](https://eternal.family.net.za/bible/books/isaiah/26#19)).
+Chapter 26 celebrates God as the people's strength: "You keep him in perfect peace whose mind is stayed on you, because he trusts in you" (Isaiah 26:3). The chapter ends with a promise of resurrection: "Your dead shall live; their bodies shall rise" (Isaiah 26:19).
 
 **Woes and Promises (Chapters 28-35)**
 
-Chapter 28 pronounces woe on Ephraim's drunkards and corrupt leaders. God speaks: "I am the one who has laid as a foundation in Zion, a stone, a tested stone, a precious cornerstone, of a sure foundation" ([Isaiah 28:16](https://eternal.family.net.za/bible/books/isaiah/28#16)).
+Chapter 28 pronounces woe on Ephraim's drunkards and corrupt leaders. God speaks: "I am the one who has laid as a foundation in Zion, a stone, a tested stone, a precious cornerstone, of a sure foundation" (Isaiah 28:16).
 
-God condemns those who hide their plans from Him ([Isaiah 29:15](https://eternal.family.net.za/bible/books/isaiah/29#15)) and those who honor Him with lips while their hearts are far away ([Isaiah 29:13](https://eternal.family.net.za/bible/books/isaiah/29#13)).
+God condemns those who hide their plans from Him (Isaiah 29:15) and those who honor Him with lips while their hearts are far away (Isaiah 29:13).
 
-Chapters 30-31 warn against trusting Egypt rather than God. God declares: "Woe to those who go down to Egypt for help and rely on horses, who trust in chariots because they are many and in horsemen because they are very strong, but do not look to the Holy One of Israel or consult the Lord!" ([Isaiah 31:1](https://eternal.family.net.za/bible/books/isaiah/31#1)).
+Chapters 30-31 warn against trusting Egypt rather than God. God declares: "Woe to those who go down to Egypt for help and rely on horses, who trust in chariots because they are many and in horsemen because they are very strong, but do not look to the Holy One of Israel or consult the Lord!" (Isaiah 31:1).
 
-[Isaiah 32-33](https://eternal.family.net.za/bible/books/isaiah/32#1) promise a righteous king and God's ultimate justice. Chapters 34-35 contrast judgment on Edom with the glorious restoration of Zion: "The wilderness and the dry land shall be glad; the desert shall rejoice and blossom like the crocus" ([Isaiah 35:1](https://eternal.family.net.za/bible/books/isaiah/35#1)). God promises: "Then the eyes of the blind shall be opened, and the ears of the deaf unstopped; then shall the lame man leap like a deer, and the tongue of the mute sing for joy" ([Isaiah 35:5-6](https://eternal.family.net.za/bible/books/isaiah/35#5)).
+Isaiah 32-33 promise a righteous king and God's ultimate justice. Chapters 34-35 contrast judgment on Edom with the glorious restoration of Zion: "The wilderness and the dry land shall be glad; the desert shall rejoice and blossom like the crocus" (Isaiah 35:1). God promises: "Then the eyes of the blind shall be opened, and the ears of the deaf unstopped; then shall the lame man leap like a deer, and the tongue of the mute sing for joy" (Isaiah 35:5-6).
 
 **Historical Interlude: Hezekiah (Chapters 36-39)**
 
-These chapters narrate the Assyrian siege of Jerusalem under Sennacherib. The Assyrian envoy blasphemes God ([Isaiah 36:18-20](https://eternal.family.net.za/bible/books/isaiah/36#18)), but Hezekiah prays, and God responds through Isaiah: "I will defend this city to save it, for my own sake and for the sake of my servant David" ([Isaiah 37:35](https://eternal.family.net.za/bible/books/isaiah/37#35)). That night, God strikes down 185,000 Assyrian soldiers ([Isaiah 37:36](https://eternal.family.net.za/bible/books/isaiah/37#36)).
+These chapters narrate the Assyrian siege of Jerusalem under Sennacherib. The Assyrian envoy blasphemes God (Isaiah 36:18-20), but Hezekiah prays, and God responds through Isaiah: "I will defend this city to save it, for my own sake and for the sake of my servant David" (Isaiah 37:35). That night, God strikes down 185,000 Assyrian soldiers (Isaiah 37:36).
 
-After Hezekiah's illness and healing, he foolishly shows Babylonian envoys his treasures. Isaiah prophesies that everything will be carried to Babylon ([Isaiah 39:5-7](https://eternal.family.net.za/bible/books/isaiah/39#5)), setting up the second major section.
+After Hezekiah's illness and healing, he foolishly shows Babylonian envoys his treasures. Isaiah prophesies that everything will be carried to Babylon (Isaiah 39:5-7), setting up the second major section.
 
 ### Part Two: Comfort and Restoration (Chapters 40-55)
 
 **The God of Comfort (Chapter 40)**
 
-This section opens with God's command: "Comfort, comfort my people, says your God. Speak tenderly to Jerusalem, and cry to her that her warfare is ended, that her iniquity is pardoned" ([Isaiah 40:1-2](https://eternal.family.net.za/bible/books/isaiah/40#1)). A voice cries: "In the wilderness prepare the way of the Lord; make straight in the desert a highway for our God" ([Isaiah 40:3](https://eternal.family.net.za/bible/books/isaiah/40#3)).
+This section opens with God's command: "Comfort, comfort my people, says your God. Speak tenderly to Jerusalem, and cry to her that her warfare is ended, that her iniquity is pardoned" (Isaiah 40:1-2). A voice cries: "In the wilderness prepare the way of the Lord; make straight in the desert a highway for our God" (Isaiah 40:3).
 
-God declares His incomparability: "To whom then will you liken God, or what likeness compare with him?" ([Isaiah 40:18](https://eternal.family.net.za/bible/books/isaiah/40#18)). He sits "above the circle of the earth" ([Isaiah 40:22](https://eternal.family.net.za/bible/books/isaiah/40#22)) and gives power to the faint: "They who wait for the Lord shall renew their strength; they shall mount up with wings like eagles; they shall run and not be weary; they shall walk and not faint" ([Isaiah 40:31](https://eternal.family.net.za/bible/books/isaiah/40#31)).
+God declares His incomparability: "To whom then will you liken God, or what likeness compare with him?" (Isaiah 40:18). He sits "above the circle of the earth" (Isaiah 40:22) and gives power to the faint: "They who wait for the Lord shall renew their strength; they shall mount up with wings like eagles; they shall run and not be weary; they shall walk and not faint" (Isaiah 40:31).
 
 **God's Sovereignty and Israel's Calling (Chapters 41-48)**
 
-God challenges the idols and declares His uniqueness: "I am the Lord, and there is no other, besides me there is no God" ([Isaiah 45:5](https://eternal.family.net.za/bible/books/isaiah/45#5)). He announces: "I form light and create darkness, I make well-being and create calamity, I am the Lord, who does all these things" ([Isaiah 45:7](https://eternal.family.net.za/bible/books/isaiah/45#7)).
+God challenges the idols and declares His uniqueness: "I am the Lord, and there is no other, besides me there is no God" (Isaiah 45:5). He announces: "I form light and create darkness, I make well-being and create calamity, I am the Lord, who does all these things" (Isaiah 45:7).
 
-God names Cyrus as His anointed: "Thus says the Lord to his anointed, to Cyrus, whose right hand I have grasped, to subdue nations before him" ([Isaiah 45:1](https://eternal.family.net.za/bible/books/isaiah/45#1)). God declares: "I have roused him in righteousness, and I will make all his ways level; he shall build my city and set my exiles free" ([Isaiah 45:13](https://eternal.family.net.za/bible/books/isaiah/45#13)).
+God names Cyrus as His anointed: "Thus says the Lord to his anointed, to Cyrus, whose right hand I have grasped, to subdue nations before him" (Isaiah 45:1). God declares: "I have roused him in righteousness, and I will make all his ways level; he shall build my city and set my exiles free" (Isaiah 45:13).
 
-The first Servant Song appears in [Isaiah 42:1-9](https://eternal.family.net.za/bible/books/isaiah/42#1). God speaks: "Behold my servant, whom I uphold, my chosen, in whom my soul delights; I have put my Spirit upon him; he will bring forth justice to the nations" ([Isaiah 42:1](https://eternal.family.net.za/bible/books/isaiah/42#1)).
+The first Servant Song appears in Isaiah 42:1-9. God speaks: "Behold my servant, whom I uphold, my chosen, in whom my soul delights; I have put my Spirit upon him; he will bring forth justice to the nations" (Isaiah 42:1).
 
-God mocks the idols: "All who fashion idols are nothing... Who fashions a god or casts an idol that is profitable for nothing?" ([Isaiah 44:9-10](https://eternal.family.net.za/bible/books/isaiah/44#9)). In contrast, God alone is Creator and Redeemer.
+God mocks the idols: "All who fashion idols are nothing... Who fashions a god or casts an idol that is profitable for nothing?" (Isaiah 44:9-10). In contrast, God alone is Creator and Redeemer.
 
-God promises a new exodus: "Remember not the former things, nor consider the things of old. Behold, I am doing a new thing; now it springs forth, do you not perceive it? I will make a way in the wilderness and rivers in the desert" ([Isaiah 43:18-19](https://eternal.family.net.za/bible/books/isaiah/43#18)).
+God promises a new exodus: "Remember not the former things, nor consider the things of old. Behold, I am doing a new thing; now it springs forth, do you not perceive it? I will make a way in the wilderness and rivers in the desert" (Isaiah 43:18-19).
 
 **The Servant's Mission (Chapters 49-55)**
 
-The second Servant Song ([Isaiah 49:1-6](https://eternal.family.net.za/bible/books/isaiah/49#1)) presents the Servant speaking: "The Lord called me from the womb, from the body of my mother he named my name" ([Isaiah 49:1](https://eternal.family.net.za/bible/books/isaiah/49#1)). God says to the Servant: "It is too light a thing that you should be my servant to raise up the tribes of Jacob... I will make you as a light for the nations, that my salvation may reach to the end of the earth" ([Isaiah 49:6](https://eternal.family.net.za/bible/books/isaiah/49#6)).
+The second Servant Song (Isaiah 49:1-6) presents the Servant speaking: "The Lord called me from the womb, from the body of my mother he named my name" (Isaiah 49:1). God says to the Servant: "It is too light a thing that you should be my servant to raise up the tribes of Jacob... I will make you as a light for the nations, that my salvation may reach to the end of the earth" (Isaiah 49:6).
 
-God affirms His unfailing love: "Can a woman forget her nursing child, that she should have no compassion on the son of her womb? Even these may forget, yet I will not forget you. Behold, I have engraved you on the palms of my hands" ([Isaiah 49:15-16](https://eternal.family.net.za/bible/books/isaiah/49#15)).
+God affirms His unfailing love: "Can a woman forget her nursing child, that she should have no compassion on the son of her womb? Even these may forget, yet I will not forget you. Behold, I have engraved you on the palms of my hands" (Isaiah 49:15-16).
 
-The third Servant Song ([Isaiah 50:4-9](https://eternal.family.net.za/bible/books/isaiah/50#4)) presents the Servant's obedience: "The Lord God has given me the tongue of those who are taught... Morning by morning he awakens; he awakens my ear to hear as those who are taught. The Lord God has opened my ear, and I was not rebellious; I turned not backward. I gave my back to those who strike, and my cheeks to those who pull out the beard; I hid not my face from disgrace and spitting" ([Isaiah 50:4-6](https://eternal.family.net.za/bible/books/isaiah/50#4)).
+The third Servant Song (Isaiah 50:4-9) presents the Servant's obedience: "The Lord God has given me the tongue of those who are taught... Morning by morning he awakens; he awakens my ear to hear as those who are taught. The Lord God has opened my ear, and I was not rebellious; I turned not backward. I gave my back to those who strike, and my cheeks to those who pull out the beard; I hid not my face from disgrace and spitting" (Isaiah 50:4-6).
 
-God calls His people: "Awake, awake, put on your strength, O Zion; put on your beautiful garments, O Jerusalem" ([Isaiah 52:1](https://eternal.family.net.za/bible/books/isaiah/52#1)). He promises: "How beautiful upon the mountains are the feet of him who brings good news, who publishes peace, who brings good news of happiness, who publishes salvation, who says to Zion, 'Your God reigns'" ([Isaiah 52:7](https://eternal.family.net.za/bible/books/isaiah/52#7)).
+God calls His people: "Awake, awake, put on your strength, O Zion; put on your beautiful garments, O Jerusalem" (Isaiah 52:1). He promises: "How beautiful upon the mountains are the feet of him who brings good news, who publishes peace, who brings good news of happiness, who publishes salvation, who says to Zion, 'Your God reigns'" (Isaiah 52:7).
 
-The fourth and climactic Servant Song ([Isaiah 52:13-53:12](https://eternal.family.net.za/bible/books/isaiah/52#13)) presents God's Suffering Servant. God declares: "Behold, my servant shall act wisely; he shall be high and lifted up, and shall be exalted" ([Isaiah 52:13](https://eternal.family.net.za/bible/books/isaiah/52#13)). The passage describes vicarious suffering: "Surely he has borne our griefs and carried our sorrows... he was pierced for our transgressions; he was crushed for our iniquities; upon him was the chastisement that brought us peace, and with his wounds we are healed" ([Isaiah 53:4-5](https://eternal.family.net.za/bible/books/isaiah/53#4)). "All we like sheep have gone astray; we have turned—every one—to his own way; and the Lord has laid on him the iniquity of us all" ([Isaiah 53:6](https://eternal.family.net.za/bible/books/isaiah/53#6)).
+The fourth and climactic Servant Song (Isaiah 52:13-53:12) presents God's Suffering Servant. God declares: "Behold, my servant shall act wisely; he shall be high and lifted up, and shall be exalted" (Isaiah 52:13). The passage describes vicarious suffering: "Surely he has borne our griefs and carried our sorrows... he was pierced for our transgressions; he was crushed for our iniquities; upon him was the chastisement that brought us peace, and with his wounds we are healed" (Isaiah 53:4-5). "All we like sheep have gone astray; we have turned—every one—to his own way; and the Lord has laid on him the iniquity of us all" (Isaiah 53:6).
 
-Chapter 54 continues God's promises: "For a brief moment I deserted you, but with great compassion I will gather you" ([Isaiah 54:7](https://eternal.family.net.za/bible/books/isaiah/54#7)). God swears: "This is like the days of Noah to me: as I swore that the waters of Noah should no more go over the earth, so I have sworn that I will not be angry with you, and will not rebuke you" ([Isaiah 54:9](https://eternal.family.net.za/bible/books/isaiah/54#9)).
+Chapter 54 continues God's promises: "For a brief moment I deserted you, but with great compassion I will gather you" (Isaiah 54:7). God swears: "This is like the days of Noah to me: as I swore that the waters of Noah should no more go over the earth, so I have sworn that I will not be angry with you, and will not rebuke you" (Isaiah 54:9).
 
-Chapter 55 contains God's gracious invitation: "Come, everyone who thirsts, come to the waters; and he who has no money, come, buy and eat! Come, buy wine and milk without money and without price" ([Isaiah 55:1](https://eternal.family.net.za/bible/books/isaiah/55#1)). God promises: "For as the rain and the snow come down from heaven and do not return there but water the earth... so shall my word be that goes out from my mouth; it shall not return to me empty, but it shall accomplish that which I purpose" ([Isaiah 55:10-11](https://eternal.family.net.za/bible/books/isaiah/55#10)).
+Chapter 55 contains God's gracious invitation: "Come, everyone who thirsts, come to the waters; and he who has no money, come, buy and eat! Come, buy wine and milk without money and without price" (Isaiah 55:1). God promises: "For as the rain and the snow come down from heaven and do not return there but water the earth... so shall my word be that goes out from my mouth; it shall not return to me empty, but it shall accomplish that which I purpose" (Isaiah 55:10-11).
 
 ### Part Three: The Glorious Future (Chapters 56-66)
 
 **Inclusion and Justice (Chapters 56-59)**
 
-God declares that foreigners and eunuchs who keep His covenant will be included: "These I will bring to my holy mountain, and make them joyful in my house of prayer... for my house shall be called a house of prayer for all peoples" ([Isaiah 56:7](https://eternal.family.net.za/bible/books/isaiah/56#7)).
+God declares that foreigners and eunuchs who keep His covenant will be included: "These I will bring to my holy mountain, and make them joyful in my house of prayer... for my house shall be called a house of prayer for all peoples" (Isaiah 56:7).
 
-God condemns false worship and defines true fasting: "Is not this the fast that I choose: to loose the bonds of wickedness, to undo the straps of the yoke, to let the oppressed go free, and to break every yoke? Is it not to share your bread with the hungry and bring the homeless poor into your house?" ([Isaiah 58:6-7](https://eternal.family.net.za/bible/books/isaiah/58#6)).
+God condemns false worship and defines true fasting: "Is not this the fast that I choose: to loose the bonds of wickedness, to undo the straps of the yoke, to let the oppressed go free, and to break every yoke? Is it not to share your bread with the hungry and bring the homeless poor into your house?" (Isaiah 58:6-7).
 
-Chapter 59 catalogs Israel's sins but promises redemption: "And a Redeemer will come to Zion, to those in Jacob who turn from transgression, declares the Lord" ([Isaiah 59:20](https://eternal.family.net.za/bible/books/isaiah/59#20)).
+Chapter 59 catalogs Israel's sins but promises redemption: "And a Redeemer will come to Zion, to those in Jacob who turn from transgression, declares the Lord" (Isaiah 59:20).
 
 **Zion's Glory (Chapters 60-62)**
 
-God proclaims: "Arise, shine, for your light has come, and the glory of the Lord has risen upon you" ([Isaiah 60:1](https://eternal.family.net.za/bible/books/isaiah/60#1)). Nations will come to Jerusalem's light ([Isaiah 60:3](https://eternal.family.net.za/bible/books/isaiah/60#3)), and God promises: "I will make you majestic forever, a joy from age to age" ([Isaiah 60:15](https://eternal.family.net.za/bible/books/isaiah/60#15)).
+God proclaims: "Arise, shine, for your light has come, and the glory of the Lord has risen upon you" (Isaiah 60:1). Nations will come to Jerusalem's light (Isaiah 60:3), and God promises: "I will make you majestic forever, a joy from age to age" (Isaiah 60:15).
 
-Chapter 61 opens with the Spirit-anointed herald: "The Spirit of the Lord God is upon me, because the Lord has anointed me to bring good news to the poor; he has sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to those who are bound" ([Isaiah 61:1](https://eternal.family.net.za/bible/books/isaiah/61#1)).
+Chapter 61 opens with the Spirit-anointed herald: "The Spirit of the Lord God is upon me, because the Lord has anointed me to bring good news to the poor; he has sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to those who are bound" (Isaiah 61:1).
 
-God declares His love for Zion: "For Zion's sake I will not keep silent, and for Jerusalem's sake I will not be quiet, until her righteousness goes forth as brightness, and her salvation as a burning torch" ([Isaiah 62:1](https://eternal.family.net.za/bible/books/isaiah/62#1)).
+God declares His love for Zion: "For Zion's sake I will not keep silent, and for Jerusalem's sake I will not be quiet, until her righteousness goes forth as brightness, and her salvation as a burning torch" (Isaiah 62:1).
 
 **Judgment and New Creation (Chapters 63-66)**
 
-Chapter 63 depicts God as divine warrior and remembers His past mercies. The people cry: "O Lord, why do you make us wander from your ways and harden our heart, so that we fear you not?" ([Isaiah 63:17](https://eternal.family.net.za/bible/books/isaiah/63#17)).
+Chapter 63 depicts God as divine warrior and remembers His past mercies. The people cry: "O Lord, why do you make us wander from your ways and harden our heart, so that we fear you not?" (Isaiah 63:17).
 
-God responds in chapter 64-65. He declares: "I was ready to be sought by those who did not ask for me; I was ready to be found by those who did not seek me. I said, 'Here I am, here I am,' to a nation that was not called by my name" ([Isaiah 65:1](https://eternal.family.net.za/bible/books/isaiah/65#1)).
+God responds in chapter 64-65. He declares: "I was ready to be sought by those who did not ask for me; I was ready to be found by those who did not seek me. I said, 'Here I am, here I am,' to a nation that was not called by my name" (Isaiah 65:1).
 
-God promises new creation: "For behold, I create new heavens and a new earth, and the former things shall not be remembered or come into mind. But be glad and rejoice forever in that which I create; for behold, I create Jerusalem to be a joy, and her people to be a gladness" ([Isaiah 65:17-18](https://eternal.family.net.za/bible/books/isaiah/65#17)). In that day, "The wolf and the lamb shall graze together; the lion shall eat straw like the ox" ([Isaiah 65:25](https://eternal.family.net.za/bible/books/isaiah/65#25)).
+God promises new creation: "For behold, I create new heavens and a new earth, and the former things shall not be remembered or come into mind. But be glad and rejoice forever in that which I create; for behold, I create Jerusalem to be a joy, and her people to be a gladness" (Isaiah 65:17-18). In that day, "The wolf and the lamb shall graze together; the lion shall eat straw like the ox" (Isaiah 65:25).
 
-The book concludes with God's declaration: "Heaven is my throne, and the earth is my footstool; what is the house that you would build for me, and what is the place of my rest?" ([Isaiah 66:1](https://eternal.family.net.za/bible/books/isaiah/66#1)). God looks to "him who is humble and contrite in spirit and trembles at my word" ([Isaiah 66:2](https://eternal.family.net.za/bible/books/isaiah/66#2)).
+The book concludes with God's declaration: "Heaven is my throne, and the earth is my footstool; what is the house that you would build for me, and what is the place of my rest?" (Isaiah 66:1). God looks to "him who is humble and contrite in spirit and trembles at my word" (Isaiah 66:2).
 
-God promises: "As a mother comforts her child, so I will comfort you; you shall be comforted in Jerusalem" ([Isaiah 66:13](https://eternal.family.net.za/bible/books/isaiah/66#13)). The book ends with eschatological vision: all flesh will come to worship before God ([Isaiah 66:23](https://eternal.family.net.za/bible/books/isaiah/66#23)), and the wicked will face eternal judgment ([Isaiah 66:24](https://eternal.family.net.za/bible/books/isaiah/66#24)).
+God promises: "As a mother comforts her child, so I will comfort you; you shall be comforted in Jerusalem" (Isaiah 66:13). The book ends with eschatological vision: all flesh will come to worship before God (Isaiah 66:23), and the wicked will face eternal judgment (Isaiah 66:24).
 
 Throughout its 66 chapters, Isaiah presents God's own words with remarkable consistency: He is holy, sovereign, and just, yet also merciful, faithful, and redemptive. The book moves from judgment to comfort to ultimate restoration, always centering on God's character and purposes for His people and all nations.
 
@@ -520,43 +520,43 @@ Isaiah contains several theological and thematic teachings that are either uniqu
 
 ### 1. The Suffering Servant as Vicarious Atonement
 
-Isaiah's most distinctive teaching appears in the Suffering Servant passages, particularly the fourth Servant Song ([Isaiah 52:13-53:12](https://eternal.family.net.za/bible/books/isaiah/52#13)). While other biblical books mention suffering, Isaiah uniquely presents the concept of vicarious, substitutionary suffering where one person bears the sins and punishment of others: "Surely he has borne our griefs and carried our sorrows... he was pierced for our transgressions; he was crushed for our iniquities; upon him was the chastisement that brought us peace, and with his wounds we are healed" ([Isaiah 53:4-5](https://eternal.family.net.za/bible/books/isaiah/53#4)).
+Isaiah's most distinctive teaching appears in the Suffering Servant passages, particularly the fourth Servant Song (Isaiah 52:13-53:12). While other biblical books mention suffering, Isaiah uniquely presents the concept of vicarious, substitutionary suffering where one person bears the sins and punishment of others: "Surely he has borne our griefs and carried our sorrows... he was pierced for our transgressions; he was crushed for our iniquities; upon him was the chastisement that brought us peace, and with his wounds we are healed" (Isaiah 53:4-5).
 
-This concept of innocent suffering bringing redemption for the guilty is unprecedented in biblical literature. The passage explicitly states: "All we like sheep have gone astray; we have turned—every one—to his own way; and the Lord has laid on him the iniquity of us all" ([Isaiah 53:6](https://eternal.family.net.za/bible/books/isaiah/53#6)). The servant "makes himself an offering for guilt" ([Isaiah 53:10](https://eternal.family.net.za/bible/books/isaiah/53#10)) and "bore the sin of many" ([Isaiah 53:12](https://eternal.family.net.za/bible/books/isaiah/53#12)).
+This concept of innocent suffering bringing redemption for the guilty is unprecedented in biblical literature. The passage explicitly states: "All we like sheep have gone astray; we have turned—every one—to his own way; and the Lord has laid on him the iniquity of us all" (Isaiah 53:6). The servant "makes himself an offering for guilt" (Isaiah 53:10) and "bore the sin of many" (Isaiah 53:12).
 
 ### 2. "Holy One of Israel" as Divine Title
 
 Isaiah uses the designation "Holy One of Israel" (Hebrew: קְדוֹשׁ יִשְׂרָאֵל, qedosh yisra'el) 26 times (12 times in chapters 1-39 and 14 times in chapters 40-66). This title appears only 6 times in all other biblical books combined. This unique emphasis on God's holiness combined with His special relationship to Israel becomes Isaiah's signature theological contribution.
 
-The term first appears in [Isaiah 1:4](https://eternal.family.net.za/bible/books/isaiah/1#4) and reaches its pinnacle in Isaiah's temple vision where the seraphim cry "Holy, holy, holy is the Lord of hosts" ([Isaiah 6:3](https://eternal.family.net.za/bible/books/isaiah/6#3))—the only place in scripture where a divine attribute is repeated three times. This threefold repetition emphasizes God's transcendent holiness as central to His nature.
+The term first appears in Isaiah 1:4 and reaches its pinnacle in Isaiah's temple vision where the seraphim cry "Holy, holy, holy is the Lord of hosts" (Isaiah 6:3)—the only place in scripture where a divine attribute is repeated three times. This threefold repetition emphasizes God's transcendent holiness as central to His nature.
 
 ### 3. Explicit Monotheism and Creator Theology
 
-While other Old Testament books imply monotheism, Isaiah contains the most explicit declarations that Yahweh alone is God and all other gods are non-existent. "I am the Lord, and there is no other, besides me there is no God" ([Isaiah 45:5](https://eternal.family.net.za/bible/books/isaiah/45#5)). "I am the first and I am the last; besides me there is no god" ([Isaiah 44:6](https://eternal.family.net.za/bible/books/isaiah/44#6)). "Before me no god was formed, nor shall there be any after me" ([Isaiah 43:10](https://eternal.family.net.za/bible/books/isaiah/43#10)).
+While other Old Testament books imply monotheism, Isaiah contains the most explicit declarations that Yahweh alone is God and all other gods are non-existent. "I am the Lord, and there is no other, besides me there is no God" (Isaiah 45:5). "I am the first and I am the last; besides me there is no god" (Isaiah 44:6). "Before me no god was formed, nor shall there be any after me" (Isaiah 43:10).
 
-Isaiah uniquely combines this radical monotheism with detailed creator theology. God "created the heavens and stretched them out... spread out the earth and what comes from it" ([Isaiah 42:5](https://eternal.family.net.za/bible/books/isaiah/42#5)). He "sits above the circle of the earth" ([Isaiah 40:22](https://eternal.family.net.za/bible/books/isaiah/40#22)). Creation theology becomes the foundation for asserting God's sovereignty: the Creator controls all history and can predict the future.
+Isaiah uniquely combines this radical monotheism with detailed creator theology. God "created the heavens and stretched them out... spread out the earth and what comes from it" (Isaiah 42:5). He "sits above the circle of the earth" (Isaiah 40:22). Creation theology becomes the foundation for asserting God's sovereignty: the Creator controls all history and can predict the future.
 
 ### 4. Extended Satire Against Idols
 
-While other prophets condemn idolatry, Isaiah contains the most extensive and sophisticated satire of idol-making. [Isaiah 44:9-20](https://eternal.family.net.za/bible/books/isaiah/44#9) provides a detailed, mocking description of the idol-making process: a craftsman cuts down a tree, uses half for firewood to cook his meal and warm himself, then carves the other half into a god and bows down to it, saying, "Deliver me, for you are my god!" ([Isaiah 44:17](https://eternal.family.net.za/bible/books/isaiah/44#17)). The prophet concludes: "He feeds on ashes; a deluded heart has led him astray" ([Isaiah 44:20](https://eternal.family.net.za/bible/books/isaiah/44#20)).
+While other prophets condemn idolatry, Isaiah contains the most extensive and sophisticated satire of idol-making. Isaiah 44:9-20 provides a detailed, mocking description of the idol-making process: a craftsman cuts down a tree, uses half for firewood to cook his meal and warm himself, then carves the other half into a god and bows down to it, saying, "Deliver me, for you are my god!" (Isaiah 44:17). The prophet concludes: "He feeds on ashes; a deluded heart has led him astray" (Isaiah 44:20).
 
-Similar satires appear in [Isaiah 40:18-20](https://eternal.family.net.za/bible/books/isaiah/40#18), [41:7](https://eternal.family.net.za/bible/books/isaiah/41#7), and [46:1-7](https://eternal.family.net.za/bible/books/isaiah/46#1), where the prophet mocks idols that must be carried by beasts of burden while Yahweh carries His people.
+Similar satires appear in Isaiah 40:18-20, [41:7, and [46:1-7, where the prophet mocks idols that must be carried by beasts of burden while Yahweh carries His people.
 
 ### 5. The Nations' Pilgrimage to Zion
 
-Isaiah uniquely envisions a future where all nations voluntarily stream to Jerusalem to learn God's ways. "It shall come to pass in the latter days that the mountain of the house of the Lord shall be established as the highest of the mountains, and shall be lifted up above the hills; and all the nations shall flow to it, and many peoples shall come, and say: 'Come, let us go up to the mountain of the Lord, to the house of the God of Jacob, that he may teach us his ways and that we may walk in his paths'" ([Isaiah 2:2-3](https://eternal.family.net.za/bible/books/isaiah/2#2)).
+Isaiah uniquely envisions a future where all nations voluntarily stream to Jerusalem to learn God's ways. "It shall come to pass in the latter days that the mountain of the house of the Lord shall be established as the highest of the mountains, and shall be lifted up above the hills; and all the nations shall flow to it, and many peoples shall come, and say: 'Come, let us go up to the mountain of the Lord, to the house of the God of Jacob, that he may teach us his ways and that we may walk in his paths'" (Isaiah 2:2-3).
 
-This vision includes universal peace: nations will "beat their swords into plowshares, and their spears into pruning hooks; nation shall not lift up sword against nation, neither shall they learn war anymore" ([Isaiah 2:4](https://eternal.family.net.za/bible/books/isaiah/2#4)). While Micah 4:1-3 contains nearly identical language, Isaiah develops this theme throughout the book, including the vision that God's house will be "a house of prayer for all peoples" ([Isaiah 56:7](https://eternal.family.net.za/bible/books/isaiah/56#7)).
+This vision includes universal peace: nations will "beat their swords into plowshares, and their spears into pruning hooks; nation shall not lift up sword against nation, neither shall they learn war anymore" (Isaiah 2:4). While Micah 4:1-3 contains nearly identical language, Isaiah develops this theme throughout the book, including the vision that God's house will be "a house of prayer for all peoples" (Isaiah 56:7).
 
 ### 6. Death Swallowed Up Forever
 
-Isaiah contains the Old Testament's clearest promise of the ultimate defeat of death itself: "He will swallow up death forever; and the Lord God will wipe away tears from all faces" ([Isaiah 25:8](https://eternal.family.net.za/bible/books/isaiah/25#8)). While other texts hint at resurrection (Daniel 12:2) or sheol's power (Psalm 49), Isaiah uniquely declares death's complete and permanent destruction.
+Isaiah contains the Old Testament's clearest promise of the ultimate defeat of death itself: "He will swallow up death forever; and the Lord God will wipe away tears from all faces" (Isaiah 25:8). While other texts hint at resurrection (Daniel 12:2) or sheol's power (Psalm 49), Isaiah uniquely declares death's complete and permanent destruction.
 
-This is connected to Isaiah's resurrection promise: "Your dead shall live; their bodies shall rise. You who dwell in the dust, awake and sing for joy!" ([Isaiah 26:19](https://eternal.family.net.za/bible/books/isaiah/26#19)). Paul quotes Isaiah 25:8 in 1 Corinthians 15:54 as fulfilled in Christ's resurrection.
+This is connected to Isaiah's resurrection promise: "Your dead shall live; their bodies shall rise. You who dwell in the dust, awake and sing for joy!" (Isaiah 26:19). Paul quotes Isaiah 25:8 in 1 Corinthians 15:54 as fulfilled in Christ's resurrection.
 
 ### 7. New Heavens and New Earth
 
-Isaiah is the only Old Testament book to explicitly promise that God will create "new heavens and a new earth" ([Isaiah 65:17](https://eternal.family.net.za/bible/books/isaiah/65#17), [66:22](https://eternal.family.net.za/bible/books/isaiah/66#22)). This concept of cosmic renewal goes beyond restoration of Israel to envision entirely new creation: "For behold, I create new heavens and a new earth, and the former things shall not be remembered or come into mind" ([Isaiah 65:17](https://eternal.family.net.za/bible/books/isaiah/65#17)).
+Isaiah is the only Old Testament book to explicitly promise that God will create "new heavens and a new earth" (Isaiah 65:17, [66:22). This concept of cosmic renewal goes beyond restoration of Israel to envision entirely new creation: "For behold, I create new heavens and a new earth, and the former things shall not be remembered or come into mind" (Isaiah 65:17).
 
 This teaching profoundly influenced Jewish apocalyptic literature and New Testament eschatology. Revelation 21:1 directly echoes Isaiah: "Then I saw a new heaven and a new earth, for the first heaven and the first earth had passed away."
 
@@ -568,19 +568,19 @@ While the immediate context refers to King Ahaz's situation in the 8th century B
 
 ### 9. The Shoot from the Stump of Jesse
 
-Isaiah uniquely presents the messianic king as emerging from a fallen Davidic dynasty—"a shoot from the stump of Jesse" ([Isaiah 11:1](https://eternal.family.net.za/bible/books/isaiah/11#1)). The imagery of a "stump" suggests the dynasty has been cut down, reduced to its roots, yet from this apparent death, new life emerges. This shoot will be endowed with God's Spirit and will rule with perfect righteousness and justice ([Isaiah 11:2-5](https://eternal.family.net.za/bible/books/isaiah/11#2)).
+Isaiah uniquely presents the messianic king as emerging from a fallen Davidic dynasty—"a shoot from the stump of Jesse" (Isaiah 11:1). The imagery of a "stump" suggests the dynasty has been cut down, reduced to its roots, yet from this apparent death, new life emerges. This shoot will be endowed with God's Spirit and will rule with perfect righteousness and justice (Isaiah 11:2-5).
 
-The accompanying vision of a transformed creation where "the wolf shall dwell with the lamb" and "they shall not hurt or destroy in all my holy mountain, for the earth shall be full of the knowledge of the Lord as the waters cover the sea" ([Isaiah 11:6-9](https://eternal.family.net.za/bible/books/isaiah/11#6)) presents a unique eschatological hope that influenced Jewish messianic expectations and Christian theology.
+The accompanying vision of a transformed creation where "the wolf shall dwell with the lamb" and "they shall not hurt or destroy in all my holy mountain, for the earth shall be full of the knowledge of the Lord as the waters cover the sea" (Isaiah 11:6-9) presents a unique eschatological hope that influenced Jewish messianic expectations and Christian theology.
 
 ### 10. The Servant as Light to the Nations
 
-Isaiah uniquely presents Israel's (or the ideal Servant's) vocation as bringing salvation not just to Israel but to all nations: "I will make you as a light for the nations, that my salvation may reach to the end of the earth" ([Isaiah 49:6](https://eternal.family.net.za/bible/books/isaiah/49#6)). This universal mission is stated explicitly: "It is too light a thing that you should be my servant to raise up the tribes of Jacob and to bring back the preserved of Israel" ([Isaiah 49:6](https://eternal.family.net.za/bible/books/isaiah/49#6)).
+Isaiah uniquely presents Israel's (or the ideal Servant's) vocation as bringing salvation not just to Israel but to all nations: "I will make you as a light for the nations, that my salvation may reach to the end of the earth" (Isaiah 49:6). This universal mission is stated explicitly: "It is too light a thing that you should be my servant to raise up the tribes of Jacob and to bring back the preserved of Israel" (Isaiah 49:6).
 
-The first Servant Song describes the Servant bringing "justice to the nations" ([Isaiah 42:1](https://eternal.family.net.za/bible/books/isaiah/42#1)) and becoming "a covenant for the people, a light for the nations" ([Isaiah 42:6](https://eternal.family.net.za/bible/books/isaiah/42#6)). This teaching that Israel's election has a universal purpose—blessing all peoples—is emphasized in Isaiah more than in any other prophetic book.
+The first Servant Song describes the Servant bringing "justice to the nations" (Isaiah 42:1) and becoming "a covenant for the people, a light for the nations" (Isaiah 42:6). This teaching that Israel's election has a universal purpose—blessing all peoples—is emphasized in Isaiah more than in any other prophetic book.
 
 ### 11. God's Word Never Returning Empty
 
-Isaiah contains the unique promise about the power and efficacy of God's word: "For as the rain and the snow come down from heaven and do not return there but water the earth, making it bring forth and sprout... so shall my word be that goes out from my mouth; it shall not return to me empty, but it shall accomplish that which I purpose, and shall succeed in the thing for which I sent it" ([Isaiah 55:10-11](https://eternal.family.net.za/bible/books/isaiah/55#10)).
+Isaiah contains the unique promise about the power and efficacy of God's word: "For as the rain and the snow come down from heaven and do not return there but water the earth, making it bring forth and sprout... so shall my word be that goes out from my mouth; it shall not return to me empty, but it shall accomplish that which I purpose, and shall succeed in the thing for which I sent it" (Isaiah 55:10-11).
 
 This teaching presents God's word as possessing inherent power to accomplish its intended purpose. It cannot fail or return void. This concept influenced later Jewish and Christian understandings of scripture's power and authority.
 
@@ -594,7 +594,7 @@ The textual transmission of Isaiah provides fascinating insights into how ancien
 
 The most important textual witness for Isaiah is the Great Isaiah Scroll (1QIsaᵃ) from Qumran Cave 1, dating to approximately 125 BCE. This is the oldest complete manuscript of any biblical book and predates the standard Masoretic Text by about 1,000 years. The scroll is remarkably similar to the Masoretic Text—approximately 95% identical—demonstrating careful textual preservation.
 
-However, the Great Isaiah Scroll contains over 2,600 variants compared to the Masoretic Text. Most of these are minor: spelling differences, use of matres lectionis (vowel letters), grammatical variations, and stylistic changes. For example, 1QIsaᵃ typically uses fuller spelling with more vowel letters (כיא instead of כי in [Isaiah 1:2](https://eternal.family.net.za/bible/books/isaiah/1#2)).
+However, the Great Isaiah Scroll contains over 2,600 variants compared to the Masoretic Text. Most of these are minor: spelling differences, use of matres lectionis (vowel letters), grammatical variations, and stylistic changes. For example, 1QIsaᵃ typically uses fuller spelling with more vowel letters (כיא instead of כי in Isaiah 1:2).
 
 ### Major Textual Variants Between Dead Sea Scrolls and Masoretic Text
 
@@ -652,7 +652,7 @@ These verses about Hezekiah's healing appear in a different order in some manusc
 
 ### Qere-Ketiv Readings
 
-The Masoretic tradition preserves many qere-ketiv readings (what is written vs. what is read aloud) in Isaiah. For example, in [Isaiah 49:5](https://eternal.family.net.za/bible/books/isaiah/49#5), the ketiv (written text) has לא (lo, "not") while the qere (reading tradition) has לו (lo, "to him"), completely changing the meaning: "though Israel is not gathered" vs. "that Israel might be gathered to him."
+The Masoretic tradition preserves many qere-ketiv readings (what is written vs. what is read aloud) in Isaiah. For example, in Isaiah 49:5, the ketiv (written text) has לא (lo, "not") while the qere (reading tradition) has לו (lo, "to him"), completely changing the meaning: "though Israel is not gathered" vs. "that Israel might be gathered to him."
 
 ### Scholarly Assessment
 
@@ -684,7 +684,7 @@ Like all ancient texts, Isaiah contains passages where scholars have identified 
 
 ### 2. Chronological Issues in Isaiah's Ministry (Isaiah 1:1, 6:1)
 
-**The Issue:** [Isaiah 1:1](https://eternal.family.net.za/bible/books/isaiah/1#1) states Isaiah prophesied during the reigns of Uzziah, Jotham, Ahaz, and Hezekiah. However, [Isaiah 6:1](https://eternal.family.net.za/bible/books/isaiah/6#1) describes Isaiah's call vision "in the year that King Uzziah died." If chapter 6 records Isaiah's prophetic commission, chapters 1-5 would predate his call, which seems chronologically impossible.
+**The Issue:** Isaiah 1:1 states Isaiah prophesied during the reigns of Uzziah, Jotham, Ahaz, and Hezekiah. However, Isaiah 6:1 describes Isaiah's call vision "in the year that King Uzziah died." If chapter 6 records Isaiah's prophetic commission, chapters 1-5 would predate his call, which seems chronologically impossible.
 
 **Scholarly Explanations:**
 - The book may not be arranged chronologically; chapter 6 could be positioned for theological/literary reasons rather than chronological sequence
@@ -696,7 +696,7 @@ Like all ancient texts, Isaiah contains passages where scholars have identified 
 
 ### 3. The Sun's Shadow Going Backward (Isaiah 38:7-8)
 
-**The Issue:** God gives King Hezekiah a sign: "Behold, I will make the shadow cast by the declining sun on the dial of Ahaz turn back ten steps" ([Isaiah 38:8](https://eternal.family.net.za/bible/books/isaiah/38#8)). This appears to describe the sun moving backward, which would require either the earth's rotation reversing or a localized optical phenomenon.
+**The Issue:** God gives King Hezekiah a sign: "Behold, I will make the shadow cast by the declining sun on the dial of Ahaz turn back ten steps" (Isaiah 38:8). This appears to describe the sun moving backward, which would require either the earth's rotation reversing or a localized optical phenomenon.
 
 **Critical Scholarly Explanation:** This account likely reflects ancient phenomenological language describing an unusual optical event, or it may be legendary accretion around Hezekiah's healing. Ancient Near Eastern texts sometimes contain miraculous elements that modern readers view as physically impossible. Some scholars suggest it describes a sundial malfunction or misreading rather than actual celestial movement.
 
@@ -708,18 +708,18 @@ Like all ancient texts, Isaiah contains passages where scholars have identified 
 
 ### 4. Tyre's 70-Year Desolation (Isaiah 23:15-17)
 
-**The Issue:** [Isaiah 23:15](https://eternal.family.net.za/bible/books/isaiah/23#15) prophesies that Tyre will be "forgotten for seventy years" after which she will "return to her hire." Historical records don't clearly show a 70-year period of Tyre's complete desolation.
+**The Issue:** Isaiah 23:15 prophesies that Tyre will be "forgotten for seventy years" after which she will "return to her hire." Historical records don't clearly show a 70-year period of Tyre's complete desolation.
 
 **Scholarly Explanations:**
 - The 70 years may be symbolic (representing a complete generation or lifetime) rather than literal chronology
 - The prophecy may refer to Tyre's diminished influence during Neo-Babylonian dominance rather than complete destruction
 - Historical records from Tyre itself are incomplete, making verification difficult
-- The figure may have been influenced by Jeremiah's 70-year prophecy regarding Babylon's dominance ([Jeremiah 25:11-12](https://en.wikipedia.org/wiki/Jeremiah_25))
+- The figure may have been influenced by Jeremiah's 70-year prophecy regarding Babylon's dominance (Jeremiah 25:11-12](https://en.wikipedia.org/wiki/Jeremiah_25))
 - Prophecies sometimes employed typological or idealized timeframes rather than precise predictions
 
 ### 5. Mathematical/Numerical Issues (Isaiah 7:8)
 
-**The Issue:** [Isaiah 7:8](https://eternal.family.net.za/bible/books/isaiah/7#8) states: "Within sixty-five years Ephraim will be shattered from being a people." However, Ephraim (Northern Kingdom of Israel) was conquered and exiled by Assyria in 722 BCE, only about 10-13 years after this prophecy (given around 735-732 BCE during the Syro-Ephraimite War), not 65 years.
+**The Issue:** Isaiah 7:8 states: "Within sixty-five years Ephraim will be shattered from being a people." However, Ephraim (Northern Kingdom of Israel) was conquered and exiled by Assyria in 722 BCE, only about 10-13 years after this prophecy (given around 735-732 BCE during the Syro-Ephraimite War), not 65 years.
 
 **Scholarly Explanations:**
 - The 65-year figure may have been corrupted in transmission; some suggest "six or five years" was original
@@ -730,7 +730,7 @@ Like all ancient texts, Isaiah contains passages where scholars have identified 
 
 ### 6. The Lucifer/Day Star Passage (Isaiah 14:12-15)
 
-**The Issue:** [Isaiah 14:12-15](https://eternal.family.net.za/bible/books/isaiah/14#12) describes the fall of "Day Star, son of Dawn" (Hebrew: הֵילֵל בֶּן-שָׁחַר, Helel ben Shachar). Christian tradition often interprets this as describing Satan's fall, but the immediate context clearly addresses the king of Babylon ([Isaiah 14:4](https://eternal.family.net.za/bible/books/isaiah/14#4)).
+**The Issue:** Isaiah 14:12-15 describes the fall of "Day Star, son of Dawn" (Hebrew: הֵילֵל בֶּן-שָׁחַר, Helel ben Shachar). Christian tradition often interprets this as describing Satan's fall, but the immediate context clearly addresses the king of Babylon (Isaiah 14:4).
 
 **Scholarly Analysis:** This isn't technically a textual "error" but a longstanding interpretive misapplication. The passage is a taunt-song against Babylon's king, using mythological imagery common in ancient Near Eastern literature about prideful rulers claiming divine status. The "error" is interpretive: reading the passage as primarily about Satan rather than recognizing its historical context addresses Babylonian royal ideology.
 
@@ -738,7 +738,7 @@ Like all ancient texts, Isaiah contains passages where scholars have identified 
 
 ### 7. Geographical Confusion (Isaiah 13:17, 21:2)
 
-**The Issue:** [Isaiah 13:17](https://eternal.family.net.za/bible/books/isaiah/13#17) prophesies Media will destroy Babylon, but historically, Cyrus the Persian (with Median support) conquered Babylon. [Isaiah 21:2](https://eternal.family.net.za/bible/books/isaiah/21#2) mentions "Elam" and "Media" attacking, but the Persians (closely related to Elamites) were the primary conquerors.
+**The Issue:** Isaiah 13:17 prophesies Media will destroy Babylon, but historically, Cyrus the Persian (with Median support) conquered Babylon. Isaiah 21:2 mentions "Elam" and "Media" attacking, but the Persians (closely related to Elamites) were the primary conquerors.
 
 **Scholarly Explanations:**
 - The Medes and Persians were closely allied, and "Media" could represent the broader coalition
@@ -748,7 +748,7 @@ Like all ancient texts, Isaiah contains passages where scholars have identified 
 
 ### 8. The Immanuel Sign Timeframe (Isaiah 7:14-16)
 
-**The Issue:** [Isaiah 7:14-16](https://eternal.family.net.za/bible/books/isaiah/7#14) promises a sign: a virgin/young woman will bear a son named Immanuel, and "before the boy knows how to refuse the evil and choose the good" (approximately 2-3 years old), the threatening kings will be defeated. Historically, the Syro-Ephraimite threat ended within a few years, but Matthew applies this prophecy to Jesus, born 700+ years later.
+**The Issue:** Isaiah 7:14-16 promises a sign: a virgin/young woman will bear a son named Immanuel, and "before the boy knows how to refuse the evil and choose the good" (approximately 2-3 years old), the threatening kings will be defeated. Historically, the Syro-Ephraimite threat ended within a few years, but Matthew applies this prophecy to Jesus, born 700+ years later.
 
 **Scholarly Explanations:**
 - The prophecy had an immediate fulfillment in Isaiah's time (possibly Isaiah's own son or another child) and a later, fuller fulfillment in Christ (dual/multiple fulfillment)
@@ -760,7 +760,7 @@ Like all ancient texts, Isaiah contains passages where scholars have identified 
 
 ### 9. Textual Corruption in Poetry (Isaiah 52:14)
 
-**The Issue:** [Isaiah 52:14](https://eternal.family.net.za/bible/books/isaiah/52#14) in MT reads: "Just as many were astonished at you—his appearance was so marred, beyond human semblance, and his form beyond that of the children of mankind." The grammar is awkward, shifting from second person ("you") to third person ("his"). The Hebrew word מִשְׁחַת (mishchat) is also grammatically difficult.
+**The Issue:** Isaiah 52:14 in MT reads: "Just as many were astonished at you—his appearance was so marred, beyond human semblance, and his form beyond that of the children of mankind." The grammar is awkward, shifting from second person ("you") to third person ("his"). The Hebrew word מִשְׁחַת (mishchat) is also grammatically difficult.
 
 **Scholarly Consensus:** This verse likely contains textual corruption. The Dead Sea Scrolls don't significantly clarify it, suggesting the corruption occurred very early. Most scholars agree the general sense (the servant's disfigured appearance) is clear despite grammatical difficulties, but the precise original wording is uncertain.
 
@@ -801,7 +801,7 @@ Isaiah, like many biblical books, contains passages that appear to contradict ea
 
 **1. God's Changeability: Judgment vs. Mercy**
 
-**The Contradiction:** Isaiah presents God as both unchangeable ([Isaiah 31:2](https://eternal.family.net.za/bible/books/isaiah/31#2): "he does not call back his words") and as one who changes His mind. In [Isaiah 38:1-5](https://eternal.family.net.za/bible/books/isaiah/38#1), God tells Hezekiah through Isaiah, "Set your house in order, for you shall die; you shall not recover." But after Hezekiah prays, God sends Isaiah back: "I have heard your prayer; I have seen your tears. Behold, I will add fifteen years to your life" ([Isaiah 38:5](https://eternal.family.net.za/bible/books/isaiah/38#5)).
+**The Contradiction:** Isaiah presents God as both unchangeable (Isaiah 31:2: "he does not call back his words") and as one who changes His mind. In Isaiah 38:1-5, God tells Hezekiah through Isaiah, "Set your house in order, for you shall die; you shall not recover." But after Hezekiah prays, God sends Isaiah back: "I have heard your prayer; I have seen your tears. Behold, I will add fifteen years to your life" (Isaiah 38:5).
 
 **Explanations:**
 - **Conservative View:** God's character is unchanging, but His specific actions respond to human repentance and prayer. Conditional prophecies depend on human response (see Jeremiah 18:7-10). God's "change" reflects covenant relationship, not character instability.
@@ -810,7 +810,7 @@ Isaiah, like many biblical books, contains passages that appear to contradict ea
 
 **2. Salvation: Israel Only vs. Universal**
 
-**The Contradiction:** Some passages suggest salvation is exclusively for Israel ([Isaiah 45:17](https://eternal.family.net.za/bible/books/isaiah/45#17): "But Israel is saved by the Lord with everlasting salvation; you shall not be put to shame or confounded to all eternity"), while others envision universal salvation including Gentiles ([Isaiah 19:24-25](https://eternal.family.net.za/bible/books/isaiah/19#24): "In that day Israel will be the third with Egypt and Assyria, a blessing in the midst of the earth, whom the Lord of hosts has blessed, saying, 'Blessed be Egypt my people, and Assyria the work of my hands, and Israel my heritage'"; [Isaiah 56:6-7](https://eternal.family.net.za/bible/books/isaiah/56#6): foreigners joining themselves to the Lord).
+**The Contradiction:** Some passages suggest salvation is exclusively for Israel (Isaiah 45:17: "But Israel is saved by the Lord with everlasting salvation; you shall not be put to shame or confounded to all eternity"), while others envision universal salvation including Gentiles (Isaiah 19:24-25: "In that day Israel will be the third with Egypt and Assyria, a blessing in the midst of the earth, whom the Lord of hosts has blessed, saying, 'Blessed be Egypt my people, and Assyria the work of my hands, and Israel my heritage'"; Isaiah 56:6-7: foreigners joining themselves to the Lord).
 
 **Explanations:**
 - **Progressive Revelation:** Isaiah's understanding of God's plan developed throughout his ministry, or later sections reflect theological development in Israelite thought from particularism to universalism.
@@ -819,7 +819,7 @@ Isaiah, like many biblical books, contains passages that appear to contradict ea
 
 **3. Peace vs. Continued Warfare**
 
-**The Contradiction:** [Isaiah 2:4](https://eternal.family.net.za/bible/books/isaiah/2#4) envisions universal peace: "Nation shall not lift up sword against nation, neither shall they learn war anymore." Yet [Isaiah 13-23](https://eternal.family.net.za/bible/books/isaiah/13#1) contains extensive oracles of judgment and warfare against nations. Even in the eschatological vision, [Isaiah 66:15-16](https://eternal.family.net.za/bible/books/isaiah/66#15) describes God coming "with fire" and "by his sword the Lord will enter into judgment."
+**The Contradiction:** Isaiah 2:4 envisions universal peace: "Nation shall not lift up sword against nation, neither shall they learn war anymore." Yet Isaiah 13-23 contains extensive oracles of judgment and warfare against nations. Even in the eschatological vision, Isaiah 66:15-16 describes God coming "with fire" and "by his sword the Lord will enter into judgment."
 
 **Explanations:**
 - **Eschatological Timeline:** Peace comes after final judgment. God must first judge evil before establishing eternal peace. The contradictions reflect different stages: present/near judgment versus ultimate eschatological peace.
@@ -830,7 +830,7 @@ Isaiah, like many biblical books, contains passages that appear to contradict ea
 
 **4. The Death of King Ahaz (Isaiah 14 vs. 2 Kings 16)**
 
-**The Contradiction:** [Isaiah 14:28-32](https://eternal.family.net.za/bible/books/isaiah/14#28) is dated "In the year that King Ahaz died" and prophesies against Philistia. However, the prophecy's content doesn't clearly relate to Ahaz's death, and some scholars question whether this dating formula fits the oracle's historical context described in 2 Kings 16.
+**The Contradiction:** Isaiah 14:28-32 is dated "In the year that King Ahaz died" and prophesies against Philistia. However, the prophecy's content doesn't clearly relate to Ahaz's death, and some scholars question whether this dating formula fits the oracle's historical context described in 2 Kings 16.
 
 **Explanations:**
 - The dating formula may be editorial, added later to organize oracles chronologically
@@ -839,7 +839,7 @@ Isaiah, like many biblical books, contains passages that appear to contradict ea
 
 **5. Isaiah vs. Kings/Chronicles on Hezekiah's Healing**
 
-**The Contradiction:** [Isaiah 38](https://eternal.family.net.za/bible/books/isaiah/38#1) provides the most detailed account of Hezekiah's illness and healing. [2 Kings 20:1-11](https://en.wikipedia.org/wiki/Hezekiah) and [2 Chronicles 32:24-26](https://en.wikipedia.org/wiki/Hezekiah) narrate the same event but with some differences in detail and emphasis. For instance, Chronicles mentions Hezekiah's pride and its consequences, which Isaiah doesn't emphasize.
+**The Contradiction:** Isaiah 38 provides the most detailed account of Hezekiah's illness and healing. [2 Kings 20:1-11](https://en.wikipedia.org/wiki/Hezekiah) and [2 Chronicles 32:24-26](https://en.wikipedia.org/wiki/Hezekiah) narrate the same event but with some differences in detail and emphasis. For instance, Chronicles mentions Hezekiah's pride and its consequences, which Isaiah doesn't emphasize.
 
 **Explanations:**
 - Ancient historians selected and arranged material for different theological purposes
@@ -849,7 +849,7 @@ Isaiah, like many biblical books, contains passages that appear to contradict ea
 
 **6. Parallel with Micah 4:1-3**
 
-**The Contradiction:** [Isaiah 2:2-4](https://eternal.family.net.za/bible/books/isaiah/2#2) and [Micah 4:1-3](https://en.wikipedia.org/wiki/Book_of_Micah) contain nearly identical prophecies about nations streaming to Jerusalem. The question isn't contradiction per se, but which prophet borrowed from the other, or whether both drew on a common source.
+**The Contradiction:** Isaiah 2:2-4 and Micah 4:1-3](https://en.wikipedia.org/wiki/Book_of_Micah) contain nearly identical prophecies about nations streaming to Jerusalem. The question isn't contradiction per se, but which prophet borrowed from the other, or whether both drew on a common source.
 
 **Explanations:**
 - **Common Source:** Both prophets may have drawn on a common liturgical or prophetic tradition circulating in 8th-century Judah
@@ -859,7 +859,7 @@ Isaiah, like many biblical books, contains passages that appear to contradict ea
 
 **7. Isaiah 7:14 and Matthew's Interpretation**
 
-**The Contradiction:** [Isaiah 7:14](https://eternal.family.net.za/bible/books/isaiah/7#14) in context addresses King Ahaz in the 8th century BCE, promising a sign relevant to his immediate political crisis. Matthew 1:22-23 applies this to Jesus's virgin birth 700+ years later. Critics argue this represents a contradiction between Isaiah's original meaning and Matthew's application.
+**The Contradiction:** Isaiah 7:14 in context addresses King Ahaz in the 8th century BCE, promising a sign relevant to his immediate political crisis. Matthew 1:22-23 applies this to Jesus's virgin birth 700+ years later. Critics argue this represents a contradiction between Isaiah's original meaning and Matthew's application.
 
 **Explanations:**
 - **Typological Fulfillment:** Isaiah's prophecy had an immediate referent (possibly Isaiah's own son or another child in Ahaz's time) and an ultimate fulfillment in Christ. This "dual fulfillment" or "multiple fulfillment" pattern is common in prophetic literature.
@@ -868,7 +868,7 @@ Isaiah, like many biblical books, contains passages that appear to contradict ea
 
 **8. God Creating Evil (Isaiah 45:7 vs. Other Texts)**
 
-**The Contradiction:** [Isaiah 45:7](https://eternal.family.net.za/bible/books/isaiah/45#7) states: "I form light and create darkness, I make well-being and create calamity, I am the Lord, who does all these things." This seems to contradict passages that attribute evil to Satan or human free will (e.g., James 1:13: "God... tempts no one").
+**The Contradiction:** Isaiah 45:7 states: "I form light and create darkness, I make well-being and create calamity, I am the Lord, who does all these things." This seems to contradict passages that attribute evil to Satan or human free will (e.g., James 1:13: "God... tempts no one").
 
 **Explanations:**
 - **Different Meanings of "Evil":** The Hebrew word רָע (ra) in Isaiah 45:7 means "calamity," "disaster," or "hardship"—not moral evil. God creates circumstances of judgment and disaster as responses to sin, not moral evil itself.
@@ -877,7 +877,7 @@ Isaiah, like many biblical books, contains passages that appear to contradict ea
 
 **9. The Suffering Servant's Identity**
 
-**The Contradiction:** Isaiah identifies the servant as Israel ([Isaiah 49:3](https://eternal.family.net.za/bible/books/isaiah/49#3): "You are my servant, Israel") but also describes the servant's mission as restoring Israel ([Isaiah 49:5-6](https://eternal.family.net.za/bible/books/isaiah/49#5): "to bring Jacob back to him that Israel might be gathered to him"). This creates an apparent contradiction: Is the servant Israel, or does the servant have a mission to Israel?
+**The Contradiction:** Isaiah identifies the servant as Israel (Isaiah 49:3: "You are my servant, Israel") but also describes the servant's mission as restoring Israel (Isaiah 49:5-6: "to bring Jacob back to him that Israel might be gathered to him"). This creates an apparent contradiction: Is the servant Israel, or does the servant have a mission to Israel?
 
 **Explanations:**
 - **Corporate and Individual:** The servant represents both the nation (corporately) and an ideal individual (possibly the prophet, a future messiah, or a faithful remnant). Ancient texts often moved fluidly between corporate and individual identities.
@@ -887,7 +887,7 @@ Isaiah, like many biblical books, contains passages that appear to contradict ea
 
 **10. God's Visibility (Isaiah 6 vs. Exodus 33)**
 
-**The Contradiction:** [Isaiah 6:1, 5](https://eternal.family.net.za/bible/books/isaiah/6#1) reports: "I saw the Lord sitting upon a throne... my eyes have seen the King, the Lord of hosts!" Yet [Exodus 33:20](https://en.wikipedia.org/wiki/Exodus_33) states: "You cannot see my face, for man shall not see me and live."
+**The Contradiction:** Isaiah 6:1, 5 reports: "I saw the Lord sitting upon a throne... my eyes have seen the King, the Lord of hosts!" Yet Exodus 33:20](https://en.wikipedia.org/wiki/Exodus_33) states: "You cannot see my face, for man shall not see me and live."
 
 **Explanations:**
 - **Theophany vs. Direct Vision:** Isaiah saw a vision or theophany (divine manifestation) rather than God's direct essence. Exodus refers to seeing God's full, unmediated glory.

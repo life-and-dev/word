@@ -2,7 +2,7 @@
 
 ## Authorship
 
-The Song of Songs (also known as Song of Solomon or Canticles) opens with the superscription "Solomon's Song of Songs" ([Song 1:1](https://eternal.family.net.za/bible/books/songs/1#1)), traditionally understood as attributing authorship to King Solomon.
+The Song of Songs (also known as Song of Solomon or Canticles) opens with the superscription "Solomon's Song of Songs" ([Song 1:1), traditionally understood as attributing authorship to King Solomon.
 
 **Traditional Attribution:**
 
@@ -287,78 +287,78 @@ The Song of Songs consists of eight chapters of lyrical poetry celebrating roman
 
 **Opening (1:1-17):**
 
-The book begins with the superscription identifying it as "Solomon's Song of Songs" ([Song 1:1](https://eternal.family.net.za/bible/books/songs/1#1))—literally "the song of songs," a Hebrew superlative meaning "the greatest song."
+The book begins with the superscription identifying it as "Solomon's Song of Songs" ([Song 1:1)—literally "the song of songs," a Hebrew superlative meaning "the greatest song."
 
-The woman speaks first, expressing passionate desire: "Let him kiss me with the kisses of his mouth—for your love is more delightful than wine" ([Song 1:2](https://eternal.family.net.za/bible/books/songs/1#2)). She describes herself as "dark, but lovely" ([Song 1:5](https://eternal.family.net.za/bible/books/songs/1#5)), comparing her complexion to Kedar's tents and Solomon's curtains, darkened from working in vineyards.
+The woman speaks first, expressing passionate desire: "Let him kiss me with the kisses of his mouth—for your love is more delightful than wine" ([Song 1:2). She describes herself as "dark, but lovely" ([Song 1:5), comparing her complexion to Kedar's tents and Solomon's curtains, darkened from working in vineyards.
 
-The lovers engage in dialogue praising each other. He calls her "most beautiful of women" ([Song 1:8](https://eternal.family.net.za/bible/books/songs/1#8)); she responds with elaborate comparisons. They establish the pattern of mutual admiration and desire that characterizes the entire book.
+The lovers engage in dialogue praising each other. He calls her "most beautiful of women" ([Song 1:8); she responds with elaborate comparisons. They establish the pattern of mutual admiration and desire that characterizes the entire book.
 
 **First Dream Sequence (2:8-3:5):**
 
-The woman describes her beloved approaching: "Listen! My beloved! Look! Here he comes, leaping across the mountains, bounding over the hills" ([Song 2:8](https://eternal.family.net.za/bible/books/songs/2#8)). She compares him to a gazelle or young stag.
+The woman describes her beloved approaching: "Listen! My beloved! Look! Here he comes, leaping across the mountains, bounding over the hills" ([Song 2:8). She compares him to a gazelle or young stag.
 
-He invites her to arise and come away: "Arise, my darling, my beautiful one, come with me. See! The winter is past; the rains are over and gone. Flowers appear on the earth; the season of singing has come" ([Song 2:10-12](https://eternal.family.net.za/bible/books/songs/2#10)). This springtime imagery associates their love with renewal and fertility.
+He invites her to arise and come away: "Arise, my darling, my beautiful one, come with me. See! The winter is past; the rains are over and gone. Flowers appear on the earth; the season of singing has come" ([Song 2:10-12). This springtime imagery associates their love with renewal and fertility.
 
-**The Refrain of Restraint** appears for the first time: "Daughters of Jerusalem, I charge you by the gazelles and by the does of the field: Do not arouse or awaken love until it so desires" ([Song 2:7](https://eternal.family.net.za/bible/books/songs/2#7)). This refrain repeats three times (2:7; 3:5; 8:4), emphasizing the importance of proper timing in love.
+**The Refrain of Restraint** appears for the first time: "Daughters of Jerusalem, I charge you by the gazelles and by the does of the field: Do not arouse or awaken love until it so desires" ([Song 2:7). This refrain repeats three times (2:7; 3:5; 8:4), emphasizing the importance of proper timing in love.
 
-The woman describes searching for her beloved through city streets at night ([Song 3:1-4](https://eternal.family.net.za/bible/books/songs/3#1)), asking watchmen, "Have you seen the one my heart loves?" When she finds him, she brings him to her mother's house.
+The woman describes searching for her beloved through city streets at night ([Song 3:1-4), asking watchmen, "Have you seen the one my heart loves?" When she finds him, she brings him to her mother's house.
 
 **The Wedding Procession (3:6-11):**
 
-A dramatic scene depicts Solomon's wedding procession: "Who is this coming up from the wilderness like a column of smoke, perfumed with myrrh and incense made from all the spices of the merchant?" ([Song 3:6](https://eternal.family.net.za/bible/books/songs/3#6)). Solomon's carriage appears, surrounded by sixty warriors, "all wearing the sword, all experienced in battle" ([Song 3:8](https://eternal.family.net.za/bible/books/songs/3#8)).
+A dramatic scene depicts Solomon's wedding procession: "Who is this coming up from the wilderness like a column of smoke, perfumed with myrrh and incense made from all the spices of the merchant?" ([Song 3:6). Solomon's carriage appears, surrounded by sixty warriors, "all wearing the sword, all experienced in battle" ([Song 3:8).
 
-King Solomon wears a crown "his mother crowned him with on the day of his wedding" ([Song 3:11](https://eternal.family.net.za/bible/books/songs/3#11)), establishing marriage as the context.
+King Solomon wears a crown "his mother crowned him with on the day of his wedding" ([Song 3:11), establishing marriage as the context.
 
 **The Man Praises His Beloved's Beauty (4:1-5:1):**
 
 The man delivers an extended *wasf* (descriptive love poem) cataloging his beloved's beauty from head to toe:
-- "Your eyes behind your veil are doves" ([Song 4:1](https://eternal.family.net.za/bible/books/songs/4#1))
-- "Your teeth are like a flock of sheep just shorn" ([Song 4:2](https://eternal.family.net.za/bible/books/songs/4#2))
-- "Your lips are like a scarlet ribbon" ([Song 4:3](https://eternal.family.net.za/bible/books/songs/4#3))
-- "Your neck is like the tower of David" ([Song 4:4](https://eternal.family.net.za/bible/books/songs/4#4))
-- "Your breasts are like two fawns" ([Song 4:5](https://eternal.family.net.za/bible/books/songs/4#5))
+- "Your eyes behind your veil are doves" ([Song 4:1)
+- "Your teeth are like a flock of sheep just shorn" ([Song 4:2)
+- "Your lips are like a scarlet ribbon" ([Song 4:3)
+- "Your neck is like the tower of David" ([Song 4:4)
+- "Your breasts are like two fawns" ([Song 4:5)
 
-He calls her "my bride" repeatedly ([Song 4:8-12](https://eternal.family.net.za/bible/books/songs/4#8)), using garden imagery: "You are a garden locked up, my sister, my bride; you are a spring enclosed, a sealed fountain" ([Song 4:12](https://eternal.family.net.za/bible/books/songs/4#12)). This imagery suggests virginity preserved for marriage.
+He calls her "my bride" repeatedly ([Song 4:8-12), using garden imagery: "You are a garden locked up, my sister, my bride; you are a spring enclosed, a sealed fountain" ([Song 4:12). This imagery suggests virginity preserved for marriage.
 
-She responds by inviting him into her garden: "Let my beloved come into his garden and taste its choice fruits" ([Song 4:16](https://eternal.family.net.za/bible/books/songs/4#16)). He accepts: "I have come into my garden, my sister, my bride" ([Song 5:1](https://eternal.family.net.za/bible/books/songs/5#1)), with language suggesting consummation.
+She responds by inviting him into her garden: "Let my beloved come into his garden and taste its choice fruits" ([Song 4:16). He accepts: "I have come into my garden, my sister, my bride" ([Song 5:1), with language suggesting consummation.
 
-A voice (possibly divine or the poet's) affirms: "Eat, friends, and drink; drink your fill of love" ([Song 5:1](https://eternal.family.net.za/bible/books/songs/5#1))—a rare moment possibly expressing God's blessing on marital intimacy.
+A voice (possibly divine or the poet's) affirms: "Eat, friends, and drink; drink your fill of love" ([Song 5:1)—a rare moment possibly expressing God's blessing on marital intimacy.
 
 **Second Dream Sequence (5:2-6:3):**
 
-The woman recounts another dream: "I slept but my heart was awake. Listen! My beloved is knocking: 'Open to me, my sister, my darling, my dove, my flawless one'" ([Song 5:2](https://eternal.family.net.za/bible/books/songs/5#2)). She hesitates, and when she finally opens the door, he has gone. She searches the city, and the watchmen "beat me, they bruised me; they took away my cloak" ([Song 5:7](https://eternal.family.net.za/bible/books/songs/5#7)).
+The woman recounts another dream: "I slept but my heart was awake. Listen! My beloved is knocking: 'Open to me, my sister, my darling, my dove, my flawless one'" ([Song 5:2). She hesitates, and when she finally opens the door, he has gone. She searches the city, and the watchmen "beat me, they bruised me; they took away my cloak" ([Song 5:7).
 
 The daughters of Jerusalem ask what makes her beloved special. She responds with an elaborate *wasf* describing him from head to feet:
-- "His head is purest gold; his hair is wavy and black as a raven" ([Song 5:11](https://eternal.family.net.za/bible/books/songs/5#11))
-- "His eyes are like doves" ([Song 5:12](https://eternal.family.net.za/bible/books/songs/5#12))
-- "His arms are rods of gold" ([Song 5:14](https://eternal.family.net.za/bible/books/songs/5#14))
-- "His legs are pillars of marble" ([Song 5:15](https://eternal.family.net.za/bible/books/songs/5#15))
+- "His head is purest gold; his hair is wavy and black as a raven" ([Song 5:11)
+- "His eyes are like doves" ([Song 5:12)
+- "His arms are rods of gold" ([Song 5:14)
+- "His legs are pillars of marble" ([Song 5:15)
 
-She concludes: "This is my beloved, this is my friend" ([Song 5:16](https://eternal.family.net.za/bible/books/songs/5#16)), notably using the word "friend" to describe their relationship alongside romantic love.
+She concludes: "This is my beloved, this is my friend" ([Song 5:16), notably using the word "friend" to describe their relationship alongside romantic love.
 
 **Mutual Possession and Praise (6:4-8:4):**
 
 The lovers repeatedly affirm mutual belonging:
-- "I am my beloved's and my beloved is mine" ([Song 6:3](https://eternal.family.net.za/bible/books/songs/6#3))
-- "My beloved has gone down to his garden...to browse in the gardens and to gather lilies. I am my beloved's and my beloved is mine" ([Song 6:2-3](https://eternal.family.net.za/bible/books/songs/6#2))
+- "I am my beloved's and my beloved is mine" ([Song 6:3)
+- "My beloved has gone down to his garden...to browse in the gardens and to gather lilies. I am my beloved's and my beloved is mine" ([Song 6:2-3)
 
-The man praises her beauty again, this time comparing her to cities: "You are as beautiful as Tirzah, my darling, as lovely as Jerusalem, as majestic as troops with banners" ([Song 6:4](https://eternal.family.net.za/bible/books/songs/6#4)).
+The man praises her beauty again, this time comparing her to cities: "You are as beautiful as Tirzah, my darling, as lovely as Jerusalem, as majestic as troops with banners" ([Song 6:4).
 
-He describes her uniqueness: "Sixty queens there may be, and eighty concubines, and virgins beyond number; but my dove, my perfect one, is unique" ([Song 6:8-9](https://eternal.family.net.za/bible/books/songs/6#8)). This statement of exclusivity stands in tension with Solomon's historical polygamy, possibly indicating the idealized nature of the poetry or suggesting Solomonic authorship is metaphorical.
+He describes her uniqueness: "Sixty queens there may be, and eighty concubines, and virgins beyond number; but my dove, my perfect one, is unique" ([Song 6:8-9). This statement of exclusivity stands in tension with Solomon's historical polygamy, possibly indicating the idealized nature of the poetry or suggesting Solomonic authorship is metaphorical.
 
-The woman describes her own beauty: "I am a wall, and my breasts are like towers" ([Song 8:10](https://eternal.family.net.za/bible/books/songs/8#10)), asserting both her virginity ("I am a wall") and her maturity.
+The woman describes her own beauty: "I am a wall, and my breasts are like towers" ([Song 8:10), asserting both her virginity ("I am a wall") and her maturity.
 
 **Climax: Love's Power (8:5-14):**
 
 The book's theological and poetic climax appears in 8:6-7, containing what may be the only direct reference to God in the entire book:
 
-"Place me like a seal over your heart, like a seal on your arm; for love is as strong as death, its jealousy unyielding as the grave. It burns like blazing fire, like a mighty flame" ([Song 8:6](https://eternal.family.net.za/bible/books/songs/8#6)).
+"Place me like a seal over your heart, like a seal on your arm; for love is as strong as death, its jealousy unyielding as the grave. It burns like blazing fire, like a mighty flame" ([Song 8:6).
 
 The Hebrew phrase translated "mighty flame" is literally *shalhebetya* (שַׁלְהֶבֶתְיָהּ), possibly meaning "flame of Yah/Yahweh"—the only potential divine name in the Song. This suggests love's fire is divine in origin.
 
-The woman continues: "Many waters cannot quench love; rivers cannot sweep it away. If one were to give all the wealth of one's house for love, it would be utterly scorned" ([Song 8:7](https://eternal.family.net.za/bible/books/songs/8#7)). This profound statement elevates love above death, destruction, and wealth—love as the ultimate, invaluable reality.
+The woman continues: "Many waters cannot quench love; rivers cannot sweep it away. If one were to give all the wealth of one's house for love, it would be utterly scorned" ([Song 8:7). This profound statement elevates love above death, destruction, and wealth—love as the ultimate, invaluable reality.
 
-The Song closes with mutual longing. The woman calls: "Come away, my beloved, and be like a gazelle or like a young stag on the spice-laden mountains" ([Song 8:14](https://eternal.family.net.za/bible/books/songs/8#14))—an invitation to continued intimacy and joy.
+The Song closes with mutual longing. The woman calls: "Come away, my beloved, and be like a gazelle or like a young stag on the spice-laden mountains" ([Song 8:14)—an invitation to continued intimacy and joy.
 
 **Summary of Inspired Elements:**
 

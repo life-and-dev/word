@@ -332,117 +332,117 @@ The Book of Esther narrates how a Jewish girl became Queen of Persia and saved h
 
 **The Persian Court and Vashti's Removal (Chapter 1):**
 
-King Ahasuerus (Xerxes I) reigns over 127 provinces from India to Cush (Ethiopia) ([Esther 1:1](https://eternal.family.net.za/bible/books/esther/1#1)). In the third year of his reign, he hosts a lavish 180-day display of wealth followed by a seven-day feast for all in Susa ([Esther 1:3-5](https://eternal.family.net.za/bible/books/esther/1#3)).
+King Ahasuerus (Xerxes I) reigns over 127 provinces from India to Cush (Ethiopia) ([Esther 1:1). In the third year of his reign, he hosts a lavish 180-day display of wealth followed by a seven-day feast for all in Susa ([Esther 1:3-5).
 
-On the seventh day, drunk with wine, the king commands Queen Vashti to display her beauty before the guests ([Esther 1:10-11](https://eternal.family.net.za/bible/books/esther/1#10)). Vashti refuses, enraging the king. His advisers warn that her defiance will inspire other women to disobey their husbands throughout the empire ([Esther 1:16-18](https://eternal.family.net.za/bible/books/esther/1#16)).
+On the seventh day, drunk with wine, the king commands Queen Vashti to display her beauty before the guests ([Esther 1:10-11). Vashti refuses, enraging the king. His advisers warn that her defiance will inspire other women to disobey their husbands throughout the empire ([Esther 1:16-18).
 
-The king issues an irrevocable decree deposing Vashti and proclaiming that every man should rule his household ([Esther 1:19-22](https://eternal.family.net.za/bible/books/esther/1#19)). **Providence note**: This seemingly arbitrary event creates the vacancy Esther will fill.
+The king issues an irrevocable decree deposing Vashti and proclaiming that every man should rule his household ([Esther 1:19-22). **Providence note**: This seemingly arbitrary event creates the vacancy Esther will fill.
 
 **Esther Becomes Queen (Chapter 2):**
 
-When the king's anger subsides, advisers suggest gathering beautiful young virgins throughout the empire to choose a new queen ([Esther 2:2-4](https://eternal.family.net.za/bible/books/esther/2#2)).
+When the king's anger subsides, advisers suggest gathering beautiful young virgins throughout the empire to choose a new queen ([Esther 2:2-4).
 
-In Susa lives Mordecai, a Benjamite descendant of those exiled with King Jeconiah ([Esther 2:5-6](https://eternal.family.net.za/bible/books/esther/2#5)). He raises his orphaned cousin Hadassah (Esther), described as "lovely in form and features" ([Esther 2:7](https://eternal.family.net.za/bible/books/esther/2#7)).
+In Susa lives Mordecai, a Benjamite descendant of those exiled with King Jeconiah ([Esther 2:5-6). He raises his orphaned cousin Hadassah (Esther), described as "lovely in form and features" ([Esther 2:7).
 
-Esther enters the king's harem, where she wins favor with Hegai, the eunuch in charge ([Esther 2:9](https://eternal.family.net.za/bible/books/esther/2#9)). Following Mordecai's instruction, she conceals her Jewish identity ([Esther 2:10](https://eternal.family.net.za/bible/books/esther/2#10)). **Providence note**: Her concealment proves strategic for the coming crisis.
+Esther enters the king's harem, where she wins favor with Hegai, the eunuch in charge ([Esther 2:9). Following Mordecai's instruction, she conceals her Jewish identity ([Esther 2:10). **Providence note**: Her concealment proves strategic for the coming crisis.
 
-After twelve months of beauty treatments, Esther meets the king and wins his favor above all other women. He sets the royal crown on her head and makes her queen in Vashti's place in his seventh year ([Esther 2:16-17](https://eternal.family.net.za/bible/books/esther/2#16)).
+After twelve months of beauty treatments, Esther meets the king and wins his favor above all other women. He sets the royal crown on her head and makes her queen in Vashti's place in his seventh year ([Esther 2:16-17).
 
-Mordecai sits at the king's gate (a position of some official status) and discovers a plot by two eunuchs to assassinate the king. Through Esther, he reports this, saving the king's life. The matter is recorded in the royal chronicles in Mordecai's name ([Esther 2:21-23](https://eternal.family.net.za/bible/books/esther/2#21)). **Providence note**: This unrewarded service becomes crucial later.
+Mordecai sits at the king's gate (a position of some official status) and discovers a plot by two eunuchs to assassinate the king. Through Esther, he reports this, saving the king's life. The matter is recorded in the royal chronicles in Mordecai's name ([Esther 2:21-23). **Providence note**: This unrewarded service becomes crucial later.
 
 **Haman's Plot (Chapter 3):**
 
-King Ahasuerus elevates Haman the Agagite to highest position, commanding all to bow before him ([Esther 3:1-2](https://eternal.family.net.za/bible/books/esther/3#1)). Mordecai refuses to bow, explaining he is Jewish ([Esther 3:2-4](https://eternal.family.net.za/bible/books/esther/3#2)).
+King Ahasuerus elevates Haman the Agagite to highest position, commanding all to bow before him ([Esther 3:1-2). Mordecai refuses to bow, explaining he is Jewish ([Esther 3:2-4).
 
-Enraged, Haman scorns to kill only Mordecai; instead, he plots to destroy all Jews throughout the empire ([Esther 3:5-6](https://eternal.family.net.za/bible/books/esther/3#5)). He casts **pur** (the lot) to determine the optimal date: the thirteenth day of the twelfth month (Adar) ([Esther 3:7](https://eternal.family.net.za/bible/books/esther/3#7)).
+Enraged, Haman scorns to kill only Mordecai; instead, he plots to destroy all Jews throughout the empire ([Esther 3:5-6). He casts **pur** (the lot) to determine the optimal date: the thirteenth day of the twelfth month (Adar) ([Esther 3:7).
 
-Haman tells the king: "There is a certain people dispersed among the peoples in all the provinces of your kingdom who keep themselves separate. Their customs are different from those of all other people, and they do not obey the king's laws; it is not in the king's best interest to tolerate them" ([Esther 3:8](https://eternal.family.net.za/bible/books/esther/3#8)). He offers 10,000 talents of silver for the royal treasury.
+Haman tells the king: "There is a certain people dispersed among the peoples in all the provinces of your kingdom who keep themselves separate. Their customs are different from those of all other people, and they do not obey the king's laws; it is not in the king's best interest to tolerate them" ([Esther 3:8). He offers 10,000 talents of silver for the royal treasury.
 
-The king gives Haman his signet ring, authorizing him: "Keep the money and do with the people as you please" ([Esther 3:10-11](https://eternal.family.net.za/bible/books/esther/3#10)). Dispatches go to all provinces ordering the destruction of all Jews—young and old, women and children—on one day, with plunder of their goods ([Esther 3:13](https://eternal.family.net.za/bible/books/esther/3#13)).
+The king gives Haman his signet ring, authorizing him: "Keep the money and do with the people as you please" ([Esther 3:10-11). Dispatches go to all provinces ordering the destruction of all Jews—young and old, women and children—on one day, with plunder of their goods ([Esther 3:13).
 
-The king and Haman sit down to drink, but "the city of Susa was bewildered" ([Esther 3:15](https://eternal.family.net.za/bible/books/esther/3#15)).
+The king and Haman sit down to drink, but "the city of Susa was bewildered" ([Esther 3:15).
 
 **Mordecai and Esther's Response (Chapter 4):**
 
-Mordecai tears his clothes, puts on sackcloth and ashes, and goes through the city wailing loudly ([Esther 4:1](https://eternal.family.net.za/bible/books/esther/4#1)). Throughout the provinces, Jews engage in fasting, weeping, and mourning ([Esther 4:3](https://eternal.family.net.za/bible/books/esther/4#3)).
+Mordecai tears his clothes, puts on sackcloth and ashes, and goes through the city wailing loudly ([Esther 4:1). Throughout the provinces, Jews engage in fasting, weeping, and mourning ([Esther 4:3).
 
-Esther sends clothes to Mordecai and asks why he mourns. He sends back a copy of the edict and urges her to appeal to the king ([Esther 4:8](https://eternal.family.net.za/bible/books/esther/4#8)).
+Esther sends clothes to Mordecai and asks why he mourns. He sends back a copy of the edict and urges her to appeal to the king ([Esther 4:8).
 
-Esther replies that approaching the king uninvited means death unless he extends his golden scepter—and she hasn't been summoned for thirty days ([Esther 4:11](https://eternal.family.net.za/bible/books/esther/4#11)).
+Esther replies that approaching the king uninvited means death unless he extends his golden scepter—and she hasn't been summoned for thirty days ([Esther 4:11).
 
-Mordecai sends this crucial message: "Do not think that because you are in the king's house you alone of all the Jews will escape. For if you remain silent at this time, relief and deliverance for the Jews will arise from another place, but you and your father's family will perish. And who knows but that you have come to your royal position **for such a time as this**?" ([Esther 4:13-14](https://eternal.family.net.za/bible/books/esther/4#13)).
+Mordecai sends this crucial message: "Do not think that because you are in the king's house you alone of all the Jews will escape. For if you remain silent at this time, relief and deliverance for the Jews will arise from another place, but you and your father's family will perish. And who knows but that you have come to your royal position **for such a time as this**?" ([Esther 4:13-14).
 
 **Providence note**: This famous phrase expresses the book's theology—God positions people providentially for His purposes, even when not explicitly mentioned.
 
-Esther responds with courage: "Go, gather together all the Jews who are in Susa, and fast for me. Do not eat or drink for three days, night or day. I and my attendants will fast as you do. When this is done, I will go to the king, even though it is against the law. **And if I perish, I perish**" ([Esther 4:16](https://eternal.family.net.za/bible/books/esther/4#16)).
+Esther responds with courage: "Go, gather together all the Jews who are in Susa, and fast for me. Do not eat or drink for three days, night or day. I and my attendants will fast as you do. When this is done, I will go to the king, even though it is against the law. **And if I perish, I perish**" ([Esther 4:16).
 
 **Esther's First Banquet (Chapter 5):**
 
-On the third day, Esther puts on royal robes and stands in the inner court. When the king sees her, she wins his favor, and he extends his golden scepter ([Esther 5:1-2](https://eternal.family.net.za/bible/books/esther/5#1)). **Providence note**: Her beauty and the king's favor save her life.
+On the third day, Esther puts on royal robes and stands in the inner court. When the king sees her, she wins his favor, and he extends his golden scepter ([Esther 5:1-2). **Providence note**: Her beauty and the king's favor save her life.
 
-He offers: "What is it, Queen Esther? What is your request? Even up to half the kingdom, it will be given you" ([Esther 5:3](https://eternal.family.net.za/bible/books/esther/5#3)).
+He offers: "What is it, Queen Esther? What is your request? Even up to half the kingdom, it will be given you" ([Esther 5:3).
 
-Esther invites the king and Haman to a banquet. At the banquet, the king repeats his offer. Esther requests they attend another banquet the next day, when she will reveal her petition ([Esther 5:7-8](https://eternal.family.net.za/bible/books/esther/5#7)). **Strategic wisdom**: She builds suspense and favorable conditions.
+Esther invites the king and Haman to a banquet. At the banquet, the king repeats his offer. Esther requests they attend another banquet the next day, when she will reveal her petition ([Esther 5:7-8). **Strategic wisdom**: She builds suspense and favorable conditions.
 
-Haman leaves elated but becomes enraged seeing Mordecai refuse to bow ([Esther 5:9](https://eternal.family.net.za/bible/books/esther/5#9)). At home, he boasts of his wealth, many sons, and honors—but complains: "All this gives me no satisfaction as long as I see that Jew Mordecai sitting at the king's gate" ([Esther 5:13](https://eternal.family.net.za/bible/books/esther/5#13)).
+Haman leaves elated but becomes enraged seeing Mordecai refuse to bow ([Esther 5:9). At home, he boasts of his wealth, many sons, and honors—but complains: "All this gives me no satisfaction as long as I see that Jew Mordecai sitting at the king's gate" ([Esther 5:13).
 
-His wife and friends advise: "Have a pole set up, reaching to a height of fifty cubits, and ask the king in the morning to have Mordecai impaled on it. Then go with the king to the banquet and enjoy yourself" ([Esther 5:14](https://eternal.family.net.za/bible/books/esther/5#14)). Haman has the pole erected.
+His wife and friends advise: "Have a pole set up, reaching to a height of fifty cubits, and ask the king in the morning to have Mordecai impaled on it. Then go with the king to the banquet and enjoy yourself" ([Esther 5:14). Haman has the pole erected.
 
 **The King Honors Mordecai (Chapter 6):**
 
-That night, the king cannot sleep. **Providence note**: Divine insomnia changes everything. He orders the royal chronicles read to him ([Esther 6:1](https://eternal.family.net.za/bible/books/esther/6#1)). They read about Mordecai's exposure of the assassination plot.
+That night, the king cannot sleep. **Providence note**: Divine insomnia changes everything. He orders the royal chronicles read to him ([Esther 6:1). They read about Mordecai's exposure of the assassination plot.
 
-The king asks: "What honor and recognition has Mordecai received for this?" His attendants answer: "Nothing has been done for him" ([Esther 6:3](https://eternal.family.net.za/bible/books/esther/6#3)).
+The king asks: "What honor and recognition has Mordecai received for this?" His attendants answer: "Nothing has been done for him" ([Esther 6:3).
 
-Just then, Haman enters the court to ask about impaling Mordecai. Before he speaks, the king asks: "What should be done for the man the king delights to honor?" ([Esther 6:6](https://eternal.family.net.za/bible/books/esther/6#6)).
+Just then, Haman enters the court to ask about impaling Mordecai. Before he speaks, the king asks: "What should be done for the man the king delights to honor?" ([Esther 6:6).
 
-Thinking the king means him, Haman suggests extravagant honor: royal robes the king has worn, a horse the king has ridden, and a royal crest. Let a noble lead the honored man through the city proclaiming: "This is what is done for the man the king delights to honor!" ([Esther 6:7-9](https://eternal.family.net.za/bible/books/esther/6#7)).
+Thinking the king means him, Haman suggests extravagant honor: royal robes the king has worn, a horse the king has ridden, and a royal crest. Let a noble lead the honored man through the city proclaiming: "This is what is done for the man the king delights to honor!" ([Esther 6:7-9).
 
-The king commands: "Go at once...Get the robe and the horse and do just as you have suggested for Mordecai the Jew" ([Esther 6:10](https://eternal.family.net.za/bible/books/esther/6#10)).
+The king commands: "Go at once...Get the robe and the horse and do just as you have suggested for Mordecai the Jew" ([Esther 6:10).
 
-Haman must personally honor his enemy publicly through the streets of Susa ([Esther 6:11](https://eternal.family.net.za/bible/books/esther/6#11)). **Reversal of fortune**: The pole built for Mordecai waits while Mordecai receives honor.
+Haman must personally honor his enemy publicly through the streets of Susa ([Esther 6:11). **Reversal of fortune**: The pole built for Mordecai waits while Mordecai receives honor.
 
-Haman rushes home in mourning. His wife and advisers warn: "Since Mordecai, before whom your downfall has started, is of Jewish origin, you cannot stand against him—you will surely come to ruin!" ([Esther 6:13](https://eternal.family.net.za/bible/books/esther/6#13)). Even pagans sense divine providence.
+Haman rushes home in mourning. His wife and advisers warn: "Since Mordecai, before whom your downfall has started, is of Jewish origin, you cannot stand against him—you will surely come to ruin!" ([Esther 6:13). Even pagans sense divine providence.
 
 **Esther's Second Banquet and Haman's Fall (Chapter 7):**
 
-At the second banquet, the king again asks Esther's petition. She reveals her identity and plea: "If I have found favor with you, Your Majesty, and if it pleases you, grant me my life—this is my petition. And spare my people—this is my request. For I and my people have been sold to be destroyed, killed and annihilated" ([Esther 7:3-4](https://eternal.family.net.za/bible/books/esther/7#3)).
+At the second banquet, the king again asks Esther's petition. She reveals her identity and plea: "If I have found favor with you, Your Majesty, and if it pleases you, grant me my life—this is my petition. And spare my people—this is my request. For I and my people have been sold to be destroyed, killed and annihilated" ([Esther 7:3-4).
 
-The king demands: "Who is he? Where is he—the man who has dared to do such a thing?" ([Esther 7:5](https://eternal.family.net.za/bible/books/esther/7#5)).
+The king demands: "Who is he? Where is he—the man who has dared to do such a thing?" ([Esther 7:5).
 
-Esther answers: "An adversary and enemy! This vile Haman!" ([Esther 7:6](https://eternal.family.net.za/bible/books/esther/7#6)). Haman is terrified.
+Esther answers: "An adversary and enemy! This vile Haman!" ([Esther 7:6). Haman is terrified.
 
-The king storms out in fury. Haman begs Esther for his life, falling on her couch. The king returns and misinterprets: "Will he even molest the queen while she is with me in the house?" ([Esther 7:8](https://eternal.family.net.za/bible/books/esther/7#8)). Immediately, they cover Haman's face.
+The king storms out in fury. Haman begs Esther for his life, falling on her couch. The king returns and misinterprets: "Will he even molest the queen while she is with me in the house?" ([Esther 7:8). Immediately, they cover Haman's face.
 
-A eunuch mentions: "A pole reaching to a height of fifty cubits stands by Haman's house. He had it set up for Mordecai" ([Esther 7:9](https://eternal.family.net.za/bible/books/esther/7#9)).
+A eunuch mentions: "A pole reaching to a height of fifty cubits stands by Haman's house. He had it set up for Mordecai" ([Esther 7:9).
 
-The king commands: "Impale him on it!" ([Esther 7:9](https://eternal.family.net.za/bible/books/esther/7#9)). They impale Haman on the very pole he prepared for Mordecai. **Complete reversal**: The trap destroys its maker.
+The king commands: "Impale him on it!" ([Esther 7:9). They impale Haman on the very pole he prepared for Mordecai. **Complete reversal**: The trap destroys its maker.
 
 **The Jews' Deliverance (Chapter 8):**
 
-The king gives Esther Haman's estate and gives Mordecai his signet ring ([Esther 8:2](https://eternal.family.net.za/bible/books/esther/8#2)). But the irrevocable decree against the Jews still stands.
+The king gives Esther Haman's estate and gives Mordecai his signet ring ([Esther 8:2). But the irrevocable decree against the Jews still stands.
 
-Esther pleads again, weeping: "If it pleases the king, and if he regards me with favor and thinks it the right thing to do...let an order be written overruling the dispatches that Haman...devised and wrote to destroy the Jews" ([Esther 8:5](https://eternal.family.net.za/bible/books/esther/8#5)).
+Esther pleads again, weeping: "If it pleases the king, and if he regards me with favor and thinks it the right thing to do...let an order be written overruling the dispatches that Haman...devised and wrote to destroy the Jews" ([Esther 8:5).
 
-Since Persian law prohibits revoking royal decrees, the king authorizes a counter-decree: Jews may assemble and defend themselves, destroying any armed force that attacks them, on the same day appointed for their destruction ([Esther 8:11](https://eternal.family.net.za/bible/books/esther/8#11)).
+Since Persian law prohibits revoking royal decrees, the king authorizes a counter-decree: Jews may assemble and defend themselves, destroying any armed force that attacks them, on the same day appointed for their destruction ([Esther 8:11).
 
-Mordecai leaves the king's presence in royal robes of blue and white, a large crown of gold, and purple linen. "The city of Susa held a joyous celebration" ([Esther 8:15](https://eternal.family.net.za/bible/books/esther/8#15)). Throughout the provinces, Jews celebrate with "feasting and joy," and "many people of other nationalities became Jews because fear of the Jews had seized them" ([Esther 8:17](https://eternal.family.net.za/bible/books/esther/8#17)).
+Mordecai leaves the king's presence in royal robes of blue and white, a large crown of gold, and purple linen. "The city of Susa held a joyous celebration" ([Esther 8:15). Throughout the provinces, Jews celebrate with "feasting and joy," and "many people of other nationalities became Jews because fear of the Jews had seized them" ([Esther 8:17).
 
 **The Jews' Victory (Chapter 9):**
 
-On the thirteenth of Adar, enemies attack the Jews, but "the tables were turned and the Jews got the upper hand over those who hated them" ([Esther 9:1](https://eternal.family.net.za/bible/books/esther/9#1)). Officials support the Jews because Mordecai's prominence grows ([Esther 9:3-4](https://eternal.family.net.za/bible/books/esther/9#3)).
+On the thirteenth of Adar, enemies attack the Jews, but "the tables were turned and the Jews got the upper hand over those who hated them" ([Esther 9:1). Officials support the Jews because Mordecai's prominence grows ([Esther 9:3-4).
 
-In Susa, Jews kill 500 men including Haman's ten sons ([Esther 9:6-10](https://eternal.family.net.za/bible/books/esther/9#6)). The king offers Esther additional requests. She asks for one more day in Susa and to display Haman's sons on poles ([Esther 9:13](https://eternal.family.net.za/bible/books/esther/9#13)). On the fourteenth day, they kill 300 more in Susa.
+In Susa, Jews kill 500 men including Haman's ten sons ([Esther 9:6-10). The king offers Esther additional requests. She asks for one more day in Susa and to display Haman's sons on poles ([Esther 9:13). On the fourteenth day, they kill 300 more in Susa.
 
-Throughout the provinces, Jews kill 75,000 enemies but take no plunder ([Esther 9:16](https://eternal.family.net.za/bible/books/esther/9#16)). **Note**: They avoid profiting from victory, acting defensively rather than acquisitively.
+Throughout the provinces, Jews kill 75,000 enemies but take no plunder ([Esther 9:16). **Note**: They avoid profiting from victory, acting defensively rather than acquisitively.
 
 **Institution of Purim (9:17-10:3):**
 
-Jews in the provinces rest on the fourteenth of Adar, while those in Susa rest on the fifteenth. Mordecai records these events and sends letters establishing annual celebration: "the days on which the Jews got relief from their enemies, and as the month when their sorrow was turned into joy and their mourning into a day of celebration" ([Esther 9:22](https://eternal.family.net.za/bible/books/esther/9#22)).
+Jews in the provinces rest on the fourteenth of Adar, while those in Susa rest on the fifteenth. Mordecai records these events and sends letters establishing annual celebration: "the days on which the Jews got relief from their enemies, and as the month when their sorrow was turned into joy and their mourning into a day of celebration" ([Esther 9:22).
 
-They call these days **Purim**, from *pur* (the lot Haman cast). Mordecai and Esther establish Purim as perpetual observance for Jews and their descendants ([Esther 9:27-28](https://eternal.family.net.za/bible/books/esther/9#27)).
+They call these days **Purim**, from *pur* (the lot Haman cast). Mordecai and Esther establish Purim as perpetual observance for Jews and their descendants ([Esther 9:27-28).
 
-The book closes noting Mordecai's greatness: "second in rank to King Xerxes, preeminent among the Jews, and held in high esteem by his many fellow Jews, because he worked for the good of his people and spoke up for the welfare of all the Jews" ([Esther 10:3](https://eternal.family.net.za/bible/books/esther/10#3)).
+The book closes noting Mordecai's greatness: "second in rank to King Xerxes, preeminent among the Jews, and held in high esteem by his many fellow Jews, because he worked for the good of his people and spoke up for the welfare of all the Jews" ([Esther 10:3).
 
 **Providence Throughout:**
 
@@ -482,7 +482,7 @@ Unlike Ezra-Nehemiah (emphasizing return to Judah), Esther uniquely affirms legi
 
 **4. The "For Such a Time as This" Principle:**
 
-Mordecai's famous statement ([Esther 4:14](https://eternal.family.net.za/bible/books/esther/4#14)) teaches divine positioning: God places people strategically for His purposes. **Unique emphasis**: Individual lives gain meaning through providential positioning for communal deliverance.
+Mordecai's famous statement ([Esther 4:14) teaches divine positioning: God places people strategically for His purposes. **Unique emphasis**: Individual lives gain meaning through providential positioning for communal deliverance.
 
 **5. Purim and "Sacred Secularity":**
 
