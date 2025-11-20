@@ -7,21 +7,27 @@ keywords: Gospel of Matthew, Matthew's Gospel, Messiah, New Testament, biblical 
 
 ## Authorship
 
-While some scholarly debate exists, the weight of historical testimony and internal evidence strongly affirms that the Gospel of Matthew was written by the apostle Matthew, an eyewitness to Jesus's ministry.
+The traditional Christian view, supported by unanimous early church testimony, maintains that the Gospel of Matthew was written by the apostle Matthew, an eyewitness to Jesus's ministry. 
 
-**Key Evidence for Matthean Authorship:**
+However, significant scholarly debate exists regarding this attribution, particularly concerning the literary relationship between Matthew and Mark.
+
+### The Scholarly Debate
+
+The primary challenge to traditional authorship concerns the literary relationship between Matthew and Mark. These two Gospels share extensive material—approximately 90% of Mark's content appears in Matthew (see [Cross-References](#cross-references) section). This raises a critical question: which Gospel was written first, and did one author copy from the other?
+
+### Two Main Positions
+
+1. **Markan Priority (Critical Scholarly Consensus):** Most modern biblical scholars conclude that Mark was written first (~65-70 CE), and Matthew was composed later (~80-90 CE) by an anonymous author who used Mark as a primary source. This view argues that if Matthew the apostle had been an eyewitness to Jesus's ministry, he would not need to copy so extensively from Mark, who was not an eyewitness but recorded Peter's testimony secondhand. The heavy literary dependence on Mark suggests the author of Matthew's Gospel was not himself an eyewitness but relied on earlier written sources.
+
+2. **Matthean Priority or Literary Independence (Traditional/Conservative View):** Conservative scholars defend apostolic authorship in several ways: 
+- Matthew may have been written first, with Mark abbreviating it; - both may have drawn from common oral or written sources independently;
+- even eyewitnesses commonly used existing sources to structure their accounts in the ancient world, so Matthew's use of Mark as a framework doesn't preclude eyewitness authorship. This view emphasizes that the unanimous early church testimony attributing the Gospel to Matthew should not be dismissed lightly.
+
+### Key Evidence for Matthean Authorship
 
 *   **Unanimous Early Testimony:** The earliest Christian writers, like Papias (c. 60-130 CE) and Irenaeus (c. 130-202 CE), attribute the Gospel to Matthew. This [unbroken tradition](https://www.atrustworthygospel.com/does-the-early-church-unanimously-testify-that-matthew-wrote-the-gospel-of-matthew/), originating from a time when the apostles' testimony was still accessible, is a powerful argument for his authorship.
 *   **Universal Manuscript Tradition:** Every ancient manuscript of the Gospel that bears a title names Matthew as the author. No competing author was ever suggested in antiquity.
 *   **Internal Clues:** The author's familiarity with Jewish customs, Aramaic, and financial matters are all [internal clues](https://crossexamined.org/what-is-the-internal-evidence-for-the-authorship-of-matthews-gospel/) that fit the profile of a tax collector. The Gospel even uses the name "Matthew" for the tax collector called by Jesus (Matthew 9:9), whereas Mark and Luke use "Levi"—a subtle authorial signature.
-
-**The Counterargument:**
-
-The main argument against eyewitness authorship is the Gospel's reliance on Mark's account. However, it was common practice for ancient writers, including eyewitnesses, to use existing sources to structure their own, more comprehensive testimony.
-
-**Conclusion:**
-
-The historical evidence provides a [firm foundation for the traditional belief](https://jonathanmorrow.org/who-wrote-the-gospel-of-matthew-and-when/) that Matthew, one of the twelve apostles, is the author of this Gospel. The book is not a later fabrication but an authentic apostolic witness to the life and teachings of Jesus Christ.
 
 ## Historical Environment
 
@@ -251,9 +257,24 @@ Throughout these 28 chapters, Matthew presents Jesus as the authoritative teache
 
 The Gospel of Matthew contains several distinctive theological and literary contributions that either appear only in this Gospel or receive unique emphasis compared to the other three canonical Gospels. These unique elements establish Matthew's particular witness to Jesus Christ and demonstrate the Spirit's intention that each Gospel present complementary perspectives on the same Lord.
 
+### Unique Infancy Narrative Details
+
+While both Matthew and Luke contain infancy narratives, Matthew's version includes unique elements: 
+
+* Joseph's perspective rather than Mary's, 
+* the magi's visit guided by the star (Matthew 2:1-12), 
+* Herod's massacre of the innocents (Matthew 2:16-18), and 
+* the flight to and return from Egypt (Matthew 2:13-23). 
+
+These details, each accompanied by fulfillment quotations, establish [Jesus' royal messianic identity](https://prophecies.ofgod.info) and position Him within Israel's exodus typology.
+
 ### The Phrase "Kingdom of Heaven"
 
 Matthew's most distinctive terminological contribution is the phrase "kingdom of heaven" (ἡ βασιλεία τῶν οὐρανῶν), appearing 32 times throughout the Gospel. This phrase occurs nowhere in Mark, Luke, or John, though Matthew also uses "kingdom of God" five times (Matthew 12:28, 19:24, 21:31,43). Scholars debate whether "kingdom of heaven" represents Jewish circumlocution avoiding the divine name or carries distinct theological meaning. Regardless, this distinctive phrase characterizes Matthew's Gospel, appearing in key passages: Jesus' proclamation "Repent, for the kingdom of heaven is at hand" (Matthew 4:17), the Beatitudes (Matthew 5:3,10), entrance requirements (Matthew 5:20, 7:21, 18:3, 19:14), and the parables (Matthew 13:11,24,31,33,44,45,47,52).
+
+### The Sermon on the Mount
+
+While Luke contains a shorter "Sermon on the Plain" (Luke 6:20-49), Matthew's Sermon on the Mount (Matthew 5-7) stands as the most comprehensive presentation of Jesus' ethical teaching. Unique elements include portions of the Beatitudes, the antitheses contrasting "you have heard...but I say to you" (Matthew 5:21-48), extensive teaching on piety (Matthew 6:1-18), material possessions and anxiety (Matthew 6:19-34), and the parable of the wise and foolish builders (Matthew 7:24-27). The Sermon's programmatic placement at the beginning of Jesus' ministry establishes His teaching authority as the foundation for everything that follows.
 
 ### Unique Parables
 
@@ -269,6 +290,10 @@ Matthew contains several parables found in no other Gospel.
 * The talents (Matthew 25:14-30) teaches faithful stewardship. 
 * The sheep and goats judgment (Matthew 25:31-46) depicts final separation based on treatment of "the least of these."
 
+### Peter Walking on Water
+
+While all Synoptics record Jesus walking on water, only Matthew includes Peter's attempt to walk on water, his beginning to sink when doubting, and Jesus' rebuke: "O you of little faith, why did you doubt?" (Matthew 14:28-31). This unique episode emphasizes faith's necessity for participating in Jesus' supernatural work.
+
 ### The Only Gospel Using Ekklēsia
 
 Matthew uniquely employs the term *"[church](https://church.ofgod.info)"* (ἐκκλησία) in the Gospels, appearing twice: 
@@ -276,54 +301,25 @@ Matthew uniquely employs the term *"[church](https://church.ofgod.info)"* (ἐκ
 1. Jesus' promise to Peter, "on this rock I will build my *church*" (Matthew 16:18), and 
 2. instructions for *church* discipline, "tell it to *the church*" (Matthew 18:17). This terminological distinctiveness indicates Matthew's particular concern for ecclesiology and community formation, providing foundational teaching for how the messianic community should function after Jesus' ascension.
 
-### The Sermon on the Mount
-
-While Luke contains a shorter "Sermon on the Plain" (Luke 6:20-49), Matthew's Sermon on the Mount (Matthew 5-7) stands as the most comprehensive presentation of Jesus' ethical teaching. Unique elements include portions of the Beatitudes, the antitheses contrasting "you have heard...but I say to you" (Matthew 5:21-48), extensive teaching on piety (Matthew 6:1-18), material possessions and anxiety (Matthew 6:19-34), and the parable of the wise and foolish builders (Matthew 7:24-27). The Sermon's programmatic placement at the beginning of Jesus' ministry establishes His teaching authority as the foundation for everything that follows.
-
 ### Peter's Keys of the Kingdom
 
 The promise to Peter in Matthew 16:17-19 appears only in Matthew: "Blessed are you, Simon Bar-Jonah! For flesh and blood has not revealed this to you, but my Father who is in heaven. And I tell you, you are Peter, and on this rock I will build my church, and the gates of hell shall not prevail against it. I will give you the keys of the kingdom of heaven, and whatever you bind on earth shall be bound in heaven, and whatever you loose on earth shall be loosed in heaven." This unique logion addresses Peter's foundational role, the church's establishment, its invincibility against hell, and apostolic authority in binding and loosing. While disputed interpretatively (whether "this rock" refers to Peter personally, his confession, or Christ), the passage's exclusivity to Matthew demonstrates this Gospel's unique ecclesiological emphases.
-
-### The Great Commission Formula
-
-While all Gospels end with resurrection appearances and commissioning, Matthew's version (Matthew 28:18-20) uniquely includes [the Trinitarian](https://son.ofgod.info/trinity) baptismal formula—"baptizing them in the name of the Father and of the Son and of the Holy Spirit"—and emphasizes teaching disciples "to observe all that I have commanded you." This comprehensive commission became the basis for Christian missionary practice and baptismal liturgy throughout church history. 
-
-### Unique Infancy Narrative Details
-
-While both Matthew and Luke contain infancy narratives, Matthew's version includes unique elements: 
-
-* Joseph's perspective rather than Mary's, 
-* the magi's visit guided by the star (Matthew 2:1-12), 
-* Herod's massacre of the innocents (Matthew 2:16-18), and 
-* the flight to and return from Egypt (Matthew 2:13-23). 
-
-These details, each accompanied by fulfillment quotations, establish [Jesus' royal messianic identity](https://prophecies.ofgod.info) and position Him within Israel's exodus typology.
-
-### The Transfiguration Cloud Voice
-
-While all Synoptics include the Transfiguration, only Matthew records the divine voice adding "listen to him" (Matthew 17:5), echoing Deuteronomy 18:15 about the prophet like Moses whom Israel must obey. This unique addition reinforces Matthew's presentation of Jesus as the authoritative teacher whose words demand obedient response.
-
-### The Guard at the Tomb
-
-Only Matthew records that Jewish leaders requested Pilate to secure the tomb with guards (Matthew 27:62-66), the earthquake and angelic stone-rolling at the resurrection (Matthew 28:2-4), and the guards' report to the chief priests followed by their being bribed to spread the false story that disciples stole the body (Matthew 28:11-15). These unique details address Jewish objections to the resurrection and demonstrate that Jesus' tomb was indeed empty.
-
-### Saints Rising at Jesus' Death
-
-Matthew uniquely records that at Jesus' death, "the tombs also were opened. And many bodies of the saints who had fallen asleep were raised, and coming out of the tombs after his resurrection they went into the holy city and appeared to many" (Matthew 27:52-53). This enigmatic passage, appearing nowhere else in Scripture, demonstrates the cosmic significance of Jesus' death and its power over death itself.
-
-### Peter Walking on Water
-
-While all Synoptics record Jesus walking on water, only Matthew includes Peter's attempt to walk on water, his beginning to sink when doubting, and Jesus' rebuke: "O you of little faith, why did you doubt?" (Matthew 14:28-31). This unique episode emphasizes faith's necessity for participating in Jesus' supernatural work.
 
 ### The Temple Tax
 
 Matthew alone records the incident where Jesus instructs Peter to catch a fish containing a coin to pay the temple tax for both of them (Matthew 17:24-27). This unique miracle demonstrates Jesus' divine knowledge and His submission to legitimate authorities even while technically exempt.
 
-### Items Lacking Direct Biblical Parallels
+### The Transfiguration Cloud Voice
 
-Some unique Matthean items (e.g., the guard at the tomb; the risen saints; Peter walking on water; temple tax miracle) lack direct biblical parallels in other canonical books and should be treated as distinctive traditions rather than items verifiable by another Gospel or New Testament writing.
+While all Synoptics include the Transfiguration, only Matthew records the divine voice adding "listen to him" (Matthew 17:5), echoing Deuteronomy 18:15 about the prophet like Moses whom Israel must obey. This unique addition reinforces Matthew's presentation of Jesus as the authoritative teacher whose words demand obedient response.
 
-These unique teachings establish Matthew's distinctive contribution to the fourfold Gospel witness, emphasizing Jesus' role as the Jewish Messiah who fulfills Torah, the authoritative teacher who establishes ethical standards for kingdom life, and the foundation of the church commissioned to disciple all nations.
+### Saints Rising at Jesus' Death
+
+Matthew uniquely records that at Jesus' death, "the tombs also were opened. And many bodies of the saints who had fallen asleep were raised, and coming out of the tombs after his resurrection they went into the holy city and appeared to many" (Matthew 27:52-53). This enigmatic passage, appearing nowhere else in Scripture, demonstrates the cosmic significance of Jesus' death and its power over death itself.
+
+### The Guard at the Tomb
+
+Only Matthew records that Jewish leaders requested Pilate to secure the tomb with guards (Matthew 27:62-66), the earthquake and angelic stone-rolling at the resurrection (Matthew 28:2-4), and the guards' report to the chief priests followed by their being bribed to spread the false story that disciples stole the body (Matthew 28:11-15). These unique details address Jewish objections to the resurrection and demonstrate that Jesus' tomb was indeed empty.
 
 ## Textual Variants
 
@@ -333,6 +329,18 @@ We also have five major handwritten copies of Matthew from the 300s-400s CE writ
 
 Additionally, hundreds of later manuscripts (written in smaller "minuscule" script), church lectionaries (books with Scripture readings for worship services), ancient translations into Latin, Syriac, and Coptic languages, and quotations from early church fathers all help scholars establish what Matthew originally wrote. This wealth of early evidence, spanning from the second to fifth centuries, gives textual scholars great confidence in reconstructing Matthew's original text.
 
+### Minor Name Variations in the Genealogy (Matthew 1:3)
+
+The genealogy in Matthew 1 contains several **minor textual variants in names**. Matthew 1:3 shows variation between "Ζαρε" (P1 and Vaticanus) and "Ζαρα" (later manuscripts), both referring to Zerah. Matthew 1:10 shows early witnesses attesting "Ἀμώς" (Amos) rather than the historically correct "Ἀμών" (Amon), suggesting confusion between similar Hebrew names during Greek transmission. These minor variants in proper nouns illustrate common transcriptional variations that do not affect meaning or doctrine but reflect the challenges of transliterating Hebrew names into Greek. ([Source](https://uncommonpursuit.net/matthews-genealogy-of-jesus/))
+
+### The Virgin Birth in the Genealogy (Matthew 1:16)
+
+Matthew's genealogy concludes with **unusual phrasing that breaks the pattern maintained throughout**, whereas previous verses state "A begot B", Matthew 1:16 reads "Jacob begot Joseph the husband of Mary, of whom was born Jesus." The Greek relative pronoun (ἧς, "of whom") is unambiguously feminine singular, pointing exclusively to Mary as Jesus' biological parent and implying the virgin birth. However, the Sinaitic Syriac manuscript (fifth century palimpsest) contains the variant: 
+
+> Joseph, to whom was betrothed Mary the virgin, begot Jesus who is called the Christ.
+
+This reading appears self-contradictory (calling Mary "virgin" while stating Joseph "begot" Jesus) and is found only in this single Syriac witness. Raymond Brown and other scholars note this variant arose not to deny the virgin birth but likely reflects later debates over Mary's perpetual virginity. The overwhelming manuscript support for the standard reading, combined with its clear alignment with Matthew's virgin birth narrative (Matthew 1:18-25), establishes the original text as supporting the doctrine. This variant demonstrates that even early centuries witnessed attempts to harmonize or clarify perceived difficulties, though such attempts found minimal acceptance in manuscript tradition. ([Source](https://www.biblegateway.com/resources/commentaries/IVP-NT/Matthew/Matt.1.1-17))
+
 ### The Lord's Prayer Doxology (Matthew 6:13)
 
 The most widely known textual variant in Matthew concerns the doxological conclusion to the Lord's Prayer: 
@@ -341,17 +349,25 @@ The most widely known textual variant in Matthew concerns the doxological conclu
 
 > ὅτι σοῦ ἐστιν ἡ βασιλεία καὶ ἡ δύναμις καὶ ἡ δόξα εἰς τοὺς αἰῶνας ἀμήν
 
-This conclusion is absent from the oldest and best manuscripts including Sinaiticus (original hand), Vaticanus, Ephraemi Rescriptus, along with the majority of Old Latin witnesses, the Vulgate, Coptic versions, and early patristic witnesses. The doxology appears in the Didache (c. 70-130 CE) in a slightly shorter form (lacking "the kingdom"), suggesting early liturgical usage independent of Matthew's Gospel. Later Byzantine manuscripts include the full doxology, which entered the Textus Receptus and thus the King James Version. Most scholars conclude the doxology represents a liturgical addition "to adapt the Prayer for liturgical use in the early church" (Bruce Metzger) rather than original Matthean text. ([Source](https://www.gotquestions.org/for-thine-is-the-kingdom.html)) 
+This conclusion is **absent from the oldest and best manuscripts** including Sinaiticus (original hand), Vaticanus, Ephraemi Rescriptus, along with the majority of Old Latin witnesses, the Vulgate, Coptic versions, and early patristic witnesses. The doxology appears in the Didache (c. 70-130 CE) in a slightly shorter form (lacking "the kingdom"), suggesting early liturgical usage independent of Matthew's Gospel. Later Byzantine manuscripts include the full doxology, which entered the Textus Receptus and thus the King James Version. Most scholars conclude the doxology represents a liturgical addition "to adapt the Prayer for liturgical use in the early church" (Bruce Metzger) rather than original Matthean text. ([Source](https://www.gotquestions.org/for-thine-is-the-kingdom.html)) 
 
 Modern critical editions (NA28, UBS5) omit the doxology from the main text, though some editions include it in brackets. The UBS gives this variant a "C" rating (considerable doubt). Conservative scholarship generally accepts its secondary status while recognizing its ancient liturgical usage and theological appropriateness.
 
-### The Virgin Birth in the Genealogy (Matthew 1:16)
+### The Weather Signs (Matthew 16:2b-3)
 
-Matthew's genealogy concludes with unusual phrasing that breaks the pattern maintained throughout: whereas previous verses state "A begot B," verse 16 reads "Jacob begot Joseph the husband of Mary, of whom was born Jesus." The Greek relative pronoun (ἧς, "of whom") is unambiguously feminine singular, pointing exclusively to Mary as Jesus' biological parent and implying the virgin birth. However, the Sinaitic Syriac manuscript (fifth century palimpsest) contains the variant: 
+When Pharisees and Sadducees request a sign, some manuscripts include Jesus' response: 
 
-> Joseph, to whom was betrothed Mary the virgin, begot Jesus who is called the Christ.
+> When evening comes, you say, 'It will be fair weather, for the sky is red,' and in the morning, 'Today it will be stormy, for the sky is red and overcast.' You know how to interpret the appearance of the sky, but you cannot interpret the signs of the times.
 
-This reading appears self-contradictory (calling Mary "virgin" while stating Joseph "begot" Jesus) and is found only in this single Syriac witness. Raymond Brown and other scholars note this variant arose not to deny the virgin birth but likely reflects later debates over Mary's perpetual virginity. The overwhelming manuscript support for the standard reading, combined with its clear alignment with Matthew's virgin birth narrative (Matthew 1:18-25), establishes the original text as supporting the doctrine. This variant demonstrates that even early centuries witnessed attempts to harmonize or clarify perceived difficulties, though such attempts found minimal acceptance in manuscript tradition. ([Source](https://www.biblegateway.com/resources/commentaries/IVP-NT/Matthew/Matt.1.1-17))
+This passage is **absent from the most ancient uncials Sinaiticus and Vaticanus, Codex X, manuscripts** known to Origen and Jerome, and some Peshitta and Coptic versions. The passage appears in Codices C, D, L, and W, and the majority of later Byzantine manuscripts. Scholars have debated this variant since the nineteenth century. Those favoring omission note the absence from earliest witnesses and suggest the passage represents insertion from a source similar to Luke 12:54-56 or from Luke itself. Frederick Scrivener and M.-J. Lagrange, however, argued the passage was omitted by copyists in climates (particularly Egypt, where Vaticanus and Sinaiticus originated) where red morning sky does not predict rain, making Jesus' illustration contextually inappropriate. The UBS gives inclusion a "C" rating (considerable doubt) and modern critical editions typically include the passage in brackets, indicating uncertainty. This variant demonstrates how geographical and cultural factors may have influenced textual transmission. ([Source](https://www.uasvbible.org/texts/display/2001/Matthew/16))
+
+### Barabbas's Full Name (Matthew 27:16-17)
+
+Some manuscripts identify the prisoner as "Jesus Barabbas" rather than simply "Barabbas," making Pilate's question more pointed: 
+
+> "Whom do you want me to release for you: Jesus Barabbas or Jesus who is called Christ?"
+
+Several early witnesses support the longer reading, though it was dropped from most manuscripts, possibly because copyists found it theologically objectionable to apply Jesus' name to the criminal. If original, the detail intensifies the irony: Israel chooses Jesus-who-is-a-criminal over Jesus-who-is-Messiah. ([Source](https://www.tyndalehouse.com/explore/articles/what-was-barabbas-first-name/))
 
 ### The Spear Thrust (Matthew 27:49)
 
@@ -368,25 +384,11 @@ This reading appears in significant early witnesses including Sinaiticus, Vatica
 3. Matthew elsewhere shows no knowledge of this detail; 
 4. the majority of manuscripts lack the addition. This variant illustrates how early scribes sometimes harmonized Gospel accounts, incorporating details from one Gospel into parallel passages in another. Modern critical editions omit this addition from Matthew's text. ([Source](https://biblehub.com/commentaries/cambridge/matthew/27.htm))
 
-### The Weather Signs (Matthew 16:2b-3)
+### The Great Commission Formula (Matthew 28:19)
 
-When Pharisees and Sadducees request a sign, some manuscripts include Jesus' response: 
+While all Gospels end with resurrection appearances and commissioning, Matthew's version (Matthew 28:19) includes what became known as [the Trinitarian baptismal formula](https://son.ofgod.info/trinity/baptism-formula): "baptizing them in the name of the Father and of the Son and of the Holy Spirit." However, this phrase is questioned as a [textual variation](https://son.ofgod.info/trinity/baptism-formula) by some scholars based on manuscript evidence: early Church Fathers like [Eusebius and Justin Martyr never quoted this trinitarian phrase](http://godskingdomfirst.org/Commission.htm), and the apostolic practice throughout Acts consistently shows baptism "in the name of Jesus" only (Acts 2:38, 8:16, 10:48, 19:5).
 
-> When evening comes, you say, 'It will be fair weather, for the sky is red,' and in the morning, 'Today it will be stormy, for the sky is red and overcast.' You know how to interpret the appearance of the sky, but you cannot interpret the signs of the times.
-
-This passage is absent from the most ancient uncials Sinaiticus and Vaticanus, Codex X, manuscripts known to Origen and Jerome, and some Peshitta and Coptic versions. The passage appears in Codices C, D, L, and W, and the majority of later Byzantine manuscripts. Scholars have debated this variant since the nineteenth century. Those favoring omission note the absence from earliest witnesses and suggest the passage represents insertion from a source similar to Luke 12:54-56 or from Luke itself. Frederick Scrivener and M.-J. Lagrange, however, argued the passage was omitted by copyists in climates (particularly Egypt, where Vaticanus and Sinaiticus originated) where red morning sky does not predict rain, making Jesus' illustration contextually inappropriate. The UBS gives inclusion a "C" rating (considerable doubt) and modern critical editions typically include the passage in brackets, indicating uncertainty. This variant demonstrates how geographical and cultural factors may have influenced textual transmission. ([Source](https://www.uasvbible.org/texts/display/2001/Matthew/16))
-
-### Minor Name Variations in the Genealogy
-
-The genealogy in Matthew 1 contains several minor textual variants in names. Matthew 1:3 shows variation between "Ζαρε" (P1 and Vaticanus) and "Ζαρα" (later manuscripts), both referring to Zerah. Matthew 1:10 shows early witnesses attesting "Ἀμώς" (Amos) rather than the historically correct "Ἀμών" (Amon), suggesting confusion between similar Hebrew names during Greek transmission. These minor variants in proper nouns illustrate common transcriptional variations that do not affect meaning or doctrine but reflect the challenges of transliterating Hebrew names into Greek. ([Source](https://uncommonpursuit.net/matthews-genealogy-of-jesus/))
-
-### Barabbas's Full Name (Matthew 27:16-17)
-
-Some manuscripts identify the prisoner as "Jesus Barabbas" rather than simply "Barabbas," making Pilate's question more pointed: 
-
-> "Whom do you want me to release for you: Jesus Barabbas or Jesus who is called Christ?"
-
-Several early witnesses support the longer reading, though it was dropped from most manuscripts, possibly because copyists found it theologically objectionable to apply Jesus' name to the criminal. If original, the detail intensifies the irony: Israel chooses Jesus-who-is-a-criminal over Jesus-who-is-Messiah. ([Source](https://www.tyndalehouse.com/explore/articles/what-was-barabbas-first-name/))
+Despite questions about its originality, this commission became the basis for Christian missionary practice and baptismal liturgy throughout church history. 
 
 ## Textual Errors
 
@@ -454,16 +456,14 @@ Jesus used phenomenological language (describing appearances and common percepti
 
 ### The Attribution to Jeremiah (Matthew 27:9-10)
 
-Matthew states that Judas' betrayal for thirty pieces of silver fulfilled "what was spoken by Jeremiah the prophet," yet the most obvious source is Zechariah 11:12-13, which mentions thirty pieces of silver and a potter. Critics claim this represents a clear factual error—Matthew misattributed a Zechariah prophecy to Jeremiah. 
+Matthew states that Judas' betrayal for thirty pieces of silver fulfilled "what **was spoken by Jeremiah the prophet," yet the most obvious source is Zechariah 11:12-13**, which mentions thirty pieces of silver and a potter. Critics claim this represents a clear factual error—Matthew misattributed a Zechariah prophecy to Jeremiah. 
 
 Conservative scholars offer several explanations: 
 
-1. Matthew employs a common rabbinical technique of composite quotation, blending multiple prophetic texts: Jeremiah 19:1-11 (potter and valley), Jeremiah 32:6-9 (purchasing a field), and Zechariah 11:12-13 (thirty pieces of silver). In rabbinical practice, when multiple prophets are cited, the citation is attributed to the greater prophet—in this case, Jeremiah, who appears first in the canonical order of prophets and whose imagery of the potter and field purchase dominates Matthew's account. 
-2. Only Jeremiah mentions the "field" of the potter (Jeremiah 19:2, 32:6-9), the principal element in Matthew's quotation. 
-3. Ancient Jewish tradition sometimes referred to the entire prophetic collection by its opening book (Jeremiah in the Jewish ordering), similar to modern references to "according to the Psalms" when citing any book in the Writings. 
-4. Some scholars suggest Matthew had access to now-lost portions of Jeremiah or alternate textual traditions. 
+1. Only Jeremiah mentions the "field" of the potter, the principal element in Matthew's quotation and Matthew combined this prophecy with Zechariah, blending imagery from Jeremiah 19:1-11 (potter's field and valley) and Jeremiah 32:6-9 (purchasing a field) with the monetary detail from Zechariah 11:12-13.
+2. Some scholars suggest Matthew had access to now-lost portions of Jeremiah or alternate textual traditions. 
 
-While Jerome and Augustine acknowledged difficulty with this passage, conservative scholarship maintains that Matthew's attribution reflects intentional composite citation rather than error, demonstrating the Gospel's sophisticated use of Old Testament theology.
+While Jerome and Augustine acknowledged difficulty with this passage, conservative scholarship maintains that Matthew's attribution reflects intentional composite citation rather than error.
 
 ## Contradictions
 
@@ -472,6 +472,28 @@ Critics frequently allege that Matthew's Gospel contains internal contradictions
 Conservative scholarship responds that apparent contradictions dissolve when ancient biographical conventions, complementary rather than contradictory reporting, eyewitness perspective differences, literary compression, and theological selectivity are properly understood. The Gospels function as ancient Greco-Roman biographies (*bios* literature), which prioritized theological interpretation and thematic arrangement over strict chronological precision, allowed paraphrase and summary, and selected material according to authorial purpose. 
 
 Alleged contradictions typically represent different perspectives on the same events rather than mutually exclusive claims, analogous to how multiple witnesses describe the same accident from different vantage points with varying details yet consistent core facts.
+
+### The Jeconiah Curse (Matthew 1:12 cf. Jeremiah 22:30)
+
+Matthew's **genealogy traces Jesus through Jeconiah** (Matthew 1:12): "and Josiah the father of Jechoniah and his brothers, at the time of the deportation to Babylon. And after the deportation to Babylon: Jechoniah was the father of Shealtiel, and Shealtiel the father of Zerubbabel..."
+
+However, Jeremiah prophesied a curse against Jeconiah (also called Coniah or Jehoiachin):
+
+> Thus says the LORD: "Write this man down as **childless**, a man who shall not succeed in his days, for none of his offspring shall succeed in sitting on the throne of David and ruling again in Judah." — Jeremiah 22:30 (ESV)
+
+Critics argue Matthew's inclusion of the cursed Jeconiah in Jesus' genealogy creates an insurmountable problem: if Jesus descends from Jeconiah, he falls under the curse and cannot legitimately sit on David's throne.
+
+Conservative responses include:
+
+1. **"Childless" means without royal successor**: The prophecy was fulfilled—none of Jeconiah's descendants actually reigned as king in Judah. While Jeconiah had biological children (1 Chronicles 3:17-18), no offspring sat on David's throne in Jerusalem during the exile or after.
+
+2. **The curse was conditionally lifted**: Jeconiah repented in exile (2 Kings 25:27-30 records his release and honor in Babylon). God's promise to Zerubbabel, Jeconiah's grandson (Haggai 2:23), suggests the curse was lifted based on repentance.
+
+3. **Legal vs. biological lineage**: Matthew traces Jesus' legal right through Joseph (who descended from Jeconiah), while Luke 3:23-38 traces biological descent through Mary (through Nathan, not Solomon, thus avoiding Jeconiah entirely). Jesus inherits the legal claim to David's throne through Joseph without being biologically under the curse.
+
+4. **Messiah as exception**: The curse applied to human monarchy in fallen Israel; Jesus' eternal kingship, established by divine decree and resurrection, transcends and supersedes the temporal curse on Jeconiah's earthly dynasty.
+
+While the curse presents a genuine exegetical challenge, conservative scholarship maintains that Matthew's inclusion of Jeconiah demonstrates theological sophistication rather than error, showing Jesus as the one who overcomes the curse and restores the Davidic line through divine intervention.
 
 ### The Centurion's Servant (Matthew 8:5-13 cf. Luke 7:1-10)
 
@@ -491,7 +513,7 @@ Conservative response maintains **both animals were present**:
 
 Matthew does not state Jesus rode both animals simultaneously—"sat on them" likely refers to the cloaks placed on both animals rather than to both animals themselves. **The mother donkey accompanied her unbroken colt** (which "no one has ever yet sat," Mark 11:2) to calm it, **a practical consideration when riding an untrained young animal through crowds**. Matthew's dual mention reflects neither error nor misunderstanding but accurate reporting of both animals' presence combined with emphasis on prophetic fulfillment. The other Evangelists, not addressing the same Jewish apologetic concerns, mention **only the animal Jesus rode without denying another's presence**.
 
-### Chronological Variations (Matthew 21:12-13 cf. John 2:13-17)
+### The Timing of the Temple Cleansing (Matthew 21:12-13 cf. John 2:13-17)
 
 Critics note apparent chronological contradictions: 
 
@@ -507,13 +529,13 @@ Conservative responses note:
 
 Regarding the fig tree, **Matthew compresses the event into single narrative** for theological emphasis (immediate judgment on Israel's fruitlessness), while **Mark provides fuller chronological detail** (curse, overnight withering, morning discovery). Both remain accurate: the tree did wither "at once" (**immediately upon Jesus' curse**, though **not observed until next morning**), and disciples did observe it the following morning. 
 
-### Peter's Denial Prediction (Matthew 26:34 cf. Mark 14:30)
+### The Prediction of Peter's Denial (Matthew 26:34 cf. Mark 14:30)
 
 Matthew, Luke, and John record Jesus predicting "before the rooster crows, you will deny me three times" (Matthew 26:34; Luke 22:34; John 13:38). Mark records "before the rooster crows twice, you will deny me three times" (Mark 14:30). Critics see contradiction: did Jesus predict **one crow or two**? 
 
 Conservative harmonization notes **Mark provides greater precision**: Jesus predicted three denials before the rooster's second crow. If Peter denied Jesus three times before the rooster crowed twice (especially if the two crows occurred in quick succession), it remains equally true that Peter denied Him before the rooster crowed (without specifying which crow). Matthew, Luke, and John streamline to the essential point without denying **additional details**. The more detailed account includes rather than contradicts the less detailed.
 
-### Judas' Death (Matthew 27:3-10 cf. Acts 1:18-19)
+### The Death of Judas (Matthew 27:3-10 cf. Acts 1:18-19)
 
 Matthew states Judas "hanged himself" (Matthew 27:5), while Acts records he "falling headlong...burst open in the middle and all his bowels gushed out" (Acts 1:18). Additionally, Matthew says the chief priests bought the field with returned blood money (Matthew 27:6-7), Acts states Judas himself purchased the field (Acts 1:18). 
 
@@ -525,13 +547,6 @@ The field's name "Field of Blood" fits both accounts: **Matthew emphasizes the b
 
 **Matthew's version emphasizes fulfillment of prophecy** (Zechariah 11:12-13, attributed to Jeremiah in Matthew 27:9) and demonstrates the tragic consequences of betraying the Messiah.
 
-### The Lost Jeremiah Prophecy (Matthew 27:9-10)
-
-Skeptics frequently object that Matthew 27:9 attributes the thirty pieces of silver prophecy to "Jeremiah the prophet," yet the clearest textual source is Zechariah 11:12-13. 
-
-However, conservative scholarship notes that **Matthew likely employs composite quotation**, blending imagery from Jeremiah 19:1-11 (potter's field and valley) and Jeremiah 32:6-9 (purchasing a field) with the monetary detail from Zechariah 11:12-13. 
-
-Some scholars propose that **Matthew had access to now-lost portions of Jeremiah** or alternate textual traditions that have not survived in the biblical record. While a copy of the fuller prophecy in Zechariah 11:4-17 survived to the present day, portions of Jeremiah's original prophecy may have been lost over centuries of transmission. This hypothesis explains the Matthean attribution discrepancy without requiring error—Matthew may have been citing authentic prophetic material no longer extant. 
 
 ### The Resurrection Accounts (Matthew 28:1-10)
 
@@ -563,3 +578,41 @@ The core agreement remains unshaken:
 * disciples verified the empty tomb. 
 
 Differences in peripheral details actually strengthen rather than undermine historical reliability because fabricated accounts typically demonstrate suspicious uniformity, while authentic independent testimony naturally varies in perspective and detail selection while agreeing on essentials.
+
+## Credibility
+
+### Explainable Issues
+
+Minor [textual variants](#textual-variants):
+* Misspelled names in geneology (Matthew 1:3)
+* Only 1 witness (Syriac version) contradict itself (Matthew 1:16)
+* Jesus including the weather in his prophecy (Matthew 16:2b-3)
+* Barrabas's full names (Matthew 27:16-17)
+* The spear thrust harmonized from John (Matthew 27:49)
+
+Explainable [textual "errors"](#textual-errors):
+* Genealogical Differences from Luke (Matthew 1:1-17)
+* The Birth Chronology (Matthew 2:1)
+* The Nazarene Prophecy (Matthew 2:23)
+* The Mustard Seed Statement (Matthew 13:31-32)
+
+Explainable ["contradictions"](#contradictions):
+* The Jeconiah Curse (Matthew 1:12 cf. Jeremiah 22:30)
+* The Centurion's Servant (Matthew 8:5-13 cf. Luke 7:1-10)
+* The Triumphal Entry (Matthew 21:1-7 cf. Mark 11:1-7)
+* The Timing of the Temple Cleansing (Matthew 21:12-13 cf. John 2:13-17)
+* The Prediction of Peter's Denial (Matthew 26:34 cf. Mark 14:30)
+* The Death of Judas (Matthew 27:3-10 cf. Acts 1:18-19)
+* The Resurrection Accounts (Matthew 28:1-10)
+
+### Concerns
+
+Major [textual variants](#textual-variants):
+* The conclusion of the Lord's Prayer (Matthew 6:13)
+* The inclusion of the trinitarian baptismal formula into The Great Commission (Matthew 28:19)
+
+Unexplainable [textual errors](#textual-errors):
+* The Attribution to Jeremiah (Matthew 27:9-10) to prove Jesus divinity
+
+Unexplainable [contradictions](#contradictions):
+* None
