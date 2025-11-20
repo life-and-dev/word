@@ -2,58 +2,13 @@
 
 ## Authorship
 
-The Gospel of John presents one of the most debated authorship questions in New Testament scholarship. The gospel itself is internally anonymous, never directly stating who wrote it, though it does make intriguing references to a mysterious figure called "the disciple whom Jesus loved" (John 13:23, John 19:26, John 21:20, John 21:24).
+The authorship of the Gospel of John is a complex and debated topic. The gospel itself is anonymous, but makes intriguing references to 'the disciple whom Jesus loved' (John 21:24).
 
-### Traditional Attribution
+Traditional attribution, from the late second century onward (e.g., [Irenaeus of Lyon](https://en.wikipedia.org/wiki/Irenaeus)), identifies the author as **John the Apostle**, son of Zebedee, composing the gospel in Ephesus around AD 90-110. This view holds that John, as an eyewitness, wrote to supplement the Synoptic Gospels.
 
-From the late second century onward, church tradition has consistently attributed this gospel to **John the Apostle**, the son of Zebedee and brother of James, who was one of Jesus's inner circle of disciples. The earliest clear attestation comes from [Irenaeus of Lyon](https://en.wikipedia.org/wiki/Irenaeus) (c. 130-202 AD), who was a disciple of Polycarp, who in turn was reportedly a disciple of John himself. Irenaeus testified: "Then John, the disciple of the Lord, who had even rested on his breast, himself also gave forth the Gospel, while he was living at Ephesus in Asia."
+However, modern critical scholarship largely rejects or holds tentatively this apostolic authorship. Arguments against include the gospel's sophisticated Greek and advanced theological development, which raise questions about a Galilean fisherman writing decades after the events. Many scholars propose the gospel emerged from a 'Johannine community,' composed by a skilled author (the 'Evangelist') drawing on traditions from an eyewitness (possibly the beloved disciple), with later redaction (e.g., John 21).
 
-The identification of John the Apostle as the author became the dominant view throughout church history and remains the position of many conservative scholars today. This tradition holds that John, having lived to an advanced age in Ephesus, composed the gospel near the end of the first century to supplement the accounts already provided by the Synoptic Gospels (Matthew, Mark, and Luke).
-
-### Modern Scholarly Consensus
-
-Contemporary critical scholarship presents a more complex picture. The majority of modern biblical scholars either reject apostolic authorship or hold it only tentatively, for several reasons:
-
-**Date of Composition**: The scholarly consensus places the gospel's composition between **AD 90-110**, with most favoring a date around AD 90-100. This is after the Synoptic Gospels had already been written and circulated. While John the Apostle could theoretically have lived this long, the advanced theological development and Greek literary sophistication of the gospel raise questions about whether a Galilean fisherman could have produced such a work decades after the events described.
-
-**Geographic and Cultural Divide**: There is a notable difference in how European and Anglo-American scholars approach this question. European scholars have largely abandoned the theory of apostolic authorship, while Anglo-American scholarship has been more willing to entertain the possibility or defend modified versions of the traditional view.
-
-**The "Beloved Disciple"**: The gospel's references to "the disciple whom Jesus loved" have led to various theories. Some scholars argue this figure was:
-- John the Apostle himself (traditional view)
-- Another historical disciple whose identity has been lost
-- An idealized literary figure rather than a specific person
-- Lazarus, based on John 11:3, John 11:36
-- A member of the Johannine community who preserved eyewitness traditions
-
-Most scholars agree that the "beloved disciple" was a real historical person, but there is no consensus on his specific identity.
-
-**Community Authorship**: Many scholars propose that the gospel emerged from a "Johannine community"—a group of early Christians who preserved and developed distinctive traditions about Jesus. The gospel may have been composed by a skilled author (sometimes called "the Evangelist") who drew upon traditions from an eyewitness (possibly the beloved disciple) and whose work was later edited by a final redactor (editor), as evidenced by John 21, which appears to be an appendix added after the original conclusion in John 20:30-31.
-
-### Evidence and Reasoning
-
-**Arguments for Traditional Authorship**:
-- Strong, early, and consistent church tradition from the second century onward
-- The author demonstrates intimate knowledge of Palestinian geography and Jewish customs
-- Vivid, eyewitness-like details throughout the narrative (John 1:39 mentions "the tenth hour"; John 21:11 counts "153 fish")
-- The gospel's claim that it is based on eyewitness testimony (John 21:24)
-
-**Arguments Against Traditional Authorship**:
-- The advanced Christology and theological development suggest a later period of reflection
-- The sophisticated Greek and literary style seem beyond what would be expected from a Galilean fisherman
-- Significant differences from the Synoptic Gospels in chronology, content, and Jesus's teaching style
-- No explicit self-identification by the author
-- The gospel shows awareness of theological controversies that developed later in the first century
-
-### Scholarly Resources
-
-For further reading on Johannine authorship debates:
-- [Gospel of John - Wikipedia](https://en.wikipedia.org/wiki/Gospel_of_John)
-- [Authorship of the Johannine works - Wikipedia](https://en.wikipedia.org/wiki/Authorship_of_the_Johannine_works)
-- [Gospel According to John - Britannica](https://www.britannica.com/topic/Gospel-According-to-John)
-
-### Conclusion
-
-Whether one accepts apostolic authorship, community authorship, or some hybrid view, there is widespread agreement that the Gospel of John, composed around AD 90-100 in Ephesus, preserves distinctive traditions about Jesus that emerged from eyewitness sources, even if the precise identity of the human author remains uncertain. The gospel's profound theological insights and literary artistry have made it one of the most influential texts in Christian history, regardless of the specific individual who put pen to papyrus.
+Despite the debate, there is widespread agreement that the Gospel of John, likely composed in Ephesus around AD 90-100, preserves distinctive traditions about Jesus from eyewitness sources. For more information, see [Gospel of John - Wikipedia](https://en.wikipedia.org/wiki/Gospel_of_John) and [Authorship of the Johannine works - Wikipedia](https://en.wikipedia.org/wiki/Authorship_of_the_Johannine_works).
 
 ## Historical Environment
 

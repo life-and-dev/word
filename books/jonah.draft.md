@@ -2,38 +2,11 @@
 
 ## Authorship
 
-The authorship of the book of Jonah is one of the most debated questions in biblical scholarship, with significant disagreement between traditional and critical perspectives.
+The authorship of the Book of Jonah is highly debated. Traditionally, it's attributed to the prophet Jonah himself, son of Amittai (mentioned in [2 Kings 14:25](https://www.biblegateway.com/passage/?search=2+Kings+14:25&version=ESV) as an 8th-century BCE prophet), who would have written an account of his mission to Nineveh. However, the book's largely third-person narrative style casts doubt on Jonah's direct authorship.
 
-**Traditional Attribution**
-Traditionally, the book has been attributed to the prophet Jonah himself, the son of Amittai, who is mentioned in [2 Kings 14:25](https://www.biblegateway.com/passage/?search=2+Kings+14:25&version=ESV) as a prophet during the reign of Jeroboam II of Israel (8th century BCE). This view holds that Jonah wrote an account of his own prophetic mission to Nineveh, similar to how other prophets recorded their experiences and oracles.
+The consensus among modern critical scholars is that the book was composed much later, during the post-exilic period (5th-4th centuries BCE), by an anonymous author. Evidence for this late dating includes linguistic features characteristic of late biblical Hebrew and Aramaic influences, as well as cultural and historical details reflecting Persian-era customs (e.g., Nineveh's past-tense description, joint decrees by king and nobles, animal mourning rites). The book's theological concerns regarding universal mercy and Gentile inclusion also align with post-exilic debates.
 
-However, the book itself never explicitly identifies its author. Unlike many prophetic books that contain first-person prophetic oracles throughout, Jonah is written almost entirely in third-person narrative, referring to "Jonah" rather than "I." This stylistic feature has led many scholars to question whether Jonah himself wrote the account.
-
-**Critical Scholarly Consensus**
-The consensus among modern critical scholars is that the book was composed long after the time of the historical prophet Jonah, likely during the post-exilic period (5th-4th centuries BCE). As one scholarly source notes, "the author of the Book of Jonah is not mentioned in the book," and "there are numerous reasons why" attributing it to Jonah himself "is unlikely." The author, the book's provenance, original audience, and its Sitz im Leben (life setting) "are unknown or virtually impossible to determine with any certainty."
-
-**Evidence for Late Composition**
-Several lines of evidence support a post-exilic date and anonymous authorship:
-
-1. **Linguistic Features**: The book contains words and linguistic features characteristic of late biblical Hebrew and shows strong Aramaic influences. Scholars have identified Persian loanwords in the text, suggesting composition during or after the Persian period.
-
-2. **Cultural and Historical Details**: Certain cultural practices described in the book reflect Persian-era customs rather than 8th-century realities. For example, the joint declaration by the king and his nobles [Jonah 3:7 reflects later Persian administrative practice, and the inclusion of animals in mourning rites [Jonah 3:8 corresponds to documented Persian customs.
-
-3. **Reference to Nineveh in the Past Tense**: The description of Nineveh as having been "an exceedingly great city" [Jonah 3:3 uses language that some scholars interpret as referring to a city that no longer existed at the time of writing. Nineveh was destroyed in 612 BCE, which would place the composition after that date.
-
-4. **Theological Concerns**: The book addresses theological questions about God's universal mercy and the inclusion of Gentiles that were particularly relevant during the post-exilic period, when Jewish identity was being redefined and questions about relationships with foreigners were paramount.
-
-**Conservative Response**
-Conservative scholars defend the traditional authorship by arguing that:
-- The linguistic features can be explained by textual updating during transmission
-- Third-person narration does not preclude authorship (Moses is traditionally credited with the Pentateuch despite third-person accounts)
-- The historical details about Nineveh are remarkably accurate for the 8th century context
-- An early date around 760 BCE, during Jeroboam II's reign, remains viable
-
-**Current State of Scholarship**
-Interestingly, while scholarly consensus in the 1960s-1970s appeared to be converging, "the interpretive history of the book of Jonah today has splintered according to various methodologies and approaches scholars have taken up." Contemporary scholarship employs diverse methods—including literary, postcolonial, feminist, ecological, and trauma-informed readings—each bringing different perspectives to questions of authorship and composition.
-
-For more information, see the [Book of Jonah - Wikipedia](https://en.wikipedia.org/wiki/Book_of_Jonah) and scholarly discussions in [The Book of Jonah in Recent Research](https://journals.sagepub.com/doi/10.1177/1476993X221150655).
+Conservative scholars, however, argue for the traditional, earlier date (c. 760 BCE), explaining linguistic features as textual updating and third-person narration as a common literary device. The debate highlights differing interpretations of internal evidence and the book's literary genre. For more information, see the [Book of Jonah - Wikipedia](https://en.wikipedia.org/wiki/Book_of_Jonah) and [The Book of Jonah in Recent Research](https://journals.sagepub.com/doi/10.1177/1476993X221150655).
 
 ## Historical Environment
 

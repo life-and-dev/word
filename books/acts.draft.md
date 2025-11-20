@@ -2,60 +2,11 @@
 
 ## Authorship
 
-The Book of Acts, also known as the Acts of the Apostles, is traditionally attributed to **Luke**, identified as a physician and companion of the apostle Paul. This attribution dates back to the 2nd century church fathers, including Irenaeus of Lyon (c. 180 AD), who explicitly named Luke as the author. However, the text itself is anonymous and does not name its author.
+The Book of Acts is traditionally attributed to Luke, a physician and companion of Paul, a view supported by 2nd-century church fathers like Irenaeus. This is based on the "we" passages, suggesting the author was an eyewitness with Paul (Acts 16:10-17), and the work's connection to the Gospel of Luke, forming a two-volume narrative addressed to Theophilus.
 
-### Traditional View
+Modern scholarship is divided, with many scholars challenging Lukan authorship due to theological differences between Acts' portrayal of Paul and Paul's own epistles, as well as apparent historical discrepancies. Other interpretations suggest the "we" passages are a literary device. Despite debates, most contemporary scholars acknowledge the author of Luke-Acts had a personal connection to Paul and intimate knowledge of his ministry.
 
-Church tradition has consistently identified the author as Luke the Evangelist, mentioned by Paul in his epistles as "Luke, the beloved physician" ([Colossians 4:14) and as a fellow worker ([Philemon 1:24). This attribution is supported by several lines of evidence:
-
-1. **The "We" Passages**: Acts contains several sections where the narrative shifts from third person to first person plural ("we"), suggesting the author was an eyewitness to certain events, particularly during Paul's missionary journeys (Acts 16:10-17, 20:5-15, 21:1-18, 27:1-28:16). These passages have traditionally been interpreted as indicating the author traveled with Paul.
-
-2. **Luke-Acts as a Two-Volume Work**: The Gospel of Luke and Acts share extensive linguistic and theological similarities, indicating they were written by the same author. Both are addressed to Theophilus and exhibit consistent writing style, vocabulary, and theological themes. Acts explicitly refers back to "the former book" (Acts 1:1), clearly connecting it to the Gospel of Luke.
-
-3. **Medical Language**: Some scholars have noted the use of medical terminology throughout the work, which would be consistent with a physician author, though this argument is disputed as the terminology was common in educated Greek.
-
-### Scholarly Debates
-
-Modern biblical scholarship has significantly challenged the traditional view. By the late 20th century, critical opinion on Lukan authorship was **roughly evenly divided**, with many scholars expressing substantial doubt. The key arguments against traditional authorship include:
-
-1. **Theological Differences**: Critics note significant theological differences between Acts' portrayal of Paul and Paul's own writings in his epistles, particularly regarding the Law, justification, and his relationship with the Jerusalem apostles.
-
-2. **Historical Discrepancies**: Several apparent contradictions exist between Acts' account of Paul's life and ministry and Paul's own autobiographical statements in Galatians and other epistles.
-
-3. **Literary Considerations**: The polished Greek style and sophisticated literary techniques suggest a well-educated Greek writer who may not have been a traveling companion of Paul.
-
-4. **The "We" Passages Debate**: Three main interpretations exist for these passages: (1) the author was a genuine eyewitness, (2) the author was incorporating and redacting existing travel diary material from another source, or (3) the first-person plural is a deliberate literary device common in ancient sea voyage narratives.
-
-Despite these debates, **most contemporary scholars maintain that the author of Luke-Acts, whether named Luke or not, had some connection to Paul and met him personally**. The work demonstrates intimate knowledge of Paul's missionary activities and the early Christian movement.
-
-### Dating
-
-The dating of Acts remains contentious:
-
-**Majority Scholarly View (80-90 AD)**: Most scholars place Acts' composition around 80-90 AD, with some extending the range to 90-110 or even 110-120 AD. Arguments for this later date include:
-- The apparent use of Mark's Gospel (dated c. 70 AD) as a source for Luke
-- The retrospective tone regarding the destruction of Jerusalem in Luke 21
-- The sophisticated two-volume literary structure suggesting post-70 AD composition
-- Knowledge of Paul's death (implied but not stated)
-
-**Conservative View (60s AD)**: Some conservative scholars argue for a date in the mid-60s AD, noting:
-- Acts ends with Paul's imprisonment in Rome with no mention of his execution (c. 64-68 AD)
-- No mention of Nero's persecution of Christians (64 AD)
-- No reference to the destruction of Jerusalem (70 AD)
-- No mention of James' martyrdom (62 AD)
-
-The earlier date would strengthen the case for Lukan authorship as a companion of Paul, while the later date better explains certain literary and theological characteristics of the work.
-
-### External Resources
-
-For further reading on the authorship debate:
-- [Authorship of Luke-Acts - Wikipedia](https://en.wikipedia.org/wiki/Authorship_of_Luke–Acts)
-- Acts of the Apostles - Wikipedia](https://en.wikipedia.org/wiki/Acts_of_the_Apostles)
-- Luke-Acts - Wikipedia](https://en.wikipedia.org/wiki/Luke–Acts)
-
-### Conclusion
-
-While traditional church attribution to Luke the physician remains influential, modern scholarship is divided. The evidence suggests an educated Greek Christian with knowledge of Paul's ministry wrote Acts, possibly Luke himself, though certainty remains elusive. The work's historical value and theological significance remain undisputed regardless of its precise authorship.
+Dating remains contentious: the majority view places Acts' composition around 80-90 AD, while conservative scholars argue for a mid-60s AD date, citing the absence of Paul's death or Jerusalem's destruction. Regardless of precise authorship, Acts' historical and theological significance is widely recognized.
 
 ## Historical Environment
 

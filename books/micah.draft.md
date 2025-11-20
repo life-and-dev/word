@@ -8,7 +8,7 @@ The authorship and composition of the book of Micah has generated significant sc
 
 The opening verse identifies the prophet as "Micah of Moresheth" Micah 1:1, placing his ministry "in the days of Jotham, Ahaz, and Hezekiah, kings of Judah," roughly 750-700 BCE. Moresheth (likely Moresheth-Gath) was a small town in the Shephelah region of southern Judah, about 25 miles southwest of Jerusalem. The prophet's full name, Micaiah (meaning "Who is like Yahweh?"), is shortened to Micah in the book's superscription.
 
-The traditional view, held by most conservative scholars and ancient interpreters, attributes the entirety of the book to the 8th-century prophet Micah himself. This position is supported by the book's internal claim, early Jewish and Christian testimony, and the reference to Micah as a prophet in Jeremiah 26:18](https://www.biblegateway.com/passage/?search=Jeremiah+26:18&version=ESV), which quotes Micah 3:12 and explicitly attributes it to "Micah of Moresheth" who "prophesied in the days of Hezekiah king of Judah."
+The traditional view, held by most conservative scholars and ancient interpreters, attributes the entirety of the book to the 8th-century prophet Micah himself. This position is supported by the book's internal claim, early Jewish and Christian testimony, and the reference to Micah as a prophet in Jeremiah 26:18](https://www.biblegateway.com/passage/?search=Jeremiah%2626%3A18%26version%3DESV), which quotes Micah 3:12 and explicitly attributes it to "Micah of Moresheth" who "prophesied in the days of Hezekiah king of Judah."
 
 **Critical Scholarly Consensus**
 

@@ -2,79 +2,11 @@
 
 ## Authorship
 
-The Books of Samuel come to the reader as anonymous writings with no explicit identification of their human author. The question of authorship has been debated by both traditional and critical scholars, with significantly different conclusions.
+The Books of Samuel are anonymous, though Jewish tradition (2nd century CE) attributes authorship to the prophet Samuel, with later additions by Gad and Nathan, as suggested by 1 Chronicles 29:29. However, Samuel's death in 1 Samuel 25 makes sole authorship impossible.
 
-### Traditional View
+Modern critical scholarship largely rejects traditional attribution due to anachronistic references and the text's composite nature. German scholar [Martin Noth](https://en.wikipedia.org/wiki/Martin_Noth) proposed the Deuteronomistic History theory, suggesting Samuel is part of a larger work compiled and edited during the Babylonian Exile (6th century BCE). This theory, while debated in its specifics, is widely accepted in broad outline.
 
-According to Jewish tradition dating from at least the 2nd century CE, the Books of Samuel were written by the prophet Samuel himself, with later additions by the prophets Gad and Nathan. This tradition is recorded in the Babylonian Talmud (Bava Batra tractate, passages 14b and 15a), which states that Samuel wrote the book up until 1 Samuel 25—the chapter that records his death—and that the prophets Gad and Nathan completed the remainder of the work.
-
-This scenario draws support from 1 Chronicles 29:29, which states: "As for the events of King David's reign, from beginning to end, they are written in the records of Samuel the seer, the records of Nathan the prophet and the records of Gad the seer." Traditional interpreters understand this verse as indicating that these three prophets maintained written records that formed the basis of the Books of Samuel.
-
-However, even within traditional interpretation, there is an obvious problem: Samuel's death is recorded in 1 Samuel 25, yet the narrative continues well beyond that point through the end of 2 Samuel, covering events in David's reign that occurred decades after Samuel's death. This internal evidence makes it impossible for Samuel to have authored the entire work, though it leaves open the possibility that he authored the earlier portions.
-
-### Critical Scholarship View
-
-Modern critical scholars, beginning from the 19th century onward, have largely rejected the traditional attribution to Samuel, Gad, and Nathan. The primary arguments against traditional authorship include:
-
-1. **Anachronistic references**: The text contains references that presuppose a later historical perspective. For example, 1 Samuel 27:6 states that "Ziklag has belonged to the kings of Judah ever since," indicating the text was written after the division of the kingdom.
-
-2. **The Deuteronomistic framework**: The Books of Samuel share distinctive theological themes and literary style with Deuteronomy, Joshua, Judges, and Kings, suggesting common authorship or editorial activity.
-
-3. **Composite nature**: The text shows evidence of incorporating multiple earlier sources, each with different literary characteristics and theological emphases.
-
-### The Deuteronomistic History Theory
-
-In 1943, German scholar [Martin Noth](https://en.wikipedia.org/wiki/Martin_Noth) proposed that the Books of Samuel were composed as part of a larger work called the Deuteronomistic History, which includes Deuteronomy, Joshua, Judges, Samuel, and Kings. According to this theory, originally formulated c. 630–540 BCE, a single author or school of authors compiled and edited these books during or shortly after the Babylonian Exile (6th century BCE) to provide a theological interpretation of Israel's history.
-
-While Noth's original proposal that a single individual composed the entire history has been largely abandoned, his theory in its broad outline has been adopted by most modern scholars. The current scholarly consensus suggests:
-
-- An **early version** was composed during the time of King Hezekiah (8th century BCE)
-- The **bulk of the first edition** dates from King Josiah's reign at the end of the 7th century BCE (c. 620 BCE)
-- **Further sections and edits** were added during the Babylonian Exile (6th century BCE)
-
-### Source Materials
-
-The 6th-century BCE authors and editors responsible for the bulk of the history drew on many earlier sources, which scholars have attempted to identify based on literary and thematic analysis. These proposed sources include:
-
-1. **The Ark Narrative** (1 Samuel 4:1–7:1 and possibly part of 2 Samuel 6): An early source focusing on the Ark of the Covenant. Some scholars date this to the 10th century BCE, potentially making it one of the oldest biblical texts.
-
-2. **The Saul Cycle** (parts of 1 Samuel 9–11 and 13–14): Stories focused on Saul's rise and early reign.
-
-3. **The History of David's Rise** (1 Samuel 16:14–2 Samuel 5:10): A coherent narrative explaining David's ascent to power.
-
-4. **The Succession Narrative** or **Court History of David** (2 Samuel 9–20 and 1 Kings 1–2): A sophisticated account of the power struggles in David's court and the succession of Solomon.
-
-### Dating
-
-The dating of the final composition varies significantly among scholars:
-
-**Critical Scholarship**: Most modern scholars date the final form of the Books of Samuel to the exilic or post-exilic period (6th-5th centuries BCE), though acknowledging that the sources used are much older, some potentially dating to the 10th century BCE.
-
-**Conservative Scholarship**: More conservative scholars argue for earlier dating, placing the composition sometime during the divided monarchy (after 930 BCE when Israel split into northern and southern kingdoms) but before the fall of the northern kingdom in 722/721 BCE. Some extend this range as late as the return from exile in 538 BCE.
-
-Evidence for earlier dating includes:
-- The author's detailed knowledge of pre-exilic geography and customs
-- The narrative perspective seems contemporary with events described
-- Absence of clear references to the Babylonian exile in the main narrative
-
-### Scholarly Opposition and Debate
-
-The Deuteronomistic History hypothesis, while widely accepted, has faced serious scholarly opposition. Critics argue:
-
-1. **Scant evidence**: The evidence for a unified Deuteronomistic history is not as strong as proponents claim.
-2. **Lack of consensus**: Even among supporters of the theory, there is no consensus on the origin, extent, and number of editions of the history.
-3. **Theological continuity**: The basic theological concerns identified with the Deuteronomistic school are tenets central to Hebrew theology in texts widely regarded as predating Josiah's reign.
-4. **Stylistic differences**: There are notable differences in style and thematic emphasis between Deuteronomy and the Books of Samuel, suggesting different authorship or less unified composition than Noth proposed.
-
-### Conclusion
-
-While certainty remains elusive, the scholarly consensus leans toward viewing the Books of Samuel as a complex composition that incorporates ancient sources (some potentially contemporary with the events described) that were later compiled, edited, and shaped by editors working in the 7th-6th centuries BCE. The identity of the final author or editorial school remains unknown, though the traditional attribution to Samuel, Gad, and Nathan preserves the memory that prophetic figures were involved in recording Israel's history during this period.
-
-**External Resources**:
-- [Books of Samuel - Wikipedia](https://en.wikipedia.org/wiki/Books_of_Samuel)
-- [Books of Samuel - Britannica](https://www.britannica.com/topic/Books-of-Samuel)
-- [Books of Samuel - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Books_of_Samuel)
-- [Books of Samuel - Jewish Encyclopedia](https://www.jewishencyclopedia.com/articles/13080-samuel-books-of)
+Sources like the Ark Narrative, Saul Cycle, History of David's Rise, and Succession Narrative were likely used by these editors. While some sources may date to the 10th century BCE, the final form is typically dated to the exilic or post-exilic period (6th-5th centuries BCE). Conservative scholars often argue for earlier dating, but the identity of the final author remains unknown. The traditional attribution still acknowledges prophetic involvement in recording Israel's history.
 
 ## Historical Environment
 

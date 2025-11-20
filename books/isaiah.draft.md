@@ -2,54 +2,14 @@
 
 ## Authorship
 
-The authorship of the Book of Isaiah has been one of the most extensively debated questions in biblical scholarship. Traditional Jewish and Christian views attribute the entire book to the historical prophet Isaiah ben Amoz, who lived and prophesied in the 8th century BCE. However, modern critical scholarship has challenged this view, with the majority of scholars now proposing multiple authorship.
+The authorship of the Book of Isaiah is a central debate in biblical scholarship. The traditional view attributes the entire book to [Isaiah ben Amoz](https://en.wikipedia.org/wiki/Book_of_Isaiah), an 8th-century BCE prophet. This view is supported by early Jewish and Christian tradition and the book's internal references (Isaiah 1:1). Defenders cite the consistency of the phrase 'the Holy One of Israel' throughout the book and the [Dead Sea Scrolls](https://en.wikipedia.org/wiki/Dead_Sea_Scrolls) as evidence for unity and the possibility of predictive prophecy.
 
-### Traditional View: Single Authorship by Isaiah ben Amoz
+However, the dominant view in modern critical scholarship posits multiple authorship, dividing the book into three sections:
+- **Proto-Isaiah (Chapters 1-39):** Attributed to the historical Isaiah of the 8th century BCE.
+- **Deutero-Isaiah (Chapters 40-55):** Attributed to an anonymous prophet during the Babylonian exile (550-539 BCE), evidenced by direct references to exile and King [Cyrus](https://en.wikipedia.org/wiki/Cyrus_the_Great).
+- **Trito-Isaiah (Chapters 56-66):** Attributed to another author (or authors) writing post-exile (after 538 BCE).
 
-According to traditional interpretation, Isaiah ben Amoz wrote the entire book that bears his name. Isaiah 1:1 identifies the author as "Isaiah son of Amoz," and ancient Jewish and Christian sources consistently attributed the whole work to this prophet. The book itself contains internal references suggesting Isaiah's ministry spanned the reigns of Kings Uzziah, Jotham, Ahaz, and Hezekiah of Judah, placing his prophetic career from approximately 740 BCE to at least 701 BCE.
-
-Traditional arguments for single authorship include:
-- The phrase "the Holy One of Israel" appears 12 times in chapters 1-39 and 14 times in chapters 40-66, suggesting linguistic unity
-- The [Dead Sea Scrolls](https://en.wikipedia.org/wiki/Dead_Sea_Scrolls) contain a complete Isaiah manuscript (1QIsaᵃ) with no breaks or divisions between chapters 39 and 40, which might suggest ancient scribes viewed it as a unified work
-- Pre-modern Jewish and Christian tradition unanimously accepted single authorship
-- Defenders argue that predictive prophecy is possible, making foreknowledge of Cyrus (Isaiah 44-45) compatible with 8th-century authorship
-
-### Critical Scholarly Consensus: Multiple Authorship
-
-The dominant view in modern biblical scholarship, originating in the 19th century, divides Isaiah into at least three distinct sections composed by different authors at different times:
-
-**Proto-Isaiah (Chapters 1-39):** Attributed to the historical prophet Isaiah ben Amoz of the 8th century BCE. This section contains oracles of judgment against Judah and foreign nations, along with promises of future restoration. The historical context clearly reflects the Assyrian crisis of Isaiah's time.
-
-**Deutero-Isaiah (Chapters 40-55):** Scholars assign this section to an anonymous prophet writing during the Babylonian exile (597-538 BCE). Key evidence includes:
-- Direct references to the Babylonian captivity and imminent return (Isaiah 40:1-2](https://eternal.family.net.za/bible/books/isaiah/40#1-2))
-- Naming of King Cyrus of Persia (Isaiah 44:28, [45:1), who reigned 559-530 BCE, over 150 years after the historical Isaiah
-- Different theological emphases, including monotheism more explicitly stated
-- Distinct literary style and vocabulary
-- Changed historical circumstances: Assyria is no longer a threat; Babylon is the dominant power
-
-**Trito-Isaiah (Chapters 56-66):** Many scholars attribute this section to yet another author (or authors) writing after the return from Babylonian exile (post-538 BCE). Evidence includes:
-- References to a rebuilt temple (Isaiah 56:5-7](https://eternal.family.net.za/bible/books/isaiah/56#5-7))
-- Concerns with post-exilic community issues
-- Different theological tone from Deutero-Isaiah
-
-This three-part division was systematized by German scholar [Bernhard Duhm](https://en.wikipedia.org/wiki/Bernhard_Duhm) in 1892 and became the scholarly consensus through most of the 20th century.
-
-### Current Scholarly Landscape
-
-While few scholars today attribute the entire book to one person, recent scholarship has moved beyond simple divisions to recognize the book's literary unity and complex compositional history. Some scholars now emphasize:
-- The book underwent redactional processes that unified diverse materials
-- Later editors intentionally structured the book to present theological coherence
-- The question is not simply "who wrote it?" but "how did it come together?"
-
-The [Book of Isaiah (Wikipedia)](https://en.wikipedia.org/wiki/Book_of_Isaiah) provides extensive discussion of these debates. Most critical scholars accept that multiple authors contributed to the book over several centuries, while more conservative scholars continue to defend the plausibility of single authorship with predictive prophecy.
-
-### Why the Debate Matters
-
-The authorship question has significant implications for how we understand prophecy, biblical inspiration, and the formation of scripture. Critical scholars argue that multiple authorship doesn't diminish the book's religious value but rather shows how communities preserved, reinterpreted, and applied prophetic traditions across generations. Traditional interpreters maintain that single authorship better explains the book's unity and supports claims about predictive prophecy as evidence of divine inspiration.
-
-External resources:
-- [Biblical Literature - Isaiah (Britannica)](https://www.britannica.com/topic/biblical-literature/Isaiah)
-- [A Scientific Analysis of Isaiah Authorship (BYU Religious Studies Center)](https://rsc.byu.edu/isaiah-prophets/scientific-analysis-isaiah-authorship)
+This three-part division, systematized by [Bernhard Duhm](https://en.wikipedia.org/wiki/Bernhard_Duhm), reflects different historical contexts, theological emphases, and literary styles. While acknowledging this complexity, recent scholarship also emphasizes the book's literary unity through redactional processes. The debate highlights differing views on prophecy and scriptural formation.
 
 ## Historical Environment
 

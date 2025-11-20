@@ -2,13 +2,23 @@
 
 ## Authorship
 
+
+
 The book of Hosea is traditionally attributed to the prophet Hosea himself, whose name means "salvation" or "deliverance." The opening verse identifies him as "Hosea son of Beeri" Hosea 1:1, and the autobiographical nature of much of the material—particularly the account of his marriage to Gomer—supports the view that Hosea was directly involved in composing the prophecy.
+
+
 
 However, the scholarly consensus acknowledges complexities in the compositional history. As noted by biblical scholars, not much can be said with certainty pertaining to the authorship, date, and composition of the book of Hosea. The text contains both first-person autobiographical sections and third-person narratives, which has led some scholars to propose that a follower or followers may have been responsible for collecting, organizing, and editing materials originally from Hosea.
 
+
+
 Most critical scholars agree that the book is an authentic 8th-century composition reflecting the ministry of the historical prophet Hosea. However, references to Judah throughout the book (which was originally directed to the northern kingdom of Israel) suggest that the text underwent [Judean redaction](https://en.wikipedia.org/wiki/Redaction_criticism). Scholarly theories since the 1980s have explored various stages of editorial activity, though there is significant disagreement about the extent of the eighth-century prophet's original contributions versus later additions.
 
+
+
 A minority perspective, particularly among more skeptical scholars, attributes the entire book to the Persian period (5th-4th centuries BCE) and considers the Hosean authorship to be a literary fiction. However, this view has not gained widespread acceptance, as the historical specificity of the 8th-century context is evident throughout the text.
+
+
 
 For more information, see the [Book of Hosea - Wikipedia](https://en.wikipedia.org/wiki/Book_of_Hosea) and the [Oxford Bibliographies entry on Hosea](https://www.oxfordbibliographies.com/display/document/obo-9780195393361/obo-9780195393361-0248.xml).
 

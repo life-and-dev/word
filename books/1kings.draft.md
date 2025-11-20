@@ -2,53 +2,9 @@
 
 ## Authorship
 
-The authorship of 1 Kings has been a subject of debate between traditional Jewish attribution and modern critical scholarship. Understanding these different perspectives requires examining both historical tradition and contemporary academic research.
+The authorship of 1 Kings is debated. Jewish tradition attributes it to the prophet [Jeremiah](https://en.wikipedia.org/wiki/Jeremiah), supported by textual similarities with Jeremiah 52 and his presence during Jerusalem's fall. However, modern scholars question this due to Jeremiah's location in Egypt after 586 BC and the book's inclusion of events in Babylon in 561 BC, when Jeremiah would have been elderly.
 
-### Traditional Attribution to Jeremiah
-
-According to Jewish tradition, the prophet Jeremiah](https://en.wikipedia.org/wiki/Jeremiah) was the author of the books of Kings. The [Babylonian Talmud](https://en.wikipedia.org/wiki/Babylonian_Talmud) supports this view, noting that 2 Kings 24:18–25:30 is nearly identical to the final chapter of the book of Jeremiah (Jeremiah 52). This textual similarity led ancient Jewish scholars to conclude that Jeremiah must have compiled the entire work. Since Jeremiah was alive during the fall of Jerusalem in 586 BC and witnessed these catastrophic events firsthand, the tradition holds that he was positioned to record this history.
-
-### Challenges to Traditional Authorship
-
-Modern scholarship has raised several significant objections to Jeremiah's authorship. Most notably, the final event recorded in 2 Kings occurred in Babylon in 561 BC, when King Jehoiachin was released from prison (2 Kings 25:27-30). However, Jeremiah never went to Babylon; instead, he was taken to Egypt against his will (Jeremiah 43:1-7). Additionally, if Jeremiah were the author, he would have been at least 86 years old by 561 BC, making it unlikely he could have recorded these final events. These chronological and geographical difficulties have led most contemporary scholars to reject the traditional attribution.
-
-### The Deuteronomistic History Theory
-
-The prevailing scholarly consensus today follows the theory proposed by German scholar [Martin Noth](https://en.wikipedia.org/wiki/Martin_Noth) in 1943. Noth argued that 1 and 2 Kings are part of a larger unified work called the [Deuteronomistic History](https://www.bibleodyssey.org/articles/deuteronomistic-history/), which includes Deuteronomy, Joshua, Judges, Samuel, and Kings. This collection reflects the distinctive language, theology, and perspective of the book of Deuteronomy, particularly its emphasis on covenant faithfulness, the centralization of worship in Jerusalem, and the consequences of idolatry.
-
-Noth originally proposed that this history was written by a single author during the Babylonian exile (586-539 BC), compiling earlier sources to explain why Judah had fallen to Babylon. The author's purpose was theological: to demonstrate that the exile resulted from the nation's persistent violation of God's covenant, particularly through idolatry and failure to follow Deuteronomic law.
-
-### Multiple Editions and Redactions
-
-While Noth's basic framework remains influential, most scholars today recognize a more complex compositional history. The current consensus suggests at least two major editions:
-
-1. **First Edition (Dtr1)**: Compiled during the reign of King [Josiah](https://en.wikipedia.org/wiki/Josiah) in the late 7th century BC (around 620-609 BC). This edition promoted Josiah's religious reforms, celebrated his centralization of worship, and emphasized the need for national repentance. It presented Josiah as an ideal king who restored proper worship and obedience to the covenant.
-
-2. **Second Edition (Dtr2)**: Produced during the Babylonian exile in the mid-6th century BC (around 560-540 BC). This edition updated the history to account for the unexpected death of Josiah, the subsequent decline of Judah, and the devastating exile of 586 BC. This final editor added material explaining the theological reasons for these catastrophes.
-
-Scholar [Frank Moore Cross Jr.](https://en.wikipedia.org/wiki/Frank_Moore_Cross) refined this theory by proposing that the first edition contrasted the sin of King Jeroboam in the northern kingdom with God's promise to David in Judah, casting Josiah as the hero who would restore proper worship. When Josiah died unexpectedly in 609 BC, a second editor had to explain this tragedy and Judah's subsequent fall.
-
-### Contemporary Scholarly Refinements
-
-More recent scholarship has proposed even more nuanced theories. Scholar Thomas Römer has suggested that the Deuteronomistic History was produced by a school of court scribes who maintained a library of scrolls that underwent multiple revisions—during Josiah's reign, during the exile, and later in the Persian period. This view maintains the essential unity of the Deuteronomistic History while acknowledging a much more complex and extended process of composition involving multiple authors and editors working with earlier source materials.
-
-### Source Materials
-
-Both traditional and critical scholars agree that the author(s) of Kings used earlier written sources, which are explicitly mentioned in the text:
-
-- The Book of the Acts of Solomon (1 Kings 11:41)
-- The Book of the Chronicles of the Kings of Israel (referenced 17 times)
-- The Book of the Chronicles of the Kings of Judah (referenced 15 times)
-
-These were apparently official court records that provided detailed information about the reigns of various monarchs. The author(s) also likely drew upon prophetic narratives about figures like Elijah and Elisha, temple records, and other archival materials.
-
-### Scholarly Consensus vs. Traditional Views
-
-The divide between traditional and critical scholarship on this question remains significant. Conservative evangelical scholars tend to support either Jeremiah's authorship or an anonymous contemporary prophet writing under divine inspiration during the exilic period. They emphasize the historical reliability of the text and its character as divinely inspired Scripture.
-
-Critical scholars, by contrast, generally accept some version of the Deuteronomistic History theory, viewing 1 Kings as part of a theologically shaped historiography compiled and edited over an extended period by multiple hands. They focus on identifying different literary layers, theological perspectives, and historical contexts within the text.
-
-What both approaches recognize is that 1 Kings presents a distinctive theological interpretation of Israel's monarchic history, evaluating each king according to his faithfulness to the covenant and his adherence to proper worship practices centered in Jerusalem.
+The prevailing view is [Martin Noth's](https://en.wikipedia.org/wiki/Martin_Noth) Deuteronomistic History theory, which posits 1 and 2 Kings as part of a larger work including Deuteronomy, Joshua, Judges, and Samuel. This history was compiled to explain Judah's exile due to covenant violations. Scholars propose two main editions: a first during King [Josiah's](https://en.wikipedia.org/wiki/Josiah) reign (late 7th century BC) promoting his reforms, and a second during the Babylonian exile (mid-6th century BC) to account for Judah's fall. More recent theories suggest a school of scribes and multiple revisions. Authors drew on official court records like 'The Book of the Acts of Solomon' and 'The Book of the Chronicles of the Kings of Israel/Judah'.
 
 ## Historical Environment
 

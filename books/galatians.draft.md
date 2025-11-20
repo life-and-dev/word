@@ -2,25 +2,13 @@
 
 ## Authorship
 
-The Epistle to the Galatians is attributed to [Paul the Apostle](https://en.wikipedia.org/wiki/Paul_the_Apostle) with remarkably strong scholarly consensus. Unlike many New Testament writings whose authorship remains disputed, Galatians is universally accepted as one of the authentic Pauline letters. Modern New Testament scholarship recognizes a core group of undisputed Pauline epistles—Romans, 1 and 2 Corinthians, Galatians, Philippians, 1 Thessalonians, and Philemon—and Galatians stands among those whose authorship is rarely contested.
+The Epistle to the Galatians is almost universally accepted as an authentic letter from [Paul the Apostle](https://en.wikipedia.org/wiki/Paul_the_Apostle) by both traditional and modern critical scholars. It stands as one of the "undisputed Pauline epistles."
 
-### Traditional and Scholarly Views
+The strong consensus for Pauline authorship is supported by robust external evidence, with the letter being quoted or alluded to in numerous early Christian writings and canonical lists like Marcion's canon (c. 140 CE) and the Muratorian canon (late 2nd century). Internal evidence is equally compelling, featuring Paul's explicit self-identification (Galatians 1:1, 5:2), his characteristic style, and autobiographical details that align with Acts and other authentic Pauline letters. The intense personal and polemical tone of the letter further points to Paul.
 
-Both traditional Christian interpretation and modern critical scholarship agree on Pauline authorship. This was the unanimous view of the early church, and even critics who challenge the authorship of other New Testament books concede that Galatians is genuinely Pauline](https://en.wikipedia.org/wiki/Authorship_of_the_Pauline_epistles). Notably, even Ferdinand Christian Baur, the founder of the nineteenth-century Tübingen school of biblical criticism (around 1840), who was extremely skeptical of Pauline authorship claims, accepted only four letters as authentic—Romans, 1 and 2 Corinthians, and Galatians. This demonstrates the strength of the evidence for Galatians' authenticity.
+The historical situation, centered on the circumcision controversy and the challenge to Paul's apostolic authority, fits perfectly within the mid-first-century context. A later pseudonymous writer would have had little motive for creating such a letter and could hardly have replicated its authentic details.
 
-### External Evidence
-
-The [external evidence for Pauline authorship](https://bible.org/article/introduction-book-galatians) is exceptionally strong. Galatians is quoted or alluded to in numerous early Christian writings, including 1 Peter, the Epistle of Barnabas, 1 Clement, Polycarp's letter to the Philippians, and works by Justin Martyr, Irenaeus, Clement of Alexandria, and Origen. Both Marcion's canon (c. 140 CE) and the Muratorian canon (late 2nd century) list it among Paul's letters. Virtually all early church fathers—including Irenaeus, Tertullian, and Clement of Alexandria—assume without question that Paul wrote Galatians.
-
-### Internal Evidence
-
-The internal evidence is equally compelling. Paul is mentioned by name both at the beginning of the letter (Galatians 1:1) and toward the end (Galatians 5:2). The entire epistle "breathes such an intensely personal and unconsciously autobiographical note" that it points unmistakably to genuine Pauline authorship. The letter's style is characteristically Pauline, and numerous unobtrusive coincidences—conceptual, verbal, and historical—align with what we know of Paul from Acts and other authentic Pauline letters.
-
-Furthermore, the historical situation reflected in the letter fits the mid-first-century context perfectly. Paul defends himself and his gospel as though both were being questioned, and the nature of the controversy—whether Gentile converts must observe Jewish law—was a pressing issue in the earliest decades of Christianity but would have had little relevance after 70 CE. A later pseudonymous writer would have had virtually no motive for creating such a letter and could hardly have replicated its authentic personal details.
-
-### Date of Composition
-
-While authorship is undisputed, the precise date of composition remains debated among scholars. Most estimates place Galatians between approximately 48-60 CE, with a [majority consensus favoring the late 40s to early 50s](https://www.bartehrman.com/galatians/), and a median estimate around 51 CE. The dating debate often centers on whether Galatians was written before or after the Jerusalem Council described in Acts 15 (c. 48-49 CE). Those who date it earlier (c. 48 CE) argue that it was written before the Council and that the visit mentioned in Galatians 2 corresponds to the famine relief visit of Acts 11-12. Those who date it later (c. 51-55 CE) identify the Galatians 2 visit with the Jerusalem Council of Acts 15.
+While authorship is undisputed, the precise date of composition remains debated, typically placed between 48-60 CE, often tied to whether it was written before or after the Jerusalem Council (Acts 15).
 
 ## Historical Environment
 

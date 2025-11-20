@@ -2,68 +2,11 @@
 
 ## Authorship
 
-The authorship of Ephesians is one of the most debated topics in New Testament scholarship, with significant disagreement between traditional and critical scholarly perspectives.
+The authorship of Ephesians is a highly debated topic in New Testament scholarship. The epistle explicitly claims Pauline authorship (Ephesians 1:1, 3:1) and internal evidence suggests a prison setting, leading to the traditional view of Paul writing it around AD 60-62 during his Roman imprisonment. Early church fathers like Polycarp, Ignatius, and Irenaeus universally attributed it to Paul, and it appears in the [Muratorian Canon](https://en.wikipedia.org/wiki/Muratorian_fragment) (c. AD 170).
 
-### Traditional Attribution
+However, modern critical scholarship is divided, with many scholars viewing Ephesians as [deutero-Pauline](https://en.wikipedia.org/wiki/Authorship_of_the_Pauline_epistles)—written by a later follower of Paul. Arguments against Pauline authorship include significant stylistic differences (long, complex sentences), a unique vocabulary (38 hapax legomena in the NT), literary dependence on Colossians, lack of specificity in addressing local issues, and a more developed ecclesiology and eschatology.
 
-The epistle explicitly identifies Paul as its author: "Paul, an apostle of Christ Jesus by the will of God" (Ephesians 1:1). The letter also contains personal references to Paul's imprisonment (Ephesians 3:1, 4:1, 6:20), leading to its classification as one of the "Prison Epistles" alongside Philippians, Colossians, and Philemon. According to traditional scholarship, Paul wrote Ephesians around AD 60-62 during his first Roman imprisonment, as described in Acts 28:16-31, where he spent two years under house arrest.
-
-### Early Church Evidence
-
-The early church universally attributed this letter to Paul. [Polycarp](https://en.wikipedia.org/wiki/Polycarp), believed to be a personal disciple of the Apostle John, referenced Ephesians as Scripture in his letter to the Philippians (early 2nd century). The [Muratorian Canon](https://en.wikipedia.org/wiki/Muratorian_fragment) (c. AD 170), one of the earliest lists of canonical New Testament books, includes Ephesians among Paul's authentic letters. Other early church fathers including Ignatius, Clement of Rome, and Justin Martyr cited or referenced the epistle, attributing it to Paul without question.
-
-### Modern Scholarly Debate
-
-Contemporary New Testament scholarship is deeply divided on the question of Pauline authorship:
-
-**Surveys of Scholarly Opinion:**
-- Bible scholar [Raymond E. Brown](https://en.wikipedia.org/wiki/Raymond_E._Brown) asserts that approximately 80% of critical scholarship judges that Paul did not write Ephesians
-- Biblical scholar Harold Hoehner, surveying 279 commentaries written between 1519 and 2001, found that 54% favored Pauline authorship, 39% concluded against it, and 7% remained uncertain
-- A survey of 109 scholars at the British New Testament Conference in 2011 found 39 in favor of authenticity, 42 rejecting Pauline authorship, and 28 uncertain
-
-### Arguments for Pauline Authorship
-
-Scholars who defend traditional authorship present several arguments:
-
-1. **Early Universal Acceptance**: Unlike some disputed books, Ephesians was never questioned in the early church and appears in every canonical list
-2. **Internal Claims**: The letter explicitly claims Pauline authorship multiple times (Ephesians 1:1, 3:1)
-3. **Historical Context**: The prison setting matches Paul's known circumstances in Rome (AD 60-62)
-4. **Theological Consistency**: While exhibiting theological development, the core doctrines align with Paul's established teaching on grace, salvation, and the church
-5. **Personal Details**: References to Tychicus as the letter bearer (Ephesians 6:21-22) match Colossians 4:7-8, suggesting genuine historical circumstances
-
-### Arguments Against Pauline Authorship
-
-Critical scholars who view Ephesians as [deutero-Pauline](https://en.wikipedia.org/wiki/Authorship_of_the_Pauline_epistles) (written by a later follower of Paul) cite numerous concerns:
-
-1. **Stylistic Differences**: Ephesians contains unusually long sentences with complex syntax unlike Paul's undisputed letters. For example, Ephesians 1:3-14 is a single sentence in Greek spanning 12 verses, and Ephesians 1:15-23, 2:1-7, 3:1-7, 4:11-16, and 6:14-20 all contain extended sentence structures atypical of Paul's earlier writing style.
-
-2. **Vocabulary**: The letter contains 38 words (hapax legomena) not found elsewhere in the New Testament, and 84 words not found in the undisputed Pauline letters. The distinctive phrase "in the heavenly places" (en tois epouraniois) appears five times in Ephesians (1:3, 1:20, 2:6, 3:10, 6:12) but nowhere else in Paul's writings.
-
-3. **Literary Dependence on Colossians**: Of Ephesians' 155 verses, 73 have verbal parallels with Colossians, leading many scholars to conclude that the author of Ephesians used Colossians as a source. This level of self-borrowing is unprecedented in Paul's authentic letters.
-
-4. **Lack of Specificity**: No other Pauline letter is so devoid of local references or personal greetings. The letter addresses no specific congregational issues and names only Tychicus, contrasting sharply with Romans 16, which greets 26 individuals by name.
-
-5. **Ecclesiology**: Ephesians presents a universal, cosmic view of the church as Christ's body, with apostles and prophets as its foundation (Ephesians 2:20). In contrast, Paul's undisputed letters focus on local congregations and describe the church as having Christ as its foundation (1 Corinthians 3:11).
-
-6. **Eschatology**: While Paul's early letters emphasize the imminent return of Christ and future resurrection (1 Thessalonians 4:13-18, 1 Corinthians 15:51-52), Ephesians speaks of believers as already raised and seated with Christ in heavenly places (Ephesians 2:5-6), representing a realized eschatology.
-
-7. **Treatment of Marriage**: Ephesians 5:21-33 develops an elaborate theology of marriage as reflecting Christ and the church, a theme absent from Paul's earlier discussion of marriage in 1 Corinthians 7.
-
-### Dating Implications
-
-The authorship question directly affects dating:
-
-- **If Pauline**: AD 60-62, during Paul's first Roman imprisonment
-- **If Deutero-Pauline**: AD 70-90, after Paul's death, possibly by a disciple in Asia Minor
-
-### Scholarly Resources
-
-For further reading on the authorship debate:
-- [Epistle to the Ephesians - Wikipedia](https://en.wikipedia.org/wiki/Epistle_to_the_Ephesians)
-- [Authorship of the Pauline Epistles - Wikipedia](https://en.wikipedia.org/wiki/Authorship_of_the_Pauline_epistles)
-- [Reading Acts: Authorship of Ephesians](https://readingacts.com/2009/11/27/authorship-of-ephesians/)
-
-The question of authorship remains one of the most vigorously debated issues in Pauline studies, with substantial scholarly arguments on both sides.
+Arguments for Pauline authorship highlight early universal acceptance, the letter's explicit claims, consistency with Paul's historical context, and theological alignment (despite development). Surveys show a significant split among scholars, with no clear consensus. If deutero-Pauline, it's dated AD 70-90.
 
 ## Historical Environment
 

@@ -2,43 +2,11 @@
 
 ## Authorship
 
-The Book of Esther does not explicitly identify its author, making authorship a matter of scholarly debate and tradition.
+The Book of Esther does not explicitly identify its author, leading to scholarly debate. Traditional views attribute authorship to [Mordecai](https://en.wikipedia.org/wiki/Book_of_Esther) or "the men of the Great Synagogue." Mordecai's position at the Persian court and his intimate knowledge of the events support this. However, the use of third-person references and a retrospective tone suggest a post-Mordecai composition.
 
-**Traditional Attributions:**
+Most contemporary scholars conclude the author is unknown but was a Jewish writer intimately familiar with the Persian royal court, customs, and administrative structures. The detailed descriptions suggest eyewitness characteristics, though the retrospective tone points to a composition after Mordecai's career. The author was likely a diaspora Jew remaining in Persia after the return to Judah.
 
-1. **Mordecai**: The most common traditional view attributes authorship to Mordecai, Esther's cousin and the book's prominent figure. This view finds support in:
-   - The Babylonian Talmud's indirect attribution
-   - Josephus' affirmation that Mordecai wrote the book
-   - Mordecai's position at the Persian court giving him insider knowledge
-   - The phrase "Mordecai sat in the king's gate" indicating status and information access
-   - Firsthand knowledge of palace workings and Esther's story
-
-2. **The Great Synagogue**: The Babylonian Talmud attributes writing to "the men of the Great Synagogue," a council of Jewish leaders
-
-in the post-exilic period.
-
-3. **Ezra or Nehemiah**: Some early traditions suggested these contemporaries as authors, though most scholars find this highly unlikely based on:
-   - Stylistic differences from their known writings
-   - Their opposition to Jewish-Gentile intermarriage (while Esther married a Gentile king)
-   - Lack of the religious fervor characteristic of their works
-
-**Scholarly Consensus:**
-
-Most contemporary scholars conclude:
-- **Unknown author**: A Jewish writer very familiar with the Persian royal court
-- **Eyewitness characteristics**: The detailed descriptions suggest firsthand knowledge
-- **Post-Mordecai composition**: The accolades given to Mordecai suggest a younger contemporary wrote about him after his career
-- **Persian expertise**: The author demonstrates intimate knowledge of Persian customs, palace protocol, and administrative structures
-- **Exile perspective**: Likely a diaspora Jew who remained in Persia after others returned to Judah
-
-**Evidence Against Mordecai**:
-- Third-person references to Mordecai suggest someone else wrote about him
-- The retrospective tone ("in those days") indicates temporal distance from events
-- The laudatory treatment of Mordecai suggests a biographical subject rather than autobiography
-
-**Scholarly Resources:**
-- [Wikipedia - Book of Esther](https://en.wikipedia.org/wiki/Book_of_Esther)
-- [UASV Bible - Authenticity, Authorship, and Date of Esther](https://uasvbible.org/2024/11/11/authenticity-authorship-and-date-of-esther/)
+Evidence against Mordecai's direct authorship includes his consistent portrayal in the third person and the laudatory treatment, which is more typical of a biographical subject than an autobiography. The book was likely written in the [Persian period](https://uasvbible.org/2024/11/11/authenticity-authorship-and-date-of-esther/) to explain the origin of the Purim festival.
 
 ## Historical Environment
 

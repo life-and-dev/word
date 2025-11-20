@@ -2,19 +2,11 @@
 
 ## Authorship
 
-The authorship of the First Epistle to the Thessalonians is strongly attributed to the Apostle Paul. This is the consensus view among the vast majority of New Testament scholars, who consider it to be one of Paul's authentic and undisputed letters. The epistle's style, vocabulary, and theological themes are consistent with other Pauline writings, such as Romans, 1 & 2 Corinthians, Galatians, Philippians, and Philemon.
+The Apostle Paul is widely considered the primary author of the First Epistle to the Thessalonians, a view held by the vast majority of New Testament scholars. Co-authored with Silas (Silvanus) and Timothy, the letter explicitly states their involvement in the opening verse (1 Thessalonians 1:1), though Paul's use of the first-person singular "I" confirms his leading role.
 
-While the letter is co-authored by Silas (Silvanus) and Timothy, Paul is recognized as the primary author. The letter itself indicates this in the opening verse: "Paul, Silvanus, and Timothy, To the church of the Thessalonians..." (1 Thessalonians 1:1). However, the use of the first-person singular "I" in several passages (2:18, 3:5, 5:27) suggests that Paul was the main author, with Silas and Timothy as his associates.
+The authenticity of 1 Thessalonians, while questioned by some 19th-century scholars, is now largely undisputed due to strong internal and external evidence. Its style, vocabulary, and theological themes are consistent with other Pauline writings. Internal evidence aligns with Paul's second missionary journey details in Acts 17. External evidence includes attestations from early church fathers like Irenaeus, Clement of Alexandria, and Tertullian.
 
-The authenticity of 1 Thessalonians has been questioned by some scholars in the past, most notably in the 19th century. However, these doubts have been largely dismissed by modern scholarship. The external evidence for Pauline authorship is strong, with early church fathers such as Irenaeus, Clement of Alexandria, and Tertullian all attributing the letter to Paul.
-
-The primary internal evidence for Pauline authorship is the letter's consistency with what is known of Paul's life and ministry from the book of Acts and his other letters. The historical details in 1 Thessalonians align with the account of Paul's second missionary journey in Acts 17. The letter was likely written from Corinth around 49-51 AD, making it one of the earliest, if not the earliest, surviving Christian texts and New Testament books. This dating is supported by the Delphi Inscription, which dates the proconsulship of Gallio in Achaia to 51-52 AD. The book of Acts mentions Gallio in connection with Paul's time in Corinth, providing a key chronological marker.
-
-For further reading on the authorship and dating of 1 Thessalonians, the following resources are recommended:
-
-*   **Wikipedia:** [First Epistle to the Thessalonians](https://en.wikipedia.org/wiki/First_Epistle_to_the_Thessalonians)
-*   **The Integrity of the Book of 1 Thessalonians:** [Integrity of the Book of 1 Thessalonians](https://integrityseminary.net/the-integrity-of-the-book-of-1-thessalonians-2/)
-*   **GotQuestions.org:** [Who wrote the book of 1 Thessalonians?](https://www.gotquestions.org/who-wrote-1-Thessalonians.html)
+Likely written from Corinth between 49-51 AD, 1 Thessalonians is among the earliest New Testament books. This dating is supported by the Delphi Inscription, which places Gallio's proconsulship in Achaia around 51-52 AD, correlating with Paul's time in Corinth mentioned in Acts.
 
 ## Historical Environment
 

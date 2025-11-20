@@ -2,18 +2,11 @@
 
 ## Authorship
 
-The Book of Job is anonymous, with no author explicitly claiming authorship within the text itself. Traditional attributions have varied widely throughout history. Rabbinic sources sometimes attributed the book to Moses, while other ancient traditions suggested Job himself, Elihu, Solomon, Isaiah, Hezekiah, Jeremiah, Baruch, or Ezra as possible authors.
+The Book of Job is anonymous, with no author explicitly identified within the text. Traditional attributions have varied, including Moses, Job himself, or Solomon.
 
-Modern scholarship recognizes that **no consensus exists** regarding the identity of the author(s) or the precise time of composition. The fact that scholarly proposals span nearly a millennium indicates the evidence remains inconclusive. What scholars do agree upon is that the work demonstrates sophisticated literary craftsmanship and deep theological reflection.
+Modern scholarship agrees that the author is unknown and that no consensus exists on the precise time of composition, although the work demonstrates sophisticated literary craftsmanship and deep theological reflection. The linguistic analysis, revealing post-Babylonian Hebrew with significant Aramaic influences, suggests composition during the Persian period (540-330 BCE). The speeches of Elihu (chapters 32-37) are often considered a later addition due to their differing style and the fact that neither God nor Job acknowledge them.
 
-**Evidence for anonymous authorship:**
-- The text provides no internal claims of authorship
-- Linguistic analysis reveals post-Babylonian Hebrew with significant Aramaic influences, suggesting composition during the Persian period (540-330 BCE)
-- The speeches of Elihu (chapters 32-37) differ markedly in style from the rest of the book, and neither God nor Job acknowledge his contributions, leading most scholars to conclude these chapters represent a later addition by a different author
-
-**Scholarly resources:**
-- [Bible Odyssey - Authorship of Job](https://www.bibleodyssey.org/)
-- [Wikipedia - Book of Job](https://en.wikipedia.org/wiki/Book_of_Job)
+The author, an Israelite, likely wrote from within the land of Israel, intending the work for a broad audience grappling with fundamental questions about suffering and divine justice. For more information, see [Bible Odyssey - Authorship of Job](https://www.bibleodyssey.org/) and [Wikipedia - Book of Job](https://en.wikipedia.org/wiki/Book_of_Job).
 
 ## Historical Environment
 

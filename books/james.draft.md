@@ -2,47 +2,13 @@
 
 ## Authorship
 
-The authorship of the Epistle of James remains one of the most debated questions in New Testament scholarship, with substantial evidence and arguments on multiple sides. The epistle opens with a simple self-identification: "James, a servant of God and of the Lord Jesus Christ" (James 1:1), without further specification of which James is meant.
+The authorship of the Epistle of James is one of the most debated questions in New Testament scholarship. The epistle opens with a simple self-identification: 'James, a servant of God and of the Lord Jesus Christ' (James 1:1), without further specification.
 
-### Traditional View: James the Brother of Jesus
+The traditional view, supported by early church testimony (e.g., Origen, Jerome) and historical profiles (Acts 15:13-21; Galatians 1:19), identifies the author as [James the Just](https://en.wikipedia.org/wiki/James,_brother_of_Jesus), the brother of Jesus and leader of the Jerusalem church. Linguistic connections between his speech in Acts 15 and the epistle's language also support this. If authored by him, it must predate his martyrdom in 62 CE.
 
-The traditional view, which has strengthened since the early centuries and remains widely held, identifies the author as James the Just](https://en.wikipedia.org/wiki/James,_brother_of_Jesus), the brother of Jesus and a leader of the Jerusalem church. This identification is supported by several lines of evidence:
+However, a prevalent view in modern critical scholarship considers the epistle [pseudonymous](https://www.newadvent.org/cathen/08275b.htm), citing the accomplished and sophisticated Greek as unlikely for a Galilean craftsman, potential literary dependence on 1 Peter, and late historical attestation in the early church. These arguments suggest an unknown author writing under James's name.
 
-**Early Church Testimony**: [Origen](https://en.wikipedia.org/wiki/Origen) (c. 185-254) appears to be the first person to explicitly link the epistle to "James the brother of the Lord." [Jerome](https://en.wikipedia.org/wiki/Jerome) (c. 347-420), while discussing the degree of relationship between James and Jesus, states that James the Just, the brother of the Lord and bishop of Jerusalem, wrote a single letter. This appears to have been the mainstream view in Jerome's day, and the [Catholic Encyclopedia](https://www.newadvent.org/cathen/08275b.htm) notes that internal evidence—the contents of the Epistle, its style, address, date, and place of composition—points unmistakably to James, the Lord's brother, the Bishop of Jerusalem, as the author.
-
-**Historical Profile**: According to the New Testament and early church sources, James was not a follower of Jesus during the Savior's earthly ministry (Mark 3:21, 31-35; John 7:5) but became a believer after witnessing the resurrected Christ (1 Corinthians 15:7). He quickly rose to prominence as a leader, even an apostle in the vein of Paul, and was "from an early date, with Peter, a leader of the Church at Jerusalem" (Acts 15:13-21; Galatians 1:19; 2:9, 12). [Josephus](https://en.wikipedia.org/wiki/Josephus) records that James was killed in 62 CE, providing a terminus ante quem for the epistle if he was indeed the author.
-
-**Linguistic Connections**: Some scholars note resemblances between James's recorded speech at the Jerusalem Council (Acts 15:13-21) and the language of the epistle. Mayor, a notable commentator, calls attention to similarities between the two hundred and thirty words James spoke and wrote during the Jerusalem Council and the Epistle of James.
-
-### Critical Scholarship: Pseudonymous Authorship
-
-A prevalent view within modern scholarship considers the Epistle of James to be pseudonymous—written by an unknown author who chose to write under the name of James, intending that the audience perceive James the brother of Jesus as the author. According to a survey of fifty-six twentieth-century scholars, 37% consider it pseudonymous, while 13% argue it was written by a non-Christian of Jewish origin, and 9% attribute partial credit to James.
-
-Critical scholars cite several key arguments for pseudonymity:
-
-**Quality of Greek**: The Greek in the Epistle of James is rather accomplished and sophisticated, leading many scholars to believe that it could not have been written by a Galilean craftsman like Jesus' brother. While James's homeland in Galilee was sufficiently Hellenized to produce figures such as the rhetorician Theodorus, there is no evidence outside the Epistle to suggest that James the Just attained a Greek education of the level displayed in the epistle.
-
-**Literary Dependence**: Some scholars argue that the Epistle appears to borrow from 1 Peter](https://en.wikipedia.org/wiki/First_Epistle_of_Peter), and if this is the case, James must be dated after 1 Peter (often dated between 70 and 100 CE)—well after James's death in 62 CE. Additionally, some see the epistle as responding to a misunderstanding of Paul's teaching on faith and works, which would also suggest a later date.
-
-**Late Historical Attestation**: The letter was apparently unknown to the early church before the time of Origen and Irenaeus (mid to late second century). This late attestation raises questions about why a letter from such a prominent early church leader would not have been more widely known and cited earlier.
-
-### Conservative Response
-
-Conservative scholars have offered responses to these objections:
-
-**Use of an Amanuensis**: Some argue that James the brother of Jesus made use of an [amanuensis](https://en.wikipedia.org/wiki/Amanuensis) (secretary), which was common practice in the ancient world and would explain the quality of Greek in the letter. Paul himself used secretaries (Romans 16:22), and it was typical for the named author to provide the content while a skilled scribe composed the actual Greek text.
-
-**Early Dating**: Many conservative scholars date the epistle to the late 40s or early 50s CE, making it potentially the earliest New Testament document. This early dating would preclude literary dependence on 1 Peter and would place it before the widespread circulation of Paul's letters, thus avoiding the objection about responding to Pauline theology.
-
-**Jewish Christian Context**: The epistle's strong Jewish character, including references to "the twelve tribes" (James 1:1), the synagogue (James 2:2, literally "assembly" or "synagogue" in Greek), and wisdom traditions similar to the Hebrew Bible, supports an early Palestinian provenance consistent with James of Jerusalem's authorship.
-
-### Current Scholarly Consensus
-
-Opinion remains notably divided. The aforementioned survey of fifty-six twentieth-century scholars found that **41% conclude it was written by James the brother of the Lord**, making traditional authorship still the plurality view even in critical scholarship. The [Wikipedia article](https://en.wikipedia.org/wiki/Epistle_of_James) on the Epistle of James and [Britannica's treatment](https://www.britannica.com/topic/Letter-of-James) both acknowledge this ongoing scholarly divide, with no clear consensus having emerged despite centuries of debate.
-
-### Dating Implications
-
-The dating of the letter is tied tightly to the authorship question. If it was written by James the brother of Jesus, it must have been written before his death in 62 CE. Scholars who accept traditional authorship will date it as early as the mid-40s CE. However, if the letter is pseudonymous, it could have been written at a later date. Those who maintain that the epistle is pseudonymous generally date the epistle later, from the late first to mid-second century (70-150 CE).
+Conservative scholars counter these objections by proposing the use of an [amanuensis](https://en.wikipedia.org/wiki/Amanuensis) for the Greek quality, an early dating (mid-40s to 50s CE) before Paul's major epistles, and the epistle's strong Jewish Christian context. Scholarly opinion remains divided, with no clear consensus.
 
 ## Historical Environment
 
