@@ -361,6 +361,22 @@ When Pharisees and Sadducees request a sign, some manuscripts include Jesus' res
 
 This passage is **absent from the most ancient uncials Sinaiticus and Vaticanus, Codex X, manuscripts** known to Origen and Jerome, and some Peshitta and Coptic versions. The passage appears in Codices C, D, L, and W, and the majority of later Byzantine manuscripts. Scholars have debated this variant since the nineteenth century. Those favoring omission note the absence from earliest witnesses and suggest the passage represents insertion from a source similar to Luke 12:54-56 or from Luke itself. Frederick Scrivener and M.-J. Lagrange, however, argued the passage was omitted by copyists in climates (particularly Egypt, where Vaticanus and Sinaiticus originated) where red morning sky does not predict rain, making Jesus' illustration contextually inappropriate. The UBS gives inclusion a "C" rating (considerable doubt) and modern critical editions typically include the passage in brackets, indicating uncertainty. This variant demonstrates how geographical and cultural factors may have influenced textual transmission. ([Source](https://www.uasvbible.org/texts/display/2001/Matthew/16))
 
+### Prayer and Fasting for Deliverance (Matthew 17:21)
+
+Following the account of Jesus healing the epileptic boy whom the disciples could not heal (Matthew 17:14-20), some manuscripts include an additional verse:
+
+> Howbeit this kind goeth not out but by prayer and fasting.
+
+> τοῦτο δὲ τὸ γένος οὐκ ἐκπορεύεται εἰ μὴ ἐν προσευχῇ καὶ νηστείᾳ
+
+This verse is **absent from the earliest and most reliable manuscripts** including Sinaiticus (original hand), Vaticanus (B), Codex 33, several Old Latin manuscripts, the Vulgate, Coptic versions, and important early patristic witnesses. The verse appears in later Byzantine manuscripts and entered the Textus Receptus, becoming Matthew 17:21 in the King James Version.
+
+Most textual scholars regard this verse as a **scribal insertion harmonized from Mark 9:29**, where a similar statement appears (though even there, the earliest manuscripts of Mark read only "by prayer" without "and fasting"). The parallel account in Luke 9:37-43 contains no reference to prayer or fasting, instead emphasizing the disciples' **lack of faith**. Matthew's own account in verses 19-20 attributes the disciples' failure to their **"little faith"** rather than *lack of prayer or fasting*, making the addition theologically inconsistent with Matthew's original emphasis.
+
+The insertion likely reflects **early Christian ascetic practices and catechetical concerns**, representing the growing emphasis on fasting as spiritual discipline in the post-apostolic period. Significantly, **no apostolic epistle mentions fasting as necessary for spiritual authority or deliverance ministry**, suggesting this teaching does not represent original apostolic doctrine.
+
+Modern critical editions (NA28, UBS5) omit Matthew 17:21 entirely or relegate it to marginal notation. The ESV, NIV, NASB, and other translations based on critical texts either omit the verse or include it only in footnotes. This variant illustrates how liturgical practices and theological emphases from later Christian tradition sometimes influenced manuscript transmission, with copyists adding explanatory material they believed helpful for spiritual formation.
+
 ### Barabbas's Full Name (Matthew 27:16-17)
 
 Some manuscripts identify the prisoner as "Jesus Barabbas" rather than simply "Barabbas," making Pilate's question more pointed: 
@@ -503,6 +519,22 @@ Matthew states the centurion "came forward to him" directly requesting healing, 
 
 Conservative response invokes the ancient law of agency: emissaries acting on another's authority were legally and socially **regarded as equivalent to the principal himself acting**. Numerous biblical examples demonstrate this principle: 2 Samuel 3:18, 14:19; 2 Kings 14:27; Esther 8:8; Ezra 1:7-8. When authorized representatives speak, ancient literature attributes speech directly to the one who authorized them. Matthew employs narrative compression (telescoping), a common ancient literary technique omitting intermediary details to focus on principals; Luke, who explicitly claims thorough investigation (Luke 1:3), includes fuller circumstantial detail. Both accounts could remain historically accurate: the centurion did approach Jesus (through authorized representatives), and intermediaries were physically present. Neither Matthew nor Luke claims exclusivity contradicting the other; they simply emphasize different aspects according to their distinct purposes and audiences.
 
+### The Blind Man at Jericho (Matthew 20:29-34; Mark 10:46-52; Luke 18:35-43)
+
+Mark identifies **one blind beggar**, Bartimaeus, healed as Jesus left Jericho (Mark 10:46-52). Matthew's parallel reports **two blind men** healed as Jesus left Jericho (Matthew 20:29-34). Luke places the healing of **one blind man** as Jesus approached Jericho (Luke 18:35-43). These accounts contain three points of tension: 
+
+1. the number of blind men (one vs. two), 
+2. the location (leaving vs. approaching), and 
+3. the name (Bartimaeus identified vs. unnamed). 
+
+Harmonization attempts propose: 
+
+1. two blind men were present, but Mark and Luke focus on the more prominent or vocal one (Bartimaeus), explaining the numerical difference; 
+2. the healing occurred between old and new Jericho (separated by about a mile), allowing both "leaving" and "approaching" to be technically accurate from different reference points; 
+3. Bartimaeus alone called out initially (as Jesus approached), with both men healed as Jesus departed, accounting for various elements. 
+
+Critics argue these explanations strain credulity and that the accounts represent different traditions about similar healing events, conflated or confused in transmission. The variations suggest independent sources rather than collusion or eyewitness precision.
+
 ### The Triumphal Entry (Matthew 21:1-7 cf. Mark 11:1-7)
 
 Matthew mentions both "a donkey, and a colt" (Matthew 21:2), stating the disciples "brought the donkey and the colt and put on them their cloaks, and he sat on them" (Matthew 21:7). Mark, Luke, and John mention only the colt (Mark 11:2,7; Luke 19:30,35; John 12:14-15). Skeptics charge *Matthew invented a second animal* through misunderstanding Zechariah 9:9's Hebrew parallelism ("mounted on a donkey, on a colt, the foal of a donkey"), failing to recognize this describes one animal from two perspectives. 
@@ -531,9 +563,16 @@ Regarding the fig tree, **Matthew compresses the event into single narrative** f
 
 ### The Prediction of Peter's Denial (Matthew 26:34 cf. Mark 14:30)
 
-Matthew, Luke, and John record Jesus predicting "before the rooster crows, you will deny me three times" (Matthew 26:34; Luke 22:34; John 13:38). Mark records "before the rooster crows twice, you will deny me three times" (Mark 14:30). Critics see contradiction: did Jesus predict **one crow or two**? 
+Matthew, Luke, and John record Jesus predicting "before the rooster crows, you will deny me three times" (Matthew 26:34; Luke 22:34; John 13:38). Mark's majority text records "before the rooster crows twice, you will deny me three times" (Mark 14:30). Critics see contradiction: did Jesus predict **one crow or two**?
 
-Conservative harmonization notes **Mark provides greater precision**: Jesus predicted three denials before the rooster's second crow. If Peter denied Jesus three times before the rooster crowed twice (especially if the two crows occurred in quick succession), it remains equally true that Peter denied Him before the rooster crowed (without specifying which crow). Matthew, Luke, and John streamline to the essential point without denying **additional details**. The more detailed account includes rather than contradicts the less detailed.
+However, [significant textual variants complicate this issue](https://hermeneutics.stackexchange.com/questions/875/peters-denial-and-the-rooster-crowing). The word "twice" (δίς) in Mark 14:30 and 14:72 is **absent from several important early manuscripts** including [Codex Sinaiticus (ℵ), Codex Bezae (D), Codex Ephraemi Rescriptus (C*), Codex Washingtonianus (W), and minuscule 579](https://defendinginerrancy.com/bible-solutions/Matthew_26.34_(cf._Mark_14.30).php). Additionally, the phrase "and the rooster crowed" in Mark 14:68 (after Peter's first denial) is **absent from Codex Sinaiticus and Codex Vaticanus**, the two oldest complete New Testament manuscripts. This suggests later copyists added the first rooster crow to Mark 14:68 and possibly modified the prediction to include "twice" to provide additional detail or harmonize different traditions.
+
+Notably, [Codex Sinaiticus is completely consistent](https://hermeneutics.stackexchange.com/questions/875/peters-denial-and-the-rooster-crowing) in reporting only **one rooster crow** throughout Mark 14, occurring only after Peter's third denial—identical to Matthew, Luke, and John. This manuscript evidence suggests the apparent contradiction may result from later textual development in Mark's Gospel rather than from the original accounts.
+
+Conservative harmonization offers two approaches: 
+
+1. **Textual solution**: The original text of all four Gospels recorded one crow, with "twice" and the first crow being later additions to some Mark manuscripts.
+2. **Harmonization of majority text**: If "twice" is original to Mark, Jesus predicted three denials before the rooster's second crow, and Matthew/Luke/John streamline to the essential point without denying additional details. The more detailed account includes rather than contradicts the less detailed.
 
 ### The Death of Judas (Matthew 27:3-10 cf. Acts 1:18-19)
 
@@ -547,8 +586,7 @@ The field's name "Field of Blood" fits both accounts: **Matthew emphasizes the b
 
 **Matthew's version emphasizes fulfillment of prophecy** (Zechariah 11:12-13, attributed to Jeremiah in Matthew 27:9) and demonstrates the tragic consequences of betraying the Messiah.
 
-
-### The Resurrection Accounts (Matthew 28:1-10)
+### The Resurrection Accounts (Matthew 28:1-10; Mark 16:1-8; Luke 24:4-10; John 20:1-12)
 
 The most frequently cited contradictions concern resurrection morning details. Critics note: 
 
@@ -583,10 +621,11 @@ Differences in peripheral details actually strengthen rather than undermine hist
 
 ### Explainable Issues
 
-Minor [textual variants](#textual-variants):
+Minor or corrected [textual variants](#textual-variants):
 * Misspelled names in geneology (Matthew 1:3)
 * Only 1 witness (Syriac version) contradict itself (Matthew 1:16)
 * Jesus including the weather in his prophecy (Matthew 16:2b-3)
+* Prayer and fasting for deliverance (Matthew 17:21)
 * Barrabas's full names (Matthew 27:16-17)
 * The spear thrust harmonized from John (Matthew 27:49)
 
@@ -599,11 +638,12 @@ Explainable [textual "errors"](#textual-errors):
 Explainable ["contradictions"](#contradictions):
 * The Jeconiah Curse (Matthew 1:12 cf. Jeremiah 22:30)
 * The Centurion's Servant (Matthew 8:5-13 cf. Luke 7:1-10)
+* The Blind Man at Jericho (Matthew 20:29-34; Mark 10:46-52; Luke 18:35-43)
 * The Triumphal Entry (Matthew 21:1-7 cf. Mark 11:1-7)
 * The Timing of the Temple Cleansing (Matthew 21:12-13 cf. John 2:13-17)
 * The Prediction of Peter's Denial (Matthew 26:34 cf. Mark 14:30)
 * The Death of Judas (Matthew 27:3-10 cf. Acts 1:18-19)
-* The Resurrection Accounts (Matthew 28:1-10)
+* The Resurrection Accounts (Matthew 28:1-10; Mark 16:1-8; Luke 24:4-10; John 20:1-12)
 
 ### Concerns
 

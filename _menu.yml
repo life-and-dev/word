@@ -3,8 +3,28 @@
 - authors:
   - acts
 - books:
+  - Old Testament: ===
+  - Job: https://eternal.family.net.za/bible/books/job
+  - Psalms: https://eternal.family.net.za/bible/books/psalms
+  - Isaiah: https://eternal.family.net.za/bible/books/isaiah
   - jeremiah
+  - Ezekiel: https://eternal.family.net.za/bible/books/ezekiel
+  - Hosea: https://eternal.family.net.za/bible/books/hosea
+  - Jonah: https://eternal.family.net.za/bible/books/jonah
+  - Micah: https://eternal.family.net.za/bible/books/micah
+  - Zechariah: https://eternal.family.net.za/bible/books/zechariah
+  - Malachi: https://eternal.family.net.za/bible/books/malachi
+  - New Testament: ===
   - matthew
-  - letter-of-jeremiah
+  - John: https://eternal.family.net.za/bible/books/john
+  - Romans: https://eternal.family.net.za/bible/books/romans
+  - Ephesians: https://eternal.family.net.za/bible/books/ephesians
+  - 1 Timothy: https://eternal.family.net.za/bible/books/1timothy
+  - Hebrews: https://eternal.family.net.za/bible/books/hebrews
+  - Jude: https://eternal.family.net.za/bible/books/jude
+  - Revelation: https://eternal.family.net.za/bible/books/revelation
+  - ===
+  - Apocrypha: https://eternal.family.net.za/bible/books/apocrypha
+    - letter-of-jeremiah
 - translations
 - downloads
