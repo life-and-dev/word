@@ -545,7 +545,7 @@ Conservative response maintains **both animals were present**:
 
 Matthew does not state Jesus rode both animals simultaneously—"sat on them" likely refers to the cloaks placed on both animals rather than to both animals themselves. **The mother donkey accompanied her unbroken colt** (which "no one has ever yet sat," Mark 11:2) to calm it, **a practical consideration when riding an untrained young animal through crowds**. Matthew's dual mention reflects neither error nor misunderstanding but accurate reporting of both animals' presence combined with emphasis on prophetic fulfillment. The other Evangelists, not addressing the same Jewish apologetic concerns, mention **only the animal Jesus rode without denying another's presence**.
 
-### The Timing of the Temple Cleansing (Matthew 21:12-13 cf. John 2:13-17)
+### The Timing of the Temple Cleansing (Matthew 21:12-13; Mark 11:12-21; John 2:13-17)
 
 Critics note apparent chronological contradictions: 
 

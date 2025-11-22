@@ -8,41 +8,7 @@ However, the overwhelming majority of modern biblical scholars date Daniel to th
 
 ## Historical Environment
 
-The historical environment of the Book of Daniel depends fundamentally on one's view of its date of composition, with two dramatically different settings proposed by scholars.
-
-### The 6th Century BCE Setting (Traditional View)
-
-According to the traditional dating, Daniel was written during the [Babylonian exile](https://en.wikipedia.org/wiki/Babylonian_captivity) and early [Persian period](https://en.wikipedia.org/wiki/Achaemenid_Empire) (approximately 605-530 BCE). The historical backdrop would be the three Babylonian deportations of Jews from Judah:
-
-The first deportation occurred in 605 BCE when [Nebuchadnezzar II](https://en.wikipedia.org/wiki/Nebuchadnezzar_II) invaded Judah and forced King Jehoiakim into submission. According to the book's narrative, Daniel and his three companions (Hananiah, Mishael, and Azariah—known by their Babylonian names Shadrach, Meshach, and Abednego) were among these first noble captives taken from Jerusalem to Babylon (Daniel 1:1-6).
-
-The second deportation came in 597 BCE when Nebuchadnezzar captured Jerusalem on March 16, taking King Jehoiachin to Babylon along with approximately 10,000 additional captives. The third and most devastating deportation occurred in 586 BCE following an extended siege, when Nebuchadnezzar destroyed the Temple of Jerusalem and deported the remaining prominent citizens, with a further deportation following in 582 BCE.
-
-In this setting, Daniel would have been a young Jewish noble who received education in Babylonian language, literature, and wisdom at the royal court. He would have served as a government official and interpreter of dreams under multiple rulers spanning the Neo-Babylonian Empire (under Nebuchadnezzar and Belshazzar) and the early Persian Empire (under Cyrus and his successors). The book would represent genuine predictive prophecy about future empires and eschatological events.
-
-However, critical scholars note significant historical problems with the 6th century setting as described in the text. No historical evidence confirms a deportation in 605 BCE (Daniel 1:1 places the first deportation in "the third year of Jehoiakim"). Additionally, the figure of "Darius the Mede" who supposedly conquered Babylon and ruled before Cyrus (Daniel 5:31-6:28) finds no corroboration in historical sources; secular history records that Cyrus the Persian conquered Babylon in 539 BCE, with no intervening Median ruler.
-
-### The 2nd Century BCE Setting (Critical Scholarly View)
-
-The overwhelming scholarly consensus places Daniel's composition during the [Maccabean crisis](https://en.wikipedia.org/wiki/Maccabean_Revolt) of the mid-2nd century BCE, specifically around 167-164 BCE. This was one of the darkest periods in Jewish history, when [Antiochus IV Epiphanes](https://en.wikipedia.org/wiki/Antiochus_IV_Epiphanes) (ruled 175-164 BCE), the Seleucid emperor controlling Judea, launched a massive campaign of religious persecution against the Jewish people.
-
-In 168 BCE, Antiochus issued decrees officially suppressing the Jewish religion. Jews were required to violate their ancestral laws: they had to eat pork and violate other [dietary laws](https://en.wikipedia.org/wiki/Kashrut), work on the Sabbath, cease circumcising their sons, and participate in pagan worship. The greatest desecration came on December 8, 167 BCE, when Antiochus had the Temple in Jerusalem profaned by installing an altar to Zeus (or possibly a syncretistic Zeus-Yahweh cult) on the Temple altar—the [abomination of desolation](https://en.wikipedia.org/wiki/Abomination_of_desolation) mentioned prominently in Daniel (Daniel 9:27; 11:31; 12:11). The daily sacrifices (*tamid*) at the Temple were stopped, striking at the heart of Jewish worship.
-
-This persecution sparked the Maccabean Revolt led by Judah Maccabee and his family, which began in 167 BCE and continued until 160 BCE, ultimately resulting in the rededication of the Temple in December 164 BCE (commemorated in the festival of Hanukkah). In this historical reconstruction, the Book of Daniel was written during the height of this crisis to encourage Jewish resistance, provide theological explanation for their suffering, and assure the faithful that God would vindicate them and punish their oppressor.
-
-### Audience and Cultural Context
-
-Regardless of the dating question, the stories in Daniel chapters 1-6 clearly reflect a [diaspora](https://en.wikipedia.org/wiki/Jewish_diaspora) setting and perspective. These narratives show considerable exposure to both Persian and Hellenistic cultural influences, portraying Jews living as a minority under foreign imperial rule. The Jewish communities had been dispersed throughout the ancient Near East beginning with the Babylonian exile in the 6th century BCE, with this diaspora experience becoming even more widespread during the Hellenistic period following Alexander the Great's conquests (332 BCE onwards).
-
-The audience appears to be observant Jews facing pressure to assimilate to the dominant culture and compromise their religious practices. The heroes of the court tales in chapters 1-6 exemplify the kind of piety that would have been considered exemplary: faithful Jews who refuse to compromise with idolatry, maintain dietary laws even at personal risk (Daniel 1), refuse to participate in the syncretizing practices of the upper classes, and remain loyal to God even when threatened with death (the fiery furnace in Daniel 3, the lions' den in Daniel 6).
-
-The apocalyptic visions in chapters 7-12 address a community experiencing or anticipating severe persecution, providing them with a theological framework for understanding their suffering as part of God's sovereign plan for history. The visions emphasize God's ultimate control over the rise and fall of empires, promise vindication for the righteous, and offer hope for resurrection and eternal reward.
-
-### Geographic and Political Setting
-
-The narratives are set in Babylon and Susa under the Babylonian and Persian empires, representing a world where the covenant people of Israel have lost their political independence and live under the authority of pagan imperial powers. Whether the book was actually written in 6th century Babylon/Persia or in 2nd century Judea, it addresses the existential questions facing Jews living under foreign domination: How should God's people maintain their identity and faithfulness when they lack political power? Can God still be sovereign when his people are subjected to pagan rulers? What is the ultimate destiny of those who remain faithful despite persecution?
-
-The book's political theology reflects this context of subordination, portraying faithful Jews serving in foreign courts, interpreting divine mysteries for pagan kings, and ultimately demonstrating the superiority of Israel's God through miraculous interventions. This provided a model for diaspora Jews navigating life in the Persian, Hellenistic, and later Roman empires.
+The historical setting of Daniel is debated. The traditional view places its writing in the 6th century BCE, during the [Babylonian exile](https://en.wikipedia.org/wiki/Babylonian_captivity), with Daniel serving in the courts of Babylon and Persia. This context would make the book's visions genuine predictive prophecy. However, the overwhelming scholarly consensus dates the book to the [Maccabean crisis](https://en.wikipedia.org/wiki/Maccabean_Revolt) (c. 167-164 BCE), a period of intense persecution under the Seleucid king [Antiochus IV Epiphanes](https://en.wikipedia.org/wiki/Antiochus_IV_Epiphanes). In this view, the book was written to encourage persecuted Jews by recounting tales of faithfulness in a foreign court and offering apocalyptic visions assuring God's ultimate sovereignty and vindication. Regardless of its date, the book addresses Jews living in the [diaspora](https://en.wikipedia.org/wiki/Jewish_diaspora), grappling with maintaining their identity under foreign rule.
 
 For more on the historical context, see the [Bible Odyssey article on Daniel in the Diaspora](https://www.bibleodyssey.org/articles/the-book-of-daniel-in-the-diaspora/) and [Britannica's overview of Persian and Hellenistic influences](https://www.britannica.com/topic/biblical-literature/Persian-and-Hellenistic-influences).
 

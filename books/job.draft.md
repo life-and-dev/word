@@ -10,13 +10,7 @@ The author, an Israelite, likely wrote from within the land of Israel, intending
 
 ## Historical Environment
 
-**Dating:** The composition date of Job remains debated, with scholarly proposals ranging from the 7th to the 2nd century BCE. The linguistic evidence—combining post-Babylonian Hebrew and Aramaic influences—most strongly supports composition during the **Persian period (approximately 540-330 BCE)**. The events described in the narrative, however, likely occurred much earlier, during the patriarchal era (approximately 2100-1900 BCE), based on internal clues such as Job's longevity, the absence of Mosaic law references, and the cultural practices depicted.
-
-**Author and Audience:** The unknown Israelite author wrote from within the land of Israel, likely in the Persian province of Yehud, though the narrative itself is deliberately set in a non-Israelite context (the land of Uz). This universalizing framework suggests the author intended the work for a broad audience grappling with fundamental questions about suffering and divine justice.
-
-**Cultural and Political Context:** The book emerged during or after the Babylonian exile, a period when traditional Israelite theology faced severe challenges. The destruction of Jerusalem and the temple in 586 BCE shattered the conventional belief that righteousness guarantees prosperity and divine protection. Job reflects this theological crisis, challenging the simplistic retribution theology that dominated earlier wisdom literature.
-
-**Historical Setting:** Job belongs to the wisdom literature tradition, paralleling similar texts from ancient Mesopotamia, Sumer, Babylonia (dating to the 3rd millennium BCE), and Middle Kingdom Egypt. The author was clearly familiar with international wisdom traditions while crafting a distinctively Israelite response to universal human questions.
+The Book of Job is set in the patriarchal era (c. 2100-1900 BCE), as suggested by internal clues like Job's longevity and the absence of Mosaic Law. However, linguistic evidence points to a much later composition date, likely during the Persian period (c. 540-330 BCE). The book was written by an unknown Israelite author, probably in the Persian province of Yehud, for a Jewish audience grappling with the theological crisis of the Babylonian exile. The narrative deliberately uses a non-Israelite setting (the land of Uz) to explore universal questions of suffering and divine justice, challenging the simplistic retribution theology that was shaken by the destruction of Jerusalem. The work engages with ancient Near Eastern wisdom traditions while providing a distinctively Israelite perspective.
 
 **Resources:**
 - [Yale University Press - Historical Context of Job](https://yalebooks.yale.edu/)

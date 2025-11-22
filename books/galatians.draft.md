@@ -12,31 +12,7 @@ While authorship is undisputed, the precise date of composition remains debated,
 
 ## Historical Environment
 
-### Geographic and Political Context
-
-The letter is addressed to "the churches of Galatia" (Galatians 1:2), but the precise geographic location of these churches has been a subject of longstanding scholarly debate. [Galatia originally referred to a region in north-central Turkey](https://www.biblicalarchaeology.org/daily/biblical-topics/new-testament/who-were-the-galatians-in-the-bible/), named after the approximately 20,000 Gauls (Celtic people) who settled there in 278 BCE, establishing cities including Pessinus, Ancyra (modern Ankara), and Tavium. In 25 BCE, Rome organized the region into a province and extended it southward to include territories of Pisidia, Lycaonia, and parts of Phrygia.
-
-This Roman reorganization created what scholars call the ["North Galatia" versus "South Galatia" debate](https://library.biblicalarchaeology.org/department/galatia-in-text-geography-and-archaeology/). The **North Galatian theory** suggests Paul addressed ethnic Galatians—Celtic people living in the northern part of the province—and this view held almost unchallenged until the eighteenth century. The **South Galatian theory** posits that the letter was directed to churches in the southern part of the Roman province, specifically the cities of Pisidian Antioch, Iconium, Lystra, and Derbe, which Paul visited during his first missionary journey (Acts 13-14).
-
-In recent decades, most scholars favor the South Galatian theory for several reasons: Acts records Paul's travels in south Galatia but never mentions a visit to north Galatia; archaeological evidence shows few Jewish communities in north Galatia during the mid-first century; and the religious controversy described in the letter aligns better with the mixed Jewish-Gentile communities of the south. The Roman province had no organic unity—ethnic, linguistic, or cultural—and its boundaries were largely arbitrary political constructions.
-
-### Cultural and Religious Context
-
-Galatians was written during a pivotal and tumultuous period in early Christian history, when the movement was transitioning from a predominantly Jewish sect to a religion that included significant numbers of Gentile converts. The controversy addressed in Galatians occurred at a very early stage, when the vast majority of Christians were Jewish or Jewish proselytes, and there is no hint of developed church organization beyond local congregations.
-
-The central issue was the [circumcision controversy](https://en.wikipedia.org/wiki/Circumcision_controversy_in_early_Christianity), one of the most significant theological and practical conflicts in early Christianity. A movement of ["Judaizers"](https://www.gotquestions.org/Judaizers.html) had emerged in the Galatian region, advocating that Gentile converts must observe traditional Jewish laws and customs, particularly circumcision, to be fully saved. Many Jewish Christians held the view that circumcision and other requirements of the Mosaic Law were necessary for salvation and that Gentiles must essentially become Jewish proselytes to be true followers of Christ.
-
-### The Jerusalem Council and Its Aftermath
-
-According to Acts 15, the [Council of Jerusalem](https://en.wikipedia.org/wiki/Council_of_Jerusalem) (c. 48-49 CE) addressed this controversy. Jewish Christian leaders, including Peter, James, and Paul, concluded that circumcision should not be required of Gentile converts, and that Gentiles needed only to abstain from food offered to idols, from blood, from things strangled, and from sexual immorality. However, not all Jewish Christians accepted this decision.
-
-The relationship between Galatians 2 and Acts 15 remains debated. Some scholars believe Paul wrote Galatians before the Jerusalem Council, making it potentially the earliest New Testament document. Others argue he wrote it afterward, either to reinforce the Council's decision or because the controversy continued despite the official ruling.
-
-### The Recipients
-
-Paul wrote to "the churches of Galatia"—multiple congregations that he had apparently founded during his missionary travels. Whether these were ethnic Celtic Galatians in the north or residents of the southern cities visited in Acts 13-14, they were experiencing intense pressure from Judaizers to adopt Jewish practices. The historical situation reflects a community in crisis, where Paul's apostolic authority and his gospel of salvation by faith alone were being challenged. False teachers had infiltrated the churches, questioning whether Paul's gospel was sufficient and whether he was a legitimate apostle, since he had not been one of the original twelve disciples of Jesus.
-
-This controversy was not merely academic—it represented a fundamental question about the identity and future direction of Christianity: Would it remain a Jewish sect requiring full observance of the Torah, or would it become a universal faith accessible to all peoples on equal terms through faith in Christ alone?
+The Epistle to the Galatians addresses churches in the Roman province of [Galatia](https://www.biblicalarchaeology.org/daily/biblical-topics/new-testament/who-were-the-galatians-in-the-bible/). While traditionally thought to be northern ethnic Galatians, most scholars now favor the "South Galatia" theory, identifying the recipients as churches in Pisidian Antioch, Iconium, Lystra, and Derbe, founded during Paul's first missionary journey. The letter was written during a pivotal early stage of Christianity, amidst the intense [circumcision controversy](https://en.wikipedia.org/wiki/Circumcision_controversy_in_early_Christianity). The central issue was the influence of ["Judaizers"](https://www.gotquestions.org/Judaizers.html), who insisted that Gentile converts must be circumcised and observe Mosaic Law for salvation. Paul writes to defend his apostolic authority and the gospel of justification by faith alone against this challenge, which threatened to redefine Christianity as a Jewish sect rather than a universal faith.
 
 ## Purpose
 

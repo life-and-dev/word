@@ -13,64 +13,7 @@ This three-part division, systematized by [Bernhard Duhm](https://en.wikipedia.o
 
 ## Historical Environment
 
-The Book of Isaiah emerged from one of the most turbulent periods in ancient Near Eastern history, spanning multiple centuries and dramatic geopolitical shifts. Understanding the historical environment(s) in which Isaiah's various sections were written is crucial for interpreting the book's message.
-
-### The 8th Century BCE: Proto-Isaiah's World (Chapters 1-39)
-
-The historical prophet Isaiah ben Amoz lived and prophesied during the latter half of the 8th century BCE, primarily in Jerusalem. According to Isaiah 1:1, his ministry spanned the reigns of Kings Uzziah (also called Azariah), Jotham, Ahaz, and Hezekiah of Judah. This places Isaiah's prophetic career approximately from 740 BCE (probably beginning a few years before King Uzziah's death) until at least 701 BCE, when the Assyrian king Sennacherib invaded Judah. Isaiah may have had a prophetic career spanning forty years or more.
-
-**Geopolitical Context: The Assyrian Threat**
-
-This was the age of the [Neo-Assyrian Empire](https://en.wikipedia.org/wiki/Neo-Assyrian_Empire), which was aggressively expanding westward from its origins in Upper Mesopotamia toward the Mediterranean Sea. The Assyrian military machine was the dominant superpower of the age, and its brutal conquest campaigns shaped the entire Near East.
-
-Key events during Isaiah's lifetime:
-- **734-732 BCE:** Assyria destroyed Aram-Damascus (Syria)
-- **722-721 BCE:** Assyria conquered the Northern Kingdom of Israel, deporting most of its inhabitants in what became known as the "Assyrian captivity" or the "Lost Ten Tribes"
-- **701 BCE:** Assyrian king Sennacherib invaded Judah, besieging Jerusalem (described in Isaiah 36-37)
-
-**The Syro-Ephraimite War (735-732 BCE)**
-
-A crucial episode in Isaiah's ministry was the Syro-Ephraimite War, when King Rezin of Damascus (Aram) and King Pekah of Israel (Ephraim) allied against Assyria and tried to force King Ahaz of Judah to join their coalition. When Ahaz refused, they invaded Judah to replace him with a puppet king. Isaiah counseled Ahaz to trust in God rather than seeking Assyrian help (Isaiah 7:1-17), but Ahaz appealed to Assyria anyway, making Judah an Assyrian vassal state.
-
-**Social and Economic Conditions**
-
-The 8th century BCE was a period of relative prosperity for Judah but also of growing social inequality. Isaiah frequently condemned the wealthy elite for oppressing the poor, corrupt judges, and economic exploitation (Isaiah 1:21-23, [3:14-15, [5:8-23).
-
-**Isaiah's Social Position**
-
-Evidence suggests Isaiah was a member of the Jerusalem aristocracy and a trusted adviser to the royal court. His theological reference point was the covenant with David and the Zion theology—the belief that God had chosen Jerusalem and the Davidic dynasty for special purposes. He had direct access to kings and spoke with authority about matters of state policy.
-
-### The 6th Century BCE: Deutero-Isaiah's World (Chapters 40-55)
-
-If the majority scholarly view is correct, chapters 40-55 were written by an anonymous prophet during the Babylonian exile, approximately 550-539 BCE.
-
-**The Babylonian Exile (597-538 BCE)**
-
-After Assyria's fall, the [Neo-Babylonian Empire](https://en.wikipedia.org/wiki/Neo-Babylonian_Empire) under Nebuchadnezzar II became the dominant power. Babylon conquered Jerusalem in 597 BCE and again in 586 BCE, destroying the temple and deporting Judah's leadership, skilled workers, and much of the population to Babylon. This traumatic event, known as the Babylonian exile or Babylonian captivity, was a theological crisis for the Jewish people.
-
-**Cyrus the Great and Persian Conquest**
-
-By 550 BCE, a new power was rising: [Cyrus the Great](https://en.wikipedia.org/wiki/Cyrus_the_Great) of Persia. Deutero-Isaiah explicitly names Cyrus (Isaiah 44:28, [45:1) and predicts Babylon's fall. In 539 BCE, Cyrus conquered Babylon and issued a decree allowing exiled peoples, including the Jews, to return to their homelands. This is the historical backdrop for Deutero-Isaiah's message of comfort and imminent return: "Comfort, comfort my people, says your God. Speak tenderly to Jerusalem, and cry to her that her warfare is ended, that her iniquity is pardoned" (Isaiah 40:1-2).
-
-**Theological Context**
-
-Living in Babylon, surrounded by polytheistic culture and grand Babylonian temples, the exilic community wrestled with fundamental questions: Had their God been defeated by Babylon's gods? Was the covenant ended? Deutero-Isaiah responds with emphatic monotheism and claims that Yahweh, not Marduk, controls history and is using Cyrus as His instrument.
-
-### The Post-Exilic Period: Trito-Isaiah's World (Chapters 56-66)
-
-If Trito-Isaiah represents a third author or school, it likely dates to the period after some exiles returned to Judah (post-538 BCE), possibly during the late 6th or early 5th century BCE.
-
-**Return and Disappointment**
-
-The return from exile was not the glorious restoration many had hoped for. The temple lay in ruins until it was rebuilt (completed 516 BCE). The community was small, poor, and vulnerable. Internal divisions emerged between those who had remained in the land and those returning from exile. Trito-Isaiah addresses these post-exilic community tensions, temple concerns (Isaiah 56:5-7, [66:1-2), and questions about who truly belongs to God's people.
-
-**Persian Period Context**
-
-Judah was now a small province within the vast [Persian Empire](https://en.wikipedia.org/wiki/Achaemenid_Empire). While the Persians allowed religious autonomy and temple rebuilding, Judah had no political independence. The community had to reconstruct its identity not as an independent nation but as a religious community under foreign rule.
-
-### Geographic Setting
-
-Throughout all periods, Jerusalem serves as the geographic and theological center of Isaiah's prophecies. The prophet speaks primarily to the people of Judah and Jerusalem, though he also addresses the Northern Kingdom of Israel and foreign nations. The book's geography ranges from Jerusalem and Judah to references to Egypt, Assyria, Babylon, Persia, and other ancient Near Eastern peoples.
+The Book of Isaiah spans multiple historical periods. Proto-Isaiah (chapters 1-39) is set in 8th-century BCE Jerusalem, where the prophet Isaiah ben Amoz confronts the rising threat of the [Neo-Assyrian Empire](https://en.wikipedia.org/wiki/Neo-Assyrian_Empire) and warns Judah's kings against foreign alliances. Deutero-Isaiah (chapters 40-55) addresses the 6th-century BCE Babylonian exile, offering comfort and hope centered on [Cyrus the Great's](https://en.wikipedia.org/wiki/Cyrus_the_Great) impending conquest of Babylon. Trito-Isaiah (chapters 56-66) reflects the post-exilic period (after 538 BCE), dealing with the disappointment and social tensions of the small, vulnerable community in Persian-ruled Judah. Across these distinct contexts, the book maintains a focus on God's sovereignty over history, His judgment of sin, and His ultimate plan for restoration.
 
 External resources:
 - Isaiah the Prophet, 8th Century BCE (Center for Online Judaic Studies)](https://cojs.org/isaiah_the_prophet-_8th_century_bce/)
@@ -238,7 +181,7 @@ These cross-references reveal how early Christians understood Isaiah:
 The extensive use of Isaiah demonstrates that the early church saw this prophet as uniquely important for understanding who Jesus was and what his mission accomplished.
 
 External resources:
-- Isaiah in the New Testament - Quotations Chart (Simply Bible)](https://www.simplybible.com/f591-isaiah-in-new-testament.htm)
+- [Isaiah in the New Testament - Quotations Chart (Simply Bible)](https://www.simplybible.com/f591-isaiah-in-new-testament.htm)
 - [Old Testament Messianic Prophecies in the New Testament (Wikipedia)](https://en.wikipedia.org/wiki/Old_Testament_messianic_prophecies_quoted_in_the_New_Testament)
 - [Appendix 5: New Testament Quotations from Isaiah (JesusWalk)](https://www.jesuswalk.com/isaiah/a5_nt_quotations.htm)
 
@@ -440,7 +383,7 @@ The fourth and climactic Servant Song (Isaiah 52:13-53:12) presents God's Suffer
 
 Chapter 54 continues God's promises: "For a brief moment I deserted you, but with great compassion I will gather you" (Isaiah 54:7). God swears: "This is like the days of Noah to me: as I swore that the waters of Noah should no more go over the earth, so I have sworn that I will not be angry with you, and will not rebuke you" (Isaiah 54:9).
 
-Chapter 55 contains God's gracious invitation: "Come, everyone who thirsts, come to the waters; and he who has no money, come, buy and eat! Come, buy wine and milk without money and without price" (Isaiah 55:1). God promises: "For as the rain and the snow come down from heaven and do not return there but water the earth... so shall my word be that goes out from my mouth; it shall not return to me empty, but it shall accomplish that which I purpose" (Isaiah 55:10-11).
+Chapter 55 contains God's gracious invitation: "Come, everyone who thirsts, come to the waters; and he who has no money, come, buy and eat! Come, buy wine and milk without money and without price" (Isaiah 55:1). God promises: "For as the rain and the snow come down from heaven and do not return there but water the earth... so shall my word be that goes out from my mouth; it shall not return to me empty, but it shall accomplish that which I purpose, and shall succeed in the thing for which I sent it" (Isaiah 55:10-11).
 
 ### Part Three: The Glorious Future (Chapters 56-66)
 
@@ -516,7 +459,7 @@ This is connected to Isaiah's resurrection promise: "Your dead shall live; their
 
 ### 7. New Heavens and New Earth
 
-Isaiah is the only Old Testament book to explicitly promise that God will create "new heavens and a new earth" (Isaiah 65:17, [66:22). This concept of cosmic renewal goes beyond restoration of Israel to envision entirely new creation: "For behold, I create new heavens and a new earth, and the former things shall not be remembered or come into mind" (Isaiah 65:17).
+Isaiah is the only Old Testament book to explicitly promise that God will create "new heavens and a new earth" (Isaiah 65:17, [66:22). This concept of cosmic renewal goes beyond restoration of Israel to envision entirely new creation: "For behold, I create new heavens and a new earth, and the former things shall not be remembered or come into mind. But be glad and rejoice forever in that which I create; for behold, I create Jerusalem to be a joy, and her people to be a gladness" (Isaiah 65:17-18).
 
 This teaching profoundly influenced Jewish apocalyptic literature and New Testament eschatology. Revelation 21:1 directly echoes Isaiah: "Then I saw a new heaven and a new earth, for the first heaven and the first earth had passed away."
 
@@ -876,4 +819,3 @@ Both approaches agree that engaging contradictions honestly leads to deeper unde
 External resources:
 - [50 Contradictions in the Bible (Bart Ehrman)](https://www.bartehrman.com/contradictions-in-the-bible/)
 - [Biblical Criticism (Wikipedia)](https://en.wikipedia.org/wiki/Biblical_Criticism)
-

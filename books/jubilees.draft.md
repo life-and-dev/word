@@ -54,60 +54,7 @@ The Book of Jubilees was almost certainly written by an anonymous Jewish priest 
 
 ## Historical Environment
 
-The Book of Jubilees emerged during one of the most turbulent and transformative periods in Jewish history—the [Second Temple period](https://en.wikipedia.org/wiki/Book_of_Jubilees) in the mid-second century BCE. Understanding the historical environment in which this text was composed is crucial for interpreting its contents and concerns.
-
-### Date and Period of Composition
-
-Jubilees is generally dated to **160-150 BCE**, though some scholars propose a slightly broader range of 170-100 BCE. More specifically, some scholars place the composition during the reign of John Hyrcanus](https://www.jewishencyclopedia.com/articles/8944-jubilees-book-of) (135-105 BCE). This places the text squarely in the era of the Second Temple in Jerusalem, a period marked by:
-
-1. **Seleucid Rule**: Jewish people were under the political control of the Seleucid Empire (a Hellenistic dynasty that emerged from Alexander the Great's empire)
-
-2. **Hellenistic Cultural Pressure**: Greek culture, language, philosophy, and religious practices were actively promoted throughout the region
-
-3. **The Maccabean Revolt**: The Jewish revolt against Seleucid religious persecution (167-160 BCE) had recently occurred or was in living memory
-
-4. **Religious Reconstruction**: The period following the Maccabean victory saw intense debates about how to reconstruct Jewish religious life and identity
-
-### Cultural and Political Context
-
-The author and original audience of Jubilees lived in **Judea**, the small but symbolically significant Jewish homeland centered on Jerusalem and its Temple. The cultural environment was characterized by several competing pressures:
-
-**Hellenization Crisis**: Greek culture (Hellenism) was sweeping through the Jewish nation, and traditional Jewish customs were increasingly seen as incompatible with this incoming culture. The tension between maintaining Jewish distinctiveness and accommodating Hellenistic culture was the defining issue of the era. [According to scholars](https://readingacts.com/2017/08/02/what-is-the-book-of-jubilees/), the message of Jubilees emphasized that "Jewish practices and laws must be preserved despite opposition from incoming culture."
-
-**The Maccabean Wars**: The book contains clear allusions to the Maccabean conflicts. References to wars with the Amorites, Idumeans, and Philistines reflect the impression of the great events of the Maccabean wars. The text was written after these revolts, which explains why the importance of strict Torah observance was being so urgently emphasized.
-
-**Temple Politics**: The Jerusalem Temple was the center of Jewish religious and political life, but control of the high priesthood had become deeply politicized. Different factions competed for influence, and some groups (like the authors of Jubilees and the Qumran community) became deeply dissatisfied with the Temple establishment.
-
-### Religious Diversity in Second Temple Judaism
-
-The period in which Jubilees was written was characterized by remarkable [diversity in Jewish religious thought and practice](https://missourireview.com/article/the-dead-sea-scrolls-the-book-of-jubilees/). Various groups debated fundamental questions about law, tradition, calendar, and theology:
-
-1. **Pharisees**: Emphasized oral tradition alongside written Torah, believed in resurrection and angels
-2. **Sadducees**: Priestly aristocracy, rejected oral tradition, denied resurrection
-3. **Essenes**: Sectarian group (likely including the Qumran community), emphasized purity, followed solar calendar
-4. **Various other groups**: Including the "Hasideans" (pious ones) and other priestly factions
-
-### The Author's Social Location
-
-The author of Jubilees appears to have been a member of a **priestly family** in Judea who was deeply concerned about what he perceived as the corruption and compromise of the Jerusalem Temple establishment. [The text provides](https://www.britannica.com/topic/Book-of-Jubilees) "a unique insight into the heart of an observant Jew in the period just prior to the events of the New Testament."
-
-The priestly author was likely part of a dissenting movement that would eventually form communities like Qumran. He wrote for an audience who shared his concerns about:
-- Intermarriage with Gentiles
-- Adoption of the "wrong" (lunar) calendar
-- Laxity in observing purity laws
-- Insufficient separation from pagan influences
-
-### Geographic Setting
-
-The book was written in **Hebrew** in **Judea**, specifically for a Jewish audience in the land of Israel. While we cannot pinpoint a specific location, the author's intense concern with the Jerusalem Temple and its calendar suggests he was geographically close to Jerusalem, even if ideologically distant from its current leadership.
-
-### The Significance of the Qumran Connection
-
-The discovery of fifteen manuscript copies of Jubilees at Qumran demonstrates that this text was foundational to the community there—it is [the third most commonly found text](https://blogs.ancientfaith.com/wholecounsel/2019/10/30/the-book-of-jubilees/) at Qumran, following Genesis and 1 Enoch. This indicates that Jubilees either emerged from the same priestly circles that founded Qumran, or that the Qumran community recognized it as authoritative soon after its composition.
-
-### Summary of Historical Environment
-
-The Book of Jubilees was written in Judea around 160-150 BCE by a Jewish priest during a period of acute cultural crisis. The author lived in the aftermath of brutal religious persecution under Antiochus IV Epiphanes, during or shortly after the Maccabean revolt, and at a time when Jewish identity was under severe pressure from Hellenistic culture. Writing to fellow priests and devout Jews who shared his concerns, the author sought to establish a definitive interpretation of Torah that would preserve Jewish distinctiveness, correct the calendar, and define proper worship—even if it meant standing against the Jerusalem Temple establishment itself.
+Composed in Judea around 160-150 BCE, the Book of Jubilees emerged from the turbulent [Second Temple period](https://en.wikipedia.org/wiki/Book_of_Jubilees). The author, likely a dissenting priest, wrote in the aftermath of the Maccabean Revolt against Hellenistic cultural pressure and religious persecution. The text addresses a Jewish community grappling with questions of identity, purity, and proper worship. Its fierce opposition to the lunar calendar used by the Jerusalem Temple and its strict prohibitions on intermarriage reflect deep dissatisfaction with the religious establishment. The book's prominence at Qumran, evidenced by numerous manuscript discoveries, suggests it was foundational for sectarian groups like the Essenes who shared its concerns about assimilation and cultic purity.
 
 ## Purpose
 
@@ -367,7 +314,7 @@ The Book of Jubilees occupies a unique canonical position: rejected as pseudepig
 
 ## Summary
 
-The [Book of Jubilees](https://en.wikipedia.org/wiki/Book_of_Jubilees) is an ancient Jewish text of **50 chapters** (1,341 verses) that presents itself as a **divine revelation** which God communicated to Moses through the Angel of the Presence on Mount Sinai. The book recounts biblical history from creation to the arrival of the Israelites at Mount Sinai, covering the same material as Genesis 1 through Exodus 19, but with significant expansions, interpretations, and additional material.
+The [Book of Jubilees](https://en.wikipedia.org/wiki/Book_of_Jubilees) is an ancient Jewish text of **50 chapters** (1,307 verses) that presents itself as a **divine revelation** which God communicated to Moses through the Angel of the Presence on Mount Sinai. The book recounts biblical history from creation to the arrival of the Israelites at Mount Sinai, covering the same material as Genesis 1 through Exodus 19, but with significant expansions, interpretations, and additional material.
 
 ### Literary Framework and Structure
 
@@ -447,7 +394,7 @@ The most distinctive and controversial teaching in Jubilees is its [364-day sola
 - Since 364 is divisible by 7, **every date falls on the same day of the week every year**
 - Religious festivals always occur on the same day of the week, never "drifting"
 
-**Theological Significance**: Jubilees claims this calendar was **established by God at creation** and observed by the angels in heaven (Jubilees 2:9). The text presents strong polemics against those who follow the lunar calendar, suggesting they cannot properly observe God's appointed festivals. This teaching was not merely academic—it represented a fundamental disagreement with the Jerusalem Temple establishment over the proper times for worship.
+**Theological Significance**: Jubilees claims this calendar was **established by God at creation** and observed by the angels in heaven (Jubilees 2:9). The text presents strong polemics against those who follow the lunar calendar, suggesting they cannot properly observe God's appointed festivals. This teaching was not merely academic—it represented a fundamental dispute with the Jerusalem Temple establishment over the proper times for worship.
 
 **Uniqueness**: While calendrical disputes existed in Second Temple Judaism, no other surviving text presents this specific 364-day calendar with such divine authority or in such detail. The Dead Sea Scrolls community also followed this calendar, suggesting a shared tradition.
 
@@ -528,7 +475,7 @@ A distinctive teaching of Jubilees is that the patriarchs observed [Torah laws b
 - **Dietary laws**: Clean and unclean animals distinguished from creation
 - **Purity regulations**: Menstruation, childbirth, corpse impurity observed before Sinai
 
-**Theological Purpose**: By claiming that "the feasts of the Lord were observed by the patriarchs long before the time of Moses," Jubilees argues that these laws are **not Mosaic innovations but eternal divine decrees** embedded in creation itself. This grants halakhic practices authority transcending historical contingency.
+**Theological Purpose**: By claiming that "the feasts of the Lord were observed by the patriarchs long before the time of Moses," Jubilees argues that these laws are **not Mosaic innovations but eternal divine decrees** embedded in creation itself. This grants halakhic practices an authority that transcends historical contingency.
 
 **Uniqueness**: While the Torah mentions some patriarchal practices (like circumcision), it does not claim they observed Sabbath, festivals, or purity laws. Jubilees' systematic retrojection of Mosaic law into the patriarchal period is distinctive.
 
@@ -712,7 +659,7 @@ The dating system in Jubilees, when extended beyond the biblical period, [cannot
 
 #### Enoch and the Flood Problem
 
-[A Notre Dame scholar analyzing the Dead Sea Scrolls](https://news.nd.edu/news/dead-sea-scroll-scholar-finds-error-in-book-of-jubilee-translation/) identified a significant problem in previous English translations of the Ethiopic text. A problematic verse **"doesn't make any sense"** because it implies God brought the flood on Eden because of Enoch's presence there, yet **"Enoch continues to live—he doesn't drown in the flood."**
+[A Notre Dame scholar analyzing the Dead Sea Scrolls](https://news.nd.edu/news/dead-sea-scroll-scholar-finds-error-in-book-of-jubilee-translation/) discovered a significant problem in previous English translations of the Ethiopic text. A problematic verse **"doesn't make any sense"** because it implies God brought the flood on Eden because of Enoch's presence there, yet **"Enoch continues to live—he doesn't drown in the flood."**
 
 **Scholarly Explanation**: This represents either:
 1. A mistranslation from Hebrew → Greek → Ethiopic → English
@@ -740,7 +687,7 @@ Comparison of Hebrew fragments with the Ethiopic translation has revealed instan
 - Exhibit different literary style or theological emphases
 - Appear to be additions to an originally coherent narrative
 
-**Scholarly Explanation**: An **interpolator frequently misunderstood or deliberately distorted** what the original author of Jubilees had said, creating contradictions and inconsistencies in the book. This suggests that Jubilees, like many ancient texts, underwent editorial expansion.
+**Scholarly Explanation**: An **interpolator frequently misunderstood or deliberately distorted** what the original author of Jubilees had said, thus **creating contradictions and inconsistencies in the book**. This suggests that Jubilees, like many ancient texts, underwent editorial expansion.
 
 **Implications**: If multiple authors/editors contributed to Jubilees over time, this would explain some of the internal tensions and contradictions (discussed in the next section).
 
@@ -786,7 +733,7 @@ The 364-day calendar finds **no support in the Torah** (Genesis through Deuteron
 
 #### Condemnation of Lot's Descendants
 
-Jubilees condemns intermarriage with Gentiles absolutely, yet [the text creates problems](https://www.academia.edu/122291337/The_Book_of_Jubilees_is_Not_Inspired_Scripture) by **condemning Lot's descendants** (Moab and Ammon) while the biblical Ruth was a Moabite who became an ancestor of David and Jesus (Ruth 1:4, Matthew 1:5).
+Jubilees condemns intermarriage with Gentiles absolutely, yet [the text creates problems](https://www.academia.edu/122291337/The_Book_of_Jubilees_is_Not_Inspired_Scripture) by **condemning Lot's descendants** (Moabites and Ammonites) while the biblical Ruth was a Moabite who became an ancestor of David and Jesus (Ruth 1:4, Matthew 1:5).
 
 **Scholarly Explanation - Conservative**: Jubilees reflects one interpretive tradition within Second Temple Judaism that took an extremely strict position on intermarriage. Other Jewish groups (including the one that produced Ruth) took more nuanced positions.
 
