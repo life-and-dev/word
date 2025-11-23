@@ -16,8 +16,8 @@
   - Malachi: https://eternal.family.net.za/bible/books/malachi
   - New Testament: ===
   - gospels:
-    - matthew
-    - mark
+    - Matthew: ../matthew
+    - Mark: ../mark
     - John: https://eternal.family.net.za/bible/books/john
   - Romans: https://eternal.family.net.za/bible/books/romans
   - Ephesians: https://eternal.family.net.za/bible/books/ephesians
@@ -25,8 +25,7 @@
   - Hebrews: https://eternal.family.net.za/bible/books/hebrews
   - Jude: https://eternal.family.net.za/bible/books/jude
   - Revelation: https://eternal.family.net.za/bible/books/revelation
-  - ===
-  - Apocrypha: https://eternal.family.net.za/bible/books/apocrypha
-    - letter-of-jeremiah
+  - Apocrypha: ===
+  - letter-of-jeremiah
 - translations
 - downloads

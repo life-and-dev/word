@@ -513,5 +513,5 @@ Major [textual variants](#textual-variants):
 Unexplainable [textual errors](#textual-errors):
 * The Attribution to Jeremiah (Matthew 27:9-10) to prove Jesus divinity
 
-Unexplainable [contradictions](../gospels.md#contradictions):
+Unexplainable [contradictions](gospels.md#contradictions):
 * None
