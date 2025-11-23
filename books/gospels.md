@@ -40,6 +40,93 @@ This historical backdrop is essential for understanding why each Gospel presents
 - **Luke**: Attributed to Luke, a physician and companion of the apostle Paul. It is addressed to a Gentile audience and emphasizes Jesus' compassion and inclusivity.
 - **John**: Traditionally attributed to John, the "beloved disciple." It is a personal testimony "so that you may believe that Jesus is [the Christ](https://kingdom.ofgod.info/christ), [the Son of God](https://son.ofgod.info), and that by believing you may have life in his name" (John 20:31).
 
+## Confirmations
+
+This list organizes the events and teachings of Jesus that are confirmed by at least two of the four Gospel witnesses (Matthew, Mark, Luke, John).
+
+*   **The Birth of Jesus**: Jesus is born in Bethlehem to the Virgin Mary (Matthew 1:18-25; Luke 2:1-20).
+*   **The Ministry of John the Baptist**: John preaches repentance and baptizes in the wilderness, preparing the way for the Lord (Matthew 3:1-12; Mark 1:2-8; Luke 3:1-18; John 1:19-28).
+*   **The Baptism of Jesus**: Jesus is baptized by John, and the Spirit descends upon Him like a dove while a voice from heaven confirms His sonship (Matthew 3:13-17; Mark 1:9-11; Luke 3:21-22; John 1:29-34).
+*   **The Temptation of Jesus**: Jesus fasts for forty days in the wilderness and resists the devil's temptations by quoting Scripture (Matthew 4:1-11; Mark 1:12-13; Luke 4:1-13).
+*   **Beginning of Ministry in Galilee**: After John's arrest, Jesus returns to Galilee to begin His public ministry, proclaiming the kingdom of God (Matthew 4:12-17; Mark 1:14-15; Luke 4:14-15).
+*   **Call of the First Disciples**: Jesus calls Simon Peter, Andrew, James, and John to follow Him and become fishers of men (Matthew 4:18-22; Mark 1:16-20; Luke 5:1-11).
+*   **Preaching in Synagogues**: Jesus travels throughout Galilee, preaching in synagogues and casting out demons (Matthew 4:23-25; Mark 1:35-39; Luke 4:42-44).
+*   **Healing a Leper**: Jesus cleanses a man with leprosy, instructing him to show himself to the priest as a testimony (Matthew 8:1-4; Mark 1:40-45; Luke 5:12-16).
+*   **Healing the Centurion's Servant**: Jesus heals a centurion's servant from a distance, marveling at the Gentile's great faith (Matthew 8:5-13; Luke 7:1-10).
+*   **Healing Peter's Mother-in-Law**: Jesus heals Peter's mother-in-law of a fever (Matthew 8:14-15; Mark 1:29-31; Luke 4:38-39).
+*   **Healing Many at Evening**: Jesus heals many who are sick and demon-possessed after sunset (Matthew 8:16-17; Mark 1:32-34; Luke 4:40-41).
+*   **Healing a Paralytic**: Jesus forgives the sins of a paralyzed man and heals him to demonstrate His authority to forgive sins (Matthew 9:1-8; Mark 2:1-12; Luke 5:17-26).
+*   **The Call of Matthew (Levi)**: Jesus calls a tax collector to follow Him and eats with sinners, declaring He came to call the sick, not the righteous (Matthew 9:9-13; Mark 2:13-17; Luke 5:27-32).
+*   **Question About Fasting**: When asked why His disciples do not fast, Jesus explains that the guests cannot mourn while the bridegroom is with them (Matthew 9:14-17; Mark 2:18-22; Luke 5:33-39).
+*   **Raising Jairus' Daughter and Healing the Woman**: Jesus heals a woman with a discharge of blood and raises a synagogue ruler's daughter from the dead (Matthew 9:18-26; Mark 5:21-43; Luke 8:40-56).
+*   **Plucking Grain on the Sabbath**: The Pharisees accuse the disciples of breaking the Sabbath, but Jesus declares the Son of Man is Lord of the Sabbath (Matthew 12:1-8; Mark 2:23-28; Luke 6:1-5).
+*   **Healing the Man with a Withered Hand**: Jesus heals a man's hand on the Sabbath, challenging the Pharisees' legalism regarding doing good on the holy day (Matthew 12:9-14; Mark 3:1-6; Luke 6:6-11).
+*   **Blasphemy Against the Holy Spirit**: Jesus warns that attributing the Spirit's work to Beelzebul is an unforgivable sin (Matthew 12:22-32; Mark 3:22-30; Luke 11:14-23).
+*   **Jesus' True Family**: Jesus declares that whoever does the will of God is His brother, sister, and mother (Matthew 12:46-50; Mark 3:31-35; Luke 8:19-21).
+*   **Parable of the Sower**: Jesus tells the parable of seeds falling on different soils to illustrate responses to God's word (Matthew 13:1-23; Mark 4:1-20; Luke 8:4-15).
+*   **Lamp Under a Basket**: Jesus teaches that a lamp is lit to be put on a stand, not hidden, representing the revealing of truth (Mark 4:21-25; Luke 8:16-18).
+*   **Parable of the Mustard Seed**: Jesus compares the kingdom of God to a tiny mustard seed that grows into a large tree (Matthew 13:31-32; Mark 4:30-32; Luke 13:18-19).
+*   **Rejection at Nazareth**: Jesus is rejected in His hometown synagogue, where the people take offense at Him (Matthew 13:53-58; Mark 6:1-6; Luke 4:16-30).
+*   **Calming the Storm**: Jesus rebukes the wind and waves on the Sea of Galilee, calming the storm and challenging the disciples' faith (Matthew 8:23-27; Mark 4:35-41; Luke 8:22-25).
+*   **Healing the Gadarene Demoniac(s)**: Jesus casts a legion of demons out of a man (or men) into a herd of pigs (Matthew 8:28-34; Mark 5:1-20; Luke 8:26-39).
+*   **Selection of the Twelve Apostles**: Jesus chooses twelve disciples from His followers to be with Him and to be sent out to preach (Matthew 10:1-4; Mark 3:13-19; Luke 6:12-16).
+*   **The Beatitudes**: Jesus pronounces blessings on the poor in spirit, the mourners, the meek, and those persecuted for righteousness (Matthew 5:3-12; Luke 6:20-23).
+*   **Love for Enemies**: Jesus commands His followers to love their enemies, do good to those who hate them, and pray for persecutors (Matthew 5:43-48; Luke 6:27-36).
+*   **Judging Others**: Jesus warns against judging others, using the illustration of the speck and the log in the eye (Matthew 7:1-5; Luke 6:37-42).
+*   **The Tree and Its Fruit**: Jesus teaches that a tree is known by its fruit, and out of the abundance of the heart the mouth speaks (Matthew 7:15-20; Luke 6:43-45).
+*   **The Wise and Foolish Builders**: Jesus compares those who hear and do His words to a man building on a rock, and those who do not to a man building on sand (Matthew 7:24-27; Luke 6:46-49).
+*   **Messengers from John the Baptist**: John sends disciples to ask if Jesus is the Coming One; Jesus points to His miracles as evidence (Matthew 11:2-19; Luke 7:18-35).
+*   **Mission of the Twelve**: Jesus sends the twelve apostles out with authority to preach, heal, and cast out demons (Matthew 10:5-15; Mark 6:7-13; Luke 9:1-6).
+*   **Death of John the Baptist**: Herod beheads John the Baptist at the request of Herodias' daughter (Matthew 14:1-12; Mark 6:14-29; Luke 9:7-9).
+*   **Feeding the Five Thousand**: Jesus miraculously feeds a multitude of five thousand men with five loaves and two fish (Matthew 14:13-21; Mark 6:30-44; Luke 9:10-17; John 6:1-14).
+*   **Walking on Water**: Jesus walks on the sea to His disciples during a storm, identifying Himself as "I am" (Matthew 14:22-33; Mark 6:45-52; John 6:16-21).
+*   **Peter's Confession of Christ**: Peter acknowledges Jesus as the Christ (Messiah) at Caesarea Philippi (Matthew 16:13-20; Mark 8:27-30; Luke 9:18-21).
+*   **First Prediction of the Passion**: Jesus predicts His suffering, death, and resurrection for the first time (Matthew 16:21-23; Mark 8:31-33; Luke 9:22).
+*   **The Cost of Discipleship**: Jesus teaches that following Him requires denying oneself and taking up one's cross (Matthew 16:24-28; Mark 8:34-9:1; Luke 9:23-27).
+*   **The Transfiguration**: Jesus is transfigured on a mountain, appearing with Moses and Elijah in glory (Matthew 17:1-8; Mark 9:2-8; Luke 9:28-36).
+*   **Healing a Boy with an Unclean Spirit**: Jesus heals a boy possessed by a spirit that the disciples could not cast out (Matthew 17:14-21; Mark 9:14-29; Luke 9:37-43).
+*   **Second Prediction of the Passion**: Jesus predicts His betrayal and death a second time while passing through Galilee (Matthew 17:22-23; Mark 9:30-32; Luke 9:43-45).
+*   **Dispute about Greatness**: The disciples argue about who is the greatest, and Jesus teaches that the greatest must be a servant (Matthew 18:1-5; Mark 9:33-37; Luke 9:46-48).
+*   **Warning Against Causing Sin**: Jesus warns that it would be better to be drowned with a millstone than to cause a little one to stumble (Matthew 18:6-9; Mark 9:42-48; Luke 17:1-2).
+*   **Teaching on Divorce**: Jesus upholds the sanctity of marriage, stating that what God has joined, man should not separate (Matthew 19:1-12; Mark 10:1-12).
+*   **Blessing the Children**: Jesus rebukes the disciples for hindering children and welcomes them, stating the kingdom belongs to such as these (Matthew 19:13-15; Mark 10:13-16; Luke 18:15-17).
+*   **The Rich Young Ruler**: A rich man asks about eternal life but walks away sad when Jesus tells him to sell his possessions (Matthew 19:16-30; Mark 10:17-31; Luke 18:18-30).
+*   **Third Prediction of the Passion**: Jesus predicts His condemnation, mocking, scourging, and crucifixion on the way to Jerusalem (Matthew 20:17-19; Mark 10:32-34; Luke 18:31-34).
+*   **Request of James and John**: The sons of Zebedee (or their mother) ask for seats of honor; Jesus teaches that leadership is servanthood (Matthew 20:20-28; Mark 10:35-45).
+*   **Healing Blind Men at Jericho**: Jesus heals blind Bartimaeus (and a companion in Matthew) near Jericho (Matthew 20:29-34; Mark 10:46-52; Luke 18:35-43).
+*   **The Triumphal Entry**: Jesus rides into Jerusalem on a colt while crowds shout "Hosanna" and wave branches (Matthew 21:1-9; Mark 11:1-10; Luke 19:28-40; John 12:12-19).
+*   **Cleansing the Temple**: Jesus drives out money changers and merchants from the temple, declaring it a house of prayer (Matthew 21:12-13; Mark 11:15-17; Luke 19:45-46; John 2:13-16).
+*   **Cursing the Fig Tree**: Jesus curses a barren fig tree, which withers, serving as a lesson on faith and fruitfulness (Matthew 21:18-22; Mark 11:12-14, 20-25).
+*   **The Authority of Jesus Questioned**: Religious leaders ask Jesus by what authority He acts; He counters with a question about John's baptism (Matthew 21:23-27; Mark 11:27-33; Luke 20:1-8).
+*   **Parable of the Wicked Tenants**: Jesus tells a parable about tenants who kill the vineyard owner's son, predicting His rejection (Matthew 21:33-46; Mark 12:1-12; Luke 20:9-19).
+*   **Paying Taxes to Caesar**: Jesus answers a trap about taxes by saying, "Render to Caesar the things that are Caesar's, and to God the things that are God's" (Matthew 22:15-22; Mark 12:13-17; Luke 20:20-26).
+*   **The Resurrection Question**: Jesus corrects the Sadducees, teaching that God is the God of the living and that there is no marriage in the resurrection (Matthew 22:23-33; Mark 12:18-27; Luke 20:27-40).
+*   **The Great Commandment**: Jesus identifies loving God with all one's heart and loving one's neighbor as oneself as the greatest commandments (Matthew 22:34-40; Mark 12:28-34).
+*   **Whose Son is the Christ?**: Jesus asks how the Christ can be David's son if David calls Him Lord (Matthew 22:41-46; Mark 12:35-37; Luke 20:41-44).
+*   **Warning Against Scribes**: Jesus condemns the religious leaders for their pride, greed, and hypocrisy (Matthew 23:1-36; Mark 12:38-40; Luke 20:45-47).
+*   **The Widow's Offering**: Jesus commends a poor widow who gave two small coins, giving more than the rich (Mark 12:41-44; Luke 21:1-4).
+*   **Prediction of the Temple's Destruction**: Jesus foretells that not one stone of the temple will be left upon another (Matthew 24:1-2; Mark 13:1-2; Luke 21:5-6).
+*   **The Eschatological Discourse**: Jesus teaches about the signs of the end times, the tribulation, and the coming of the Son of Man (Matthew 24:3-51; Mark 13:3-37; Luke 21:7-36).
+*   **The Plot to Kill Jesus**: The chief priests and scribes conspire to arrest and kill Jesus (Matthew 26:1-5; Mark 14:1-2; Luke 22:1-2).
+*   **The Anointing at Bethany**: A woman anoints Jesus with expensive ointment, preparing Him for burial (Matthew 26:6-13; Mark 14:3-9; John 12:1-8).
+*   **Judas Agrees to Betray Jesus**: Judas Iscariot agrees to betray Jesus to the chief priests for money (Matthew 26:14-16; Mark 14:10-11; Luke 22:3-6).
+*   **The Last Supper**: Jesus eats the Passover meal with His disciples and institutes the Lord's Supper (Matthew 26:17-29; Mark 14:12-25; Luke 22:7-38).
+*   **Prediction of Peter's Denial**: Jesus predicts that Peter will deny Him three times before the rooster crows (Matthew 26:30-35; Mark 14:26-31; Luke 22:31-34; John 13:36-38).
+*   **Gethsemane**: Jesus prays in agony in the garden while the disciples sleep (Matthew 26:36-46; Mark 14:32-42; Luke 22:39-46).
+*   **The Arrest of Jesus**: Judas betrays Jesus with a kiss, and Jesus is arrested by an armed crowd (Matthew 26:47-56; Mark 14:43-52; Luke 22:47-53; John 18:1-11).
+*   **Trial Before the High Priest/Sanhedrin**: Jesus is tried, accused of blasphemy, and condemned by the Jewish leaders (Matthew 26:57-68; Mark 14:53-65; Luke 22:63-71; John 18:12-24).
+*   **Peter's Denial**: Peter denies knowing Jesus three times in the courtyard, then weeps bitterly (Matthew 26:69-75; Mark 14:66-72; Luke 22:56-62; John 18:15-27).
+*   **Jesus Before Pilate**: Jesus is handed over to Pilate, the Roman governor, for trial (Matthew 27:1-2, 11-14; Mark 15:1-5; Luke 23:1-5; John 18:28-38).
+*   **Barabbas Released, Jesus Condemned**: The crowd chooses Barabbas to be released, and Pilate sentences Jesus to crucifixion (Matthew 27:15-26; Mark 15:6-15; Luke 23:13-25; John 18:39-19:16).
+*   **The Mocking of Jesus**: Soldiers crown Jesus with thorns, mock him as King of the Jews, and abuse Him (Matthew 27:27-31; Mark 15:16-20; John 19:2-3).
+*   **The Crucifixion**: Jesus is crucified at Golgotha between two criminals (Matthew 27:32-44; Mark 15:21-32; Luke 23:26-43; John 19:17-27).
+*   **The Death of Jesus**: Jesus breathes his last, the temple curtain tears, and the centurion confesses he was the Son of God (Matthew 27:45-56; Mark 15:33-41; Luke 23:44-49; John 19:28-30).
+*   **The Burial of Jesus**: Joseph of Arimathea takes Jesus' body and lays it in a tomb (Matthew 27:57-61; Mark 15:42-47; Luke 23:50-56; John 19:38-42).
+*   **The Empty Tomb**: Women find the tomb empty on the third day and are told that Jesus has risen (Matthew 28:1-10; Mark 16:1-8; Luke 24:1-12; John 20:1-10).
+*   **Road to Emmaus**: The risen Jesus appears to two disciples on the road to Emmaus and explains the Scriptures to them (Mark 16:12-13; Luke 24:13-35).
+*   **The Great Commission**: The risen Jesus sends his disciples to preach the gospel to all nations (Matthew 28:16-20; Mark 16:15-18; Luke 24:46-49; John 20:21).
+*   **The Ascension**: Jesus is taken up into heaven and sits at the right hand of God (Mark 16:19-20; Luke 24:50-53).
+
 ## Contradictions
 
 While the Gospels share many similarities, they also contain differences in details and emphasis. These variations can be attributed to the distinct perspectives of the authors, their intended audiences, and the specific theological messages they sought to convey. However, these differences do not undermine the overall message of the Gospels but rather enrich our understanding of Jesus' life and ministry.

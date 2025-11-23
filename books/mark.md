@@ -1,3 +1,8 @@
+---
+description: Comprehensive overview of the Gospel of Mark, its authorship, historical context, purpose, and detailed chapter summary.
+keywords: Gospel of Mark, Mark's Gospel, Messiah, New Testament, biblical commentary, Jesus Christ
+---
+
 # Mark
 
 ## Authorship
