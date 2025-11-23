@@ -75,131 +75,7 @@ The authorship question remains complex, with traditional religious communities 
 
 ## Historical Environment
 
-The historical environment surrounding Deuteronomy, Leviticus, and Numbers involves multiple time periods, depending on whether one accepts traditional dating or modern scholarly reconstructions. The books themselves purport to be set during the wilderness period after the Exodus from Egypt, but their composition history reflects various historical contexts spanning nearly a millennium.
-
-### Traditional Setting: The Wilderness Period
-
-According to the narrative framework and traditional interpretation, these books were composed during Israel's wilderness wanderings between Egypt and the Promised Land. The traditional chronology places this period in either:
-
-**Early Date**: c. 1440-1400 BCE (15th century BCE), based on 1 Kings 6:1, which states Solomon began building the temple 480 years after the Exodus. This would place the Exodus around 1446 BCE during Egypt's 18th Dynasty.
-
-**Late Date**: c. 1290-1250 BCE (13th century BCE), associated with Pharaoh Ramesses II of the 19th Dynasty, based on references to the city of Ramesses (Exodus 1:11) and archaeological evidence.
-
-#### Late Bronze Age Context (c. 1500-1200 BCE)
-
-The [Late Bronze Age setting](https://en.wikipedia.org/wiki/History_of_ancient_Israel_and_Judah) provides the backdrop for the traditional narrative:
-
-- **Egyptian Domination**: Canaan was a patchwork of city-states under the imperial control of New Kingdom Egypt. The region served as a buffer zone and trade corridor for Egyptian interests.
-
-- **Limited Settlement**: The central and northern hill country (later biblical Israel) was sparsely inhabited. Settlement concentrated along the coastal plain and major communication routes. Total population likely numbered around 100,000.
-
-- **Urban Decline**: Many cities were abandoned during this period, and others shrank significantly in size.
-
-- **Archaeological Challenge**: The Sinai Peninsula shows almost no archaeological evidence of occupation during the entire 2nd millennium BCE. Even Kadesh-Barnea, where Israel supposedly spent 38 years (Numbers 20:1), was uninhabited before the early 12th century BCE.
-
-### Modern Scholarly Reconstruction: Multiple Historical Contexts
-
-Most modern scholars see these books as [composite works written over several centuries](https://en.wikipedia.org/wiki/Composition_of_the_Torah), reflecting different historical situations:
-
-#### 1. The Divided Monarchy Period (10th-8th centuries BCE)
-
-Some traditions within Numbers and possibly early legal material may originate from this period when Israel and Judah existed as separate kingdoms:
-
-- **Northern Kingdom (Israel)**: 931-722 BCE, more prosperous but religiously diverse
-- **Southern Kingdom (Judah)**: 931-586 BCE, centered on Jerusalem and the Davidic dynasty
-- **Religious Pluralism**: Multiple sanctuaries and worship sites existed throughout both kingdoms
-- **Assyrian Threat**: Growing pressure from the Neo-Assyrian Empire eventually destroyed the Northern Kingdom in 722 BCE
-
-#### 2. Josiah's Reform Era (Late 7th century BCE)
-
-The most significant context for Deuteronomy is [King Josiah's religious reforms in 622 BCE](https://www.britannica.com/event/Deuteronomic-Reform):
-
-**Political Context:**
-- Assyrian Empire was declining, giving Judah greater independence
-- Josiah expanded Judah's territory northward into former Israelite lands
-- Nationalistic revival accompanied religious reform
-
-**Religious Reform:**
-- Discovery of the "Book of the Law" during temple repairs (2 Kings 22)
-- Centralization of worship exclusively at Jerusalem temple
-- Destruction of local sanctuaries (high places) throughout Judah
-- Elimination of syncretistic practices mixing Yahwism with other deities
-
-**Deuteronomy's Role:**
-Scholars widely believe an early form of Deuteronomy (especially chapters 12-26, the Deuteronomic Code) constituted this discovered "Book of the Law." The book's repeated emphasis on worshiping at "the place which the Lord will choose" (understood as Jerusalem) directly supported Josiah's centralization program.
-
-**Social Context:**
-- Scribal class gained prominence in Jerusalem
-- Priests from outlying shrines lost their positions
-- Increased literacy and documentary culture
-- Growing importance of written Torah over oral tradition
-
-#### 3. The Babylonian Exile (586-538 BCE)
-
-The [exile period proved crucial](https://en.wikipedia.org/wiki/Babylonian_captivity) for the development and compilation of these texts:
-
-**Historical Events:**
-- 597 BCE: First deportation of Judean elites to Babylon
-- 586 BCE: Destruction of Jerusalem and Solomon's Temple by Nebuchadnezzar II
-- 586-538 BCE: Judean exiles lived in Babylon
-- 538 BCE: Cyrus the Great of Persia conquered Babylon and authorized return
-
-**Cultural Impact:**
-- Loss of land, temple, and monarchy forced theological reconsideration
-- Priestly traditions were systematized and written down
-- Leviticus likely took shape as priests codified ritual practices without an active temple
-- Deuteronomistic History (Joshua through Kings) was completed, explaining the exile as divine punishment for covenant unfaithfulness
-
-**Audience:**
-The exilic audience struggled with questions of identity, divine justice, and hope for restoration. These law books addressed:
-- How to maintain identity without temple or land
-- Why the catastrophe occurred
-- What constitutes proper worship and holiness
-- How to live as God's people in foreign territory
-
-#### 4. The Persian Period (539-333 BCE)
-
-The [final compilation and editing](https://en.wikipedia.org/wiki/History_of_ancient_Israel_and_Judah) of the Torah occurred under Persian rule:
-
-**Political Context:**
-- 539 BCE: Persian conquest of Babylon
-- Persian policy allowed local customs and religious practices
-- Yehud (Judah) became a small Persian province
-- Limited self-governance under high priests and governors
-- Jerusalem temple rebuilt (515 BCE)
-
-**Religious Development:**
-- Torah emerged as the authoritative constitution for the Jewish community
-- Ezra the scribe promulgated the Torah as law (early 4th century BCE)
-- Priestly source (P) material in Leviticus and Numbers reached final form
-- Final redaction unified earlier sources into coherent whole
-- Canonization process began
-
-**Social Structure:**
-- Priestly families dominated leadership
-- Return from exile was partial; large diaspora communities remained in Babylon and Persia
-- Mixed population in Judah created conflicts over identity and intermarriage
-- Economy was agricultural and modest, with tribute payments to Persia
-
-### Geographic Setting
-
-**Narrative Setting**: The books are set in the wilderness of Sinai, the Transjordan region east of the Jordan River, and the plains of Moab opposite Jericho. These liminal spaces—between slavery and freedom, between Egypt and Canaan—carry theological significance as places of formation and testing.
-
-**Composition Settings**: Based on scholarly reconstruction, composition likely occurred in:
-- Jerusalem (especially during Josiah's reign and the return under Persian rule)
-- Babylon (during the exile, especially for priestly material)
-- Possibly northern sanctuaries for earlier traditions
-
-### Intended Audience
-
-The audience varied by compositional layer:
-
-**Traditional View**: The Israelites who left Egypt and their immediate descendants entering Canaan
-
-**Scholarly Reconstruction**:
-- **Deuteronomy**: Judean leadership and populace during Josiah's reforms; later, exilic community needing explanation for catastrophe
-- **Leviticus**: Priestly families preserving ritual traditions during and after exile; post-exilic community rebuilding worship
-- **Numbers**: Multiple audiences across different historical periods, from monarchic period through Persian era
+The Law Books (Deuteronomy, Leviticus, Numbers) are traditionally set in the wilderness period (c. 1440 or 1250 BCE), but modern scholars view them as composite works compiled over centuries. Key historical contexts for their composition include the divided monarchy, [King Josiah's religious reforms](https://www.britannica.com/event/Deuteronomic-Reform) (late 7th century BCE), and especially the [Babylonian exile](https://en.wikipedia.org/wiki/Babylonian_captivity) (586-538 BCE). The trauma of exile profoundly shaped these texts, which address questions of identity, divine justice, and hope for a scattered people. Their final form emerged during the [Persian period](https://en.wikipedia.org/wiki/History_of_ancient_Israel_and_Judah), serving as a constitutional and theological foundation for the post-exilic Jewish community centered in Jerusalem.
 
 ### External Resources
 
@@ -207,8 +83,6 @@ The audience varied by compositional layer:
 - [The Exodus - Wikipedia](https://en.wikipedia.org/wiki/The_Exodus)
 - [Babylonian Captivity - Wikipedia](https://en.wikipedia.org/wiki/Babylonian_captivity)
 - [Deuteronomic Reform - Britannica](https://www.britannica.com/event/Deuteronomic-Reform)
-
-The historical environment of these books thus encompasses both the ancient Near Eastern world of the Late Bronze Age (their narrative setting) and the complex political, religious, and social developments of Israel and Judah from the monarchy through the Persian period (their probable compositional contexts).
 
 ## Purpose
 
@@ -839,7 +713,7 @@ Numbers addresses a unique legal situation: when Zelophehad died without sons, h
 
 #### The Shema and Love for God (Deuteronomy 6:4-9)
 
-[The Shema](https://www.myjewishlearning.com/article/deuteronomy-64-the-shema/)—"Hear, O Israel: The LORD our God, the LORD is one. You shall love the LORD your God with all your heart, and with all your soul, and with all your might" (Deuteronomy 6:4-5)—appears only in Deuteronomy. This declaration became Judaism's central confession, recited daily by observant Jews for millennia. Deuteronomy uniquely makes love for God—not merely fear or obedience—the foundation of covenant relationship. Earlier texts emphasized fearing God; Deuteronomy demands wholehearted love. Jesus identified this as the greatest commandment (Matthew 22:37-38), demonstrating its enduring centrality.
+[The Shema](https://www.myjewishlearning.com/article/deuteronomy-64-the-shema/)—"Hear, O Israel: The LORD our God, the LORD is one. You shall love the LORD your God with all your heart, and with all your soul, and with all your might" (Deuteronomy 6:4-5)—appears only in Deuteronomy. This declaration of monotheism and total devotion became central to Jewish faith, recited daily by observant Jews for millennia. Deuteronomy uniquely makes love for God—not merely fear or obedience—the foundation of covenant relationship. Earlier texts emphasized fearing God; Deuteronomy demands wholehearted love. Jesus identified this as the greatest commandment (Matthew 22:37-38), demonstrating its enduring centrality.
 
 #### Centralized Worship (Deuteronomy 12)
 
@@ -891,7 +765,7 @@ These unique teachings demonstrate how Deuteronomy, Leviticus, and Numbers serve
 
 The text of Deuteronomy, Leviticus, and Numbers has been transmitted through multiple textual traditions, resulting in variants between the [Masoretic Text](https://en.wikipedia.org/wiki/Masoretic_Text) (MT), [Septuagint](https://en.wikipedia.org/wiki/Septuagint) (LXX), [Samaritan Pentateuch](https://en.wikipedia.org/wiki/Samaritan_Pentateuch) (SP), and Dead Sea Scrolls (DSS). While most variants involve minor spelling or grammatical differences, some significantly affect meaning or theological interpretation.
 
-### Overview of Textual Traditions
+### Overview of Textual Witnesses
 
 **Masoretic Text (MT)**: The authoritative Hebrew text for Judaism and most Protestant translations, standardized by the Masoretes between the 6th-10th centuries CE. Represents a single textual family selected from multiple earlier traditions.
 
@@ -1125,9 +999,7 @@ Numbers and Leviticus assume multiple legitimate altars and sanctuaries througho
 
 #### Leviticus vs. Numbers
 
-**Day of Atonement vs. Regular Offerings**: Leviticus 16 presents the Day of Atonement ritual as unique and climactic. Numbers 29 includes it among festival offerings with less special emphasis, suggesting different traditi
-
-onal contexts or purposes.
+**Day of Atonement vs. Regular Offerings**: Leviticus 16 presents the Day of Atonement ritual as unique and climactic. Numbers 29 includes it among festival offerings with less special emphasis, suggesting different traditional contexts or purposes.
 
 **Priestly Functions**: Leviticus focuses on Aaron and his sons; Numbers includes Levites more broadly, with different functional divisions and responsibilities detailed.
 

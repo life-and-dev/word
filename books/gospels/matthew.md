@@ -29,14 +29,6 @@ The primary challenge to traditional authorship concerns the literary relationsh
 *   **Universal Manuscript Tradition:** Every ancient manuscript of the Gospel that bears a title names Matthew as the author. No competing author was ever suggested in antiquity.
 *   **Internal Clues:** The author's familiarity with Jewish customs, Aramaic, and financial matters are all [internal clues](https://crossexamined.org/what-is-the-internal-evidence-for-the-authorship-of-matthews-gospel/) that fit the profile of a tax collector. The Gospel even uses the name "Matthew" for the tax collector called by Jesus (Matthew 9:9), whereas Mark and Luke use "Levi"—a subtle authorial signature.
 
-## Historical Environment
-
-The Gospel of Matthew was written during a critical era for Judaism under Roman occupation. The political climate was oppressive, marked by the brutal reign of Herod the Great and direct Roman governance by prefects like Pontius Pilate. This subjugation fueled intense messianic expectations among the Jewish people, who anticipated a king to restore Israel's political sovereignty.
-
-First-century Jewish culture was shaped by various religious sects, including the Pharisees and Sadducees, who frequently appear in the narrative as Jesus's opponents. Matthew presents Jesus as the long-awaited Messiah but redefines his role, emphasizing spiritual redemption over political revolution.
-
-The Gospel's composition reflects this tense environment. If written in the 60s CE, it captures the turmoil preceding the First Jewish-Roman War. If written later, in the 80s-90s CE, it addresses the trauma following the destruction of the Jerusalem temple in 70 CE. This later context would explain the conflict between the Matthean community and the emerging form of rabbinic Judaism, as both groups claimed to be the true continuation of Israel's heritage. This historical backdrop is essential for understanding Matthew's focus on Jesus as the fulfillment of Jewish prophecy.
-
 ## Purpose
 
 The Gospel of Matthew’s primary purpose is to **demonstrate conclusively that Jesus of Nazareth is the promised [Messiah who fulfills Old Testament prophecy](https://prophecies.ofgod.info)** and [establishes the Kingdom of God](https://kingdom.ofgod.info).
@@ -410,20 +402,6 @@ Despite questions about its originality, this commission became the basis for Ch
 
 Critics have alleged that Matthew's Gospel contains factual, historical, and prophetic errors that undermine its claim to divine inspiration. These alleged errors range from misattributed prophecies and botanical inaccuracies to historical contradictions and unfulfilled citations. Conservative evangelical scholarship responds that careful examination of context, ancient literary conventions, cultural background, and linguistic analysis resolves these difficulties, demonstrating that alleged "errors" reflect modern misunderstanding rather than ancient mistakes. The following addresses the most commonly cited examples:
 
-### Genealogical Differences from Luke (Matthew 1:1-17)
-
-Matthew's genealogy (Matthew 1:1-17) differs significantly from Luke's (Luke 3:23-38). Both agree from Abraham to David but **diverge** afterward: 
-
-Matthew traces descent through Solomon, Luke through Nathan (both David's sons). Matthew names Jacob as Joseph's father (Matthew 1:16), Luke names Heli (Luke 3:23). Matthew lists 28 generations from David to Jesus, Luke lists 41. Critics claim these *genealogies contradict*, proving at least one erroneous. 
-
-Traditional conservative explanation maintains Matthew provides Jesus' **legal, royal lineage** through Joseph (establishing legal claim to David's throne), while Luke provides Jesus' **biological lineage through Mary** (explaining His physical Davidic descent). If "Joseph son of Heli" follows ancient levirate marriage custom or represents Joseph as Heli's son-in-law (Mary's father being Heli), the genealogies trace different lines converging in Jesus. Matthew emphasizes Jesus' legal right to kingship (through Solomon's royal line), Luke emphasizes Jesus' physical descent from David (through Nathan). 
-
-Both serve theological purposes: 
-* Matthew addresses Jewish concerns about messianic credentials, 
-* Luke demonstrates Jesus' true humanity and universal significance (tracing back to Adam). 
-
-Rather than errors, the genealogies reflect different purposes, audiences, and lines of descent, demonstrating complementary rather than contradictory testimony.
-
 ### The Birth Chronology (Matthew 2:1)
 
 > Now after Jesus was born in Bethlehem of Judea **in the days of Herod the king**, behold, wise men from the east came to Jerusalem... — Matthew 2:1 (ESV)
@@ -483,59 +461,7 @@ While Jerome and Augustine acknowledged difficulty with this passage, conservati
 
 ## Contradictions
 
-Critics frequently allege that Matthew's Gospel contains internal contradictions and irreconcilable discrepancies when compared with the other three Gospels.
-
-Conservative scholarship responds that apparent contradictions dissolve when ancient biographical conventions, complementary rather than contradictory reporting, eyewitness perspective differences, literary compression, and theological selectivity are properly understood. The Gospels function as ancient Greco-Roman biographies (*bios* literature), which prioritized theological interpretation and thematic arrangement over strict chronological precision, allowed paraphrase and summary, and selected material according to authorial purpose. 
-
-Alleged contradictions typically represent different perspectives on the same events rather than mutually exclusive claims, analogous to how multiple witnesses describe the same accident from different vantage points with varying details yet consistent core facts.
-
-### The Jeconiah Curse (Matthew 1:12 cf. Jeremiah 22:30)
-
-Matthew's **genealogy traces Jesus through Jeconiah** (Matthew 1:12): "and Josiah the father of Jechoniah and his brothers, at the time of the deportation to Babylon. And after the deportation to Babylon: Jechoniah was the father of Shealtiel, and Shealtiel the father of Zerubbabel..."
-
-However, Jeremiah prophesied a curse against Jeconiah (also called Coniah or Jehoiachin):
-
-> Thus says the LORD: "Write this man down as **childless**, a man who shall not succeed in his days, for none of his offspring shall succeed in sitting on the throne of David and ruling again in Judah." — Jeremiah 22:30 (ESV)
-
-Critics argue Matthew's inclusion of the cursed Jeconiah in Jesus' genealogy creates an insurmountable problem: if Jesus descends from Jeconiah, he falls under the curse and cannot legitimately sit on David's throne.
-
-Conservative responses include:
-
-1. **"Childless" means without royal successor**: The prophecy was fulfilled—none of Jeconiah's descendants actually reigned as king in Judah. While Jeconiah had biological children (1 Chronicles 3:17-18), no offspring sat on David's throne in Jerusalem during the exile or after.
-
-2. **The curse was conditionally lifted**: Jeconiah repented in exile (2 Kings 25:27-30 records his release and honor in Babylon). God's promise to Zerubbabel, Jeconiah's grandson (Haggai 2:23), suggests the curse was lifted based on repentance.
-
-3. **Legal vs. biological lineage**: Matthew traces Jesus' legal right through Joseph (who descended from Jeconiah), while Luke 3:23-38 traces biological descent through Mary (through Nathan, not Solomon, thus avoiding Jeconiah entirely). Jesus inherits the legal claim to David's throne through Joseph without being biologically under the curse.
-
-4. **Messiah as exception**: The curse applied to human monarchy in fallen Israel; Jesus' eternal kingship, established by divine decree and resurrection, transcends and supersedes the temporal curse on Jeconiah's earthly dynasty.
-
-While the curse presents a genuine exegetical challenge, conservative scholarship maintains that Matthew's inclusion of Jeconiah demonstrates theological sophistication rather than error, showing Jesus as the one who overcomes the curse and restores the Davidic line through divine intervention.
-
-### The Centurion's Servant (Matthew 8:5-13 cf. Luke 7:1-10)
-
-> When he [Jesus] had entered Capernaum, a centurion **came forward to him**, appealing... — Matthew 8:5 (ESV)
-
-Matthew states the centurion "came forward to him" directly requesting healing, while Luke records the centurion "sent to him elders of the Jews" (Luke 7:3) and later "sent friends" (Luke 7:6). Critics claim this demonstrates *irreconcilable contradiction* because either the centurion came personally or sent intermediaries, not both. 
-
-Conservative response invokes the ancient law of agency: emissaries acting on another's authority were legally and socially **regarded as equivalent to the principal himself acting**. Numerous biblical examples demonstrate this principle: 2 Samuel 3:18, 14:19; 2 Kings 14:27; Esther 8:8; Ezra 1:7-8. When authorized representatives speak, ancient literature attributes speech directly to the one who authorized them. Matthew employs narrative compression (telescoping), a common ancient literary technique omitting intermediary details to focus on principals; Luke, who explicitly claims thorough investigation (Luke 1:3), includes fuller circumstantial detail. Both accounts could remain historically accurate: the centurion did approach Jesus (through authorized representatives), and intermediaries were physically present. Neither Matthew nor Luke claims exclusivity contradicting the other; they simply emphasize different aspects according to their distinct purposes and audiences.
-
-### The Blind Man at Jericho (Matthew 20:29-34; Mark 10:46-52; Luke 18:35-43)
-
-Mark identifies **one blind beggar**, Bartimaeus, healed as Jesus left Jericho (Mark 10:46-52). Matthew's parallel reports **two blind men** healed as Jesus left Jericho (Matthew 20:29-34). Luke places the healing of **one blind man** as Jesus approached Jericho (Luke 18:35-43). These accounts contain three points of tension: 
-
-1. the number of blind men (one vs. two), 
-2. the location (leaving vs. approaching), and 
-3. the name (Bartimaeus identified vs. unnamed). 
-
-Harmonization attempts propose: 
-
-1. two blind men were present, but Mark and Luke focus on the more prominent or vocal one (Bartimaeus), explaining the numerical difference; 
-2. the healing occurred between old and new Jericho (separated by about a mile), allowing both "leaving" and "approaching" to be technically accurate from different reference points; 
-3. Bartimaeus alone called out initially (as Jesus approached), with both men healed as Jesus departed, accounting for various elements. 
-
-Critics argue these explanations strain credulity and that the accounts represent different traditions about similar healing events, conflated or confused in transmission. The variations suggest independent sources rather than collusion or eyewitness precision.
-
-### The Triumphal Entry (Matthew 21:1-7 cf. Mark 11:1-7)
+### The Triumphal Entry (Matthew 21:1-7 cf. Mark 11:1-7; Luke 19:28-38; John 12:12-19)
 
 Matthew mentions both "a donkey, and a colt" (Matthew 21:2), stating the disciples "brought the donkey and the colt and put on them their cloaks, and he sat on them" (Matthew 21:7). Mark, Luke, and John mention only the colt (Mark 11:2,7; Luke 19:30,35; John 12:14-15). Skeptics charge *Matthew invented a second animal* through misunderstanding Zechariah 9:9's Hebrew parallelism ("mounted on a donkey, on a colt, the foal of a donkey"), failing to recognize this describes one animal from two perspectives. 
 
@@ -544,35 +470,6 @@ Conservative response maintains **both animals were present**:
 * Mark, Luke, and John focus on the colt Jesus actually rode. 
 
 Matthew does not state Jesus rode both animals simultaneously—"sat on them" likely refers to the cloaks placed on both animals rather than to both animals themselves. **The mother donkey accompanied her unbroken colt** (which "no one has ever yet sat," Mark 11:2) to calm it, **a practical consideration when riding an untrained young animal through crowds**. Matthew's dual mention reflects neither error nor misunderstanding but accurate reporting of both animals' presence combined with emphasis on prophetic fulfillment. The other Evangelists, not addressing the same Jewish apologetic concerns, mention **only the animal Jesus rode without denying another's presence**.
-
-### The Timing of the Temple Cleansing (Matthew 21:12-13 cf. John 2:13-17)
-
-Critics note apparent chronological contradictions: 
-
-* Matthew places the temple cleansing during Passion Week (Matthew 21:12-13)
-* John places it at the beginning of Jesus' ministry (John 2:13-17); 
-
-Matthew records the fig tree withering "at once" (Matthew 21:19), Mark says it withered overnight with disciples noticing the next morning (Mark 11:12-14,20-21). 
-
-Conservative responses note: 
-
-1. Jesus **may have cleansed the temple twice** — once at ministry's beginning (John) and again during Passion Week (Synoptics), demonstrating consistent righteous zeal for His Father's house. 
-2. Ancient biographies regularly **arranged material thematically rather than strictly chronologically**; none of the Gospels claims rigid chronological sequencing for every event. Matthew's compression serves theological purpose without historical fabrication, analogous to modern biographical writing that may discuss someone's "college years" topically rather than semester-by-semester chronologically.
-
-Regarding the fig tree, **Matthew compresses the event into single narrative** for theological emphasis (immediate judgment on Israel's fruitlessness), while **Mark provides fuller chronological detail** (curse, overnight withering, morning discovery). Both remain accurate: the tree did wither "at once" (**immediately upon Jesus' curse**, though **not observed until next morning**), and disciples did observe it the following morning. 
-
-### The Prediction of Peter's Denial (Matthew 26:34 cf. Mark 14:30)
-
-Matthew, Luke, and John record Jesus predicting "before the rooster crows, you will deny me three times" (Matthew 26:34; Luke 22:34; John 13:38). Mark's majority text records "before the rooster crows twice, you will deny me three times" (Mark 14:30). Critics see contradiction: did Jesus predict **one crow or two**?
-
-However, [significant textual variants complicate this issue](https://hermeneutics.stackexchange.com/questions/875/peters-denial-and-the-rooster-crowing). The word "twice" (δίς) in Mark 14:30 and 14:72 is **absent from several important early manuscripts** including [Codex Sinaiticus (ℵ), Codex Bezae (D), Codex Ephraemi Rescriptus (C*), Codex Washingtonianus (W), and minuscule 579](https://defendinginerrancy.com/bible-solutions/Matthew_26.34_(cf._Mark_14.30).php). Additionally, the phrase "and the rooster crowed" in Mark 14:68 (after Peter's first denial) is **absent from Codex Sinaiticus and Codex Vaticanus**, the two oldest complete New Testament manuscripts. This suggests later copyists added the first rooster crow to Mark 14:68 and possibly modified the prediction to include "twice" to provide additional detail or harmonize different traditions.
-
-Notably, [Codex Sinaiticus is completely consistent](https://hermeneutics.stackexchange.com/questions/875/peters-denial-and-the-rooster-crowing) in reporting only **one rooster crow** throughout Mark 14, occurring only after Peter's third denial—identical to Matthew, Luke, and John. This manuscript evidence suggests the apparent contradiction may result from later textual development in Mark's Gospel rather than from the original accounts.
-
-Conservative harmonization offers two approaches: 
-
-1. **Textual solution**: The original text of all four Gospels recorded one crow, with "twice" and the first crow being later additions to some Mark manuscripts.
-2. **Harmonization of majority text**: If "twice" is original to Mark, Jesus predicted three denials before the rooster's second crow, and Matthew/Luke/John streamline to the essential point without denying additional details. The more detailed account includes rather than contradicts the less detailed.
 
 ### The Death of Judas (Matthew 27:3-10 cf. Acts 1:18-19)
 
@@ -585,37 +482,6 @@ Regarding field purchase, **the priests technically bought the field**, but sinc
 The field's name "Field of Blood" fits both accounts: **Matthew emphasizes the blood money used** to purchase it, **Acts the blood spilled** when Judas' body burst. Rather than contradiction, the accounts provide complementary perspectives on the same tragic end. 
 
 **Matthew's version emphasizes fulfillment of prophecy** (Zechariah 11:12-13, attributed to Jeremiah in Matthew 27:9) and demonstrates the tragic consequences of betraying the Messiah.
-
-### The Resurrection Accounts (Matthew 28:1-10; Mark 16:1-8; Luke 24:4-10; John 20:1-12)
-
-The most frequently cited contradictions concern resurrection morning details. Critics note: 
-
-* Matthew mentions "Mary Magdalene and the other Mary" (Matthew 28:1), 
-* Mark adds Salome (Mark 16:1), 
-* Luke names "Mary Magdalene, Joanna, Mary the mother of James, and the other women" (Luke 24:10), 
-* John focuses solely on Mary Magdalene (John 20:1). 
-
-Regarding angels, 
-
-* Matthew records one angel (Matthew 28:2-5), 
-* Mark one young man (Mark 16:5), 
-* Luke two men (Luke 24:4),
-* John two angels (John 20:12). 
-
-Conservative harmonization recognizes that none of these accounts claims exclusivity. 
-
-Matthew and Mark **focus on the spokesperson angel** who delivered the primary message, while Luke and John **mention both angels present**. 
-
-Regarding women, Matthew and Mark provide **abbreviated lists** while Luke offers **more complete enumeration** and John **spotlights Mary Magdalene's experience without denying others' presence**. Ancient biographical writing commonly selected details supporting authorial purpose rather than exhaustively cataloging every participant. Furthermore, **multiple women likely made multiple trips** to the tomb that morning, with **different Gospel writers focusing on different visits or different groups**. 
-
-The core agreement remains unshaken: 
-
-* the tomb was empty, 
-* angels announced Jesus' resurrection, 
-* women encountered the risen Lord, 
-* disciples verified the empty tomb. 
-
-Differences in peripheral details actually strengthen rather than undermine historical reliability because fabricated accounts typically demonstrate suspicious uniformity, while authentic independent testimony naturally varies in perspective and detail selection while agreeing on essentials.
 
 ## Credibility
 
@@ -630,20 +496,13 @@ Minor or corrected [textual variants](#textual-variants):
 * The spear thrust harmonized from John (Matthew 27:49)
 
 Explainable [textual "errors"](#textual-errors):
-* Genealogical Differences from Luke (Matthew 1:1-17)
 * The Birth Chronology (Matthew 2:1)
 * The Nazarene Prophecy (Matthew 2:23)
 * The Mustard Seed Statement (Matthew 13:31-32)
 
-Explainable ["contradictions"](#contradictions):
-* The Jeconiah Curse (Matthew 1:12 cf. Jeremiah 22:30)
-* The Centurion's Servant (Matthew 8:5-13 cf. Luke 7:1-10)
-* The Blind Man at Jericho (Matthew 20:29-34; Mark 10:46-52; Luke 18:35-43)
-* The Triumphal Entry (Matthew 21:1-7 cf. Mark 11:1-7)
-* The Timing of the Temple Cleansing (Matthew 21:12-13 cf. John 2:13-17)
-* The Prediction of Peter's Denial (Matthew 26:34 cf. Mark 14:30)
+Explainable [contradictions](#contradictions):
+* The Triumphal Entry (Matthew 21:1-7 cf. Mark 11:1-7; Luke 19:28-38; John 12:12-19)
 * The Death of Judas (Matthew 27:3-10 cf. Acts 1:18-19)
-* The Resurrection Accounts (Matthew 28:1-10; Mark 16:1-8; Luke 24:4-10; John 20:1-12)
 
 ### Concerns
 
@@ -654,5 +513,5 @@ Major [textual variants](#textual-variants):
 Unexplainable [textual errors](#textual-errors):
 * The Attribution to Jeremiah (Matthew 27:9-10) to prove Jesus divinity
 
-Unexplainable [contradictions](#contradictions):
+Unexplainable [contradictions](../gospels.md#contradictions):
 * None

@@ -10,48 +10,7 @@ Conservative scholars, however, argue for the traditional, earlier date (c. 760 
 
 ## Historical Environment
 
-The historical environment of the book of Jonah operates on two distinct levels: the period in which the narrative is set (8th century BCE) and the period in which most scholars believe it was composed (post-exilic period, 5th-4th centuries BCE).
-
-**The Narrative Setting: 8th Century BCE**
-
-The book's opening verse identifies Jonah as "the son of Amittai" [Jonah 1:1, connecting him to the historical prophet mentioned in [2 Kings 14:25](https://www.biblegateway.com/passage/?search=2+Kings+14:25&version=ESV). This passage places Jonah during the reign of Jeroboam II of Israel (793-753 BCE), a period of significant territorial expansion and economic prosperity for the northern kingdom.
-
-During this era, the [Neo-Assyrian Empire](https://www.worldhistory.org/assyria/) was the dominant superpower of the ancient Near East. Nineveh, located on the eastern bank of the Tigris River (in modern-day Iraq), served as one of Assyria's major cities and would later become the empire's capital under Sennacherib (705-681 BCE). The Assyrians were notorious for their military brutality and cruel treatment of conquered peoples, making them feared throughout the region.
-
-For an Israelite prophet of the 8th century, Nineveh represented the epitome of Israel's enemies—the very embodiment of oppression and cruelty. The Assyrians would eventually conquer the northern kingdom of Israel in 722 BCE, destroying Samaria and deporting much of the population. This historical reality makes Jonah's reluctance to preach to Nineveh understandable from a nationalistic perspective.
-
-The book's description of Nineveh as "an exceedingly great city, three days' journey in breadth" [Jonah 3:3 has been the subject of much scholarly discussion. Archaeological excavations have revealed that Nineveh proper was approximately 3 miles in diameter, which could not be walked in three days. Various explanations have been proposed: the "three days' journey" might refer to the greater Nineveh administrative district, which included surrounding cities; it might describe the time needed to traverse the city while stopping to preach; or it might be hyperbolic language emphasizing the city's greatness.
-
-**The Composition Period: Post-Exilic Era (5th-4th Centuries BCE)**
-
-Most scholars date the book's actual composition to the post-exilic period, specifically between 450-350 BCE during the Persian Empire's dominance. This was a formative period for Jewish identity following the return from Babylonian exile.
-
-The historical context of the Persian period profoundly shapes the book's theological concerns:
-
-1. **Religious Exclusivism vs. Universalism**: During this period, leaders like Ezra and Nehemiah promoted strict separation from foreign peoples, including mandating the dissolution of marriages to non-Jews [Ezra 9-10; Nehemiah 13:23-27]. In this context, the book of Jonah can be read as "resistance literature" challenging this exclusivist policy and arguing that "foreign people are also part of YHWH's creation" and deserve God's mercy.
-
-2. **Questions of Divine Justice**: The exile raised profound theodicy questions: Why did God allow his people to be conquered? Does God care about other nations? The book of Jonah engages these questions by exploring God's sovereignty over all nations and his freedom to show mercy as he chooses.
-
-3. **Second Temple Judaism**: The book was written during the period when the Second Temple had been rebuilt and Jewish religious practice was being reconstituted. Questions about sacrifice, repentance, and the relationship between ritual and genuine faith were central concerns, all addressed in Jonah's narrative.
-
-**Persian Cultural Influences**
-
-The text contains several features that reflect Persian-era customs and administration:
-
-- The decree issued jointly by the "king and his nobles" [Jonah 3:7 reflects Persian administrative structures rather than ancient Near Eastern monarchical practice of the 8th century
-- The inclusion of animals in the fast and wearing of sackcloth [Jonah 3:8 corresponds to documented Persian mourning customs
-- The use of the term "God of heaven" reflects Persian-period Jewish terminology for referring to Yahweh in multi-ethnic contexts
-
-**Geographic and Social Setting**
-
-Whether read as set in the 8th century or composed in the 5th-4th centuries, the book presumes a Jewish audience familiar with:
-- Israel's prophetic traditions and the expected role of prophets
-- The reputation of Nineveh and Assyria as Israel's enemies
-- The Mediterranean geography (Tarshish, generally identified with Spain or Sardinia, representing the far west)
-- Maritime culture and shipping practices
-- The theological tension between God's particular covenant with Israel and his universal sovereignty over all creation
-
-The book's historical environment, therefore, encompasses both the distant past it describes and the contemporary concerns of its post-exilic audience, using a narrative set in history to address pressing theological and social questions of the present.
+The Book of Jonah has two historical contexts. The narrative is set in the 8th century BCE, during the reign of Jeroboam II of Israel, when the brutal [Neo-Assyrian Empire](https://www.worldhistory.org/assyria/) was the dominant power. This makes Jonah's reluctance to preach to the enemy capital of Nineveh understandable. However, most scholars date the book's composition to the post-exilic Persian period (5th-4th centuries BCE). In this context, the story serves as a powerful theological corrective, challenging the rising religious exclusivism of the time. It argues for God's universal mercy against a backdrop of debates about Jewish identity and relationship with Gentiles, using a historical setting to address contemporary concerns.
 
 ## Purpose
 
@@ -464,7 +423,7 @@ Jonah wishes to die twice [Jonah 4:3, 8, which seems to contradict his prayer fo
 
 Jonah 3:10 states "God relented of the disaster that he had said he would do to them, and he did not do it," which appears to contradict passages emphasizing God's unchangeability (Numbers 23:19; 1 Samuel 15:29; Malachi 3:6; James 1:17).
 
-**Explanation**: These are not true contradictions but represent different aspects of divine constancy. God's character and purposes are immutable, but his actions appropriately respond to changing human circumstances. When humans repent, God's unchanging commitment to mercy is expressed through relenting from judgment. God's "repentance" is anthropomorphic language describing changed action, not changed character or purpose. As Jeremiah 18:7-10 explains, God's threats of judgment are implicitly conditional on human response.
+**Explanation**: These are not true contradictions but represent different aspects of divine constancy. God's character and purposes are immutable, but his actions appropriately respond to changing human circumstances. When humans repent, God's unchanging commitment to mercy is expressed through relenting from judgment. God's "repentance" is anthropomorphic language describing changed action, not changed character or purpose. As Jeremiah 18:7-8 explains, God's threats of judgment are implicitly conditional on human response.
 
 **Prophetic Failure**
 

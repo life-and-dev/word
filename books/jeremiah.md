@@ -417,23 +417,38 @@ This pattern is explained in **Jeremiah 18:7-10** itself, which states God's ope
 
 The "will not relent" passages describe circumstances after repeated rejections (note Jeremiah 15:6: "You keep going backward"), not contradictions to God's willingness to show mercy when people genuinely repent.
 
-### Conflicting Prophecies About Jehoiachin's Fate (Jeremiah 22:24-30 cf. Matthew 1:12)
+### Prophecy That Jehoiachin Will Be Childless (Jeremiah 22:24-30 cf. Matthew 1:12)
 
 **Jeremiah 22:24-27** prophesies that Jehoiachin (Coniah) will be "hurled" into another land where "you shall die, and there you shall die."
 
 **Jeremiah 22:30** declares: "Write this man down as childless, a man who shall not succeed in his days, for none of his offspring shall succeed in sitting on the throne of David."
 
-**The Problem**:
+#### The Problem
+
 1. **Children**: 1 Chronicles 3:17-18 lists seven sons of Jehoiachin
 2. **Davidic line**: Matthew's genealogy (Matthew 1:12) traces Jesus through Shealtiel, son of Jeconiah (Jehoiachin)
 3. **Zerubbabel**: Grandson of Jehoiachin, served as governor and was promised divine favor in Haggai 2:23
 
-**Attempted Harmonizations**:
-- "Childless" means "without royal successor" (none reigned as king)
-- Legal vs. biological offspring (Matthew could reflect levirate marriage)
-- The curse was conditionally lifted based on repentance
+#### Textual Variant in the Septuagint
 
-However, the text presents a straightforward prophecy that appears contradicted by later biblical evidence.
+The Masoretic Text (MT) and Septuagint (LXX) **differ significantly in their translation** of the key descriptor in Jeremiah 22:30:
+
+| Text | Word | Translation |
+|---|---|---|
+| **Masoretic Text** (Hebrew) | עֲרִירִ֖י (*ariri*) | "Childless" or "stripped/bare" |
+| **Septuagint** (Greek) | ἐκκήρυκτον (*ekkērykton*) | "Outcast," "expelled," or "proscribed" |
+
+The LXX translators chose a word emphasizing his **public rejection and exile** rather than literal childlessness. The Greek ἐκκήρυκτον means someone "proclaimed" or "publicly banished"—focusing on his removal from the royal succession rather than his biological offspring.
+
+#### Other Harmonizations
+
+1. **"Childless" means without royal successor**: The prophecy was fulfilled—none of Jeconiah's descendants actually reigned as king in Judah. While Jeconiah had biological children (1 Chronicles 3:17-18), no offspring sat on David's throne in Jerusalem during the exile or after.
+
+2. **The curse was conditionally lifted**: Jeconiah repented in exile (2 Kings 25:27-30 records his release and honor in Babylon). God's promise to Zerubbabel, Jeconiah's grandson (Haggai 2:23), suggests the curse was lifted based on repentance.
+
+3. **Legal vs. biological lineage**: Matthew traces Jesus' legal right through Joseph (who descended from Jeconiah), while Luke 3:23-38 traces biological descent through Mary (through Nathan, not Solomon, thus avoiding Jeconiah entirely). Jesus inherits the legal claim to David's throne through Joseph without being biologically under the curse.
+
+4. **Messiah as exception**: The curse applied to human monarchy in fallen Israel; Jesus' eternal kingship, established by divine decree and resurrection, transcends and supersedes the temporal curse on Jeconiah's earthly dynasty.
 
 ### The Seventy-Year Prophecy (Jeremiah 25:11-12 cf. Jeremiah 29:10)
 
@@ -623,11 +638,11 @@ Explainable [textual "errors"](#textual-errors):
 Explainable ["contradictions"](#contradictions):
 * Collective or Individual Responsibility? (Jeremiah 16:10-11, 32:18 cf. Jeremiah 31:29-30)
 * Does God Change His Mind? (Jeremiah 18:8, 26:3, 42:10 cf. Jeremiah 4:28, 15:6, 20:16)
-* Conflicting Prophecies About Jehoiachin's Fate (Jeremiah 22:24-30 cf. Matthew 1:12)
 * The Seventy-Year Prophecy (Jeremiah 25:11-12 cf. Jeremiah 29:10)
 * Resist or Submit to Babylon? (Jeremiah 27:8-11 cf. Jeremiah 38:17-18)
 
 Masoretic Text errors:
+* Prophecied that Jehoiachin will be "childless" (Jeremiah 22:30)
 * The Wrong King Reigned in Jeremiah 27
 
 ### Concerns

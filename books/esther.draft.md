@@ -10,61 +10,7 @@ Evidence against Mordecai's direct authorship includes his consistent portrayal 
 
 ## Historical Environment
 
-**Dating:**
-
-The Book of Esther describes events during the reign of **King Ahasuerus**, generally identified with **Xerxes I** (486-465 BCE).
-
-**Events described**: 483-473 BCE (the first half of Xerxes' reign)
-- Third year of Ahasuerus' reign: Vashti deposed (483 BCE)
-- Seventh year: Esther becomes queen (479 BCE)
-- Twelfth year: Haman's plot and subsequent deliverance (473 BCE)
-
-**Composition date**: The book was written after these events, likely:
-- **No earlier than**: 470 BCE (after Xerxes' death is mentioned retrospectively)
-- **No later than**: 424 BCE (during or shortly after the reign of Artaxerxes)
-- **Most likely**: 464-400 BCE, based on linguistic evidence and the retrospective opening verse
-
-Some scholars suggest composition as late as 400-150 BCE based on certain linguistic features and perceived historical discrepancies.
-
-**Geographical Setting - The Persian Empire:**
-
-The book is set in **Susa** (Shushan), one of the Persian Empire's royal capitals, located in what is now southwestern Iran. Xerxes I ruled over:
-- **127 provinces** "from India to Cush (Ethiopia/Nubia)" (Esther 1:1)
-- The vast Achaemenid Empire at its territorial peak
-- Multiple capitals including Susa (winter palace), Persepolis, and Ecbatana
-
-The author demonstrates remarkable historical knowledge:
-- The administrative system of satrapies (provinces)
-- Division of satrapies into smaller units
-- The empire's precise extent during Xerxes' reign
-- That Xerxes was in Susa during his third regnal year
-- Persian customs, protocol, and legal procedures
-
-**Political and Cultural Context:**
-
-**Persian Imperial Context:**
-- Xerxes I (ruled 486-465 BCE) succeeded Darius I
-- Known historically for the failed invasion of Greece (480-479 BCE)
-- The "180-day feast" in Esther may connect to military planning for the Greek campaign
-- Absolute monarchy with elaborate court protocol
-- Multi-ethnic empire with diverse subject peoples
-
-**Jewish Diaspora Context:**
-- Many Jews remained in Persia after Cyrus' decree (538 BCE) allowing return to Judah
-- Established communities in major Persian cities
-- Assimilated to varying degrees into Persian culture
-- Maintained Jewish identity and some religious practices
-- Vulnerable as ethnic/religious minority without homeland protection
-
-**Cultural Observations:**
-- The book reflects Jewish life in diaspora - Persian names (Esther = Hadassah), cultural adaptation, political involvement
-- Intermarriage with Gentiles occurred despite later prohibitions
-- Jews held positions of influence (Mordecai at the king's gate)
-- Anti-Semitic sentiment existed (Haman's genocide plot)
-
-**Why Written:**
-
-The immediate purpose was establishing **Purim**, the festival celebrating Jewish deliverance from genocide. The book provides the historical narrative explaining why Jews annually celebrate this feast.
+The Book of Esther is set in the Persian capital of **Susa** during the reign of King Ahasuerus, identified as **Xerxes I** (486-465 BCE). The events described unfold between 483 and 473 BCE. Written by an unknown Jewish author familiar with Persian court life, the book addresses a Jewish diaspora community living as a vulnerable minority within a vast, multi-ethnic empire. This context is marked by the tension between cultural assimilation and maintaining Jewish identity. The narrative's immediate purpose is to explain the origins of the Purim festival, which celebrates the Jews' deliverance from Haman's genocidal plot.
 
 **Resources:**
 - [Britannica - Book of Esther](https://www.britannica.com/topic/Book-of-Esther)

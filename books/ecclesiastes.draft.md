@@ -63,67 +63,7 @@ However, this position is extremely rare in contemporary scholarship.
 
 ## Historical Environment
 
-**Dating the Composition:**
-
-Based on linguistic evidence, Ecclesiastes was composed during the **Persian or early Hellenistic period**, specifically:
-- **Earliest possible**: c. 450 BCE (after Persian period began)
-- **Most likely**: c. 300-250 BCE (early Hellenistic period)
-- **Latest possible**: c. 180 BCE (when Ben Sira quotes it)
-
-The **mid-3rd century BCE** represents scholarly consensus.
-
-**Geographical Setting:**
-
-Though attributed to a king in Jerusalem, the book shows no particular connection to Judean geography, temple worship, or covenant theology. The universal perspective ("under the sun") suggests composition for a diaspora or cosmopolitan Jewish audience familiar with broader philosophical currents.
-
-**Political Context - Hellenistic Period:**
-
-If composed c. 250 BCE, the author lived during:
-- **Early Ptolemaic rule** over Judea (following Alexander the Great's conquests)
-- Greek cultural influence spreading throughout the Near East
-- Growing tension between traditional Jewish values and Hellenistic philosophy
-- Economic prosperity but political subjugation under foreign powers
-- Increased philosophical questioning and skepticism
-
-**Cultural Milieu:**
-
-The book reflects intersection of:
-1. **Traditional Hebrew wisdom** (echoing Proverbs, Job)
-2. **Hellenistic philosophy** (particularly Stoic and Epicurean themes)
-3. **Persian dualism** (possible influence on good/evil discussions)
-4. **Economic prosperity** (references to wealth, pleasure, consumption)
-5. **Political powerlessness** (observations about oppression, injustice, corrupt government)
-
-**Social Setting:**
-
-The author appears to be:
-- Educated elite with leisure for philosophical reflection
-- Observer of both wealth and poverty
-- Critical of social injustice but not revolutionary
-- Cosmopolitan, exposed to diverse philosophical traditions
-- Disillusioned with conventional piety and retribution theology
-
-**Audience:**
-
-Written for educated Jews grappling with:
-- Meaning and purpose in life
-- Traditional faith claims vs. observed reality
-- Prosperity without fulfillment
-- Death's finality and apparent meaninglessness
-- Divine justice in unjust world
-
-**Literary Context:**
-
-Ecclesiastes belongs to **Wisdom Literature** alongside Job and Proverbs, but represents wisdom's skeptical, questioning voice. Where Proverbs confidently asserts cause-effect morality, Ecclesiastes questions these very assumptions based on life experience.
-
-**Why Written in This Context:**
-
-The Hellenistic period brought:
-- Philosophical questioning of traditional beliefs
-- Exposure to competing worldviews
-- Material prosperity highlighting spiritual emptiness
-- Need for honest engagement with doubt and meaninglessness
-- Bridge between traditional piety and philosophical reflection
+Based on linguistic evidence, Ecclesiastes was likely composed in the mid-3rd century BCE, during the early Hellenistic period under Ptolemaic rule. This era saw growing Greek cultural and philosophical influence clashing with traditional Jewish values. The author, likely an educated and cosmopolitan Jewish sage, addresses an audience grappling with existential questions in a time of political subjugation but relative economic prosperity. The book reflects a unique cultural intersection, blending traditional Hebrew wisdom with themes reminiscent of Stoic and Epicurean philosophy. It serves as a skeptical counterpoint to the optimistic retribution theology of Proverbs, questioning life's meaning and justice from an earthly perspective.
 
 **Resources:**
 - [New World Encyclopedia - Ecclesiastes](https://www.newworldencyclopedia.org/entry/Book_of_Ecclesiastes)

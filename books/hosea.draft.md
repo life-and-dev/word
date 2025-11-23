@@ -24,15 +24,7 @@ For more information, see the [Book of Hosea - Wikipedia](https://en.wikipedia.o
 
 ## Historical Environment
 
-Hosea prophesied during one of the most turbulent periods in Israel's history. According to the superscription in Hosea 1:1, his ministry spanned the reigns of Uzziah, Jotham, Ahaz, and Hezekiah of Judah, and Jeroboam II of Israel. This places his prophetic activity in the middle to late eighth century BCE, approximately 755-715 BCE, making him a contemporary of the prophets Isaiah, Amos, and Micah.
-
-The historical backdrop was dominated by the resurgence of the [Assyrian Empire](https://www.worldhistory.org/assyria/) under Tiglath-Pileser III (745-727 BCE). Hosea's ministry began during the prosperous reign of Jeroboam II (793-753 BCE), when the northern kingdom of Israel experienced unprecedented economic growth and territorial expansion. However, this prosperity was accompanied by severe cultural and spiritual corruption. As one source notes, "Prosperity had brought an unprecedented degree of cultural corruption. The much-sought-after political power had opened Israel to foreign cultural influence, including the demoralizing influence of Canaanite Baal worship with its fertility cults and bacchanalian orgies."
-
-Following Jeroboam II's death, Israel descended into political chaos. Between 753 and 722 BCE, six kings occupied the throne, four of whom were assassinated. This period of instability is reflected in Hosea's prophecies, which speak of conspiracy, violence, and failed alliances with foreign powers Hosea 7:3-7.
-
-The geopolitical situation was dire. Israel attempted to navigate between the competing powers of Egypt and Assyria, making treaties with both in a desperate attempt at survival Hosea 7:11. These political machinations, combined with rampant idolatry and social injustice, led Hosea to prophesy the impending destruction of the northern kingdom. His prophecies were fulfilled when Assyria conquered Israel in 722 BCE, destroying Samaria and deporting much of the population.
-
-Hosea's primary audience was Ephraim (mentioned 35 times in the book), another name for the northern kingdom. The frequent allusions to specific places—Gilead, Shechem, Bethel, Gilgal, Mizpah—indicate that Hosea lived among his audience and was intimately familiar with the religious and political landscape of the northern kingdom.
+Hosea prophesied to the northern kingdom of Israel during the turbulent mid-to-late 8th century BCE (c. 755-715 BCE). His ministry began during the prosperous reign of Jeroboam II but continued into a period of extreme political instability and moral decay. The historical backdrop was dominated by the resurgence of the [Assyrian Empire](https://www.worldhistory.org/assyria/), which created immense geopolitical pressure. Israel, caught between Assyria and Egypt, made foolish alliances while suffering from internal corruption and idolatry, particularly Baal worship. Hosea's prophecies, addressed primarily to "Ephraim," warned of impending judgment for these covenant violations—a judgment fulfilled by the Assyrian conquest of Israel in 722 BCE.
 
 ## Purpose
 
