@@ -331,9 +331,127 @@ Isaiah uniquely presents Israel's (or the ideal Servant's) vocation as bringing 
 
 The first Servant Song describes the Servant bringing "justice to the nations" (Isaiah 42:1) and becoming "a covenant for the people, a light for the nations" (Isaiah 42:6). This teaching that Israel's election has a universal purpose—blessing all peoples—is emphasized in Isaiah more than in any other prophetic book.
 
+## Fulfilled Prophecies
+
+Isaiah contains several prophecies that were historically fulfilled, providing evidence for the book's divine inspiration and prophetic authenticity. Traditional interpreters view these fulfilled predictions as demonstrating God's sovereignty over history and His ability to reveal future events to His prophets.
+
+### The Cyrus Prophecy (Isaiah 44:28, 45:1)
+
+Isaiah 44:28 and Isaiah 45:1 specifically name [Cyrus, king of Persia](https://en.wikipedia.org/wiki/Cyrus_the_Great), as God's anointed who will rebuild Jerusalem:
+
+> who says of Cyrus, ‘He is My shepherd, and he shall fulfill all my purpose’; saying of Jerusalem, ‘She shall be built,’ and of the temple, ‘Your foundation shall be laid.’” 
+>
+> Thus says the LORD to His anointed, to Cyrus, whose right hand I have grasped, to subdue nations before him and to loose the belts of kings, to open doors before him that gates may not be closed:
+— Isaiah 44:28 - 45:1 (ESV)
+
+Cyrus the Great conquered Babylon in 539 BCE and issued a decree allowing the Jewish exiles to return and rebuild Jerusalem's temple, documented in the [Cyrus Cylinder](https://www.britishmuseum.org/collection/object/W_1880-0617-1941) and in the book of Ezra:
+
+> In the first year of Cyrus king of Persia, that the word of the LORD by the mouth of Jeremiah might be fulfilled, the LORD stirred up the spirit of **Cyrus** king of Persia, so that he made a proclamation throughout all his kingdom and also put it in writing: 
+>
+> "Thus says **Cyrus** king of Persia: The LORD, the God of heaven, has given me all the kingdoms of the earth, and **He has charged me to build him a house at Jerusalem**, which is in Judah. Whoever is among you of all his people, may His God be with him, and let him **go up to Jerusalem**, which is in Judah, and **rebuild the house of the LORD**, the God of Israel ⁠— He is the God Who is in Jerusalem. And let each survivor, in whatever place he sojourns, be assisted by the men of his place with silver and gold, with goods and with beasts, besides freewill offerings for the house of God that is in Jerusalem."
+>
+> — Ezra 1:1-4 (ESV)
+
+Isaiah's prophecy is remarkable precisely because it names the specific individual (Cyrus) who would fulfill Jeremiah's timeline of return.
+
+The prophecy was fulfilled precisely: Cyrus did permit the Jews to return and rebuild, approximately 70 years after the exile began in 605 BCE.
+
+If Isaiah prophesied c. 740-700 BCE, this represents predicting the specific name of a foreign king 150-200 years before his birth (Cyrus reigned 559-530 BCE). Traditional interpreters view *this detailed foreknowledge as impossible* without divine revelation, making it powerful evidence for supernatural inspiration.
+
+Defenders point to similar prophecies, such as [1 Kings 13:2](https://en.wikipedia.org/wiki/1_Kings_13), which names King Josiah approximately 300 years before his birth, demonstrating that God can reveal specific names of future individuals.
+
+Whether viewed as miraculous prediction or later composition, the passage affirms God's sovereignty over history and His ability to use even pagan rulers to accomplish His purposes for His people.
+
+**External resources:**
+- [Cyrus Cylinder - British Museum](https://www.britishmuseum.org/collection/object/W_1880-0617-1941) - Archaeological evidence for Cyrus's policy of allowing exiled peoples to return
+- [The Cyrus Prophecy: Did Isaiah Predict Cyrus by Name? (Associates for Biblical Research)](https://biblearchaeology.org/research/contemporary-issues/4375-the-cyrus-prophecy-did-isaiah-predict-cyrus-by-name) - Traditional interpretation defending predictive prophecy
+- [Deutero-Isaiah - Wikipedia](https://en.wikipedia.org/wiki/Book_of_Isaiah#Deutero-Isaiah) - Overview of the multiple authorship theory
+- [Isaiah: Authorship and Date (Jewish Encyclopedia)](https://www.jewishencyclopedia.com/articles/8235-isaiah-book-of) - Jewish scholarly perspective on Isaiah's composition
+
+*This prophecy is present in both the Masoretic Text (MT) and the Septuagint (LXX).*
+
+### Sennacherib's Failure to Enter Jerusalem (Isaiah 37:33-35)
+
+Isaiah prophesied that the Assyrian King Sennacherib would not enter Jerusalem or shoot an arrow there, despite his overwhelming military force.
+
+> "Therefore thus says the LORD concerning the king of Assyria: He shall not come into this city or shoot an arrow there, or come before it with a shield or cast up a siege mound against it. By the way that he came, by the same he shall return, and he shall not come into this city, declares the LORD. For I will defend this city to save it, for my own sake and for the sake of my servant David." — Isaiah 37:33-35 (ESV)
+
+**Historical Fulfillment:**
+Historical records and the biblical account (2 Kings 19:35-36) confirm that Sennacherib's army suffered a mysterious and devastating loss (185,000 soldiers), forcing him to retreat to Nineveh without conquering Jerusalem. Sennacherib's own annals (the [Taylor Prism](https://www.britishmuseum.org/collection/object/W_1855-1003-1)) boast of shutting Hezekiah up "like a bird in a cage" but notably do *not* claim he captured the city, implicitly confirming Isaiah's prophecy that the city would not fall.
+
+**External resources:**
+- [Sennacherib's Annals - Livius.org](https://www.livius.org/sources/content/mesopotamian-chronicles-content/sennacheribs-annals/)
+- [Hezekiah and Sennacherib - Biblical Archaeology Society](https://www.biblicalarchaeology.org/daily/biblical-sites-places/jerusalem/hezekiah-and-sennacherib/)
+
+*This prophecy is present in both the Masoretic Text (MT) and the Septuagint (LXX).*
+
+### The Destruction of Babylon (Isaiah 13:19-20)
+
+Isaiah predicted not just the conquest, but the permanent desolation of Babylon.
+
+> "And Babylon, the glory of kingdoms, the splendor and pomp of the Chaldeans, will be like Sodom and Gomorrah when God overthrew them. It will never be inhabited or lived in for all generations; no Arab will pitch his tent there; no shepherds will make their flocks lie down there." — Isaiah 13:19-20 (ESV)
+
+**Historical Fulfillment:**
+While Cyrus conquered Babylon in 539 BCE, the city continued to exist for centuries. However, it eventually fell into ruin and abandonment. By the time of the New Testament, it was largely deserted. Today, the site of ancient Babylon is a ruin, uninhabited as a living city, fulfilling the prophecy of permanent desolation.
+
+**External resources:**
+- [Babylon - World History Encyclopedia](https://www.worldhistory.org/babylon/)
+- [The Desolation of Babylon](https://christianpublishinghouse.co/2021/08/23/the-desolation-of-babylon-prophecy-fulfilled/)
+
+*This prophecy is present in both the Masoretic Text (MT) and the Septuagint (LXX).*
+
+### The Virgin Birth (Isaiah 7:14)
+
+Isaiah gave a sign to the house of David regarding a child named Immanuel.
+
+> "Therefore the Lord himself will give you a sign. Behold, the virgin shall conceive and bear a son, and shall call his name Immanuel." — Isaiah 7:14 (ESV)
+
+**Historical Fulfillment:**
+The Gospel of Matthew records the fulfillment in the birth of Jesus Christ: "All this took place to fulfill what the Lord had spoken by the prophet: 'Behold, the virgin shall conceive and bear a son, and they shall call his name Immanuel' (which means, God with us)." (Matthew 1:22-23).
+
+**External resources:**
+- [Immanuel - Bible Gateway](https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Immanuel)
+- [Virgin Birth - Britannica](https://www.britannica.com/topic/Virgin-Birth)
+
+*This prophecy is present in both the Masoretic Text (MT) and the Septuagint (LXX), though the LXX uses the specific term 'parthenos' (virgin).*
+
+### Ministry in Galilee (Isaiah 9:1-2)
+
+Isaiah prophesied that the region of Galilee, though humbled, would see a great light.
+
+> "But there will be no gloom for her who was in anguish. In the former time he brought into contempt the land of Zebulun and the land of Naphtali, but in the latter time he has made glorious the way of the sea, the land beyond the Jordan, Galilee of the nations. The people who walked in darkness have seen a great light..." — Isaiah 9:1-2 (ESV)
+
+**Historical Fulfillment:**
+Jesus grew up in Nazareth (Galilee) and began his public ministry in Capernaum, in the territory of Zebulun and Naphtali. Matthew 4:12-16 explicitly cites this prophecy as fulfilled by Jesus' ministry in this specific geographic region.
+
+**External resources:**
+- [Galilee in the time of Jesus](https://www.bible-history.com/geography/galilee-in-the-time-of-jesus.html)
+
+*This prophecy is present in both the Masoretic Text (MT) and the Septuagint (LXX).*
+
+### The Suffering Servant (Isaiah 52:13-53:12)
+
+Isaiah provided a detailed description of a servant who would suffer vicariously for the sins of others.
+
+> "But he was pierced for our transgressions; he was crushed for our iniquities... All we like sheep have gone astray... and the LORD has laid on him the iniquity of us all." — Isaiah 53:5-6 (ESV)
+
+**Historical Fulfillment:**
+The New Testament writers and Jesus himself identified this passage with his crucifixion and atonement (Luke 22:37, Acts 8:32-35, 1 Peter 2:24). Specific details were fulfilled, such as silence before accusers (Matthew 27:12-14 vs Isaiah 53:7) and being buried with the rich (Matthew 27:57-60 vs Isaiah 53:9).
+
+**External resources:**
+- [The Suffering Servant - Jewish Encyclopedia](https://www.jewishencyclopedia.com/articles/13413-servant-of-god) (discusses Jewish interpretations)
+- [Isaiah 53 in the New Testament](https://www.blueletterbible.org/study/parallel/paral16.cfm)
+
+*This prophecy is present in both the Masoretic Text (MT) and the Septuagint (LXX).*
+
 ## Textual Variants
 
 The textual transmission of Isaiah provides fascinating insights into how ancient scribes preserved and sometimes modified biblical texts. With manuscript evidence spanning over 2,000 years—from the Dead Sea Scrolls (c. 125 BCE) to medieval manuscripts—scholars can examine how the text was transmitted and where significant variants occur.
+
+External resources:
+- [The Great Isaiah Scroll and the Masoretic Text (AHRC)](https://www.ancient-hebrew.org/dss/great-isaiah-scroll-and-the-masoretic-text.htm)
+- [Dead Sea Scrolls vs Masoretic Text: Key Differences](https://www.scriptureanalysis.com/dead-sea-scrolls-vs-masoretic-text-key-differences/)
+- [Dead Sea Scrolls Digital Library](https://www.deadseascrolls.org.il/)
 
 ### The Great Isaiah Scroll (1QIsaᵃ)
 
@@ -343,95 +461,63 @@ However, the Great Isaiah Scroll contains over 2,600 variants compared to the Ma
 
 ### Major Textual Variants Between Dead Sea Scrolls and Masoretic Text
 
-#### Isaiah 2:22
+#### "Turn awaay from man" verse missing (Isaiah 2:22)
 
-The Masoretic Text includes: "Turn away from man, in whose nostrils is breath, for of what account is he?" This entire verse is absent from the Septuagint and some Dead Sea Scrolls manuscripts.
+The Masoretic Text includes: "Turn away from man, in whose nostrils is breath, for of what account is he?" **This entire verse is absent from the Septuagint and some Dead Sea Scrolls manuscripts.**
 
 Some suggest it may have been a marginal note that entered some textual traditions.
 
-#### Isaiah 21:8
+#### "Lion" vs "seer" (Isaiah 21:8)
 
-MT reads "a lion" (אַרְיֵה, aryeh) while 1QIsaᵃ reads "the seer" (הָרֹאֶה, haro'eh). This affects the meaning: MT has "Then he who saw cried out: 'Upon a watchtower I stand, O Lord, continually by day, and at my post I am stationed whole nights. And behold, here come riders, horsemen in pairs!' And he answered, 'Fallen, fallen is Babylon.'" The 1QIsaᵃ reading "the seer" makes better contextual sense, as it clearly identifies the watchman as a seer/prophet.
+**MT reads "a lion" (אַרְיֵה, aryeh) while 1QIsaᵃ reads "the seer" (הָרֹאֶה, haro'eh).** This affects the meaning: MT has "Then he who saw cried out: 'Upon a watchtower I stand, O Lord, continually by day, and at my post I am stationed whole nights. And behold, here come riders, horsemen in pairs!' And he answered, 'Fallen, fallen is Babylon.'" The 1QIsaᵃ reading "the seer" makes better contextual sense, as it clearly identifies the watchman as a seer/prophet.
 
-#### Isaiah 36:11
+#### Difficult Hebrew word in Suffering Servant passage (Isaiah 52:14)
 
-MT has "the people" (העם, ha'am) while 1QIsaᵃ has "the men" (האנשים, ha'anashim). The LXX supports the 1QIsaᵃ reading. This is a minor semantic difference but shows how different textual traditions sometimes preserve different Hebrew forms.
+MT reads "I anointed/marred" (מִשְׁחַת, mishchat) referring to the servant's appearance being so marred. **This word has caused interpretive difficulties, and some manuscripts show variant readings attempting to clarify the difficult Hebrew.**
 
-#### Isaiah 52:14
+The theological significance is profound: **the servant's appearance is disfigured "beyond human semblance"** (Isaiah 52:14), creating a radical paradox where exaltation comes through extreme humiliation. This challenges ancient assumptions that suffering indicates divine curse, instead presenting the most marred person as God's chosen instrument for redemption. The disfigurement represents **vicarious suffering that accomplishes salvation for others** (Isaiah 53:4-6: "by his wounds we are healed"). Christian interpretation applies this to Christ's crucifixion, while Jewish interpretation sees it as Israel's redemptive suffering among the nations.
 
-MT reads "I anointed/marred" (מִשְׁחַת, mishchat) referring to the servant's appearance being so marred. This word has caused interpretive difficulties, and some manuscripts show variant readings attempting to clarify the difficult Hebrew.
+#### Missing word "light" in Suffering Servant passage (Isaiah 53:11)
 
-#### Isaiah 53:11
-
-One of the most significant textual variants: MT reads "From the travail of his soul he shall see and be satisfied." The verb "see" lacks an object. However, 1QIsaᵃ adds "light" (אור, or): "Out of the anguish of his soul he shall see light." The LXX also supports reading "light," suggesting this may have been the original text. Many modern translations include "light" based on this evidence.
+One of the most significant textual variants: MT reads "From the travail of his soul he shall see and be satisfied." The verb "see" lacks an object. However, **1QIsaᵃ adds "light"** (אור, or): "Out of the anguish of his soul he shall see light." The LXX also supports reading "light," suggesting this may have been the original text. Many modern translations include "light" based on this evidence.
 
 ### Variants Between Masoretic Text and Septuagint
 
 The Septuagint (LXX), the ancient Greek translation of the Hebrew Bible (c. 200-100 BCE), sometimes preserves readings that differ from the Masoretic Text, suggesting it was translated from a different Hebrew textual tradition.
 
-#### Isaiah 7:14
+#### "Young woman" translated as "virgin" in LXX (Isaiah 7:14)
 
-The famous messianic prophecy shows a significant translation choice: the Hebrew עַלְמָה (almah, "young woman") was translated in the LXX as παρθένος (parthenos, "virgin"). While almah can refer to a virgin in Hebrew, it doesn't necessarily mean virgin. The LXX translator chose the more specific Greek term, which Matthew 1:23 quotes when applying this prophecy to Jesus' virgin birth.
+The famous messianic prophecy shows a significant translation choice: **the Hebrew עַלְמָה (almah, "young woman") was translated in the LXX as παρθένος (parthenos, "virgin").** While almah can refer to a virgin in Hebrew, it doesn't necessarily mean virgin. **The LXX translator chose the more specific Greek term, which Matthew 1:23 quotes when applying this prophecy to Jesus' virgin birth.**
 
 This isn't strictly a textual variant (the Hebrew is the same), but it represents an early interpretive translation that profoundly influenced Christian reading of the text.
 
-#### Isaiah 9:6 (9:5 in Hebrew)
+#### Different punctuation affects meaning of "in the wilderness" (Isaiah 40:3)
 
-MT reads "Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace"—four throne names. The LXX rendering is slightly different, reading the compound names differently: "Messenger of great counsel." This shows how difficult Hebrew constructions could be interpreted differently by ancient translators.
+MT punctuates: 
 
-**Hebrew Linguistic Ambiguities in Messianic Passages:** Several key messianic passages in Isaiah contain Hebrew terms with semantic ranges that allow multiple valid translations, demonstrating the textual complexity scholars encounter. Beyond the examples above (almah in 7:14, 'êl in 9:6), such ambiguities reflect the richness of Hebrew poetry rather than textual corruption. These linguistic complexities require careful analysis of context, cognate languages, and parallel passages—work that enhances rather than diminishes the text's scholarly credibility by demonstrating the need for rigorous philological engagement.
+> A voice cries: 'In the wilderness prepare the way of the Lord; make straight in the desert a highway for our God.'
 
-#### Isaiah 40:3
+The LXX (and the New Testament quotations) punctuate differently: 
 
-MT punctuates: "A voice cries: 'In the wilderness prepare the way of the Lord; make straight in the desert a highway for our God.'" The LXX (and the New Testament quotations) punctuate differently: "A voice crying in the wilderness: 'Prepare the way of the Lord.'" This affects whether "in the wilderness" describes where the voice cries or where the way should be prepared. Both are valid Hebrew readings, showing how ancient texts without punctuation marks could be read different ways.
+> A voice crying in the wilderness: 'Prepare the way of the Lord.'
+
+This affects whether "in the wilderness" describes **where the voice cries or where the way should be prepared**. 
+
+Both are valid Hebrew readings, showing how ancient texts without punctuation marks could be read different ways.
 
 ### Variants in Multiple Dead Sea Scrolls Manuscripts
 
-At least 22 copies of Isaiah were found among the Dead Sea Scrolls, showing different textual traditions:
+At least 22 copies of Isaiah were found among the Dead Sea Scrolls, showing different textual traditions.
 
-**Proto-Masoretic Type:** About 60% of biblical manuscripts from Qumran represent a text type very close to what became the Masoretic Text, demonstrating that this textual tradition was dominant even in the Second Temple period.
+#### Verses in different order or absent from some manuscripts (Isaiah 38:21-22)
 
-**Proto-Septuagint Type:** Some manuscripts show closer affinity to the Hebrew text underlying the Septuagint, confirming that the LXX translators weren't inventing material but working from a real Hebrew textual tradition.
-
-**Non-aligned Texts:** Some manuscripts don't clearly align with either tradition, showing that textual plurality existed in the Second Temple period.
-
-### Isaiah 38:21-22
-
-These verses about Hezekiah's healing appear in a different order in some manuscripts and are completely absent from some LXX witnesses, raising questions about their original placement or whether they were added later.
-
-### Qere-Ketiv Readings
-
-The Masoretic tradition preserves many qere-ketiv readings (what is written vs. what is read aloud) in Isaiah. For example, in Isaiah 49:5, the ketiv (written text) has לא (lo, "not") while the qere (reading tradition) has לו (lo, "to him"), completely changing the meaning: "though Israel is not gathered" vs. "that Israel might be gathered to him."
-
-### Scholarly Assessment
-
-Modern text critics generally conclude:
-1. **Textual Stability:** Despite variants, Isaiah shows remarkable textual stability over 2,000+ years
-2. **Minor Variants:** Most variants are orthographic or grammatical, not affecting meaning
-3. **Meaningful Variants:** A small percentage of variants do affect interpretation, particularly in poetic and difficult passages
-4. **Multiple Traditions:** Different textual traditions coexisted in antiquity; the Masoretic Text represents one (dominant) tradition
-5. **LXX Witness:** When the LXX and Dead Sea Scrolls agree against MT, they may preserve the original reading
-
-The textual evidence demonstrates that while the biblical text was carefully transmitted, it wasn't frozen. Scribes occasionally made intentional changes, corrected perceived errors, clarified difficult readings, and updated spelling. Modern critical editions like the Biblia Hebraica Stuttgartensia (BHS) and Biblia Hebraica Quinta (BHQ) document these variants, allowing scholars and translators to make informed decisions about the most likely original readings.
-
-External resources:
-- [The Great Isaiah Scroll and the Masoretic Text (AHRC)](https://www.ancient-hebrew.org/dss/great-isaiah-scroll-and-the-masoretic-text.htm)
-- [Dead Sea Scrolls vs Masoretic Text: Key Differences](https://www.scriptureanalysis.com/dead-sea-scrolls-vs-masoretic-text-key-differences/)
-- [Dead Sea Scrolls Digital Library](https://www.deadseascrolls.org.il/)
+These verses about **Hezekiah's healing appear in a different order** in some manuscripts and are **completely absent from some LXX witnesses,** raising questions about their original placement or whether they were added later.
 
 ## Textual Errors
 
 Like all ancient texts, Isaiah contains passages where scholars have identified possible textual corruptions, copying errors, or difficulties that suggest problems in transmission. This section examines these issues from both critical and conservative scholarly perspectives.
 
-### 1. The Cyrus Problem (Isaiah 44:28, 45:1)
-
-**The Issue:** Isaiah names Cyrus, king of Persia, approximately 150-200 years before Cyrus lived (Cyrus reigned 559-530 BCE, while Isaiah prophesied c. 740-700 BCE).
-
-**Critical Scholarly Explanation:** Most critical scholars view this as evidence that Isaiah 40-55 were written during or just before Cyrus's conquest of Babylon (550-539 BCE), not by the 8th-century Isaiah. The detailed knowledge of Cyrus and Babylonian exile conditions suggests the author lived in that historical context. From this perspective, attributing these Isaiah to Isaiah ben Amoz in the 8th century would be an "error" of later attribution rather than a textual error per se.
-
-**Conservative Response:** Traditional interpreters maintain that predictive prophecy is possible through divine inspiration. God could reveal Cyrus's name to Isaiah centuries in advance, demonstrating God's sovereignty over history. They point to other biblical examples of specific predictive prophecy (e.g., Josiah's name in 1 Kings 13:2, written before his birth). From this view, naming Cyrus is not an error but a miraculous prediction.
-
-### 2. Chronological Issues in Isaiah's Ministry (Isaiah 1:1, 6:1)
+### Chronological Issues in Isaiah's Ministry (Isaiah 1:1, 6:1)
 
 **The Issue:** Isaiah 1:1 states Isaiah prophesied during the reigns of Uzziah, Jotham, Ahaz, and Hezekiah. However, Isaiah 6:1 describes Isaiah's call vision "in the year that King Uzziah died." If Isaiah 6 records Isaiah's prophetic commission, Isaiah 1-5 would predate his call, which seems chronologically impossible.
 
@@ -665,3 +751,20 @@ Both approaches agree that engaging contradictions honestly leads to deeper unde
 External resources:
 - [50 Contradictions in the Bible (Bart Ehrman)](https://www.bartehrman.com/contradictions-in-the-bible/)
 - [Biblical Criticism (Wikipedia)](https://en.wikipedia.org/wiki/Biblical_Criticism)
+
+## Credibility
+
+### Explainable Issues
+
+Minor or corrected [textual variants](#textual-variants):
+* "Turn away from man" verse missing (Isaiah 2:22)
+* "Lion" vs "seer" (Isaiah 21:8)
+* Verses in different order or absent from some manuscripts (Isaiah 38:21-22)
+* Different punctuation affects meaning of "in the wilderness" (Isaiah 40:3)
+
+### Intrepretation Issues
+
+[Textual variants](#textual-variants) that could prove that Jesus was "the Servant" but intepreted differently by the Jews:
+* "Young woman" translated as "virgin" in LXX (Isaiah 7:14)
+* Difficult Hebrew word in Suffering Servant passage (Isaiah 52:14)
+* Missing word "light" in Suffering Servant passage (Isaiah 53:11)
