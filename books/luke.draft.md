@@ -825,27 +825,9 @@ As mentioned above, Luke's description of census procedures (requiring travel to
 
 Luke's historical claims face genuine challenges, particularly regarding the census under Quirinius, the Theudas-Judas sequence, and genealogical matters. Defenders of Luke's historicity offer various explanations—some more plausible than others. Critical scholars generally view these as instances where Luke, writing decades after the events without access to precise records, made mistakes or took theological liberties with historical details. Even scholars who grant Luke high marks for accuracy overall acknowledge that ancient historians had different standards than modern ones: they exercised considerable freedom in composing speeches, compressed or rearranged chronology for theological reasons, and sometimes sacrificed precision for the sake of narrative flow. Luke's stated purpose was not to write scientifically precise history but to provide "certainty concerning the things you have been taught" (Luke 1:4)—a theological and pastoral goal that may not always coincide with modern historical standards.
 
----
-
-## Section 10: Contradictions
+## Contradictions
 
 The Gospel of Luke, when compared with the other Gospels, presents numerous apparent contradictions and inconsistencies. Some of these can be harmonized with careful interpretation; others remain genuine differences that reflect the evangelists' distinct theological perspectives, sources, and purposes. This section examines the major contradictions between Luke and the other Gospels.
-
-### Genealogy Contradictions with Matthew
-
-The genealogies in Matthew 1:1-17 and Luke 3:23-38 present irreconcilable differences that have troubled interpreters for centuries.
-
-**Joseph's Father**: Matthew states Joseph's father was Jacob (Matthew 1:16). Luke states Joseph's father was Heli (Luke 3:23). Both cannot be literally correct.
-
-**David's Line**: Matthew traces Jesus through Solomon, David's son who became king. Luke traces Jesus through Nathan, another son of David who did not reign. From David to Joseph, the two genealogies share only two names: Shealtiel and Zerubbabel—and even these may not refer to the same individuals.
-
-**Number of Generations**: Matthew structures his genealogy into three groups of fourteen generations (with some names omitted). Luke lists 77 generations from Jesus to God. The numbers are incompatible.
-
-**Direction**: Matthew traces forward from Abraham to Jesus. Luke traces backward from Jesus to Adam to God.
-
-**Harmonization Attempts**: Traditional explanations include (1) Luke gives Mary's genealogy while Matthew gives Joseph's—but Luke explicitly says it's Joseph's line; (2) complex levirate marriage scenarios giving both legal and biological fathers—but this requires multiple unlikely levirate marriages; (3) one traces royal line, the other biological—but this doesn't resolve all discrepancies.
-
-**Critical Assessment**: Most critical scholars conclude that Matthew and Luke each created theological genealogies to make different points: Matthew emphasizes Jesus as Jewish Messiah descended from Abraham and David through the royal line; Luke emphasizes Jesus as savior of all humanity, descended from Adam. Neither may preserve accurate historical genealogical records.
 
 ### Birth Narrative Contradictions with Matthew
 
@@ -877,22 +859,6 @@ The Gospels fundamentally disagree about where the risen Jesus appeared to his d
 
 **Critical Assessment**: The geographical contradiction likely reflects different traditions and theological purposes. Luke emphasizes Jerusalem as the center from which the Gospel spreads worldwide (continuing in Acts). Matthew emphasizes Galilee as the place of Jesus' ministry and the disciples' commissioning. The discrepancy is difficult to resolve.
 
-### Women at the Tomb
-
-The four Gospels provide different lists of women who went to the tomb on Easter morning.
-
-**Matthew**: "Mary Magdalene and the other Mary" (Matthew 28:1)
-
-**Mark**: "Mary Magdalene, and Mary the mother of James, and Salome" (Mark 16:1)
-
-**Luke**: "Mary Magdalene and Joanna and Mary the mother of James and the other women with them" (Luke 24:10)
-
-**John**: Mary Magdalene alone (John 20:1), though she says "we do not know" (John 20:2), implying others
-
-**Harmonization**: Some argue each account is selective—all the women were present, but each evangelist names only some. This works partially but doesn't explain why John focuses exclusively on Mary Magdalene if others were prominently present.
-
-**Critical Assessment**: The variations likely reflect different traditions about the resurrection discovery. All agree Mary Magdalene was present; other details vary.
-
 ### Ascension Timing Contradiction Within Luke-Acts
 
 Luke's two volumes contradict each other on the timing of Jesus' ascension.
@@ -902,20 +868,6 @@ Luke's two volumes contradict each other on the timing of Jesus' ascension.
 **Acts 1**: Jesus appeared to the disciples "during forty days" and then ascended (Acts 1:3, Acts 1:9-11).
 
 **Harmonization**: Some argue Luke 24 compresses events for literary effect while Acts provides the actual timeline. Possible, but it remains a genuine discrepancy between Luke's two volumes.
-
-### Judas's Death Contradiction with Matthew
-
-Luke (in Acts) and Matthew provide incompatible accounts of Judas's death.
-
-**Matthew**: "And throwing down the pieces of silver into the temple, he departed, and he went and hanged himself" (Matthew 27:5). The chief priests use the blood money to buy the potter's field as a burial place for foreigners (Matthew 27:6-8).
-
-**Acts**: "Now this man acquired a field with the reward of his wickedness, and falling headlong he burst open in the middle and all his bowels gushed out. And it became known to all the inhabitants of Jerusalem, so that the field was called in their own language Akeldama, that is, Field of Blood" (Acts 1:18-19).
-
-**The Contradictions**: (1) Matthew says Judas hanged himself; Acts says he fell headlong and burst open. (2) Matthew says the priests bought the field; Acts says Judas bought it. (3) Matthew says it was called "Field of Blood" because it was purchased with blood money; Acts implies it was called this because Judas's blood was spilled there.
-
-**Harmonization Attempts**: The most common attempt is that Judas hanged himself (Matthew), the rope broke or the body fell after decomposition, and he burst open upon hitting the ground (Acts). However, this still doesn't resolve who bought the field or why it was named "Field of Blood."
-
-**Critical Assessment**: These appear to be two different traditions about Judas's fate, both emphasizing divine judgment but with different details. Ancient authors were less concerned with factual consistency across accounts than modern readers expect.
 
 ### Last Supper Chronology Contradiction with John
 

@@ -6,7 +6,7 @@ The authorship of the Gospel of John is a complex and debated topic. The gospel 
 
 Traditional attribution, from the late second century onward (e.g., [Irenaeus of Lyon](https://en.wikipedia.org/wiki/Irenaeus)), identifies the author as **John the Apostle**, son of Zebedee, composing the gospel in Ephesus around AD 90-110. This view holds that John, as an eyewitness, wrote to supplement the Synoptic Gospels.
 
-However, modern critical scholarship largely rejects or holds tentatively this apostolic authorship. Arguments against include the gospel's sophisticated Greek and advanced theological development, which raise questions about a Galilean fisherman writing decades after the events. Many scholars propose the gospel emerged from a 'Johannine community,' composed by a skilled author (the 'Evangelist') drawing on traditions from an eyewitness (possibly the beloved disciple), with later redaction (e.g., John 21).
+However, modern critical scholarship largely rejects or holds tentatively this apostolic authorship. Arguments against include the gospel's sophisticated Greek and advanced theological development, which **raise questions about a Galilean fisherman writing decades after the events**. Many scholars propose the gospel emerged from a 'Johannine community,' composed by a skilled author (the 'Evangelist') drawing on traditions from an eyewitness (possibly the beloved disciple), with later redaction (e.g., John 21).
 
 Despite the debate, there is widespread agreement that the Gospel of John, likely composed in Ephesus around AD 90-100, preserves distinctive traditions about Jesus from eyewitness sources. For more information, see [Gospel of John - Wikipedia](https://en.wikipedia.org/wiki/Gospel_of_John) and [Authorship of the Johannine works - Wikipedia](https://en.wikipedia.org/wiki/Authorship_of_the_Johannine_works).
 
@@ -23,17 +23,29 @@ Unlike most ancient texts, the Gospel of John explicitly states its purpose:
 
 Beyond this central purpose, the gospel addresses several specific objectives:
 
-**Jewish Concerns**: The gospel engages Jewish objections about Jesus's messianic credentials, reinterpreting messianic categories and demonstrating how Jesus fulfills Jewish scripture while maintaining monotheism (John 1:45, 5:39-47).
+#### Jewish Concerns
 
-**Synagogue Separation**: References to expulsion (John 9:22, 12:42, 16:2) suggest the gospel comforts believers rejected by their Jewish communities, justifies the Christian community's separate existence, and prepares readers for persecution.
+The gospel engages Jewish objections about Jesus's messianic credentials, reinterpreting messianic categories and demonstrating how Jesus fulfills Jewish scripture while maintaining monotheism (John 1:45, 5:39-47).
 
-**John the Baptist Movement**: The gospel systematically subordinates John to Jesus (John 1:6-8, 3:30), countering first-century groups that exalted the Baptist as a rival messianic figure.
+#### Synagogue Separation
 
-**Supplementing the Synoptics**: John likely wrote aware of Matthew, Mark, and Luke, providing additional material (extended discourses, Judean ministry focus), different chronology (three Passovers), and deeper theological interpretation.
+References to expulsion (John 9:22, 12:42, 16:2) suggest the gospel comforts believers rejected by their Jewish communities, justifies the Christian community's separate existence, and prepares readers for persecution.
 
-**Combating False Teaching**: The emphatic assertion "the Word became flesh" (John 1:14) counters proto-Gnostic tendencies denying Jesus's full humanity, insisting on the incarnation's reality.
+#### John the Baptist Movement
 
-**Community Mission**: The gospel strengthens believers' confidence, clarifies their mission (John 20:21), teaches about the Holy Spirit (John 14-16), and fosters love and unity (John 13:34-35, 15:12-17).
+The gospel systematically subordinates John to Jesus (John 1:6-8, 3:30), countering first-century groups that exalted the Baptist as a rival messianic figure.
+
+#### Supplementing the Synoptics
+
+John likely wrote aware of Matthew, Mark, and Luke, providing additional material (extended discourses, Judean ministry focus), different chronology (three Passovers), and deeper theological interpretation.
+
+#### Combating False Teaching
+
+The emphatic assertion "the Word became flesh" (John 1:14) counters proto-Gnostic tendencies denying Jesus's full humanity, insisting on the incarnation's reality.
+
+#### Community Mission
+
+The gospel strengthens believers' confidence, clarifies their mission (John 20:21), teaches about the Holy Spirit (John 14-16), and fosters love and unity (John 13:34-35, 15:12-17).
 
 ## Cross-References
 
@@ -829,7 +841,7 @@ Beyond textual variants (differences in manuscript transmission), scholars have 
 
 ### 6. Factual Problem: "No One Has Ascended into Heaven" (John 3:13)
 
-**The Problem**: Jesus states, "No one has ascended into heaven except he who descended from heaven, the Son of Man" (John 3:13). However, the Old Testament describes Enoch being "taken up" by God (Genesis 5:24) and Elijah ascending to heaven in a whirlwind ([2 Kings 2:11).
+**The Problem**: Jesus states, "No one has ascended into heaven except he who descended from heaven, the Son of Man" (John 3:13). However, the Old Testament describes Enoch being "taken up" by God (Genesis 5:24) and Elijah ascending to heaven in a whirlwind (2 Kings 2:11).
 
 **Critical Scholarly Explanation**:
 - This is either a factual error or demonstrates John's disregard for Old Testament accounts
@@ -922,33 +934,6 @@ Multiple harmonization attempts have been proposed:
 
 **Significance**: This chronological difference is one of the most debated issues in gospel studies, affecting historical reconstruction of Jesus's final week and understanding of the relationship between the gospels.
 
-### 2. Temple Cleansing: Beginning vs. End of Ministry
-
-**The Contradiction**: The gospels disagree about when Jesus cleansed the temple.
-
-**Synoptic Placement**:
-- All three Synoptics place the temple cleansing during Jesus's final week in Jerusalem, shortly after his triumphal entry (Matthew 21:12-13, Mark 11:15-17, Luke 19:45-46)
-- This occurs days before his crucifixion
-
-**Johannine Placement**:
-- John places the temple cleansing at the beginning of Jesus's public ministry (John 2:13-22)
-- This occurs after his first sign (water into wine) and before his discourse with Nicodemus
-
-**Critical Scholarly Explanation**:
-- Jesus cleansed the temple once; either John or the Synoptics have the chronology wrong
-- John likely moved the event to the beginning for theological/literary reasons:
-  - To establish Jesus's authority early in the narrative
-  - To foreshadow his ultimate replacement of the temple
-  - To introduce the theme of Jesus's "hour" (John 2:4)
-- John's theological purposes override chronological accuracy
-
-**Conservative/Harmonizing Explanations**:
-1. **Two cleansings**: Jesus cleansed the temple twice—once at the beginning of his ministry (John's account) and once at the end (Synoptic account). Both were acts of prophetic protest against temple corruption
-2. **Thematic arrangement**: John arranged material thematically rather than chronologically, while the Synoptics preserve the chronological sequence
-3. **Both symbolic**: Each gospel writer placed the event where it best served his theological and narrative purposes
-
-**Significance**: This difference illustrates the broader question of how the gospels balance historical chronology with theological interpretation and literary arrangement.
-
 ### 3. Duration and Geography of Jesus's Ministry
 
 **The Contradiction**: John and the Synoptics present significantly different pictures of Jesus's ministry.
@@ -1010,46 +995,6 @@ Multiple harmonization attempts have been proposed:
 - Jesus's teaching developed over time, with John preserving later, more explicit material
 
 **Significance**: This difference raises fundamental questions about the historical Jesus and the nature of gospel testimony—do the gospels preserve Jesus's actual words (*ipsissima verba*) or his authentic voice and teaching (*ipsissima vox*)?
-
-### 5. Major Content Omissions
-
-**The Contradiction**: John omits major events and teachings found in the Synoptics, while including material the Synoptics omit.
-
-**Synoptic Material Missing from John**:
-- Jesus's birth narratives (Matthew, Luke)
-- The Baptism of Jesus (mentioned indirectly but not narrated)
-- The Temptation in the wilderness
-- The Transfiguration
-- The institution of the Lord's Supper/Eucharist
-- The Sermon on the Mount
-- The Lord's Prayer
-- Exorcisms/casting out demons
-- Narrative parables (Prodigal Son, Good Samaritan, etc.)
-- The apocalyptic Olivet Discourse
-- Jesus's agony in Gethsemane
-
-**Johannine Material Missing from Synoptics**:
-- The entire Prologue (Logos theology)
-- Five of the seven signs (water to wine, official's son, man at Bethesda, man born blind, raising of Lazarus)
-- The entire Farewell Discourse (John 14-17)
-- Extended dialogues (Nicodemus, Samaritan woman, etc.)
-- The High Priestly Prayer
-- The foot washing
-- Resurrection appearances in Jerusalem (vs. Galilee emphasis in Synoptics)
-
-**Critical Scholarly Explanation**:
-- These omissions demonstrate that John and the Synoptics represent different traditions with different sources and purposes
-- John knew the Synoptic tradition but deliberately omitted and supplemented it
-- OR John represents an independent tradition unaware of the Synoptic Gospels
-- The differences are so substantial that they cannot all be historically accurate
-
-**Conservative/Harmonizing Explanation**:
-- Each gospel writer selected material appropriate to his purpose and audience (John 20:30-31 explicitly states selective recording)
-- John assumed readers knew the Synoptic accounts and deliberately supplemented them
-- The omissions don't constitute contradictions—silence doesn't equal denial
-- All four gospels together provide a comprehensive picture
-
-**Significance**: These omissions raise questions about gospel genre, authorial intent, and the relationship between historical reporting and theological interpretation.
 
 ### 6. Jesus's Explicit vs. Implicit Christology
 

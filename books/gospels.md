@@ -1,8 +1,13 @@
+---
+description: Evaluating the credibility of the four Gospels (Matthew, Mark, Luke, John) which present Jesus's life and teachings.
+keywords: Gospel witnesses, Synoptic Gospels, Jesus Christ, New Testament, Messianic prophecy, Gospel contradictions, Biblical harmonization, Early Christianity, Gospel authorship, Roman occupation
+---
+
 # The Gospels
 
 The Gospels are the first four books of the New Testament in the Christian Bible. They are the Gospel of:
-1. [Matthew](gospels/matthew.md)
-2. Mark
+1. [Matthew](matthew.md)
+2. [Mark](mark.md)
 3. Luke
 4. John
 
@@ -147,7 +152,7 @@ Both Mark and Matthew record Jesus stating, "The Son of Man goes as it is writte
 This raises the question of what "as it is written" refers to.
    
 Conservative scholars propose that this refers not to a single verse, but to a **composite fulfillment** of multiple prophetic themes found across the Old Testament, including:
-    *   **Psalm 41:9**: Betrayal by an intimate friend ("Even my close friend, someone I trusted, one who shared my bread, has turned against me.").
+    *   **Psalms 41:9**: Betrayal by an intimate friend ("Even my close friend, someone I trusted, one who shared my bread, has turned against me.").
     *   **Zechariah 11:12-13**: The price of thirty pieces of silver and the money being thrown "to the potter."
     *   **Isaiah 53**: The general theme of the Suffering Servant who is "despised and rejected."
 
