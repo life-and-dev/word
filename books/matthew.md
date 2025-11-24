@@ -402,6 +402,26 @@ Despite questions about its originality, this commission became the basis for Ch
 
 Critics have alleged that Matthew's Gospel contains factual, historical, and prophetic errors that undermine its claim to divine inspiration. These alleged errors range from misattributed prophecies and botanical inaccuracies to historical contradictions and unfulfilled citations. Conservative evangelical scholarship responds that careful examination of context, ancient literary conventions, cultural background, and linguistic analysis resolves these difficulties, demonstrating that alleged "errors" reflect modern misunderstanding rather than ancient mistakes. The following addresses the most commonly cited examples:
 
+### The Immanuel Sign Timeframe (Matthew 1:23)
+
+Matthew applies Isaiah's prophecy to Jesus:
+
+> "Behold, the virgin shall conceive and bear a son, and they shall call his name Immanuel" (which means, God with us). — Matthew 1:23 (ESV)
+
+The original prophecy in Isaiah 7:14-16 promises **a sign to King Ahaz**: a virgin/young woman will bear a son named Immanuel, and "before the boy knows how to refuse the evil and choose the good" (approximately 2-3 years old), the threatening Syro-Ephraimite kings will be defeated. Historically, this threat ended within a few years of Isaiah's pronouncement, but **Matthew applies this prophecy to Jesus, born 700+ years later**.
+
+#### Scholarly Explanations
+
+* **Typological Interpretation:** Matthew drew a correlation between historical circumstances rather than claiming direct prediction. Both periods (Isaiah's time and Jesus' time) desperately needed God's deliverance, and in both, a child's birth functioned as "a sign of hope that God did not forsake them, but was still with them." This represents typological rather than predictive fulfillment—using an earlier pattern to understand a later one.
+
+* **Dual/Multiple Fulfillment:** The prophecy had an immediate fulfillment in Isaiah's time (possibly Isaiah's own son or another child) and a later, fuller fulfillment in Christ. This pattern is common in prophetic literature, where near-term historical events prefigure ultimate eschatological realities.
+
+* **Name Significance:** The name "Immanuel" ("God with us") should not be treated as literal proof of divinity, since the meaning of Hebrew names cannot be taken literally. Other biblical figures bore theologically significant names without being divine (Elijah meant "God Yahweh" but was merely human). The name expressed theological hope rather than ontological identity.
+
+#### Conservative View
+
+The prophecy operates on multiple levels—immediate (a child born in Isaiah's time as a sign that God would deliver Judah from the Syro-Ephraimite threat) and ultimate (Christ as the perfect fulfillment of "God with us")—which is common in prophetic literature. Matthew's use represents legitimate typological interpretation recognizing Jesus as the ultimate expression of God's reconcilliation with His people.
+
 ### The Birth Chronology (Matthew 2:1)
 
 > Now after Jesus was born in Bethlehem of Judea **in the days of Herod the king**, behold, wise men from the east came to Jerusalem... — Matthew 2:1 (ESV)
@@ -496,6 +516,7 @@ Minor or corrected [textual variants](#textual-variants):
 * The spear thrust harmonized from John (Matthew 27:49)
 
 Explainable [textual "errors"](#textual-errors):
+* The Immanuel Sign Timeframe (Matthew 1:23)
 * The Birth Chronology (Matthew 2:1)
 * The Nazarene Prophecy (Matthew 2:23)
 * The Mustard Seed Statement (Matthew 13:31-32)
