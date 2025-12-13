@@ -8,7 +8,7 @@ The Epistle to the Hebrews stands unique among New Testament writings as the onl
 
 **Alternative Proposals**: Scholars have proposed Barnabas (a Levite explaining detailed priestly knowledge), Apollos (eloquent Alexandrian matching the rhetorical sophistication), Priscilla with Aquila, Luke, and others. However, all proposals remain speculative without ancient attestation. Origen's assessment remains most honest: "But who wrote the epistle, in truth God knows."
 
-**Dating**: The epistle was almost certainly written before 70 CE when Romans destroyed the Jerusalem temple. The author consistently uses present-tense verbs describing temple worship (Hebrews 8:4-5, 9:6-9, 10:1-3), suggesting the temple still stood. References to persecution without martyrdom (Hebrews 12:4) and Timothy's recent release (Hebrews 13:23) support dating to 60-69 CE.
+**Dating**: The epistle was almost certainly written before 70 CE when Romans destroyed the Jerusalem temple. It was also likely written before AD 64, given that it mentions none of the recipients had been martyred (Hebrews 12:4), which aligns with Emperor Nero's persecutions beginning around that time (Christopher Reese). The author consistently uses present-tense verbs describing temple worship (Hebrews 8:4-5, 9:6-9, 10:1-3), suggesting the temple still stood. References to persecution without martyrdom (Hebrews 12:4) and Timothy's recent release (Hebrews 13:23) support dating to 60-69 CE.
 
 **Conclusion**: The author remains unknown despite two millennia of speculation. This anonymity need not diminish the epistle's authority, as its powerful Christology and sophisticated biblical interpretation have secured its place in Christian Scripture regardless of its human author's identity.
 
@@ -30,7 +30,7 @@ The Epistle to the Hebrews possesses a clearly articulated purpose: preventing a
 
 ## Cross-References
 
-Other biblical writers almost never quote Hebrews directly. 
+Other biblical authors or books never quote Hebrews. 
 
 The simplest reason is **timing** because most New Testament books (Paul's letters, the Gospels, and others) were written earlier and spread through Christian communities before Hebrews reached them. By the time Hebrews became widely known, especially in the West, other biblical books were already written and locked in place. 
 
@@ -48,7 +48,7 @@ Hebrews has one of the most contested canonical histories in the New Testament. 
 
 **Turning Point**: In the fourth century, [Jerome](https://en.wikipedia.org/wiki/Jerome), the great biblical scholar, accepted Hebrews and included it in the [Vulgate](https://en.wikipedia.org/wiki/Vulgate) (Latin Bible), decisively influencing Western acceptance. [Augustine](https://en.wikipedia.org/wiki/Augustine_of_Hippo), the most influential Western theologian, also accepted it, citing it frequently. The councils of [Hippo](https://en.wikipedia.org/wiki/Council_of_Hippo) (393 CE) and [Carthage](https://en.wikipedia.org/wiki/Council_of_Carthage) (397, 419 CE) listed Hebrews among canonical books. By the early fifth century, universal acceptance had been achieved.
 
-**Reformation & Modern Era**: [Luther](https://en.wikipedia.org/wiki/Martin_Luther) initially doubted Hebrews but valued it highly in maturity. [Calvin](https://en.wikipedia.org/wiki/John_Calvin) accepted it while remaining agnostic about authorship. The [Council of Trent](https://en.wikipedia.org/wiki/Council_of_Trent) (1546) definitively affirmed it. Today, Hebrews' authority rests on early use, theological orthodoxy, and ecclesiastical reception rather than authorship certainty.
+**Reformation & Modern Era**: [Luther](https://en.wikipedia.org/wiki/Martin_Luther) initially doubted Hebrews, classifying it among "letters which are not apostolic," though he still included it in his Bible, but valued it highly in maturity. [Calvin](https://en.wikipedia.org/wiki/John_Calvin) accepted it while remaining agnostic about authorship. The [Council of Trent](https://en.wikipedia.org/wiki/Council_of_Trent) (1546) definitively affirmed it. Today, Hebrews' authority rests on early use, theological orthodoxy, and ecclesiastical reception rather than authorship certainty.
 
 ## Summary
 
@@ -336,25 +336,178 @@ In describing Jesus' endurance of hostility, manuscripts vary between εἰς �
 
 The Epistle to the Hebrews, despite its sophisticated argumentation and extensive Old Testament engagement, contains several passages that critics identify as factual errors such as inaccurate quotations, misattributions, faulty historical claims, or questionable interpretations of Hebrew Scripture. Defenders of Hebrews' accuracy propose various explanations involving translation differences, interpretive tradition, rhetorical purpose, and ancient citation practices. This section examines the most frequently cited alleged errors and the range of scholarly responses.
 
-### Composite Quotation Misattribution (Hebrews 1:5-13)
+### Misquoting scriptures (Hebrews 1:6)
 
-The opening chapter's catena of Old Testament quotations demonstrates Christ's superiority to angels through seven citations. However, some quotations receive imprecise introductions. For instance, Hebrews 1:5 introduces two quotations: 
+> And again, when He brings **the firstborn** into the world, He says, 
+> 
+>> “Let all God’s angels worship him.” 
+> 
+> -- Hebrews 1:6 (ESV)
 
-> For to which of the angels did God ever say, 'You are my Son, today I have begotten you'?" (from Psalm 2:7) 
+The ESV bible's footnotes cross-references Deuteronomy 32:43 and Psalm 97:7 which out of context seems like Jesus should be worshipped, however neither scriptures suggested worshipping Jesus and both say [the LORD with capital letters indicating Yahweh](/god/father/name) should be worshipped. So the author of the book of Hebrews could not have been paraphrasing these scriptures.
 
-and
+> For I will proclaim the name of the LORD ***(Yahweh)***; ascribe greatness to our God!
+> ...
+> For the LORD ***(Yahweh)*** will vindicate His people
+> ...
+> “Rejoice with Him, O heavens; bow down to Him, all gods ...
+>
+> -- Deuteronomy 32:3,36,43 (ESV)
 
-> Or again, 'I will be to him a father, and he shall be to me a son'?" (from 2 Samuel 7:14)
+Moses spoke about the LORD (Yahweh), not Jesus. There is nothing in Moses song that suggest that Jesus should be worshipped by God's angels.
 
-The second quotation, while accurately citing 2 Samuel, originally referred to Solomon, David's son, not the Messiah. Critics note that applying Davidic covenant language to Jesus, while christologically powerful, represents reinterpretation rather than straightforward fulfillment—the original context doesn't predict Messiah but promises divine favor to Solomon. Additionally, Hebrews 1:6's quotation "Let all God's angels worship him" either comes from Deuteronomy 32:43 in the Septuagint (not present in Hebrew MT) or from Psalm 97:7 with modification. The complex sourcing and christological application raise questions about citation accuracy. 
+> The mountains melt like wax before the LORD ***(Yahweh)*** before the Lord of all the earth. The heavens proclaim his righteousness, and all the peoples see His glory.
+>
+> All worshipers of images are put to shame, who make their boast in worthless idols; worship Him, all you gods!
+>
+> Zion hears and is glad, and the daughters of Judah rejoice, because of your judgments, O LORD ***(Yahweh)***.
+>
+> -- Psalm 97:5-8 (ESV)
 
-Defenses respond: 
+So, what did the author of Hebrews quote?
 
-* Ancient citation practice didn't require identifying source texts explicitly. Readers familiar with Scripture would recognize allusions without formal attribution. 
-* Christological rereading of Old Testament texts reflects Christian conviction that all Scripture ultimately points to Christ. The original historical referent (Solomon) serves typologically to reveal the ultimate referent (Christ). 
-* The Septuagint's authority for Greek-speaking Christians validates its readings even where they differ from Hebrew. 
+[John Owen](https://www.followintruth.com/does-hebrews-16-quote-deuteronomy-3243) argues:
 
-However, the loose attribution and interpretive application demonstrate that Hebrews engages Scripture theologically and rhetorically rather than with modern critical precision.
+> “1. Our first inquiry must be whence this testimony is taken. Many of the ancients, as Epiphanius, Theodoret, Euthymius, Procopius, and Anselm, conceived the words to be cited from Deuteronomy 32:43, where they expressly occur in the translation of the LXX., Εὐφράςθητς οὐρανοὶ ἄμα αὐτοῦ καὶ προσκυνησάτωσαν αὐτῷ πάντες ἄγγελοι Θεοῖ ; “Rejoice ye heavens with him, and let all the angels of God worship him.” But there are two considerations that put it beyond all pretensions that **the words are not taken from this place of the LXX**.:
+>
+> (1.) Because indeed there are no such words in the original text, nor any thing spoken that might give occasion to the sense expressed in them; but **the whole verse is inserted in the Greek version quite beside the scope of the place**. Now, though it may perhaps be safely granted that the apostles, in citing the Scripture of the Old Testament, did sometimes use the words of the Greek translation then in use, yea, though not exact according to the original, whilst the sense and meaning of the Holy Ghost was retained in them; yet to cite that from the Scripture as the word and testimony of God which indeed is not therein, nor was ever spoken by God, but by human failure and corruption crept into the Greek version, is not to be imputed unto them. And indeed I no way question but that **this addition unto the Greek text in that place was made after the apostle had used this testimony**. For it is not unlikely but that some considering of it, and not considering from whence it was taken, because the words occur not absolutely and exactly in the Greek anywhere, inserted it into that place of Moses, amidst other words of an alike sound, and somewhat an alike importance, such as immediately precede and follow the clause inserted. “
+
+> Supporting the non-authority of the words are the Targums, Syriac Peshitta and the Latin Vulgate. None of which include the words in Deuteronomy 32:43. -- [ljthriepland](https://www.followintruth.com/does-hebrews-16-quote-deuteronomy-3243)
+
+Even if the scripture was inspired by God so that it was not a man made modification, then it could also mean that [the angels should give honour to "the firstborn"](/god/worship).
+
+### Misapplication of Psalm 45 (Hebrews 1:8-9)
+
+> But **of the Son** He says,
+>
+>> “Your throne, O God, is forever and ever, the scepter of uprightness is the scepter of your kingdom. You have loved righteousness and hated wickedness; therefore God, your God, has anointed you with the oil of gladness beyond your companions.”
+>
+> -- Hebrews 1:8-9 (ESV)
+
+Hebrews 1:8-9 quotes Psalm 45:6-7, but Psalm 45 was written by the sons of Korah, and they did not refer to Jesus.
+
+> To the choirmaster: according to Lilies. A Maskil of the Sons of Korah;
+>
+> **A LOVE SONG**
+>
+> My heart overflows with a pleasing theme;<br/>
+> **I address my verses to the king**;<br/>
+> my tongue is like the pen of a ready scribe.
+>
+> **You are the most [handsome](https://biblehub.com/hebrew/3302.htm) of the sons of men**;<br/>
+> ~~grace~~[charm](https://biblehub.com/hebrew/2580.htm) is poured upon **your lips**;<br/>
+> therefore God has blessed you forever.
+>
+> Gird your sword on your thigh, O mighty one,<br/>
+> in your splendor and majesty!
+>
+> In your majesty ride out victoriously<br/>
+> for the cause of truth and meekness and righteousness;<br/>
+> let your right hand teach you awesome deeds!
+>
+> Your **arrows are sharp in the heart of the king's enemies**;<br/>
+> **the peoples fall under you**.
+>
+> ***Your throne, O god, is forever and ever.***<br/>
+> ***The scepter of your kingdom is a scepter of uprightness;***<br/>
+> ***you have loved righteousness and hated wickedness.***<br/>
+> ***Therefore god, your God, has anointed you***<br/>
+> ***with the oil of gladness beyond your companions;***
+>
+> your robes are all fragrant with myrrh and **aloes and cassia**.<br/>
+> **From ivory palaces stringed instruments make you glad**;<br/>
+> **daughters of kings** are among **your ladies of honor**;<br/>
+> **at your right hand stands the queen in gold of Ophir**.
+>
+> Hear, O daughter, and consider, and incline your ear:<br/>
+> **forget your people and your father's house**,<br/>
+> and **the king will desire your beauty**.<br/>
+> Since he is your lord, bow to him.
+>
+> The people of **Tyre will seek your favor with gifts**,<br/>
+> the richest of the people.
+>
+> All glorious is **the princess in her chamber**, with robes interwoven with gold.<br/>
+> In many-colored robes **she is led to the king**,<br/>
+> with her **virgin companions following behind her**.
+>
+> With joy and gladness they are led along<br/>
+> as they enter **the palace of the king**.
+>
+> In place of your fathers shall be your sons;<br/>
+> you will make them princes in all the earth.<br/>
+> I will cause your name to be remembered in all generations;<br/>
+> therefore nations will praise you forever and ever.
+>
+> -- Psalms 45 (ESV)
+
+Human kings are also sometimes referred to as [gods](/bible/concepts/god). The original Hebrew manuscripts were all written in capital letters. The modern English [bible translators](/bible/translations) added the capital letter "God" based on their understanding of scripture. The psalmists also wrote that this "god" as a "God". It would be a paradox if God Almighty has a bigger God who is even more mighty.
+
+Why this king is not Jesus:
+
+| This king                                                                              | Jesus                                                                               |
+|----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| This Psalm is a love song written for a daughter who is led to the king to marry him   | Jesus married no one                                                                |
+| The king is handsome in the eyes of the daughter (also mentions lips, perhaps kissing) | Jesus was not handsome according to the people who saw him (John 7:24)              |
+| The daughter mentions her lips and his lips (perhaps implying kissing)                 | Jesus had no sexual relationship with women                                         |
+| The king killed enemies with sharp arrows                                              | Jesus killed no one                                                                 |
+| The king's robes were fragrant with myrrh, aloes and cassia                            | Jesus robes were not fragrant with aloes and a cassia as these were expensive items |
+| The king lived in an ivory place                                                       | Jesus did not had a house                                                           |
+| The king were made glad with stringed instruments                                      | Jesus did not had entertainers                                                      |
+| The king married many daughters of other kings                                         | Jesus married no one                                                                |
+| The king had a queen dressed with gold of Ophir                                        | Jesus had no sexual relationship with any women                                     |
+| The king will desire the daughter's beauty                                             | Jesus had no sexual relationship with any women                                     |
+| Rich people from Tyre will seek the king's (or queen's) favour gifts                   | No one from Tyre seek Jesus' favour with gifts                                      |
+| The princess in her chamber is led to the king with virgin companions                  | Jesus kept no princesses in chambers                                                |
+
+### Misapplication of Psalm 102:22-27 (Hebrews 1:10-12)
+
+> “You, LORD, in the beginning laid the foundation of the earth,<br/>
+> And the heavens are the work of Your hands.<br/>
+> They will perish, but You remain;<br/>
+> And they will all grow old like a garment;<br/>
+> Like a cloak You will fold them up,<br/>
+> And they will be changed.<br/>
+> But You are the same,<br/>
+> And Your years will not fail.”
+>
+> -- Hebrews 1:10-12 (NKJV)
+
+The author of Hebrews seems to quote Psalm 102, but Psalm 102 addresses YHVH and not Jesus.
+
+> Hear my prayer, O LORD *([YHVH](/god/father/name))* -- Psalm 102:1 (NKJV)
+
+The passage that the author seems to quote is:
+
+> When the peoples are gathered together, and the kingdoms, to serve the **LORD** *([YHVH](/god/father/name))*.
+>
+> He weakened my strength in the way;<br/>
+> He shortened my days.<br/>
+> I said, “O my God,<br/>
+> Do not take me away in the midst of my days;<br/>
+> Your years are throughout all generations.
+>
+> Of old You laid the foundation of the earth,<br/>
+> And the heavens are the work of Your hands.<br/>
+> They will perish, but You will endure;<br/>
+> Yes, they will all grow old like a garment;<br/>
+> Like a cloak You will change them,<br/>
+> And they will be changed.<br/>
+> But You are the same,<br/>
+> And Your years will have no end.
+>
+> -- Psalm 102:22-27 (NKJV)
+
+The author of the Psalm is clearly addressing [YHVH](/god/father/name) and not "the Son" as the author of Hebrews implies, unless the author intentionally did this to imply that the Son is [YHVH](/god/father/name).
+
+Another problem is that the author of Hebrews contradict the Gospel:
+
+| Hebrews                                                                                                    | Gospel                                           |
+|------------------------------------------------------------------------------------------------------------|--------------------------------------------------|
+| "You, LORD, in the beginning laid the foundation of the earth, and the heavens are the work of Your hands" | [God created, not Jesus](/creation)              |
+| "They will perish, but You remain"                                                                         | Jesus died                                       |
+| "You remain; And they will all grow old like a garment;"                                                   | Jesus grew (Luke 2:52)                           |
+| "They will be changed. But You are the same."                                                              | [Jesus changed](/god/son/essence/of-god/changes) |
 
 ### Angels and Law Mediation (Hebrews 2:2)
 
@@ -379,6 +532,30 @@ This explicitly identifying as second-generation Christian who received the gosp
 However, modern scholarship universally rejects Pauline authorship, making this a problem of misattribution rather than authorial error per se. 
 
 The anonymous author accurately described his own second-generation status; later tradition's incorrect attribution to Paul created the factual contradiction.
+
+### Misapplication of Psalm 8 (Hebrews 2:5-8)
+
+Hebrews 2:5-8 quotes Psalm 8:4-6: 
+
+> What is man that you are mindful of him, or the son of man that you care for him? You made him for a little while lower than the angels; you crowned him with glory and honor, putting everything in subjection under his feet.
+
+Critics argue that Psalm 8, in its original context, refers to all humanity created a little lower than God (often translated "angels" or "divine beings"), emphasizing humanity's exalted status and dominion over creation. Applying this exclusively to Jesus is seen as a misapplication of a passage that speaks of the general human condition and potential.
+
+### Misapplication of Psalm 22:22 (Hebrews 2:11-12)
+
+Hebrews 2:11-12 quotes Psalm 22:22: 
+
+> I will tell of your name to my brothers; in the midst of the congregation I will sing your praise.
+
+Psalm 22 was written by David and contained elements that do not fit Jesus' experience, particularly the lament over suffering that includes specific physical details not directly applicable to Christ's passion. Applying David's words directly to Jesus in a way that suggests Jesus is speaking them is seen by critics as ignoring the historical context of the psalm.
+
+### Misapplication of Isaiah 8:17-18 (Hebrews 2:13)
+
+Hebrews 2:13 quotes Isaiah 8:17-18: 
+
+> I will put my trust in him...Here am I and the children whom God has given me.
+
+Critics argue that Isaiah was referring to himself and his children (Maher-shalal-hash-baz and Shear-jashub) as signs for Israel in his own historical context. Directly applying "I will put my trust in Him" to Jesus and "Here am I and the children whom God has given me" to Jesus and believers is considered a misapplication that wrenches the verses from their original prophetic and historical context.
 
 ### Melchizedek's Genealogy Argument (Hebrews 7:3)
 
@@ -406,7 +583,7 @@ Hebrews quotes Psalm 40:6-8, placing it on Jesus' lips as he enters the world:
 
 > Sacrifices and offerings you have not desired, but a body have you prepared for me; in burnt offerings and sin offerings you have taken no pleasure. Then I said, 'Behold, I have come to do your will, O God, as it is written of me in the scroll of the book'" (Hebrews 10:5-7). 
 
-The crucial phrase "a body have you prepared for me" (σῶμα δὲ κατηρτίσω μοι) appears in the Septuagint but differs markedly from the Hebrew Masoretic Text, which reads "but you have given me an open ear" or more literally "ears you have dug/bored for me" (אָזְנַיִם כָּרִיתָ לִּי). Critical scholars identify this as error: the author quotes the Septuagint's mistranslation or interpretive rendering rather than accurately representing the Hebrew original. The Hebrew emphasizes obedience (opened ears to hear and obey), while the Greek emphasizes incarnation (prepared body). 
+The crucial phrase "a body have you prepared for me" (σῶμα δὲ κατηρτίσω μοι) appears in the Septuagint but differs markedly from the Hebrew Masoretic Text, which reads "but you have given me an open ear" or more literally "ears you have dug/bored for me" (אָזְנַיִם כָּרִיתָ לִּי). Critical scholars identify this as error: the author quotes the Septuagint's mistranslation or interpretive rendering rather than accurately representing the Hebrew original. The Hebrew emphasizes obedience (opened ears to hear and obey), while the Greek emphasizes incarnation (prepared body). These were originally David's words, not Jesus', and contain elements (like sacrifice for sin) that do not fit Jesus' sinless nature or circumstances.
 
 Defenses include: 
 
@@ -416,6 +593,14 @@ Defenses include:
 * Ancient citation practices permitted interpretive flexibility and didn't demand verbatim precision. 
 
 However, the discrepancy remains: the author builds significant theology of incarnation on a Septuagintal rendering that departs from Hebrew Scripture, potentially undermining claims of precise fulfillment if the Hebrew is considered normative.
+
+### Addition to Habakkuk 2:3-4 (Hebrews 10:37-38)
+
+Hebrews 10:37-38 quotes Habakkuk 2:3-4 but includes an additional phrase: 
+
+> For, "Yet a little while, and the coming one will come and will not delay; but my righteous one shall live by faith, and if he shrinks back, my soul has no pleasure in him."
+
+The phrase "But if anyone draws back, My soul has no pleasure in him" is noted as missing from the original Habakkuk text (both Hebrew Masoretic Text and Septuagint versions). This addition, which strengthens the warning against apostasy, is viewed by critics as an alteration or expansion of the Old Testament text, potentially misleading readers about the original prophecy.
 
 ### Jacob's Staff or Bed (Hebrews 11:21)
 
@@ -428,7 +613,7 @@ This follows the Septuagint of Genesis 47:31, which reads "staff" (ῥάβδος
 Defenses include: 
 
 * Both Hebrew readings are linguistically possible from the unpointed text; the Septuagint translators had as much authority to interpret the word as later Masoretic scholars. 
-* "Staff" creates powerful symbolism: Jacob, the wanderer who left Canaan with only his staff, now returns that staff as he dies, having fulfilled God's promises. 
+* "Staff" creates powerful symbolism: Jacob, the wanderer who left Canaan with only his staff, now returns that staff as he dies, having fulfilled Gods promises. 
 * The passage's theological point—Jacob's faith in God's future provision for his descendants—remains intact whether he bowed over staff or bed. 
 * Ancient citation practice recognized interpretive tradition as authoritative alongside textual precision. 
 
@@ -446,11 +631,52 @@ Defenses respond:
 
 However, the contrast between declaring one covenant obsolete while claiming another is eternal requires careful theological explanation regarding what makes covenants mutable or immutable.
 
-## Contradictions
+## Internal Contradictions
+
+Some identify internal tensions within Hebrews itself. These apparent inconsistencies often reflect the author's complex theological method.
+
+### Sinlessness vs. Learning Obedience (Hebrews 4:15 vs. Hebrews 5:8)
+
+Hebrews emphasizes Christ's absolute sinlessness:
+
+> For we do not have a high priest who is unable to sympathize with our weaknesses, but one who in every respect has been tempted as we are, yet **without sin** (Hebrews 4:15).
+
+However, the epistle later states:
+> Although he was a son, he **learned obedience** through what he suffered (Hebrews 5:8).
+
+Critics argue that "learning obedience" implies a transition from disobedience or lack of obedience to obedience, contradicting the claim of sinlessness. If he was already without sin (perfectly obedient), what remained to be learned?
+
+**Resolution**: "Learned obedience" distinguishes between knowledge of obedience as an abstract principle versus embodied knowledge of what obedience actually costs. Jesus could maintain sinlessness (never compromising God's will) while still deepening his understanding of obedience's full meaning through the specific experience of suffering. A person can be perfectly obedient in action while still having room to understand obedience more fully through new experiences. Jesus' human experience of facing genuine temptation and choosing obedience under extreme suffering expanded his embodied understanding, not because his previous obedience was deficient, but because suffering revealed dimensions of obedience's reality that could only be known through living through it.
+
+### Irrevocable Apostasy vs. Exhortation (Hebrews 6:4-6 vs. Hebrews 3:12-13)
+
+Hebrews declares apostasy impossible to remedy:
+> For it is impossible... to restore them again to repentance (Hebrews 6:4-6).
+
+Yet the author continues exhorting the same audience not to apostatize:
+> Take care, brothers, lest there be in any of you an evil, unbelieving heart, leading you to fall away from the living God. But exhort one another every day... that none of you may be hardened by the deceitfulness of sin (Hebrews 3:12-13).
+
+If restoration is truly impossible for those who fall away, and if the audience is in danger of this, the fatalistic "impossibility" seems to undermine the utility of exhortation. Why warn if the outcome is fixed or if the line is already crossed?
+
+**Resolution**: The warnings function preventatively—precisely *because* apostasy is irreversible, believers must avoid it at all costs. The author warns to prevent the act rather than describe a hopeless state for those currently listening. The "impossibility" highlights the stakes, not the audience's current status.
+
+### Obsolete vs. Vanishing (Hebrews 8:13)
+
+Hebrews declares the old covenant obsolete:
+> In speaking of a new covenant, he makes the first one **obsolete** (Hebrews 8:13a).
+
+But immediately adds:
+> And what is becoming obsolete and growing old is **ready to vanish away** (Hebrews 8:13b).
+
+Critics ask: If the covenant was made obsolete (past tense/completed status) by the new covenant's announcement, why is it described as merely "becoming obsolete" and "ready to vanish" (present/future process)? Is it dead or dying?
+
+**Resolution**: Obsolescence describes the *theological status* (legally superseded by Christ), while "ready to vanish" describes the *historical process* (the temple system was still operating but divinely terminated, awaiting its physical end in 70 CE). The theological reality (obsolete) predated the historical termination (destruction of the temple).
+
+## Biblical Contradictions
 
 The Epistle to the Hebrews contains apparent contradictions both within itself and when compared with other biblical texts. These discrepancies span theological claims, scriptural interpretation, and doctrinal emphases. Critics view these contradictions as evidence of theological development, authorial perspective differences, or doctrinal inconsistency. Defenders propose harmonizations involving nuanced interpretation, contextual distinction, or complementary rather than contradictory truth claims. This section examines the most significant alleged contradictions and interpretive responses.
 
-### Christ as Creator vs. God Alone Creates (Hebrews 1:2-3, 1:10 vs. Isaiah 44:24)
+### Christ as Creator vs. God Alone Creates (Hebrews 1:2-3, 1:10 vs. Isaiah 44:24, Luke 4:17-21)
 
 Hebrews explicitly attributes cosmic creation to the Son within a broader theological framework of revelation: 
 
@@ -462,7 +688,7 @@ This is reinforced by applying Psalm 102:25-27 to the Son:
 
 Hebrews' application of Psalm 102 (a passage directly addressing YHWH in the Old Testament) to the Son represents a remarkable christological move. 
 
-However, Isaiah 44:24 declares: "I am the LORD, who made all things, who alone stretched out the heavens, who spread out the earth by myself." The Hebrew emphasizes singularity and exclusivity—YHWH alone, by himself, without assistance or co-creator. This appears to contradict attributing creation to the Son as distinct agent. 
+However, Isaiah 44:24 declares: "I am the LORD, who made all things, who alone stretched out the heavens, who spread out the earth by myself." The Hebrew emphasizes singularity and exclusivity—YHWH alone, by himself, without assistance or co-creator. This appears to contradict attributing creation to the Son as distinct agent. Furthermore, the author of Hebrews implies the Son is YHVH, contradicting Jesus' own words in Luke 4:17-21, where he distinguishes himself from the "Lord God" who anointed him.
 
 Critics argue this demonstrates either: 
 * theological incoherence—creation cannot be both exclusively God's solitary act and mediated through the Son; 
@@ -532,7 +758,7 @@ Harmonization proposals include:
 * Apostasy differs categorically from other sins—it involves complete, final rejection of Christ after full knowledge, not merely sinful behavior. 1 John addresses sins committed by believers who maintain faith, not total abandonment of Christianity. 
 * Hebrews employs rhetorical hyperbole designed to prevent apostasy rather than theological description of actual cases. No genuine believer can actually commit this sin, but the warning functions to preserve them from doing so.
 
-### Law Replacement vs. Fulfillment Not Destruction (Hebrews 8:13 vs. Matthew 5:17)
+### Law Replacement vs. Fulfillment Not Destruction (Hebrews 8:13 vs. Matthew 5:17, Jeremiah 33:19-26)
 
 Hebrews explicitly declares the Old Covenant obsolete: 
 
@@ -542,7 +768,7 @@ This language of obsolescence, vanishing, and replacement appears to contradict 
 
 > Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them. For truly, I say to you, until heaven and earth pass away, not an iota, not a dot, will pass from the Law until all is accomplished (Matthew 5:17-18). 
 
-Jesus explicitly denies abolishing the Law, affirms its permanence, and insists on fulfillment. Hebrews declares the first covenant obsolete and vanishing. 
+Jesus explicitly denies abolishing the Law, affirms its permanence, and insists on fulfillment. Hebrews declares the first covenant obsolete and vanishing. Furthermore, Hebrews' interpretation contradicts Jeremiah 33:19-26, where Jeremiah speaks of *renewing*, not replacing, the covenant.
 
 Critical perspectives identify: 
 * genuine theological contradiction between Jesus' Torah-affirming Judaism and Hebrews' replacement theology; 
@@ -597,11 +823,49 @@ Defenders of Hebrews' interpretation note:
 
 * The Septuagint uses καινή (kainē), clearly meaning "new" rather than merely renewed, representing legitimate translation interpretation. 
 * Jeremiah's prophecy includes substantive changes—law written on hearts rather than stone, universal knowledge, complete forgiveness—suggesting qualitative newness beyond mere renewal. 
-* New Testament consistently interprets Jeremiah as prophecying covenant replacement (Luke 22:20, 1 Corinthians 11:25, [2 Corinthians 3:6). 
+* New Testament consistently interprets Jeremiah as prophecying covenant replacement (Luke 22:20; 1 Corinthians 11:25; 2 Corinthians 3:6). 
 * Hebrews' entire argument depends on demonstrating replacement, not mere renewal—the old must vanish for the new to be superior. 
 
 However, the contradiction between Jewish "renewal" interpretation and Christian "replacement" interpretation of the same Hebrew text reveals hermeneutical and theological divergence with significant inter-religious implications.
 
-**Internal Contradictions**: Beyond contradictions with other biblical texts, some identify internal tensions within Hebrews itself. For instance: (1) Hebrews emphasizes Christ's sinlessness ("tempted as we are, yet without sin," Hebrews 4:15) while stating he "learned obedience through what he suffered" (Hebrews 5:8). If Christ was perfectly obedient, what did he learn? Resolution: "Learned obedience" means experientially understanding obedience's cost through actual suffering, not transition from disobedience to obedience. (2) Hebrews declares apostasy impossible to remedy (Hebrews 6:4-6) yet continues exhorting the same audience not to apostatize (Hebrews 10:26-31, Hebrews 12:25). If restoration is impossible, why warn them? Resolution: The warnings function preventatively—precisely because apostasy is irreversible, believers must avoid it. The author warns to prevent rather than describe irreversible cases. (3) Hebrews describes both the old covenant as obsolete (Hebrews 8:13) and as "ready to vanish away"—if already obsolete, why is it merely becoming obsolete? Resolution: Obsolescence describes theological status (superseded by Christ), while "ready to vanish" describes historical process (temple still operating but divinely terminated, awaiting physical end in 70 CE).
+## Credibility
 
-**Conclusion**: Contradictions in Hebrews span multiple categories: christological claims versus Old Testament monotheism; divine sovereignty versus satanic power; apostasy's unforgivability versus universal forgiveness; Law's obsolescence versus Jesus' affirmation of non-abolition; faith as confidence in the unseen versus evidence-based belief; covenant replacement versus renewal interpretation. Harmonization requires sophisticated theological frameworks (Trinitarian theology, covenant theology, perseverance of saints, faith's multifaceted character) and careful attention to context, audience, and rhetorical purpose. Critics argue some contradictions resist resolution, revealing theological development, competing early Christian perspectives, or genuine incoherence. Defenders maintain that apparent contradictions reflect complementary emphases, different aspects of complex realities, or interpretive differences resolving through careful exegesis. The contradictions' existence and persistence demonstrate that Hebrews' sophisticated theology engages fundamental questions about continuity and discontinuity, divine action and human response, grace and judgment, evidence and trust—themes admitting multiple perspectives and requiring ongoing theological reflection. Whether these tensions constitute irresolvable contradictions or productive theological complexity depends on one's hermeneutical approach, theological commitments, and tolerance for biblical dialectic.
+Minor [textual variants](#textual-variants):
+* Hebrews 1:3 - "Purification" Details
+* Hebrews 3:2 - "His House" vs. "All His House"
+* Hebrews 3:6 - "Firm to the End"
+* Hebrews 10:34 - "Prisoners" vs. "My Chains"
+* Hebrews 11:4 - "Still Speaks" vs. "He Still Speaks"
+* Hebrews 11:11 - Sarah's Faith
+* Hebrews 12:3 - "Against Themselves" vs. "Against Himself"
+
+Major [textual variants](#textual-variants):
+* Hebrews 2:9 - "By the Grace of God" vs. "Apart from God"
+* Hebrews 9:11 - "Good Things to Come" vs. "Good Things That Have Come"
+
+[Textual "errors"](#textual-errors):
+* Misquoting scriptures (Hebrews 1:6)
+* Misapplication of Psalm 45 (Hebrews 1:8-9)
+* Misapplication of Psalm 102:22-27 (Hebrews 1:10-12)
+* Angels and Law Mediation (Hebrews 2:2)
+* Second-Generation Christianity Claim (Hebrews 2:3)
+* Misapplication of Psalm 8 (Hebrews 2:5-8)
+* Misapplication of Psalm 22:22 (Hebrews 2:11-12)
+* Misapplication of Isaiah 8:17-18 (Hebrews 2:13)
+* Melchizedek's Genealogy Argument (Hebrews 7:3)
+* Historical Claims About Temple Worship (Hebrews 9:6-9, 13:10-11)
+* Psalm 40 Quotation Discrepancy (Hebrews 10:5-7)
+* Addition to Habakkuk 2:3-4 (Hebrews 10:37-38)
+* Jacob's Staff or Bed (Hebrews 11:21)
+* The Eternal Covenant (Hebrews 13:20)
+
+[Contradictions](#contradictions):
+* Sinlessness vs. Learning Obedience (Hebrews 4:15 vs. Hebrews 5:8)
+* Irrevocable Apostasy vs. Exhortation (Hebrews 6:4-6 vs. Hebrews 3:12-13)
+* Obsolete vs. Vanishing (Hebrews 8:13)
+* Christ as Creator vs. God Alone Creates (Hebrews 1:2-3, 1:10 vs. Isaiah 44:24)
+* Devil's Power Over Death vs. God's Exclusive Authority (Hebrews 2:14-15 vs. 1 Samuel 2:6, Deuteronomy 32:39)
+* Apostasy Unforgivable vs. Confession Brings Forgiveness (Hebrews 6:4-6, 10:26-31 vs. 1 John 1:9)
+* Law Replacement vs. Fulfillment Not Destruction (Hebrews 8:13 vs. Matthew 5:17)
+* Faith Definition vs. Empirical Verification (Hebrews 11:1 vs. John 20:24-29)
+* New vs. Renewed Covenant (Hebrews 8:8-13 and Jeremiah 31:31-34)
