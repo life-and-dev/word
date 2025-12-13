@@ -277,219 +277,6 @@ These confessions provide a model for honest prayer and demonstrate that faithfu
 
 *This teaching is present in both the Masoretic Text (MT) and the Septuagint (LXX).*
 
-## Fulfilled Prophecies
-
-Jeremiah's prophecies provided specific predictions that were historically fulfilled, demonstrating the prophetic authenticity of his ministry. These fulfilled predictions offered hope to the exiled community and validated God's sovereignty over history.
-
-### The Fate of King Jehoiachin (Jeremiah 22:24-30)
-
-Jeremiah prophesied the exile of King Jehoiachin (also called Coniah or Jeconiah) and that he would die in a foreign land.
-
-> "As I live, declares the LORD, though Coniah the son of Jehoiakim, king of Judah, were the signet ring on my right hand, yet I would tear you off... I will hurl you and the mother who bore you into another country, where you were not born, and there you shall die." — Jeremiah 22:24-26 (ESV)
-
-#### Historical Fulfillment
-
-In 597 BCE, Jehoiachin surrendered to Nebuchadnezzar and was deported to Babylon. Babylonian records, specifically the **Jehoiachin's Ration Tablets** (excavated near the Ishtar Gate), list rations for "Ya’u-kīnu, king of the land of Yahudu," confirming his presence as a captive in Babylon. He died in exile, never returning to rule Judah.
-
-External resources:
-- [Jehoiachin's Ration Tablets - Wikipedia](https://en.wikipedia.org/wiki/Jehoiachin%27s_Ration_Tablets)
-- [Jehoiachin in Babylon - Livius.org](https://www.livius.org/articles/person/jehoiachin/)
-
-*This prophecy is present in both the Masoretic Text (MT) and the Septuagint (LXX).*
-
-### The Fall of Jerusalem (Jeremiah 25:8-11)
-
-Jeremiah persistently warned that Jerusalem would be destroyed by the Babylonians due to the nation's refusal to repent.
-
-> "Therefore thus says the LORD of hosts: Because you have not obeyed my words... I will bring them against this land and its inhabitants, and against all these surrounding nations. I will devote them to destruction, and make them a horror, a hissing, and an everlasting desolation." — Jeremiah 25:8-9 (ESV)
-
-#### Historical Fulfillment
-
-In 586 BCE, after a prolonged siege, the Babylonian army breached the walls of Jerusalem, burned the Temple, destroyed the royal palace, and razed the city, just as Jeremiah had predicted decades earlier.
-
-External resources:
-- [Siege of Jerusalem (587 BC) - Wikipedia](https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(587_BC))
-- [Babylonian Destruction of Jerusalem - Biblical Archaeology Society](https://www.biblicalarchaeology.org/daily/biblical-sites-places/jerusalem/babylonian-destruction-of-jerusalem/)
-
-*This prophecy is present in both the Masoretic Text (MT) and the Septuagint (LXX).*
-
-### Seventy Years of Babylonian Dominance (Jeremiah 25:11-12)
-
-Jeremiah's first major prophecy concerned **Babylonian imperial power** lasting 70 years, followed by God's judgment on Babylon:
-
-> "This whole land shall become a ruin and a waste, and **these nations shall serve the king of Babylon seventy years**. Then after seventy years are completed, **I will punish the king of Babylon** and that nation, the land of the Chaldeans, for their iniquity, declares the LORD, making the land an everlasting waste." — Jeremiah 25:11-12 (ESV)
-
-Key Elements:
-- **"These nations shall serve"** - Multiple nations under Babylonian dominance
-- **Duration**: 70 years of Babylonian power
-- **Outcome**: God will punish Babylon after this period
-
-#### Historical Fulfillment
-
-The [Battle of Carchemish](https://www.worldhistory.org/Battle_of_Carchemish/) in **605 BCE** marked Babylon's decisive victory over Egypt and established Babylonian dominance over the region. Exactly as prophesied, Babylonian imperial power lasted approximately 70 years until **539 BCE** when [Cyrus the Great conquered Babylon](https://www.worldhistory.org/article/1698/fall-of-babylon/), fulfilling the prediction that God would "punish the king of Babylon."
-
-Timeline Verification:
-
-- **609 BCE**: Fall of Assyria at Harran; Babylon becomes regional superpower
-- **605 BCE**: Battle of Carchemish; Babylonian dominance firmly established
-- **539 BCE**: Fall of Babylon to Cyrus the Great
-- **Duration**: Approximately 70 years of Babylonian imperial dominance
-
-The [Nabonidus Chronicle](https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-7-nabonidus-chronicle/) (part of the Babylonian Chronicles) provides contemporary cuneiform evidence documenting Cyrus's conquest of Babylon in 539 BCE, confirming the prophesied end of Babylonian power.
-
-This prophecy demonstrates remarkable historical accuracy:
-
-1. Babylon did become the dominant regional power
-2. Multiple nations did serve under Babylonian rule
-3. The duration was approximately 70 years (609-539 BCE or 605-539 BCE)
-4. Babylon was indeed conquered and "punished" by Cyrus, ending its empire
-
-External resources:
-- [Battle of Carchemish - World History Encyclopedia](https://www.worldhistory.org/Battle_of_Carchemish/) - The battle that established Babylonian supremacy
-- [Fall of Babylon - World History Encyclopedia](https://www.worldhistory.org/article/1698/fall-of-babylon/) - How Cyrus conquered Babylon in 539 BCE
-- [Nabonidus Chronicle - Livius.org](https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-7-nabonidus-chronicle/) - Contemporary Babylonian record of the fall
-- [Seventy Years of Babylonian Rule](http://www.aboutbibleprophecy.com/years.htm) - Analysis of the 70-year timeframe
-
-*This prophecy is present in both the Masoretic Text (MT) and the Septuagint (LXX).*
-
-### Seventy Years Until Jewish Restoration (Jeremiah 29:10)
-
-Jeremiah's second prophecy concerned the **duration of Jewish exile** and promised return:
-
-> "For thus says the LORD: When **seventy years are completed for Babylon**, I will visit you, and I will fulfill to you my promise and **bring you back to this place**." — Jeremiah 29:10 (ESV)
-
-Key Elements:
-- **"Seventy years completed for Babylon"** - A specific duration connected to Babylon
-- **Divine promise**: God will bring His people back
-- **Return to "this place"** - Restoration to Jerusalem/Judah
-
-#### Historical Fulfillment
-
-This prophecy was fulfilled through multiple phases of Jewish return following Cyrus's decree. The book of Ezra explicitly references Jeremiah's prophecy:
-
-> In the first year of Cyrus king of Persia, **that the word of the LORD by the mouth of Jeremiah might be fulfilled**, the LORD stirred up the spirit of Cyrus king of Persia, so that he made a proclamation throughout all his kingdom and also put it in writing:
->
-> "Thus says Cyrus king of Persia: The LORD, the God of heaven, has given me all the kingdoms of the earth, and He has charged me to build him a house at Jerusalem, which is in Judah. Whoever is among you of all his people, may His God be with him, and **let him go up to Jerusalem**, which is in Judah, and **rebuild the house of the LORD**, the God of Israel ⁠— He is the God Who is in Jerusalem." — Ezra 1:1-3 (ESV)
-
-Different aspects of the exile and restoration each align with approximately 70 years:
-
-1. **First Deportation to First Return** (605-536 BCE):
-   - **605 BCE**: First deportation when Daniel and nobles were taken to Babylon
-   - **538 BCE**: Cyrus's decree allowing return
-   - **536 BCE**: First group returns under Zerubbabel
-   - **Duration**: Approximately 70 years
-
-2. **Temple Destruction to Temple Completion** (586-516 BCE):
-   - **586 BCE**: Solomon's Temple destroyed by Babylonians
-   - **516 BCE**: Second Temple completed and dedicated
-   - **Duration**: Exactly 70 years
-
-Archaeological Evidence:
-
-The [Cyrus Cylinder](https://www.britishmuseum.org/collection/object/W_1880-0617-1941), discovered in 1879, provides archaeological confirmation of Cyrus's policy of allowing displaced peoples to return to their homelands and rebuild their temples. This ancient artifact corroborates the biblical account of the decree.
-
-Prophetic Significance:
-
-What makes this prophecy remarkable is its **specificity and verifiability**:
-
-1. **Hope during exile** - The exiles knew their captivity had a defined limit (not indefinite)
-2. **Validation through Daniel** - When the 70 years approached, Daniel studied Jeremiah's words ([Daniel 9:2](https://lifehopeandtruth.com/prophecy/understanding-the-book-of-daniel/daniel-9/)) and prayed for fulfillment
-3. **Multiple fulfillments** - Both the political (end of Babylonian power) and religious (temple reconstruction) aspects were fulfilled within 70-year periods
-4. **Divine sovereignty** - God orchestrated international events (Cyrus's rise) to fulfill His specific timeline
-
-Connection to Isaiah's Prophecy:
-
-While Jeremiah provided the **timeline** (70 years), the prophet Isaiah had earlier provided the **name** of the deliverer (Cyrus). Together, these complementary prophecies from different time periods (Isaiah c. 740-700 BCE, Jeremiah c. 627-586 BCE) demonstrate God's comprehensive foreknowledge and sovereign orchestration of history. For detailed analysis of Isaiah's naming of Cyrus, see the [Fulfilled Prophecies section in Isaiah](isaiah.md#fulfilled-prophecies).
-
-External resources:
-- [Cyrus Cylinder - British Museum](https://www.britishmuseum.org/collection/object/W_1880-0617-1941) - Archaeological evidence for Cyrus's policy
-- [Jeremiah's Prophecy of Judah's Exile for 70 Years](https://fbcrockford.org/resources/blog/jeremiah-s-prophecy-of-judah-s-exile-in-babylon-for-seventy-years/) - Detailed theological analysis
-- [Daniel 9: The 70-Year Prophecy of Jeremiah](https://lifehopeandtruth.com/prophecy/understanding-the-book-of-daniel/daniel-9/) - How Daniel understood this prophecy
-- [So Was It 70 Years, or Not? - BJU Seminary](https://seminary.bju.edu/theology-in-3d/so-was-it-70-years-or-not/) - Scholarly discussion of different 70-year calculations
-
-*This prophecy is present in both the Masoretic Text (MT) and the Septuagint (LXX).*
-
-### The New Covenant (Jeremiah 31:31-34)
-
-Jeremiah predicted a revolutionary new covenant where God's law would be internalized.
-
-> "Behold, the days are coming, declares the LORD, when I will make a new covenant with the house of Israel and the house of Judah... I will put my law within them, and I will write it on their hearts." — Jeremiah 31:31-33 (ESV)
-
-#### Historical Fulfillment
-
-Christianity regards this as fulfilled in the death and resurrection of Jesus Christ. The New Testament explicitly cites this prophecy in Hebrews 8:8-12 and Hebrews 10:16-17 as the foundational charter of the Christian faith, inaugurated at the Last Supper (Luke 22:20).
-
-External resources:
-- [The New Covenant - Ligonier Ministries](https://www.ligonier.org/learn/devotionals/new-covenant)
-- [What is the New Covenant? - GotQuestions](https://www.gotquestions.org/new-covenant.html)
-
-*This prophecy is present in both the Masoretic Text (MT) and the Septuagint (LXX).*
-
-### The Fate of King Zedekiah (Jeremiah 32:4-5)
-
-Jeremiah gave a specific, seemingly contradictory prophecy about Zedekiah's fate—that he would speak with the king of Babylon face to face but would also be taken to Babylon (where Ezekiel 12:13 added he would not "see" it).
-
-> "Zedekiah king of Judah shall not escape out of the hand of the Chaldeans, but shall surely be given into the hand of the king of Babylon, and shall speak with him face to face and see him eye to eye. And he shall take Zedekiah to Babylon..." — Jeremiah 32:4-5 (ESV)
-
-#### Historical Fulfillment
-
-Zedekiah was captured near Jericho and brought to Nebuchadnezzar at Riblah. There, he spoke face to face with the Babylonian king, witnessed the execution of his sons, and was then blinded before being taken in chains to Babylon (Jeremiah 52:10-11). This fulfilled the prophecy of seeing the king, going to Babylon, but not seeing Babylon (due to blindness).
-
-External resources:
-- [Zedekiah - Britannica](https://www.britannica.com/biography/Zedekiah)
-- [The Fate of Zedekiah - Bible Gateway](https://www.biblegateway.com/resources/commentaries/Matthew-Henry/Jer/Fate-Zedekiah)
-
-*This prophecy is present in both the Masoretic Text (MT) and the Septuagint (LXX).*
-
-### The Battle of Carchemish and Egypt's Defeat (Jeremiah 46:2-12)
-
-Jeremiah prophesied Egypt's defeat at the Battle of Carchemish by Nebuchadnezzar of Babylon:
-
-> "Concerning the army of Pharaoh Neco, king of Egypt, which was by the river Euphrates at Carchemish and which Nebuchadnezzar king of Babylon defeated in the fourth year of Jehoiakim the son of Josiah, king of Judah..." — Jeremiah 46:2 (ESV)
-
-#### Historical Fulfillment
-
-The [Battle of Carchemish (605 BCE)](https://www.worldhistory.org/Battle_of_Carchemish/) occurred exactly as prophesied. Nebuchadnezzar decisively defeated Pharaoh Necho II's Egyptian forces, marking the beginning of Babylonian regional dominance and Egypt's decline as a major power. The Babylonian Chronicle provides contemporary cuneiform evidence documenting this battle.
-
-Jeremiah's prophecy was given before this event occurred, making it a remarkable prediction that was completely fulfilled.
-
-External resources:
-- [Battle of Carchemish - World History Encyclopedia](https://www.worldhistory.org/Battle_of_Carchemish/)
-- [Enduring Word Bible Commentary - Jeremiah 46](https://enduringword.com/bible-commentary/jeremiah-46/)
-
-*This prophecy is present in both the Masoretic Text (MT) and Septuagint (LXX chapter 26).*
-
-### Egypt's Punishment and Restoration (Jeremiah 46:25-26)
-
-Unlike Ezekiel's prophecy of Egypt's complete desolation (Ezekiel 29:8-12), Jeremiah prophesied a different fate for Egypt—punishment followed by restoration:
-
-> "The LORD of hosts, the God of Israel, said: 'Behold, I am bringing punishment upon Amon of Thebes, and Pharaoh and Egypt and her gods and her kings, upon Pharaoh and those who trust in him. I will deliver them into the hand of those who seek their life, into the hand of Nebuchadnezzar king of Babylon and his officers. **Afterward Egypt shall be inhabited as in the days of old**, declares the LORD.'" — Jeremiah 46:25-26 (ESV)
-
-#### Key Elements of the Prophecy
-
-1. **Punishment by Nebuchadnezzar**: Egypt would be attacked by Babylon
-2. **Not permanent destruction**: "Afterward Egypt shall be inhabited as in the days of old"
-3. **Continued existence**: Unlike prophecies about Babylon or Nineveh, Egypt would survive
-
-#### Historical Fulfillment
-
-[BM 33041](https://www.jhalsey.com/jerusalem-book/standard/egypt/bm33041.html), a fragmentary Babylonian tablet from Nebuchadnezzar's 37th year (568-567 BCE), confirms the invasion occurred: "Nebuchadnezzar, king of Babylon marched against Egypt to deliver a battle. [Ama]sis, of Egypt, [called up his a]rm[y]."
-
-Historical evidence shows that:
-1. **Nebuchadnezzar did invade Egypt** as prophesied ([scholarly analysis](https://hermeneutics.stackexchange.com/questions/82910/did-jeremiahs-prophecy-about-pharaohs-defeat-at-nebuchadnezzar-s-hands-fail))
-2. **Egypt was not destroyed** but continued as a functioning kingdom
-3. **Egypt was "inhabited as in the days of old"** - it remained populated and sovereign
-
-This perfectly matches Jeremiah's prophecy of punishment without permanent desolation. As [biblical commentaries note](https://www.bibleref.com/Jeremiah/46/Jeremiah-46-26.html), "Unlike the prophecy of Isaiah regarding Babylon, and of Nahum regarding Nineveh, Jeremiah prophesied that the destruction of Egypt would not be perpetual."
-
-External resources:
-- [BM 33041 - The Jerusalem Book](https://www.jhalsey.com/jerusalem-book/standard/egypt/bm33041.html) - Babylonian tablet confirming the invasion
-- [Did Jeremiah's prophecy about Pharaoh's defeat fail?](https://hermeneutics.stackexchange.com/questions/82910/did-jeremiahs-prophecy-about-pharaohs-defeat-at-nebuchadnezzar-s-hands-fail) - Scholarly analysis
-- [Jeremiah 46 vs Ezekiel 29 differences](https://christianity.stackexchange.com/questions/55350/ezekiel-on-egypts-40-year-desolation) - Comparison of the two prophecies
-- [Jeremiah 46:26 Commentary](https://www.bibleref.com/Jeremiah/46/Jeremiah-46-26.html) - Analysis of restoration promise
-
-*This prophecy is present in both the Masoretic Text (MT) and Septuagint (LXX chapter 26:25-26), with no significant textual differences between versions.*
-
 ## Textual Errors
 
 The Book of Jeremiah contains several passages that present historical, chronological, and textual difficulties. These are not merely matters of interpretation but appear to be errors in transmission, editorial confusion, or contradictions with other biblical sources.
@@ -674,62 +461,6 @@ This pattern is explained in **Jeremiah 18:7-10** itself, which states God's ope
 
 The "will not relent" passages describe circumstances after repeated rejections (note Jeremiah 15:6: "You keep going backward"), not contradictions to God's willingness to show mercy when people genuinely repent.
 
-### Prophecy That Jehoiachin Will Be Childless (Jeremiah 22:24-30 cf. Matthew 1:12)
-
-**Jeremiah 22:24-27** prophesies that Jehoiachin (Coniah) will be "hurled" into another land where "you shall die, and there you shall die."
-
-**Jeremiah 22:30** declares: "Write this man down as childless, a man who shall not succeed in his days, for none of his offspring shall succeed in sitting on the throne of David."
-
-#### The Problem
-
-1. **Children**: 1 Chronicles 3:17-18 lists seven sons of Jehoiachin
-2. **Davidic line**: Matthew's genealogy (Matthew 1:12) traces Jesus through Shealtiel, son of Jeconiah (Jehoiachin)
-3. **Zerubbabel**: Grandson of Jehoiachin, served as governor and was promised divine favor in Haggai 2:23
-
-#### Textual Variant in the Septuagint
-
-The Masoretic Text (MT) and Septuagint (LXX) **differ significantly in their translation** of the key descriptor in Jeremiah 22:30:
-
-| Text | Word | Translation |
-|---|---|---|
-| **Masoretic Text** (Hebrew) | עֲרִירִ֖י (*ariri*) | "Childless" or "stripped/bare" |
-| **Septuagint** (Greek) | ἐκκήρυκτον (*ekkērykton*) | "Outcast," "expelled," or "proscribed" |
-
-The LXX translators chose a word emphasizing his **public rejection and exile** rather than literal childlessness. The Greek ἐκκήρυκτον means someone "proclaimed" or "publicly banished"—focusing on his removal from the royal succession rather than his biological offspring.
-
-#### Other Harmonizations
-
-1. **"Childless" means without royal successor**: The prophecy was fulfilled—none of Jeconiah's descendants actually reigned as king in Judah. While Jeconiah had biological children (1 Chronicles 3:17-18), no offspring sat on David's throne in Jerusalem during the exile or after.
-
-2. **The curse was conditionally lifted**: Jeconiah repented in exile (2 Kings 25:27-30 records his release and honor in Babylon). God's promise to Zerubbabel, Jeconiah's grandson (Haggai 2:23), suggests the curse was lifted based on repentance.
-
-3. **Legal vs. biological lineage**: Matthew traces Jesus' legal right through Joseph (who descended from Jeconiah), while Luke 3:23-38 traces biological descent through Mary (through Nathan, not Solomon, thus avoiding Jeconiah entirely). Jesus inherits the legal claim to David's throne through Joseph without being biologically under the curse.
-
-4. **Messiah as exception**: The curse applied to human monarchy in fallen Israel; Jesus' eternal kingship, established by divine decree and resurrection, transcends and supersedes the temporal curse on Jeconiah's earthly dynasty.
-
-### The Seventy-Year Prophecy (Jeremiah 25:11-12 cf. Jeremiah 29:10)
-
-One of the most debated "errors" concerns Jeremiah's prophecy about **the duration of Babylonian captivity**:
-
-**Jeremiah 25:11-12**: "This whole land shall become a ruin and a waste, and these nations shall serve the king of Babylon seventy years. Then after seventy years are completed, I will punish the king of Babylon and that nation..."
-
-**Jeremiah 29:10**: "For thus says the LORD: When seventy years are completed for Babylon, I will visit you, and I will fulfill to you my promise and bring you back to this place."
-
-**The Problem**: The historical duration doesn't match the prophecy:
-- Fall of Jerusalem: 586 BCE
-- Cyrus's decree allowing return: 538 BCE
-- **Actual duration: 48 years**, not 70
-
-**Attempted Harmonizations**:
-
-1. **Neo-Babylonian Empire duration** (609-539 BCE) = approximately 70 years from Battle of Carchemish to fall of Babylon
-2. **Temple to Temple** - From destruction of Solomon's Temple (586 BCE) to dedication of Second Temple (516 BCE) = 70 years
-3. **Round number** - "Seventy" as a symbolic/round number for a complete period rather than exact chronology
-4. **Jehoiakim's reign** - Counting from first deportation in 605 BCE to 536 BCE = approximately 70 years
-5. **Two Separate Prophecies** - Jeremiah 25:11-12 and Jeremiah 29:10 refer to two overlapping but distinct 70-year periods. Jeremiah 25:11-12 prophesies 70 years of Babylonian imperial dominance (609-539 BCE from Battle of Carchemish to Babylon's fall), while Jeremiah 29:10 prophesies 70 years of Israel's temple desolation and exile (586-516 BCE from temple destruction to Second Temple completion). The ambiguous Hebrew preposition in Jeremiah 29:10 (לְבָבֶל) permits "seventy years *for* Babylon" rather than only "seventy years *at* Babylon," suggesting different referents. Daniel 9:2, written around 539 BCE at Babylon's fall, understood the 70 years as still ongoing—a timing that fits if the prophecy concerned temple desolation (586-516 BCE) rather than Babylonian dominance (already ending). This interpretation maintains prophetic precision while explaining why both periods align exactly with major historical events.
-
-2 Chronicles 36:21 interprets the 70 years as sabbath rest for the land, while Daniel 9:2 treats it as a precise prophetic number requiring further interpretation.
-
 ### Resist or Submit to Babylon? (Jeremiah 27:8-11 cf. Jeremiah 38:17-18)
 
 The most prominent contradiction concerns Jeremiah's counsel regarding Babylon.
@@ -769,38 +500,6 @@ Throughout Scripture, God repeatedly uses His enemies as instruments to fulfill 
 * The cruxifixion (Acts 2:23, 4:27-28)
 
 This is not a contradition.
-
-### Prophecies About Zedekiah's Death (Jeremiah 32:1-5, 52:10-11 cf. Jeremiah 34:4-22)
-
-Jeremiah gives contradictory prophecies about King Zedekiah's fate. After predicting captivity (Jeremiah 32:4-5: "Zedekiah... shall surely be given into the hand of the king of Babylon"), Jeremiah promises "You shall not die by the sword. You shall **die in peace**. And as spices were burned for your fathers... so people shall burn spices for you" (Jeremiah 34:4-5). When Zedekiah breaks covenant to free slaves, God reverses this: "Zedekiah... I will give into the hand of their enemies" (Jeremiah 34:17, 21).
-
-**What actually happened** (Jeremiah 52:10-11): "The king of Babylon **slaughtered the sons of Zedekiah before his eyes**... **put out the eyes of Zedekiah**... and **put him in prison till the day of his death**." This is confirmed by 2 Kings 25:6-7, 2 Chronicles 36:11-21, and Ezekiel 12:13 (prophesying Zedekiah would be brought to Babylon but "not see it"—fulfilled through blinding). According to Josephus (*Antiquities* 10.7.2), Zedekiah refused to believe Jeremiah because Ezekiel's prophecy seemed contradictory.
-
-**The core problem**: Why promise a peaceful death with burial honors after already predicting captivity? How does this match witnessing his sons' execution, being blinded, and dying in prison?
-
-#### Textual Variant: MT vs. LXX
-
-The Masoretic Text and Septuagint differ significantly in Jeremiah 34:5's description of funeral honors:
-
-- **MT**: "As **spices were burned** for your fathers... so people will **burn spices** for you"
-- **LXX (41:5)**: "As **they wept** for thy fathers... **they shall weep** also for thee" (κλαύσονται)
-
-The LXX of Jeremiah is 1/8th shorter (~2,700 fewer words than MT). Dead Sea Scrolls manuscripts (4QJer^b, 4QJer^d) match the LXX, confirming it represents a genuinely different Hebrew text tradition. The LXX's "weeping" is less specific than ceremonial "burning of spices," making partial fulfillment (weeping without honors) more plausible.
-
-#### What Does "Die in Peace" Mean?
-
-The Hebrew שָׁלוֹם (shalom) and Greek εἰρήνη (eirene) have two meanings in death contexts:
-
-1. **Physical peace**: Natural death at old age with proper burial, not violent execution (Genesis 15:15)
-2. **Spiritual peace**: Dying reconciled with God, regardless of circumstances. King Josiah was promised he would "be gathered to your grave in peace" (2 Chronicles 34:28), yet died violently in battle—shot by archers and carried away wounded. His death was still "peaceful" because he died reconciled with God.
-
-#### Possible Explanations
-
-**Conditional reprieve**: The peaceful death offer was conditional on obedience, forfeited when Zedekiah broke covenant (Jeremiah 34:8-22). However, this doesn't explain why peaceful death would be promised after captivity was already declared certain, and the condition isn't explicitly stated in the prophecy itself.
-
-**Technical fulfillment**: Zedekiah wasn't executed ("die by the sword") but died of natural causes in prison, technically fulfilling the letter of the prophecy. Whether this constitutes "peace" in any meaningful sense—physically (comfort, honor) or spiritually (reconciled with God)—remains the central tension. The promised burial honors (whether "spices burned" or "weeping") lack clear evidence of fulfillment.
-
-**Historical context**: Jeremiah 52 (recording the outcome) is absent from the LXX but present in MT—[copied from 2 Kings 24-25 by later editors](https://bibleinterp.arizona.edu/articles/jeremiah-52-context-book-jeremiah). [Babylonian Chronicles](https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-5-jerusalem-chronicle/) (discovered 1956) confirm Nebuchadnezzar's campaigns and Zedekiah's appointment, plus archaeological evidence ([Lachish Ostraca](https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/the-lachish-letters/), [clay bullae](https://www.biblicalarchaeology.org/daily/biblical-artifacts/artifacts-and-the-bible/jeremiah-prophet-of-the-bible-brought-back-to-life/) with names from Jeremiah 38). However, the Chronicles only cover events to 594 BCE—no external verification of the 587 BCE siege or Zedekiah's specific fate exists.
 
 ### Conflicting Accounts of Jerusalem's Fall (Jeremiah 52:12-30 cf. 2 Kings 24:14-16, 25:11)
 
@@ -843,18 +542,35 @@ Major [textual variants](#textual-variants):
 
 It is debatable whether the Masoretic Text errors are due to unfulfilled prophecies or incorrectly recorded events.
 
-### Fulfilled Prophecies
+### Historically Accurate
 
-These prophecies are considered fulfilled and accurate and exist in both the LXX and MT:
+Every measurable aspect of these prophecies was fulfilled according to historians. These prophecies demonstrate Isaiah's divine inspiration through accurately predicting specific historical events that came to pass exactly as foretold.
 
-* The Fate of King Jehoiachin (Jeremiah 22:24-30)
-* The Fall of Jerusalem (Jeremiah 25:8-11)
-* Seventy Years of Babylonian Dominance (Jeremiah 25:11-12)
-* Seventy Years Until Jewish Restoration (Jeremiah 29:10)
-* The New Covenant (Jeremiah 31:31-34)
-* The Fate of King Zedekiah (Jeremiah 32:4-5)
-* The Battle of Carchemish and Egypt's Defeat (Jeremiah 46:2-12)
-* Egypt's Punishment and Restoration (Jeremiah 46:25-26)
+| Verse             | Prophecy                                                                                         |
+| ----------------- | ------------------------------------------------------------------------------------------------ |
+| Jeremiah 22:24-30 | [The Exile of King Jehoiachin](https://prophecies.ofgod.info/political/jeremiah-22-24)           |
+| Jeremiah 25:8-11  | [The Fall of Jerusalem](https://prophecies.ofgod.info/political/jeremiah-25-8)                   |
+| Jeremiah 25:11-12 | [Seventy Years of Babylonian Dominance](https://prophecies.ofgod.info/political/jeremiah-25-11)  |
+| Jeremiah 29:10    | [Seventy Years Until Jewish Restoration](https://prophecies.ofgod.info/political/jeremiah-29-10) |
+| Jeremiah 32:4-5   | [The Fate of King Zedekiah](https://prophecies.ofgod.info/political/jeremiah-32-4)               |
+| Jeremiah 46:2-12  | [The Battle of Carchemish](https://prophecies.ofgod.info/political/jeremiah-46-2)                |
+| Jeremiah 46:25-26 | [Egypt's Punishment and Restoration](https://prophecies.ofgod.info/political/jeremiah-46-25)     |
+
+### Christian Fulfillment
+
+Every aspect of these prophecies was completely fulfilled according to Jesus or the apostles, but not according to the Jews. These represent the core messianic prophecies that Christians believe Jesus fully accomplished during his earthly ministry and through his death and resurrection.
+
+| Verse             | Prophecy                                                                   |
+| ----------------- | -------------------------------------------------------------------------- |
+| Jeremiah 31:31-34 | [The New Covenant](https://prophecies.ofgod.info/messianic/jeremiah-31-31) |
+
+### Debatable Prophecies
+
+Conflicting strong evidence could be provided that these prophecies were fulfilled or unfulfilled, but it depends on the prophecy's interpretation. These cases involve textual complexity or historical ambiguity.
+
+| Verse           | Prophecy                                                                         |
+| --------------- | -------------------------------------------------------------------------------- |
+| Jeremiah 34:4-5 | [Zedekiah's Peaceful Death](https://prophecy.ofgod.info/political/jeremiah-34-4) |
 
 ### Explainable Issues
 
@@ -870,6 +586,8 @@ Explainable ["contradictions"](#contradictions):
 * Resist or Submit to Babylon? (Jeremiah 27:8-11 cf. Jeremiah 38:17-18)
 
 ### Masoretic Text Errors
+
+These errors are specific to the Masoretic Text (MT) and do not appear in the Septuagint (LXX), indicating they arose during the transmission and expansion of the longer Hebrew text tradition.
 
 * Prophecied that Jehoiachin will be "childless" (Jeremiah 22:30)
 * The Wrong King Reigned in Jeremiah 27
