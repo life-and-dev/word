@@ -70,8 +70,7 @@ Not all books made it into the modern Bible canon as we know it today.
 
 #### Undisputed Letters of Paul
 * [Romans](https://eternal.family.net.za/bible/books/romans)
-* 1 Corinthians
-* 2 Corinthians
+* [1 & 2 Corinthians](books/1-2corinthians.md)
 * Galatians
 * Philippians
 * 1 Thessalonians
