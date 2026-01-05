@@ -16,7 +16,7 @@ While debates exist regarding 2 Corinthians being a compilation of letters and p
 
 ## Historical Environment
 
-Written in the mid-50s A.D., the Corinthian letters address a church in a strategic and commercially vital Roman colony. Re-founded by Julius Caesar, Corinth was a diverse hub of trade, culture, and religion, known for its wealth and the Isthmian Games. This environment, however, was also marked by moral laxity, famously giving rise to the term "to Corinthianize" for fornication. The church itself, founded by Paul, was a mix of Jews and Gentiles, rich and poor, leading to internal struggles with pride, factionalism, and worldly values. Paul's letters are pastoral responses to these challenges, offering a glimpse into the early church's effort to maintain its identity in a pagan society.
+Written in the mid-50s A.D., the Corinthian letters address a church in a strategic and commercially vital Roman colony. Re-founded by Julius Caesar, [Corinth](https://en.wikipedia.org/wiki/Corinth) was a diverse hub of trade, culture, and religion, known for its wealth and the Isthmian Games. This environment, however, was also marked by moral laxity, famously giving rise to the term "to Corinthianize" for fornication. The church itself, founded by Paul, was a mix of Jews and Gentiles, rich and poor, leading to internal struggles with pride, factionalism, and worldly values. Paul's letters are pastoral responses to these challenges, offering a glimpse into the early church's effort to maintain its identity in a [pagan society](https://www.bibleodyssey.org/en/places/main-articles/corinth).
 
 ## Purpose
 
@@ -90,7 +90,7 @@ These cross-references are not merely incidental. They reveal a coherent and con
 
 ## Canonical Status
 
-The canonical status of 1 and 2 Corinthians is exceptionally strong. It has never been a matter of serious dispute within the history of the Christian church. From the earliest stages of the formation of the New Testament canon, these two letters have been universally accepted as authentic, authoritative, and inspired writings of the Apostle Paul.
+The canonical status of 1 and 2 Corinthians is exceptionally strong. It has never been a matter of serious dispute within the history of the Christian church. From the earliest stages of the [development of the New Testament canon](https://en.wikipedia.org/wiki/Development_of_the_New_Testament_canon), these two letters have been universally accepted as authentic, authoritative, and inspired writings of the Apostle Paul.
 
 ### Undisputed Pauline Epistles
 
@@ -108,7 +108,7 @@ The acceptance of the Corinthian letters is not a late development. It can be tr
 The Corinthian correspondence is found in every significant early list of canonical New Testament books.
 
 *   **The Canon of Marcion:** Around A.D. 140, the heretic Marcion rejected the Old Testament and much of what would become the New Testament. Still, he included 1 and 2 Corinthians in his highly edited canon of acceptable books. This indicates that their authority was so well-established that even a figure like Marcion could not ignore them.
-*   **The Muratorian Fragment:** This important canon list is dated to the late 2nd century (c. A.D. 170-200). It explicitly names both 1 and 2 Corinthians as part of the accepted Pauline corpus.
+*   **The Muratorian Fragment:** This important canon list is dated to the late 2nd century (c. A.D. 170-200). It [explicitly names](https://www.earlychristianwritings.com/muratorian.html) both 1 and 2 Corinthians as part of the accepted Pauline corpus.
 *   **Later Canons:** The letters are included in all subsequent major canon lists. These include the canons of Origen, Eusebius, Athanasius, and the councils of Hippo (A.D. 393) and Carthage (A.D. 397). These councils formally ratified the 27-book New Testament canon that the church had already been using for centuries.
 
 The evidence is clear and overwhelming. Unlike some other New Testament books, such as Hebrews or Revelation, whose canonicity was debated in some circles for a time, 1 and 2 Corinthians were recognized as inspired Scripture from the very beginning. Their undisputed place in the canon is a testament to their apostolic origin and their foundational importance to the faith and life of the early church.
@@ -227,7 +227,7 @@ Paul's cryptic reference to his "thorn in the flesh, a messenger of Satan" (2 Co
 
 ## Textual Variants
 
-The letters to the Corinthians, like all ancient documents that were copied by hand for centuries, contain textual variants. These are places where the surviving Greek manuscripts differ from one another. The vast majority of these variants are minor, such as spelling differences or the accidental omission of a word. They do not affect the meaning of the text. However, a few are more significant and have been the subject of scholarly debate. The science of textual criticism seeks to evaluate these variants to determine the most likely original reading.
+The letters to the Corinthians, like all ancient documents that were copied by hand for centuries, contain textual variants. These are places where the surviving Greek manuscripts differ from one another. The vast majority of these variants are minor, such as spelling differences or the accidental omission of a word. They do not affect the meaning of the text. However, a few are more significant and have been the subject of scholarly debate. The science of textual criticism seeks to evaluate these variants to determine the most likely original reading. The [Center for the Study of New Testament Manuscripts](https://www.csntm.org/) is an excellent resource for further study.
 
 ### The "Silence of Women" Passage (1 Corinthians 14:34-35)
 
@@ -248,7 +248,7 @@ Arguments for the passage's authenticity include:
 *   **It is present in all known manuscripts.** If it is an interpolation, it must have happened very early in the transmission of the text.
 *   **Scholars have proposed various ways to resolve the apparent contradiction with chapter 11.** For example, they suggest that "speaking" in chapter 14 refers to a specific kind of disruptive speech, like judging prophecies, rather than praying or prophesying.
 
-Because of the strong textual evidence of displacement, many modern scholars and some translations (like the NRSV) treat the passage with suspicion. They often note the textual problem in a footnote.
+Because of the strong textual evidence of displacement, many modern scholars and some translations (like the NRSV) treat the passage with suspicion, often noting the textual problem in a footnote. For a deeper dive, see [An Examination of 1 Corinthians 14:34-35](https://www.cbeinternational.org/resource/article/priscilla-papers/examination-1-corinthians-1434-35).
 
 ### Other Notable Variants
 
@@ -333,11 +333,3 @@ The most noticeable "contradiction" between the two letters is the dramatic shif
 ## Conclusion
 
 The letters of 1 and 2 Corinthians provide an invaluable window into the heart of early Christianity. They reveal a community grappling with the implications of the gospel in a pagan world, and a pastor's unwavering commitment to shepherding his flock toward maturity in Christ. From the foundational declaration of the cross's wisdom in [1 Corinthians](#the-supremacy-of-christ-and-the-folly-of-worldly-wisdom-chapters-1-4) to the profound theology of strength in weakness in [2 Corinthians](#the-theology-of-weakness-and-power), these epistles are a testament to the transformative power of God's grace. They address timeless issues of church unity, moral purity, and the nature of true ministry, culminating in the triumphant hope of the [resurrection](#the-resurrection-the-cornerstone-of-faith-chapter-15). The Corinthian correspondence remains a rich resource for theological reflection and practical guidance for the church today.
-
-**External Links:**
-*   [Wikipedia: Corinth](https://en.wikipedia.org/wiki/Corinth)
-*   [Bible Odyssey: Corinth](https://www.bibleodyssey.org/en/places/main-articles/corinth)
-*   [The Muratorian Fragment](https://www.earlychristianwritings.com/muratorian.html)
-*   [Development of the New Testament Canon](https://en.wikipedia.org/wiki/Development_of_the_New_Testament_canon)
-*   [An Examination of 1 Corinthians 14:34-35](https://www.cbeinternational.org/resource/article/priscilla-papers/examination-1-corinthians-1434-35)
-*   [The Center for the Study of New Testament Manuscripts](https://www.csntm.org/)
