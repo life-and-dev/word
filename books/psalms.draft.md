@@ -30,8 +30,8 @@ However, internal evidence suggests some psalms genuinely originate from the per
 - The composition period spans at least five centuries
 
 **Scholarly Resources:**
-- [Wikipedia - Psalms](https://en.wikipedia.org/wiki/Psalms)
-- [Bible Study Tools - Who Actually Wrote Psalms](https://www.biblestudytools.com/bible-study/topical-studies/who-actually-wrote-psalms.html)
+- [Zondervan Academic - Who Wrote the Psalms?](https://zondervanacademic.com/blog/who-wrote-psalms)
+- [Bible Interpretation (University of Arizona) - When Was the Psalter Compiled?](https://bibleinterp.arizona.edu/articles/when-was-psalter-compiled)
 
 ## Historical Environment
 
@@ -41,9 +41,9 @@ The dating of individual psalms is "notoriously difficult." If the historical de
 - **Earliest**: Moses wrote Psalm 90 during the wilderness wanderings (approximately 1440-1400 BCE)
 - **Middle Period**: Many psalms originated during David's and Solomon's reigns (10th century BCE)
 - **Latest**: Post-exilic psalms were completed after the return from Babylon (537 BCE onward)
-- **Final Compilation**: Scholarly consensus places the final compilation between the 5th and 2nd centuries BCE
+- **Final Compilation**: A strong scholarly consensus now places the final compilation of the five-book Psalter in the late Persian period (5th–4th centuries BCE). This is supported by multiple lines of evidence, including the book of Chronicles, which quotes from a five-book Psalter, and the Septuagint (Greek translation), which attests to a complete Psalter by the 3rd or 2nd century BCE.
 
-The Psalter reached its final 150-psalm form during the Second Temple period. Evidence from the Dead Sea Scrolls (particularly 11QPsᵃ) demonstrates that the ordering of later psalms (90-150) was still fluid in the mid-1st century CE.
+While the Dead Sea Scrolls show evidence of some fluidity in the ordering of psalms into the 1st century CE, this is now largely seen as the circulation of alternative liturgical arrangements, rather than evidence that the Psalter itself was still being formed. The basic framework of the 150-psalm collection was already well-established.
 
 **Cultural and Political Context:**
 
@@ -561,5 +561,6 @@ These duplications show textual fluidity and different editorial traditions, wit
 **Possible explanations**:
 - **Progressive revelation**: Earlier psalms reflect older Sheol theology; later psalms hint at resurrection hope
 - **Metaphorical deliverance**: References to rescue from "death" mean deliverance from mortal danger, not afterlife
+-
 - **Both literal and metaphorical**: Some statements refer to physical death (with limited hope); others to specific divine deliverance
 - **Developing theology**: The Psalter spans centuries; resurrection theology developed gradually
