@@ -224,7 +224,7 @@ In the earliest centuries of Christianity, 1 Enoch enjoyed considerable respect.
 - **Clement of Alexandria** (c. 150-215 CE) - Cited the text as authoritative
 - **Origen** (c. 184-253 CE) - Acknowledged its influence though questioned its status
 
-Most significantly, **Tertullian** wrote a detailed defense of 1 Enoch in his work *On the Apparel of Women* (c. 200 CE). He argued that the book should be considered divinely inspired. He pointed to its quotation in Jude 1:14-15 as evidence of New Testament attestation to its authenticity. He acknowledged that 1 Enoch "is not received by some, because it is not admitted into the Jewish canon," but defended it nonetheless. He argued that the Jews had wrongly omitted it from their scriptures.
+Most significantly, **Tertullian** [wrote a detailed defense of 1 Enoch](https://chasingthegiants.com/tertullian-angels-astrology-genesis-6/) in his work *On the Apparel of Women* (c. 200 CE). He argued that the book should be considered divinely inspired. He pointed to its quotation in Jude 1:14-15 as evidence of New Testament attestation to its authenticity. He acknowledged that 1 Enoch "is not received by some, because it is not admitted into the Jewish canon," but defended it nonetheless. He argued that the Jews had wrongly omitted it from their scriptures.
 
 This early acceptance was based on several factors:
 1. Its quotation in the canonical epistle of Jude.
@@ -267,6 +267,18 @@ The reasons for 1 Enoch's rejection from the Jewish canon are complex:
 4. **Calendar Controversy**: The book's promotion of a 364-day solar calendar contradicted the lunisolar calendar adopted by rabbinic Judaism. This created practical reasons for rejection.
 
 5. **Christian Appropriation**: As Christianity increasingly cited 1 Enoch, particularly its Son of Man imagery, rabbinic Judaism may have rejected it partly in response to Christian use.
+
+### Theological Differences with Mainstream Judaism
+
+While 1 Enoch is a product of Second Temple Judaism, its theology contains elements that distinguish it from what would become mainstream Rabbinic Judaism. These differences help explain why the book was not ultimately included in the Hebrew Bible.
+
+- **Source of Evil**: 1 Enoch places a strong emphasis on the fallen angels (the Watchers) as the primary source of evil and corruption in the world. While Rabbinic Judaism acknowledges the existence of malevolent spirits, it places a much greater emphasis on human free will and the internal struggle against the *[Yetzer Hara](https://www.myjewishlearning.com/article/the-yetzer-hara-the-evil-inclination/)* (the evil inclination) as the main source of sin.
+
+- **Messianism**: The Book of Parables in 1 Enoch develops a unique vision of a pre-existent, heavenly "Son of Man" who will act as the eschatological judge. This differs from the more common [Rabbinic expectation](https://www.myjewishlearning.com/article/the-messiah/) of a human Messiah from the line of King David who will redeem Israel and usher in a messianic age.
+
+- **Determinism and Apocalypticism**: 1 Enoch presents a highly deterministic and apocalyptic worldview, where history is divided into predetermined periods leading to a final, cataclysmic judgment. Mainstream Rabbinic Judaism, while acknowledging the end of days, tends to focus more on the ongoing covenantal relationship with God through the observance of *[Halakha](https://www.myjewishlearning.com/article/halakhah-the-laws-of-jewish-life/)* (Jewish law) in the present.
+
+- **Angelology and Demonology**: The elaborate angelology, demonology, and cosmological speculations in 1 Enoch go far beyond the more restrained descriptions found in the Hebrew Bible. Rabbinic literature has its own extensive traditions about angels and demons, but they differ in detail and emphasis from what is found in Enochic literature.
 
 ### Ethiopian Orthodox Acceptance
 
