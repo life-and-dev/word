@@ -256,29 +256,29 @@ The Council of Laodicea (c. 363-364 CE) explicitly excluded 1 Enoch from the bib
 
 ### Jewish Rejection
 
-The reasons for 1 Enoch's rejection from the Jewish canon are complex:
+The reasons for 1 Enoch's rejection from the Jewish canon are complex, reflecting a shift in Jewish thought after the destruction of the Second Temple in 70 CE. The emerging rabbinic leadership established criteria for scriptural authority that ultimately excluded Enochic literature.
 
-1. **Post-70 CE Rabbinic Consolidation**: After the destruction of the Second Temple, the rabbinic movement sought to consolidate and define Jewish scripture. The criteria focused on books written in Hebrew, composed in the land of Israel, and accepted by the community. While 1 Enoch was widely read in Second Temple Judaism (as evidenced by the Dead Sea Scrolls), it did not meet these emerging criteria.
+1.  **Post-70 CE Rabbinic Consolidation**: After the destruction of the Second Temple, the rabbinic movement sought to consolidate and define Jewish scripture. The criteria focused on books written in Hebrew, composed in the land of Israel, and accepted by the community. While 1 Enoch was widely read in Second Temple Judaism (as evidenced by the Dead Sea Scrolls), it did not meet these emerging criteria. The rabbis prioritized antiquity, and works like 1 Enoch, though ancient, were not considered to have been written in the distant past alongside figures like Moses or David ([My Jewish Learning](https://www.myjewishlearning.com/article/creating-the-jewish-canon/)).
 
-2. **Theological Divergence**: The book's teachings on fallen angels and the corruptibility of creation through supernatural intervention did not align with emergent rabbinic theology. This theology emphasized human free will and responsibility rather than cosmic determinism.
+2.  **Theological Divergence**: The book's teachings on fallen angels and the corruptibility of creation through supernatural intervention did not align with emergent rabbinic theology. This theology emphasized human free will and responsibility rather than cosmic determinism. Rabbinic thought focused on the concept of the *[Yetzer Hara](https://en.wikipedia.org/wiki/Yetzer_hara)* (the evil inclination) as the internal source of sin, which humans have the free will to overcome. This stood in contrast to 1 Enoch's emphasis on external, supernatural forces as the primary cause of evil.
 
-3. **Sectarian Associations**: The prominence of 1 Enoch at Qumran and its association with sectarian groups may have led mainstream rabbinic Judaism to distance itself from the text.
+3.  **Sectarian Associations**: The prominence of 1 Enoch at Qumran and its association with sectarian groups may have led mainstream rabbinic Judaism to distance itself from the text. The Qumran community, for instance, embraced the book's deterministic worldview and its solar calendar, which were at odds with rabbinic tradition ([My Jewish Learning](https://www.myjewishlearning.com/article/creating-the-jewish-canon/)).
 
-4. **Calendar Controversy**: The book's promotion of a 364-day solar calendar contradicted the lunisolar calendar adopted by rabbinic Judaism. This created practical reasons for rejection.
+4.  **Calendar Controversy**: The book's promotion of a 364-day solar calendar contradicted the lunisolar calendar adopted by rabbinic Judaism. This created practical reasons for rejection, as the calendar dispute represented a fundamental clash over the correct way to observe religious festivals ([My Jewish Learning](https://www.myjewishlearning.com/article/creating-the-jewish-canon/)).
 
-5. **Christian Appropriation**: As Christianity increasingly cited 1 Enoch, particularly its Son of Man imagery, rabbinic Judaism may have rejected it partly in response to Christian use.
+5.  **Shift from Apocalypticism**: As Christianity, an apocalyptic messianic movement, grew and separated from Judaism, rabbinic authorities may have become more cautious of apocalyptic texts like 1 Enoch. After the disastrous outcomes of messianic revolts against Rome, there was a general rabbinic move away from the kind of apocalyptic speculation that characterized Enochic literature.
 
 ### Theological Differences with Mainstream Judaism
 
 While 1 Enoch is a product of Second Temple Judaism, its theology contains elements that distinguish it from what would become mainstream Rabbinic Judaism. These differences help explain why the book was not ultimately included in the Hebrew Bible.
 
-- **Source of Evil**: 1 Enoch places a strong emphasis on the fallen angels (the Watchers) as the primary source of evil and corruption in the world. While Rabbinic Judaism acknowledges the existence of malevolent spirits, it places a much greater emphasis on human free will and the internal struggle against the *[Yetzer Hara](https://www.myjewishlearning.com/article/the-yetzer-hara-the-evil-inclination/)* (the evil inclination) as the main source of sin.
+-   **Source of Evil**: 1 Enoch places a strong emphasis on the fallen angels (the Watchers) as the primary source of evil and corruption in the world. In contrast, Rabbinic Judaism focuses on the *[Yetzer Hara](https://www.myjewishlearning.com/article/the-yetzer-hara-the-evil-inclination/)* (the evil inclination) as the main source of sin. This doctrine posits that humans have a congenital inclination to do evil, but also possess the free will to overcome it ([Wikipedia](https://en.wikipedia.org/wiki/Yetzer_hara)). This differs significantly from the Enochic model, which attributes evil to external, supernatural forces.
 
-- **Messianism**: The Book of Parables in 1 Enoch develops a unique vision of a pre-existent, heavenly "Son of Man" who will act as the eschatological judge. This differs from the more common [Rabbinic expectation](https://www.myjewishlearning.com/article/the-messiah/) of a human Messiah from the line of King David who will redeem Israel and usher in a messianic age.
+-   **Messianism**: The Book of Parables in 1 Enoch develops a unique vision of a pre-existent, heavenly "Son of Man" who will act as the eschatological judge. This differs from the more common [Rabbinic expectation](https://www.myjewishlearning.com/article/the-messiah/) of a human Messiah from the line of King David who will redeem Israel and usher in a messianic age.
 
-- **Determinism and Apocalypticism**: 1 Enoch presents a highly deterministic and apocalyptic worldview, where history is divided into predetermined periods leading to a final, cataclysmic judgment. Mainstream Rabbinic Judaism, while acknowledging the end of days, tends to focus more on the ongoing covenantal relationship with God through the observance of *[Halakha](https://www.myjewishlearning.com/article/halakhah-the-laws-of-jewish-life/)* (Jewish law) in the present.
+-   **Determinism and Apocalypticism**: 1 Enoch presents a highly deterministic and apocalyptic worldview, where history is divided into predetermined periods leading to a final, cataclysmic judgment. Mainstream Rabbinic Judaism, while acknowledging the end of days, tends to focus more on the ongoing covenantal relationship with God through the observance of *[Halakha](https://www.myjewishlearning.com/article/halakhah-the-laws-of-jewish-life/)* (Jewish law) in the present.
 
-- **Angelology and Demonology**: The elaborate angelology, demonology, and cosmological speculations in 1 Enoch go far beyond the more restrained descriptions found in the Hebrew Bible. Rabbinic literature has its own extensive traditions about angels and demons, but they differ in detail and emphasis from what is found in Enochic literature.
+-   **Angelology and Demonology**: The elaborate angelology, demonology, and cosmological speculations in 1 Enoch go far beyond the more restrained descriptions found in the Hebrew Bible. Rabbinic literature has its own extensive traditions about angels and demons, but they differ in detail and emphasis from what is found in Enochic literature.
 
 ### Ethiopian Orthodox Acceptance
 
@@ -922,14 +922,3 @@ The contradictions don't necessarily undermine the text's value as a witness to 
 ## Conclusion
 
 The Book of 1 Enoch remains a vital text for understanding the theological landscape of Second Temple Judaism and the origins of Christian thought. Its detailed angelology, developed eschatology, and unique presentation of the 'Son of Man' figure profoundly influenced the writers of the New Testament. While its pseudepigraphical nature and theological elaborations led to its exclusion from most biblical canons, its canonical status in the Ethiopian Orthodox Church testifies to its enduring power. From the rebellious Watchers to the coming judgment, 1 Enoch provides a rich, complex, and fascinating glimpse into a world grappling with questions of evil, justice, and divine sovereignty.
-
-- **[Authorship](#authorship)**
-- **[Historical Environment](#historical-environment)**
-- **[Purpose](#purpose)**
-- **[Cross-References](#cross-references)**
-- **[Canonical Status](#canonical-status)**
-- **[Summary](#summary)**
-- **[Unique Teachings](#unique-teachings)**
-- **[Textual Variants](#textual-variants)**
-- **[Textual Errors](#textual-errors)**
-- **[Contradictions](#contradictions)**
