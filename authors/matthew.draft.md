@@ -1,12 +1,19 @@
+---
+description: "This article explores the scholarly debate on the authorship of the Gospel of Matthew, examining evidence for both traditional and anonymous authorship views."
+keywords: "Gospel of Matthew, authorship, apostle Matthew, anonymous author, Papias, Irenaeus, source criticism, Markan priority"
+---
+
 # The Authorship of the Gospel of Matthew
+
+The question of who wrote the Gospel of Matthew has been a subject of scholarly debate for centuries. While tradition attributes the book to the apostle Matthew, modern critical scholarship often suggests an anonymous author. This article explores the evidence supporting both views, examining early church testimony, internal literary features, and the methodologies that lead scholars to different conclusions.
 
 Matthew's authorship involves two competing scholarly views: **traditional apostolic authorship** (defended by conservative scholars) versus **anonymous authorship** (majority critical view). The core disagreement hinges on how to weight external testimony (early church fathers) against internal evidence (literary style, sources, historical concerns).
 
-### The Core Debate
+## The Core Debate
 
 The fundamental question is not simply "who wrote this?" but rather "what kind of evidence should determine authorship?" Scholars who trust early church tradition and allow for eyewitness use of written sources defend Matthean authorship. Scholars who prioritize literary analysis, source criticism, and historical contextualization conclude anonymous authorship. Each camp presents distinct evidence below.
 
-### View 1: Traditional Apostolic Authorship (Conservative Scholarship)
+## View 1: Traditional Apostolic Authorship (Conservative Scholarship)
 
 **External Evidence from Early Church Fathers:**
 
@@ -28,7 +35,7 @@ All surviving Greek manuscripts bearing a superscription identify the Gospel as 
 
 3. **The "Matthew" calling narrative** (Matthew 9:9): Unlike Mark and Luke, which call the disciple "Levi," Matthew names him "Matthew." Conservative scholars see this as the apostle's authorial identification, suggesting the author is presenting his own encounter with Jesus.
 
-4. **Early attribution without competing tradition**: The church unanimously attributed Matthew to the apostle—no competing tradition claimed a different author, which would be expected if the attribution were fabricated.
+4. **Early attribution without competing tradition**: The church unanimously attributed Matthew to the apostle. No competing tradition claimed a different author, which would be expected if the attribution were fabricated.
 
 **Modern Conservative Scholars:**
 
@@ -38,7 +45,7 @@ Donald Hagner (*Word Biblical Commentary on Matthew*), R.T. France (*Tyndale New
 
 Even conservative scholars acknowledge Matthew used Mark as a source (approximately 90% overlap). They argue this is compatible with apostolic authorship: eyewitnesses could and did consult written sources when composing their own accounts. Peter could consult Mark's Gospel (traditionally Peter's assistant) when adding details from his apostolic memory.
 
-### View 2: Anonymous Jewish-Christian Author (Majority Critical Scholarship)
+## View 2: Anonymous Jewish-Christian Author (Majority Critical Scholarship)
 
 **Literary Dependence on Mark:**
 
@@ -46,14 +53,14 @@ The majority of New Testament scholars (including those at major universities an
 
 **Sophisticated Literary Composition:**
 
-Matthew's five-fold discourse structure (paralleling the Pentateuch: Sermon on the Mount, Mission Discourse, Parables Discourse, Community Discourse, Eschatological Discourse) with formulaic conclusions ("when Jesus had finished these sayings," Matthew 7:28; 11:1; 13:53; 19:1; 26:1) suggests sophisticated literary architecture. This structured, polished Greek literary style indicates an educated scribe working decades after events, not a Galilean tax collector writing in the 60s CE.
+Matthew's five-fold discourse structure (paralleling the Pentateuch: Sermon on the Mount, Mission Discourse, Parables Discourse, Community Discourse, Eschatological Discourse) with formulaic conclusions ("when Jesus had finished these sayings," Matthew 7:28, 11:1, 13:53, 19:1, 26:1) suggests sophisticated literary architecture. This structured, polished Greek literary style indicates an educated scribe working decades after events, not a Galilean tax collector writing in the 60s CE.
 
 **Community-Focused Concerns:**
 
 Matthew contains extensive material addressing later Jewish-Christian community concerns:
-- Conflict with "their synagogues" (Matthew 4:23; 9:35; 10:17; 12:9; 13:54) suggests separation from synagogue institutions
+- Conflict with "their synagogues" (Matthew 4:23, 9:35, 10:17, 12:9, 13:54) suggests separation from synagogue institutions
 - Rules for church discipline and conflict resolution (Matthew 18:15-20)
-- Tensions between Jewish law observance and Gentile inclusion (Matthew 5:17-20; 15:10-20; 28:19)
+- Tensions between Jewish law observance and Gentile inclusion (Matthew 5:17-20, 15:10-20, 28:19)
 
 Critical scholars see these not as first-generation concerns (when Jesus' immediate disciples were still alive) but as second-generation issues (c. 80-95 CE) when Jewish-Christian communities were defining their identity apart from mainstream Judaism.
 
@@ -76,7 +83,16 @@ Major voices include:
 
 Critical scholars widely teach that Matthew should be attributed to "Matthew the evangelist" (anonymous) rather than "Matthew the apostle" to distinguish the tradition from established historical claims.
 
-### View 3: Minority Positions Challenging Consensus
+## Critiques of the Critical View
+
+While the critical view is the consensus in modern scholarship, it faces several counter-arguments, often raised by those who defend traditional authorship:
+
+1.  **Over-reliance on Hypothetical Sources:** The Two-Source Hypothesis, particularly the existence of the "Q" document, remains a theory. No manuscript of Q has ever been found. Critics argue that the consensus is built on a hypothetical foundation.
+2.  **Assumptions about Ancient Literary Practices:** The argument that an eyewitness would not use a written source is an assumption based on modern sensibilities. Ancient authors, including historians who were eyewitnesses (like Thucydides), often incorporated other sources. Matthew might have used Mark for its narrative structure while adding his own eyewitness testimony and other traditions.
+3.  **Dismissal of Early Church Testimony:** The unanimous testimony of early church fathers like Papias and Irenaeus is dismissed as unreliable. Critics of this view argue that these early writers were much closer in time and culture to the events and were in a better position to know the author's identity. Dismissing their testimony requires strong evidence, not just a preference for internal literary theories.
+4.  **Philosophical Bias in Dating:** The argument for a late date based on Jesus' prediction of the temple's destruction (Matthew 24) assumes that genuine prophecy is impossible. If one allows for the possibility of predictive prophecy, the passage is not evidence for a post-70 CE date.
+
+## View 3: Minority Positions Challenging Consensus
 
 **Early Dating (40s-50s CE):**
 
@@ -92,9 +108,9 @@ This minority view preserves apostolic authorship while acknowledging source use
 
 Some scholars (advocates of the Griesbach hypothesis) argue Mark used Matthew, not vice versa. If original, this would eliminate the primary argument against apostolic authorship. This view remains minority but has advocates among scholars like William Farmer and Michael Goulder.
 
-### Sources and Compositional Process
+## Sources and Compositional Process
 
-Nearly all scholars (conservative and critical) accept the **Two-Source Hypothesis**: Matthew used (1) Mark's Gospel and (2) "Q" (German *Quelle*, "source")—a hypothetical sayings collection shared with Luke but absent from Mark. Evidence: Matthew and Luke share approximately 235 verses not found in Mark, largely consisting of Jesus' teachings (Beatitudes, Lord's Prayer, various sayings).
+Nearly all scholars (conservative and critical) accept the **Two-Source Hypothesis**, which proposes that Matthew used two main sources: Mark's Gospel and "Q" (from the German *Quelle*, meaning "source"). "Q" is a hypothetical collection of Jesus' sayings that was also available to Luke, but not to Mark. Evidence: Matthew and Luke share approximately 235 verses not found in Mark, largely consisting of Jesus' teachings (Beatitudes, Lord's Prayer, various sayings).
 
 **The "M" Material** (Matthew-only content): Matthew contains unique material not in other Gospels, including the infancy narrative (chapters 1-2), parables (the weeds, hidden treasure, pearl, net, unforgiving servant, workers in the vineyard, two sons, wedding feast, ten virgins, talents, sheep and goats judgment), and portions of the Sermon on the Mount. Whether this represents:
 - Written sources Matthew accessed (conservative view)
@@ -103,7 +119,7 @@ Nearly all scholars (conservative and critical) accept the **Two-Source Hypothes
 
 ...remains debated.
 
-### Methodological Divide
+## Methodological Divide
 
 The authorship debate ultimately reflects **competing methodologies**:
 
@@ -121,8 +137,6 @@ The authorship debate ultimately reflects **competing methodologies**:
 - Recognize that uniform early attribution could result from scribal tradition, association with source material, or pious convention
 - Use source criticism and redaction criticism to identify authorial layers and community concerns
 
-### Conclusion
+## Conclusion
 
-The question of Matthew's authorship divides scholars along epistemological lines: whether early church tradition or modern literary analysis should carry greater weight. Conservative scholarship maintains that apostolic Matthew composed the Gospel (possibly originally in Aramaic), later translated and augmented by disciples. Critical scholarship concludes an anonymous Jewish-Christian community scribe wrote Matthew (c. 80-95 CE) using Mark, Q, and community traditions for a Jewish-Christian congregation defining its identity.
-
-Both traditions recognize the Gospel's canonical authority and affirm its presentation as apostolic testimony about Jesus Christ. Whether through direct composition by Matthew, superintendence of a scribe by Matthew, or preservation of Matthew's testimony through tradition, the early church's universal attribution preserves the conviction that this Gospel authentically represents the apostle Matthew's witness to Jesus as the Messiah.
+The authorship of the Gospel of Matthew remains a topic of vigorous scholarly discussion, fundamentally split by different [methodological approaches](#methodological-divide). Proponents of [traditional apostolic authorship](#view-1-traditional-apostolic-authorship-conservative-scholarship) argue that the apostle Matthew wrote the Gospel, a view supported by the testimony of early church fathers and certain internal literary features. In contrast, the majority of critical scholars propose an [anonymous author](#view-2-anonymous-jewish-christian-author-majority-critical-scholarship), citing the Gospel's literary dependence on Mark and its focus on later community concerns. The debate is further shaped by the widespread acceptance of the [Two-Source Hypothesis](#sources-and-compositional-process), which examines how the author may have used sources like Mark and Q. While the identity of the author remains debated, the Gospel's authority and its role as a key witness to the life and teachings of Jesus Christ are acknowledged across the scholarly spectrum.
