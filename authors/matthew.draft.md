@@ -1,5 +1,5 @@
 ---
-description: "This article explores the scholarly debate on the authorship of the Gospel of Matthew, examining evidence for both traditional and anonymous authorship views."
+description: "This article explores the scholarly debate on the authorship of the Gospel of Matthew, examining evidence for traditional and anonymous authorship."
 keywords: "Gospel of Matthew, authorship, apostle Matthew, anonymous author, Papias, Irenaeus, source criticism, Markan priority"
 ---
 
@@ -7,7 +7,7 @@ keywords: "Gospel of Matthew, authorship, apostle Matthew, anonymous author, Pap
 
 The question of who wrote the Gospel of Matthew has been a subject of scholarly debate for centuries. While tradition attributes the book to the apostle Matthew, modern critical scholarship often suggests an anonymous author. This article explores the evidence supporting both views, examining early church testimony, internal literary features, and the methodologies that lead scholars to different conclusions.
 
-Matthew's authorship involves two competing scholarly views: **traditional apostolic authorship** (defended by conservative scholars) versus **anonymous authorship** (majority critical view). The core disagreement hinges on how to weight external testimony (early church fathers) against internal evidence (literary style, sources, historical concerns).
+The authorship of Matthew is debated between two main scholarly positions. The traditional view defends **apostolic authorship**, attributing the Gospel to the apostle Matthew. This position is primarily held by conservative scholars. In contrast, the majority critical view argues for **anonymous authorship**, suggesting the Gospel was written by an unknown figure. The core disagreement hinges on how to weight external testimony from the early church fathers against internal evidence like literary style, sources, and historical context.
 
 ## The Core Debate
 
@@ -17,11 +17,19 @@ The fundamental question is not simply "who wrote this?" but rather "what kind o
 
 **External Evidence from Early Church Fathers:**
 
-Papias of Hierapolis (c. 60-130 CE), preserved by Eusebius of Caesarea (*Ecclesiastical History* 3.39.16), states: "Matthew compiled the Oracles [*logia*] in the Hebrew language, and everyone translated them as well as he could." Conservative scholars interpret this as testimony that the apostle Matthew authored the Gospel, though he may have originally written in Aramaic/Hebrew and later disciples translated it to Greek.
+[Papias of Hierapolis](https://en.wikipedia.org/wiki/Papias_of_Hierapolis) (c. 60-130 CE), as preserved by [Eusebius of Caesarea](https://en.wikipedia.org/wiki/Eusebius) (*Ecclesiastical History* 3.39.16), provides one of the earliest testimonies:
 
-Irenaeus of Lyons (c. 130-202 CE, *Against Heresies* 3.1.1) explicitly states: "Matthew also issued a written Gospel among the Hebrews in their own dialect while Peter and Paul were preaching at Rome." Irenaeus, a link to the apostolic tradition through Polycarp, dates Matthew's composition to c. 60-67 CE (during Peter and Paul's Roman ministries). This represents the earliest explicit ascription of the Gospel to an apostle.
+> Matthew compiled the Oracles [*logia*] in the Hebrew language, and everyone translated them as well as he could. — [Papias, via Eusebius](https://www.newadvent.org/fathers/250103.htm)
 
-Jerome (c. 342-420 CE) and Augustine (c. 354-430 CE), later church fathers, affirm Matthew's authorship without question, representing centuries of unbroken tradition.
+Conservative scholars interpret this as testimony that the apostle Matthew authored the Gospel, though he may have originally written in Aramaic/Hebrew and later disciples translated it to Greek.
+
+[Irenaeus of Lyons](https://en.wikipedia.org/wiki/Irenaeus) (c. 130-202 CE) provides a more explicit statement:
+
+> Matthew also issued a written Gospel among the Hebrews in their own dialect while Peter and Paul were preaching at Rome. — *Against Heresies* 3.1.1
+
+Irenaeus, a link to the apostolic tradition through Polycarp, dates Matthew's composition to c. 60-67 CE (during Peter and Paul's Roman ministries). This represents the earliest explicit ascription of the Gospel to an apostle.
+
+Later church fathers, like [Jerome](https://en.wikipedia.org/wiki/Jerome) (c. 342-420 CE) and [Augustine of Hippo](https://en.wikipedia.org/wiki/Augustine_of_Hippo) (c. 354-430 CE), affirm Matthew's authorship without question, representing centuries of unbroken tradition.
 
 **Manuscript Tradition:**
 
@@ -29,7 +37,7 @@ All surviving Greek manuscripts bearing a superscription identify the Gospel as 
 
 **Arguments from Internal Evidence:**
 
-1. **Jewish expertise**: The Gospel demonstrates detailed knowledge of Jewish customs, geography, Aramaic language (preserved phrases like "Talitha koum," Matthew 27:46), and Hebrew Scripture. This fits an apostle who was a Palestinian Jew.
+1. **Jewish expertise**: The Gospel demonstrates detailed knowledge of Jewish customs, geography, Aramaic language (preserved phrases like "Eli, Eli, lema sabachthani?", Matthew 27:46), and Hebrew Scripture. This fits an apostle who was a Palestinian Jew.
 
 2. **Financial interests**: Matthew emphasizes monetary details (Matthew 17:24-27 on temple tax, 18:23-35 on servant's debt, 20:1-16 on workers' wages) that plausibly reflect the background of a tax collector's familiarity with financial matters.
 
@@ -39,7 +47,7 @@ All surviving Greek manuscripts bearing a superscription identify the Gospel as 
 
 **Modern Conservative Scholars:**
 
-Donald Hagner (*Word Biblical Commentary on Matthew*), R.T. France (*Tyndale New Testament Commentary*), John MacArthur, and evangelical scholars generally defend apostolic authorship, viewing Matthew as an apostle who used written sources (Mark, Q) while composing his Gospel.
+[Donald Hagner](https://en.wikipedia.org/wiki/Donald_A._Hagner) (*Word Biblical Commentary on Matthew*), [R.T. France](https://en.wikipedia.org/wiki/R._T._France) (*Tyndale New Testament Commentary*), [John MacArthur](https://en.wikipedia.org/wiki/John_F._MacArthur), and evangelical scholars generally defend apostolic authorship, viewing Matthew as an apostle who used written sources (Mark, Q) while composing his Gospel.
 
 **Conservative Harmonization of Problems:**
 
@@ -75,11 +83,11 @@ Critical scholars argue Papias likely refers not to our canonical Greek Matthew 
 **Modern Critical Scholars:**
 
 Major voices include:
-- **Ulrich Luz** (*Hermeneia Commentary*, major German scholar): argues for anonymous authorship, community context in Antioch c. 80-90 CE
-- **Douglas Moo** (*New Bible Commentary*, while more evangelical, acknowledges critical consensus)
-- **David Keener** (*IVP New Testament Commentary*): defends stronger case for apostolic authorship than many peers but acknowledges critical arguments' force
-- **Bart Ehrman** and most secular critical scholars: anonymous Jewish-Christian author
-- **Raymond Brown** (*Introduction to the New Testament*, Catholic scholar): leans toward anonymous authorship while respecting conservative arguments
+- **[Ulrich Luz](https://en.wikipedia.org/wiki/Ulrich_Luz)** (*Hermeneia Commentary*, major German scholar): argues for anonymous authorship, community context in Antioch c. 80-90 CE
+- **[Douglas J. Moo](https://en.wikipedia.org/wiki/Douglas_J._Moo)** (*New Bible Commentary*, while more evangelical, acknowledges critical consensus)
+- **[Craig S. Keener](https://en.wikipedia.org/wiki/Craig_S._Keener)** (*IVP New Testament Commentary*): defends stronger case for apostolic authorship than many peers but acknowledges critical arguments' force
+- **[Bart D. Ehrman](https://en.wikipedia.org/wiki/Bart_D._Ehrman)** and most secular critical scholars: anonymous Jewish-Christian author
+- **[Raymond E. Brown](https://en.wikipedia.org/wiki/Raymond_E._Brown)** (*Introduction to the New Testament*, Catholic scholar): leans toward anonymous authorship while respecting conservative arguments
 
 Critical scholars widely teach that Matthew should be attributed to "Matthew the evangelist" (anonymous) rather than "Matthew the apostle" to distinguish the tradition from established historical claims.
 
@@ -96,7 +104,7 @@ While the critical view is the consensus in modern scholarship, it faces several
 
 **Early Dating (40s-50s CE):**
 
-N.T. Wright (Anglican theologian), John Wenham, and John A.T. Robinson challenge the consensus dating. They argue:
+[N.T. Wright](https://en.wikipedia.org/wiki/N._T._Wright) (Anglican theologian), John Wenham, and [John A. T. Robinson](https://en.wikipedia.org/wiki/John_A._T._Robinson) challenge the consensus dating. They argue:
 - Evidence for Markan priority is not conclusive
 - Matthew's "later concerns" actually reflect first-generation Jewish-Christian tensions
 - The supposed "vaticinium ex eventu" (prophecy after the fact) in Matthew 24 may be genuine prediction
@@ -106,7 +114,7 @@ This minority view preserves apostolic authorship while acknowledging source use
 
 **Matthean Priority:**
 
-Some scholars (advocates of the Griesbach hypothesis) argue Mark used Matthew, not vice versa. If original, this would eliminate the primary argument against apostolic authorship. This view remains minority but has advocates among scholars like William Farmer and Michael Goulder.
+Some scholars (advocates of the Griesbach hypothesis) argue Mark used Matthew, not vice versa. If original, this would eliminate the primary argument against apostolic authorship. This view remains minority but has advocates among scholars like [William R. Farmer](https://en.wikipedia.org/wiki/William_Reuben_Farmer) and Michael Goulder.
 
 ## Sources and Compositional Process
 
