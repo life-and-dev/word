@@ -24,8 +24,8 @@ Written by the Apostle Paul from Corinth (c. 49 to 51 AD), 1 Thessalonians is ad
 
 For further reading on the historical context of 1 Thessalonians, the following resources are recommended:
 
-*   **New Hope Baptist Church:** 1 Thessalonians
-*   **Making Him Known:** 1 Thessalonians
+*   **Bible Hub:** [1 Thessalonians Summary](https://biblehub.com/summary/1_thessalonians/1.htm)
+*   **Wikipedia:** [First Epistle to the Thessalonians](https://en.wikipedia.org/wiki/First_Epistle_to_the_Thessalonians)
 
 ## Purpose
 
@@ -67,8 +67,8 @@ In essence, 1 Thessalonians is a pastoral letter that combines personal affectio
 
 For further reading on the purpose of 1 Thessalonians, the following resources are recommended:
 
-*   **The Gospel Coalition:** 1 Thessalonians
-*   **BibleProject:** [1 Thessalonians](https://bibleproject.com/videos/1-thessalonians/)
+*   **The Gospel Coalition:** [1 Thessalonians Course](https://www.thegospelcoalition.org/course/1-thessalonians/)
+*   **BibleProject:** [1 Thessalonians Overview](https://bibleproject.com/videos/1-thessalonians/)
 
 ## Cross-References
 
@@ -100,36 +100,15 @@ While direct quotations are not the primary form of cross-referencing for 1 Thes
 
 For further exploration of cross-references, the following resources are helpful:
 
-*   **OpenBible.info:** 1 Thessalonians 1
+*   **Bible Hub:** [1 Thessalonians 1 Cross-References](https://biblehub.com/crossref/1_thessalonians/1-1.htm)
 *   **Knowing Jesus:** [1 Thessalonians 1:6](https://dailyverse.knowing-jesus.com/1-thessalonians-1-6)
 
 ## Canonical Status
 
-The First Epistle to the Thessalonians has been a part of the New Testament canon (the collection of books accepted as authoritative scripture) from a very early stage. Its inclusion is a testament to its widespread acceptance and use in the early church. The letter is found in the earliest extant list of New Testament books, the Muratorian Canon (c. 170 AD), and it was consistently cited as authoritative by early church fathers such as Irenaeus, Clement of Alexandria, and Tertullian.
-
-There has been very little debate or controversy regarding the canonical status of 1 Thessalonians. Its Pauline authorship, early date, and theological content all contributed to its ready acceptance into the canon. The letter's focus on the return of Christ and its practical instructions for Christian living were highly valued by the early church.
-
-However, there have been some scholarly debates regarding the textual integrity of the letter, particularly in relation to 1 Thessalonians 2:13-16. This passage, which speaks of God's wrath coming upon the Jews, has been a subject of controversy. Some scholars have argued that these verses are a later interpolation (a passage inserted into a text by a later hand), citing their harsh tone and alleged inconsistencies with Paul's other writings.
-
-The arguments against the authenticity of 2:13-16 include:
-*   **Anti-Semitic Tone:** The passage has been seen as uncharacteristically anti-Jewish for Paul, who in other places expresses great sorrow for his fellow Israelites (e.g., Romans 9:1-5).
-*   **Chronological Issues:** Some scholars have argued that the statement
-
-> the wrath of God has come upon them at last — 1 Thessalonians 2:16 (ESV)
-
-refers to the destruction of Jerusalem in 70 AD, which would place the writing of the letter after Paul's death.
-*   **Grammatical and Stylistic Differences:** Some have pointed to what they see as non-Pauline grammatical features in the passage.
-
-Despite these arguments, the majority of scholars today accept 1 Thessalonians 2:13-16 as an authentic part of the letter. The arguments for its authenticity include:
-*   **Manuscript Evidence:** There is no manuscript evidence to suggest that these verses were ever missing from the letter.
-*   **Rhetorical Connection:** The passage is rhetorically connected to the surrounding verses, and its removal would disrupt the flow of Paul's argument.
-*   **Consistency with Paul's Theology:** The concept of God's wrath is not foreign to Paul's theology (e.g., Romans 1:18-32).
-
-While the debate over 2:13-16 is significant, it has not affected the overall canonical status of 1 Thessalonians. The letter as a whole is firmly established as a part of the New Testament canon.
+1 Thessalonians has been part of the New Testament canon (the collection of authoritative books) since the early church. It appears in the Muratorian Canon (c. 170 AD) and was cited by early church fathers like Irenaeus. While scholars debate the authenticity of 2:13-16 due to its harsh tone, the passage is supported by manuscript evidence and fits Paul’s broader theology. Most scholars accept the entire letter as authentic and authoritative. Its focus on Christ’s return and holy living ensured its early and undisputed acceptance into the biblical canon.
 
 For further reading on the canonical status and textual issues of 1 Thessalonians, the following resources are recommended:
 
-*   **Oxford Bibliographies:** [1 Thessalonians](https://www.oxfordbibliographies.com/view/document/obo-9780195393361/obo-9780195393361-0032.xml)
 *   **Wikipedia:** [First Epistle to the Thessalonians](https://en.wikipedia.org/wiki/First_Epistle_to_the_Thessalonians)
 
 ## Chapter Overviews
