@@ -42,8 +42,8 @@ Not all books made it into the modern Bible canon as we know it today.
 * [Song of Songs](https://eternal.family.net.za/bible/books/songs)
 
 #### Major Prophets
-* [Isaiah](https://eternal.family.net.za/bible/books/isaiah)
-* [Jeremiah](https://eternal.family.net.za/bible/books/jeremiah)
+* [Isaiah](books/isaiah.md)
+* [Jeremiah](books/jeremiah.md)
 * Lamentations
 * [Ezekiel](https://eternal.family.net.za/bible/books/ezekiel)
 * Daniel
@@ -64,7 +64,7 @@ Not all books made it into the modern Bible canon as we know it today.
 
 #### Gospels
 * [Matthew](books/matthew.md)
-* Mark
+* [Mark](books/mark.md)
 * Luke
 * [John](https://eternal.family.net.za/bible/books/john)
 
@@ -87,8 +87,8 @@ Not all books made it into the modern Bible canon as we know it today.
 * Titus
 
 #### General Epistles
-* [Hebrews](https://eternal.family.net.za/bible/books/hebrews)
-* James
+* [Hebrews](books/hebrews.md)
+* [James](books/james.md)
 * 1 Peter
 * 2 Peter
 * 1 John
