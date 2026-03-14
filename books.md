@@ -97,7 +97,7 @@ Not all books made it into the modern Bible canon as we know it today.
 * [Jude](https://eternal.family.net.za/bible/books/jude)
 
 #### Revelation
-* [Revelation](https://eternal.family.net.za/bible/books/revelation)
+* [Revelation](books/revelation.md)
 
 ## Books excluded from many [bible translations](https://eternal.family.net.za/bible/translations)
 
