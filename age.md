@@ -1,4 +1,4 @@
-# Bible History
+# The Age of the Bible
 
 | Book               | Estimated period it was written  | Acceptance       |
 |--------------------|----------------------------------|------------------|
@@ -89,8 +89,6 @@
 
 ---
 
-Based on [Jonathan Petersen's article published on Bible Gateway](https://www.biblegateway.com/blog/2016/02/when-was-each-book-of-the-bible-written/)
+*Based on [Jonathan Petersen's article published on Bible Gateway](https://www.biblegateway.com/blog/2016/02/when-was-each-book-of-the-bible-written/)*
 
 ---
-
-The [Church History](https://eternal.family.net.za/kingdom/church/history) also have a significant impact on the way the modern Bible was translated.
