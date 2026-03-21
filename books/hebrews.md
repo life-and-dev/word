@@ -781,6 +781,49 @@ Harmonization attempts include:
 * "Until all is accomplished" in Matthew refers to Christ's death and resurrection, after which the Law's ceremonial requirements no longer bind. Hebrews, written after these events, describes post-fulfillment reality. 
 * Different audiences and purposes: Matthew addresses Jewish Christians needing assurance of continuity; Hebrews addresses Jewish Christians needing warning about discontinuity.
 
+### No Forgiveness Without Blood vs Repentance (Hebrews 9:22 vs. Leviticus 5:11-13, 2 Samuel 12:13, 1 Kings 21:27, Psalm 51:16-17, Jonah 3:8-10, Hosea 14:2)
+
+> Indeed, under the law almost everything is purified with blood, and **without the shedding of blood there is no forgiveness of sins**. -- Hebrews 9:22 (ESV)
+
+Hebrews presents blood sacrifice as the indispensable, universal mechanism for forgiveness under the Law, and frames Christ's blood as the necessary fulfillment of that requirement. The claim is absolute: no blood, no forgiveness.
+
+This stands in direct tension with multiple Old Testament passages that portray God granting forgiveness through repentance, grain offerings (bloodless), or prayer alone—with no blood involved:
+
+Leviticus 5:11-13 explicitly provides a grain offering (flour) as a sin offering for those too poor to afford birds:
+
+> But if he cannot afford two turtledoves or two pigeons, then he shall bring as his offering for the sin that he has committed a tenth of an ephah of **fine flour for a sin offering**... And the priest shall make atonement for him for the sin which he has sinned in any one of these things, and he shall be forgiven. -- Leviticus 5:11-13 (ESV)
+
+This is a Torah-sanctioned atonement with no blood whatsoever. Forgiveness is explicitly granted.
+
+The prophet Nathan pronounced David forgiven immediately upon his verbal confession and that no sacrifice mentioned:
+
+> David said to Nathan, "I have sinned against the LORD."  
+> And Nathan said to David, "The LORD also has put away your sin; you shall not die." 
+> 
+> -- 2 Samuel 12:13
+
+God responded to Ahab's fasting and self-humiliation with a reprieve, with no mention of sacrifice or blood:
+
+> When Ahab heard those words, he tore his clothes and put sackcloth on his flesh and fasted and lay in sackcloth and went about dejectedly. And the word of the LORD came to Elijah the Tishbite, saying, "Have you seen how Ahab has humbled himself before Me? **Because he has humbled himself before Me**, I will not bring the disaster in his days..." -- 1 Kings 21:27-29
+
+David wrote after his sin with Bathsheba that God does not desire or delight in blood sacrifice:
+
+> For you will not delight in sacrifice, or I would give it; you will not be pleased with a burnt offering. **The sacrifices of God are a broken spirit; a broken and contrite heart, O God, you will not despise.** -- Psalm 51:16-17
+
+Nineveh's repentance was based on fasting, sackcloth, and turning from evil which resulting in God relenting from judgment. No sacrifice, no blood:
+
+> When God saw what they did, how **they turned from their evil way**, **God relented of the disaster** that He had said He would do to them, and He did not do it. -- Jonah 3:8-10
+
+Hosea explicitly calls Israel to offer words at a time when temple sacrifices were not possible:
+
+> Take with you words and return to the LORD; say to him, "Take away all iniquity; accept what is good, and we will pay with bulls the offerings of our lips." -- Hosea 14:2
+
+The Septuagint rendering is even starker: "we will render the fruit of our lips" in place of animal sacrifice.
+
+The contradiction is substantial. Hebrews 9:22's claim is stated as an absolute theological principle—not as a description of one mechanism among many, but as an exhaustive requirement. Yet the Hebrew scriptures it purports to summarize repeatedly show God forgiving sin through repentance, humility, and non-blood offerings. The Torah itself (Leviticus 5) institutionalizes a bloodless sin offering. The prophets (Hosea, Jonah) and King David depict heartfelt repentance as sufficient.
+
+Critical perspectives identify Hebrews 9:22 as a theological assertion shaped by the author's christological agenda (making Christ's blood sacrifice indispensable) rather than an accurate summary of Old Testament atonement theology.
+
 ### Faith Definition vs. Empirical Verification (Hebrews 11:1 vs. John 20:24-29)
 
 Hebrews provides the New Testament's most explicit definition of faith: 
@@ -867,5 +910,6 @@ Major [textual variants](#textual-variants):
 * Devil's Power Over Death vs. God's Exclusive Authority (Hebrews 2:14-15 vs. 1 Samuel 2:6, Deuteronomy 32:39)
 * Apostasy Unforgivable vs. Confession Brings Forgiveness (Hebrews 6:4-6, 10:26-31 vs. 1 John 1:9)
 * Law Replacement vs. Fulfillment Not Destruction (Hebrews 8:13 vs. Matthew 5:17)
+* No Forgiveness Without Blood vs Repentance (Hebrews 9:22 vs. Leviticus 5:11-13, 2 Samuel 12:13, 1 Kings 21:27, Psalm 51:16-17, Jonah 3:8-10, Hosea 14:2)
 * Faith Definition vs. Empirical Verification (Hebrews 11:1 vs. John 20:24-29)
 * New vs. Renewed Covenant (Hebrews 8:8-13 and Jeremiah 31:31-34)
