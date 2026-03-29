@@ -356,15 +356,15 @@ The Book of 1 Enoch contains numerous theological and cosmological teachings tha
 
 While the Hebrew Bible mentions angels occasionally and names only Michael and Gabriel,1 Enoch provides an elaborate angelology with specific names, hierarchies, and functions. The text names and assigns roles to:
 
-- **Uriel**: Angel over the world and Tartarus, reveals cosmological secrets to Enoch (1 Enoch 10:1; 19:1; 20:2)
-- **Raphael**: Set over all diseases and wounds of humans (1 Enoch 10:4-7; 20:3)
+- **Uriel**: Angel over the world and Tartarus, reveals cosmological secrets to Enoch (1 Enoch 10:1, 19:1, 20:2)
+- **Raphael**: Set over all diseases and wounds of humans (1 Enoch 10:4-7, 20:3)
 - **Raguel**: Takes vengeance on the world of the luminaries (1 Enoch 20:4)
-- **Michael**: Set over the best part of humanity, over chaos (1 Enoch 10:11; 20:5)
+- **Michael**: Set over the best part of humanity, over chaos (1 Enoch 10:11, 20:5)
 - **Sariel/Saraqael**: Set over the spirits of those who sin in spirit (1 Enoch 20:6)
-- **Gabriel**: Set over Paradise, the serpents, and the cherubim (1 Enoch 10:9; 20:7)
+- **Gabriel**: Set over Paradise, the serpents, and the cherubim (1 Enoch 10:9, 20:7)
 - **Remiel**: God set over those who rise (presumably resurrection, 1 Enoch 20:8)
 
-This level of detail about angelic names and specific functions is unparalleled in canonical scripture. It became highly influential in later Jewish mysticism (Kabbalah) and Christian angelology.
+This level of detail about angelic names and specific functions is unparalleled in canonical scripture and became highly influential in later Jewish mysticism (Kabbalah) and Christian angelology.
 
 ### 2. The Origin of Demons from the Spirits of the Nephilim
 
@@ -379,12 +379,12 @@ This doctrine influenced New Testament demonology and became standard in early C
 
 ### 3. The Watchers Narrative and Forbidden Knowledge
 
-The extensive narrative about the Watchers (1 Enoch 6-16) dramatically expands on the cryptic two verses in Genesis 6:1-4. It provides a detailed account of angelic rebellion. Unique elements include:
+The extensive narrative about the Watchers (1 Enoch 6-16) dramatically expands Genesis 6:1-4's cryptic two verses into a detailed account of angelic rebellion. Unique elements include:
 
-- **The oath at Mount Hermon**: The 200 angels binding themselves by mutual curses to complete their rebellion (1 Enoch 6:1-6).
-- **Specific forbidden teachings**: Azazel teaching weaponry and cosmetics; Shemihazah teaching enchantments and root-cutting; other angels teaching astrology, signs, and cloud-reading (1 Enoch 8:1-3).
-- **The pollution of the earth**: The teaching that angelic sin physically corrupted creation itself, not just humanity (1 Enoch 7:1-6; 9:6-9).
-- **Eternal imprisonment**: The binding of the Watchers in valleys of the earth for 70 generations before final judgment (1 Enoch 10:11-14).
+- **The oath at Mount Hermon**: The 200 angels binding themselves by mutual curses to complete their rebellion (1 Enoch 6:1-6)
+- **Specific forbidden teachings**: Azazel teaching weaponry and cosmetics; Shemihazah teaching enchantments and root-cutting; other angels teaching astrology, signs, and cloud-reading (1 Enoch 8:1-3)
+- **The pollution of the earth**: The teaching that angelic sin physically corrupted creation itself, not just humanity (1 Enoch 7:1-6, 9:6-9)
+- **Eternal imprisonment**: The binding of the Watchers in valleys of the earth for 70 generations before final judgment (1 Enoch 10:11-14)
 
 No canonical text provides this level of detail about the nature of the angelic sin in Genesis 6 or its cosmic consequences.
 
@@ -392,21 +392,21 @@ No canonical text provides this level of detail about the nature of the angelic 
 
 The Book of Parables (1 Enoch 37-71) presents a messianic figure with characteristics unprecedented in earlier biblical texts:
 
-- **Pre-existence before creation**: "Before the sun and the signs were created... his name was named before the Lord of Spirits" (1 Enoch 48:3; 62:7).
-- **Hidden with God until the end times**: "For from the beginning the Son of Man was hidden, and the Most High preserved him" (1 Enoch 62:7).
-- **Seated on God's throne**: The Chosen One sits on the throne of God's glory to judge (1 Enoch 45:3; 51:3; 61:8; 62:2-5; 69:27-29).
-- **Object of worship**: Kings and mighty ones will worship him (1 Enoch 48:5; 62:6-9).
+- **Pre-existence before creation**: "Before the sun and the signs were created... His name was named before the Lord of Spirits" (1 Enoch 48:3,62:7)
+- **Hidden with God until the end times**: "For from the beginning the Son of Man was hidden, and the Most High preserved him" (1 Enoch 62:7)
+- **Seated on God's throne**: The Chosen One sits on the throne of God's glory to judge (1 Enoch 45:3,51:3,61:8,62:2-5,69:27-29)
+- **Object of worship**: Kings and mighty ones will worship him (1 Enoch 48:5,62:6-9)
 
-This transcendent, pre-existent, divine messianic figure goes far beyond the Davidic messiah of Hebrew prophecy. It profoundly influenced early Christian Christology, particularly the Gospel of John's presentation of the pre-existent Word/Logos.
+This transcendent, pre-existent, divine messianic figure goes far beyond the Davidic messiah of Hebrew prophecy and influenced early Christian Christology profoundly, particularly the Gospel of John's presentation of the pre-existent Word/Logos.
 
 ### 5. The 364-Day Solar Calendar as Divinely Ordained
 
-The Astronomical Book (1 Enoch 72-82) presents a 364-day solar calendar as the true divine calendar. This is in contrast to the lunisolar calendar used by the Jerusalem Temple. Unique features include:
+The Astronomical Book (1 Enoch 72-82) presents a 364-day solar calendar as the true divine calendar, in contrast to the lunisolar calendar used by the Jerusalem Temple. Unique features include:
 
-- **Perfect divisibility**: 364 days equals exactly 52 weeks, 4 quarters of 91 days, or 12 months of 30 days plus 4 intercalary days.
-- **Liturgical stability**: All festivals fall on the same day of the week every year and never on the Sabbath.
-- **Divine mandate**: Presented as revelation from the angel Uriel as God's established order (1 Enoch 72:1; 75:1-3; 82:4-7).
-- **Sin to deviate**: Those who follow the lunar calendar are said to "corrupt the year" and lead people astray (1 Enoch 82:4-7).
+- **Perfect divisibility**: 364 days = exactly 52 weeks = 4 quarters of 91 days = 12 months of 30 days plus 4 intercalary days
+- **Liturgical stability**: All festivals fall on the same day of the week every year and never on the Sabbath
+- **Divine mandate**: Presented as revelation from the angel Uriel as God's established order (1 Enoch 72:1,75:1-3,82:4-7)
+- **Sin to deviate**: Those who follow the lunar calendar are said to "corrupt the year" and lead people astray (1 Enoch 82:4-7)
 
 The Qumran community adopted this calendar, making it a sectarian marker distinguishing them from the Temple establishment. No biblical text presents this calendar as normative.
 
@@ -414,89 +414,89 @@ The Qumran community adopted this calendar, making it a sectarian marker disting
 
 1 Enoch provides elaborate descriptions of the structure of the universe found nowhere in canonical texts:
 
-- **The seven heavens**: Enoch's journeys through multiple heavenly realms (1 Enoch 17-36; 70-71).
-- **Gates for celestial bodies**: Specific gates in the heavens through which the sun, moon, and stars pass (1 Enoch 72:1-37; 75:1-9).
-- **The ends of the earth**: Detailed descriptions of the earth's boundaries and what lies beyond (1 Enoch 18:5-11; 33:1-36:4).
-- **Chambers for natural phenomena**: Storehouses for winds, dew, rain, and snow (1 Enoch 34:1-36:4; 41:3-8; 60:11-22).
-- **Paradise and the Tree of Life**: Located at the earth's center, where the righteous will eat from it (1 Enoch 24:1-25:7).
-- **Multiple compartments in Sheol**: Four hollow places for different categories of the dead pending judgment (1 Enoch 22:1-13).
+- **The seven heavens**: Enoch's journeys through multiple heavenly realms (1 Enoch 17-36, 70-71)
+- **Gates for celestial bodies**: Specific gates in the heavens through which the sun, moon, and stars pass (1 Enoch 72:1-37, 75:1-9)
+- **The ends of the earth**: Detailed descriptions of the earth's boundaries and what lies beyond (1 Enoch 18:5-11, 33:1-36:4)
+- **Chambers for natural phenomena**: Storehouses for winds, dew, rain, and snow (1 Enoch 34:1-36:4, 41:3-8, 60:11-22)
+- **Paradise and the Tree of Life**: Located at the earth's center, where the righteous will eat from it (1 Enoch 24:1-25:7)
+- **Multiple compartments in Sheol**: Four hollow places for different categories of the dead pending judgment (1 Enoch 22:1-13)
 
 This detailed cosmography reflects Hellenistic astronomical and geographical conceptions integrated with Jewish theology.
 
 ### 7. Individualized Resurrection and Intermediate State
 
-While the Hebrew Bible contains limited and debated references to resurrection (Isaiah 26:19; Daniel 12:2), 1 Enoch develops detailed teaching about individual resurrection and the intermediate state:
+While the Hebrew Bible contains limited and debated references to resurrection (Isaiah 26:19, Daniel 12:2), 1 Enoch develops detailed teaching about individual resurrection and the intermediate state:
 
-- **Separate compartments in Sheol**: The righteous and wicked are separated even before resurrection, with preliminary rewards and punishments (1 Enoch 22:1-14).
-- **Spiritual existence after death**: The righteous have conscious, blessed existence with angels while awaiting resurrection (1 Enoch 39:3-8; 104:2-6).
-- **Bodily resurrection**: The righteous will rise from the earth and be clothed with garments of glory (1 Enoch 51:1-5; 62:15-16; 108:11-15).
-- **Transformation**: The risen righteous will become like angels and shine like stars (1 Enoch 104:2-6).
-- **Eternal conscious punishment**: The wicked will face eternal torment, not mere annihilation (1 Enoch 27:1-3; 90:26-27; 103:7-8).
+- **Separate compartments in Sheol**: The [righteous](https://kingdom.ofgod.info/life/righteousness) and wicked are separated even before resurrection, with preliminary rewards and punishments (1 Enoch 22:1-14)
+- **Spiritual existence after death**: The righteous have conscious, blessed existence with angels while awaiting resurrection (1 Enoch 39:3-8, 104:2-6)
+- **Bodily resurrection**: The righteous will rise from the earth and be clothed with garments of glory (1 Enoch 51:1-5, 62:15-16, 108:11-15)
+- **Transformation**: The risen righteous will become like angels and shine like stars (1 Enoch 104:2-6)
+- **Eternal conscious punishment**: The wicked will face eternal torment, not mere annihilation (1 Enoch 27:1-3, 90:26-27, 103:7-8)
 
 This developed eschatology influenced intertestamental Judaism and New Testament teaching on resurrection and the afterlife.
 
 ### 8. Deterministic Periodization of History
 
-The Apocalypse of Weeks (1 Enoch 93:1-10; 91:11-17) presents history as predetermined and divided into ten "weeks" or epochs, each with appointed events:
+The Apocalypse of Weeks (1 Enoch 91:11-17, 93:1-10) presents history as predetermined and divided into ten "weeks" or epochs, each with appointed events:
 
-- All history from creation to the eternal age is mapped out in advance.
-- Human events unfold according to divine determinism.
-- The elect have been chosen from the foundation of the world.
-- Even the time of the final judgment is fixed in advance.
+- All history from creation to the eternal age is mapped out in advance
+- Human events unfold according to divine determinism
+- The elect have been chosen from the foundation of the world
+- Even the time of the final judgment is fixed in advance
 
-While biblical texts affirm God's sovereignty over history, this level of determinism and periodization is unique to apocalyptic literature like 1 Enoch. It influenced later Jewish and Christian apocalypticism.
+While biblical texts affirm God's sovereignty over history, this level of determinism and periodization is unique to apocalyptic literature like 1 Enoch and influenced later Jewish and Christian apocalypticism.
 
 ### 9. Named Fallen Angels and Their Specific Sins
 
-1 Enoch provides an extensive list of fallen Watchers and their particular transgressions (1 Enoch 6:7-8:4; 69:1-15):
+1 Enoch provides an extensive list of fallen Watchers and their particular transgressions (1 Enoch 6:7-8:4,69:1-15):
 
-- **Shemihazah**: Leader who taught enchantments and root-cutting.
-- **Azazel**: Taught weapon-making, cosmetics, and ornamentation.
-- **Armaros**: Taught resolution of enchantments.
-- **Baraqel**: Taught astrology.
-- **Kokabiel**: Taught constellation knowledge.
-- **Ezeqiel**: Taught cloud knowledge.
-- **Araqiel**: Taught earth signs.
-- **Shamsiel**: Taught sun signs.
-- **Sariel**: Taught lunar courses.
+- **Shemihazah**: Leader who taught enchantments and root-cutting
+- **Azazel**: Taught weapon-making, cosmetics, and ornamentation
+- **Armaros**: Taught resolution of enchantments
+- **Baraqel**: Taught astrology
+- **Kokabiel**: Taught constellation knowledge
+- **Ezeqiel**: Taught cloud knowledge
+- **Araqiel**: Taught earth signs
+- **Shamsiel**: Taught sun signs
+- **Sariel**: Taught lunar courses
 
-It also names dozens more angels and their specific forbidden teachings. This level of detail is absent from canonical texts and became influential in demonology and magical traditions.
+Plus dozens more named angels and their specific forbidden teachings. This level of detail is absent from canonical texts and became influential in demonology and magical traditions.
 
 ### 10. The Earth's Corruption Through Bloodshed
 
-1 Enoch teaches that the earth itself was physically and spiritually corrupted by the bloodshed of the Nephilim and requires purification (1 Enoch 7:5-6; 9:1-3, 9-10; 10:7-8, 20-22). The Flood serves not only to judge humans but to cleanse the earth of supernatural pollution. This concept of cosmic or environmental corruption through violence and injustice goes beyond biblical teaching about human sin affecting creation.
+1 Enoch teaches that the earth itself was physically and spiritually corrupted by the bloodshed of the Nephilim and requires purification (1 Enoch 7:5-6, 9:1-3, 9:9-10,10:7-8,10:20-22). The Flood serves not only to judge humans but to cleanse the earth of supernatural pollution. This concept of cosmic/environmental corruption through violence and injustice goes beyond biblical teaching about human sin affecting creation.
 
 ### Significance of These Unique Teachings
 
-These distinctive doctrines demonstrate why 1 Enoch was simultaneously influential and controversial. The text provided detailed answers to theological questions left unaddressed or ambiguous in canonical texts. These included the origin of evil, the nature of demons, the fate after death, and the structure of the cosmos. This made it valuable for interpretation and teaching. However, these same elaborations presented themselves as divine revelation yet contradicted or went far beyond canonical scripture. This raised concerns about the book's authority and contributed to its eventual exclusion from most biblical canons. The teachings were influential enough to shape Second Temple Judaism and early Christianity but problematic enough to prevent canonical inclusion in rabbinic Judaism and most Christian traditions.
+These distinctive doctrines demonstrate why 1 Enoch was simultaneously influential and controversial. The text provided detailed answers to theological questions left unaddressed or ambiguous in canonical texts (the origin of evil, nature of demons, fate after death, structure of the cosmos), making it valuable for interpretation and teaching. However, these same elaborations. Presenting themselves as divine revelation yet contradicting or going far beyond canonical scripture. Raised concerns about the book's authority and contributed to its eventual exclusion from most biblical canons. The teachings were influential enough to shape Second Temple Judaism and early Christianity but problematic enough to prevent canonical inclusion in rabbinic Judaism and most Christian traditions.
 
 ## Textual Variants
 
-1 Enoch presents unique challenges for textual criticism. The complete text exists only in Ge'ez (classical Ethiopic), while fragments survive in Aramaic (from the Dead Sea Scrolls) and Greek (from various manuscripts like the Codex Panopolitanus). The textual history involves transmission across multiple languages and cultures, creating numerous variants.
+1 Enoch presents unique challenges for textual criticism because the complete text exists only in Ge'ez (classical Ethiopic), while fragments survive in Aramaic (Dead Sea Scrolls) and Greek (Codex Panopolitanus and other manuscripts). The textual history involves transmission across multiple languages and cultures, creating numerous variants.
 
 ### Major Manuscript Traditions
 
 **Aramaic Fragments (Dead Sea Scrolls, c. 200 BCE - 50 CE)**
-Eleven manuscripts of 1 Enoch were discovered at Qumran in Cave 4 (designated 4Q201-4Q212). These represent all sections except the Book of Parables and are the oldest surviving witnesses to the text. Significant variants between Aramaic and later versions include:
+Eleven manuscripts of 1 Enoch were discovered at Qumran in Cave 4 (designated 4Q201-4Q212), representing all sections except the Book of Parables. These are the oldest surviving witnesses to the text. Significant variants between Aramaic and later versions include:
 
-- **Different chapter divisions**: The Aramaic scrolls do not follow the chapter divisions of the Ethiopic text.
-- **Spelling variations in angelic names**: The Aramaic manuscripts show different spellings for the names of the Watchers.
-- **Textual expansions in Ethiopic**: Some passages in the Ethiopic appear to be expansions of shorter Aramaic originals.
-- **The absence of the Book of Parables (chapters 37-71)**: Not a single fragment of the Parables appears at Qumran, leading scholars to date this section later than the others.
+- **Different chapter divisions**: The Aramaic scrolls do not follow the chapter divisions of the Ethiopic text
+- **Spelling variations in angelic names**: The Aramaic manuscripts show different spellings for the names of the Watchers
+- **Textual expansions in Ethiopic**: Some passages in the Ethiopic appear to be expansions of shorter Aramaic originals
+- **The absence of the Book of Parables (chapters 37-71)**: Not a single fragment of the Parables appears at Qumran, leading scholars to date this section later than the others
 
 **Greek Manuscripts (1st-6th century CE)**
-Greek fragments include portions of chapters 1-32 in the Codex Panopolitanus (4th-5th century CE), the Chester Beatty-Michigan Papyrus, and quotations in the Chronography of George Syncellus. Major variants include:
+Greek fragments include portions of chapters 1-32 in the Codex Panopolitanus (4th to 5th century CE), the Chester Beatty-Michigan Papyrus, and quotations in the Chronography of George Syncellus. Major variants include:
 
-- **1 Enoch 1:9**: The verse quoted in Jude exists in both Greek and Aramaic, with minor wording differences but no substantive theological changes.
-- **Longer readings**: The Greek sometimes has longer readings than the Ethiopic, suggesting the Ethiopic translator condensed the text.
-- **Different verb tenses**: Greek manuscripts sometimes differ in verb tenses, particularly in prophetic passages.
+- **1 Enoch 1:9**: The verse quoted in Jude exists in both Greek and Aramaic, with minor wording differences but no substantive theological changes
+- **Longer readings**: The Greek sometimes has longer readings than the Ethiopic, suggesting the Ethiopic translator condensed the text
+- **Different verb tenses**: Greek manuscripts sometimes differ in verb tenses, particularly in prophetic passages
 
 **Ge'ez (Ethiopic) Manuscripts (15th-20th century CE)**
 The complete text of 1 Enoch survives only in Ge'ez, preserved in the Ethiopian Orthodox Church. However, the Ge'ez manuscripts themselves display significant internal variants:
 
-- **Over 50 Ethiopic manuscripts exist**, with variations in wording, chapter divisions, and readings.
-- **Two primary Ethiopic textual families**: Earlier manuscripts (Eth I) and later revised versions (Eth II).
-- **Expanded passages**: Some Ethiopic manuscripts contain additional material not found in Aramaic or Greek fragments.
+- **Over 50 Ethiopic manuscripts exist**, with variations in wording, chapter divisions, and readings
+- **Two primary Ethiopic textual families**: Earlier manuscripts (Eth I) and later revised versions (Eth II)
+- **Expanded passages**: Some Ethiopic manuscripts contain additional material not found in Aramaic or Greek fragments
 
 ### Significant Textual Variants That Affect Meaning
 
@@ -506,7 +506,7 @@ The most controversial variant involves the identification of Enoch with the Son
 - **One reading**: "You are the Son of Man who was born to righteousness"
 - **Alternate reading**: "This is the Son of Man who was born to righteousness"
 
-This variant profoundly affects interpretation. Does Enoch himself become identified with the messianic Son of Man, or is he merely shown this figure? Scholars debate whether this represents textual corruption or original ambiguity.
+This variant profoundly affects interpretation. The question is whether Enoch himself become identified with the messianic Son of Man, or is he merely shown this figure? Scholars debate whether this represents textual corruption or original ambiguity.
 
 **2. The Duration of the Watchers' Imprisonment (1 Enoch 10:12)**
 Manuscript traditions differ on how long the fallen angels will be imprisoned:
@@ -538,36 +538,36 @@ The Astronomical Book contains numerous textual variants affecting the mathemati
 
 Modern critical editions, particularly George W. E. Nickelsburg and James C. VanderKam's *1 Enoch: The Hermeneia Translation*, attempt to reconstruct the most likely original text by:
 
-1. Giving priority to Aramaic fragments where they exist, as they are the oldest witnesses.
-2. Using Greek manuscripts to clarify ambiguous Ethiopic readings.
-3. Comparing multiple Ethiopic manuscript families to detect later additions or corruptions.
-4. Noting where theological concerns may have motivated changes, such as Christian interpolations.
+1. Giving priority to Aramaic fragments where they exist (as the oldest witnesses)
+2. Using Greek manuscripts to clarify ambiguous Ethiopic readings
+3. Comparing multiple Ethiopic manuscript families to detect later additions or corruptions
+4. Noting where theological concerns may have motivated changes (e.g., Christian interpolations)
 
-The textual complexity of 1 Enoch reminds us that no single "original" text exists for this composite work, which was compiled and transmitted over centuries across multiple linguistic and cultural contexts.
+The textual complexity of 1 Enoch reminds us that no single "original" text exists for this composite work compiled and transmitted over centuries across multiple linguistic and cultural contexts.
 
 ## Textual Errors
 
 As a composite work transmitted through multiple languages over many centuries, 1 Enoch contains numerous passages that scholars identify as probable errors. These may stem from scribal mistakes, translation problems, mathematical inconsistencies, or contradictions with established historical facts.
 
-### 1. Chronological Contradiction with Genesis
+### 1. Anachronistic Historical Details (Prophecy After the Fact)
 
-**The Problem**: 1 Enoch portrays Enoch receiving revelations about events that, according to Genesis chronology, occurred after his death. He was taken by God before the Flood.
+**The Problem**: 1 Enoch portrays the ancient patriarch Enoch accurately prophesying highly detailed historical events that occurred thousands of years after his lifetime, right up until the Maccabean period (2nd century BCE), at which point the prophecies become vague. 
 
 - **Genesis 5:21-24**: Enoch lived 365 years and was taken by God before Noah was born.
-- **1 Enoch's assumption**: The text presents Enoch prophesying about the Flood, post-Flood history, the Exodus, the monarchy, the Babylonian exile, the Maccabean period, and the final judgment. These events all occurred centuries or millennia after his lifetime.
+- **1 Enoch's Prophecies**: The text features Enoch accurately predicting the Flood, the Exodus, the Israelite monarchy, the Babylonian exile, and the Maccabean revolt. To critical scholars, the issue isn't that Enoch is prophesying the future, but that the historical details are suspiciously precise for a pre-Flood text.
 
-**Scholarly Explanation**: This is not an "error" from the pseudepigraphical author's perspective but a deliberate literary device. By attributing prophecies to Enoch, a pre-Flood figure, the authors claim divine foreknowledge for their predictions. However, it creates an internal chronological impossibility if taken as historical narrative.
+**Scholarly Explanation**: The historical accuracy of these "prophecies" is considered evidence of *vaticinium ex eventu* (prophecy after the fact). The anonymous authors of the book lived during the Maccabean period (around 200–100 BCE). They wrote about events that had *already occurred* in their own history and presented them as if the ancient Enoch was predicting them. Because these detailed predictions perfectly match history up to the 2nd century BCE—but fail to correctly predict events afterward—scholars view them as anachronisms rather than genuine ancient prophecy.
 
 ### 2. Mathematical Inconsistencies in the Astronomical Book
 
 **The Problem**: The 364-day calendar promoted in 1 Enoch 72-82 does not align with the actual solar year of approximately 365.25 days.
 
-- **The text claims**: The solar year is exactly 364 days (1 Enoch 72:32; 74:10-12; 82:4-6).
+- **The text claims**: The solar year is exactly 364 days (1 Enoch 72:32, 74:10-12, 82:4-6).
 - **Astronomical reality**: The solar year is approximately 365.2422 days.
 
 **Consequence**: A 364-day calendar would lose approximately 1.25 days per year. This would cause seasons to drift significantly over time. After just 40 years, the calendar would be off by 50 days, nearly two months. This would make it impractical for agriculture and religious festivals tied to seasons.
 
-**Scholarly Explanation**: The authors prioritized theological symmetry over astronomical precision. The number 364 is perfectly divisible by 7, ensuring stable sabbaths and festivals. Ancient calendars often required periodic adjustments (intercalation), but 1 Enoch presents its calendar as divinely perfect and unchanging. This creates a fundamental scientific error.
+**Scholarly Explanation**: The authors prioritized theological symmetry (perfect divisibility by 7, stable sabbaths and festivals) over astronomical precision. Ancient calendars often required periodic adjustments (intercalation (the insertion of extra days to keep the calendar aligned with seasons)), but 1 Enoch presents its calendar as divinely perfect and unchanging, creating a fundamental scientific error.
 
 ### 3. Conflicting Numbers for the Sun's Gates
 
