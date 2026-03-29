@@ -822,26 +822,26 @@ A possible explanation is that a different audience was addressed in the final v
 ## Credibility
 
 Minor [textual variants](#textual-variants):
-* [Codex Vaticanus and Alexandrinus](#codex-vaticanus-and-alexandrinus)
-* [Major Textual Families](#major-textual-families)
-* [Revelation 18:20](#specific-textual-variants)
+* [Codex Vaticanus and Alexandrinus](#codex-vaticanus-and-alexandrinus): The highest quality ancient manuscript, Codex Vaticanus, completely omits the Book of Revelation.
+* [Major Textual Families](#major-textual-families): A scarcity of manuscripts during certain centuries created deeply problematic gaps in transmission history.
+* [Revelation 18:20](#specific-textual-variants): Manuscript differences completely change whether the text addresses a single group or two distinct groups.
 
 Major [textual variants](#textual-variants):
-* [The Number of the Beast: 666 vs. 616](#the-number-of-the-beast-666-vs-616)
-* [Revelation 22:14 - "Wash their robes" vs "Do his commandments"](#specific-textual-variants)
+* [The Number of the Beast: 666 vs. 616](#the-number-of-the-beast-666-vs-616): The oldest preserved manuscript unexpectedly records the infamous number as 616.
+* [Revelation 22:14 - "Wash their robes" vs "Do his commandments"](#specific-textual-variants): Alters whether salvation relies entirely on forgiveness or strict obedience.
 
 [Textual "errors"](#textual-errors):
-* [Chronological and Structural Problems](#chronological-and-structural-problems)
-* [Numerical and Symbolic Inconsistencies](#numerical-and-symbolic-inconsistencies)
-* [The "Time is Near" Problem](#the-time-is-near-problem)
-* [Discrepancies in Numbers and Details](#discrepancies-in-numbers-and-details)
+* [Chronological and Structural Problems](#chronological-and-structural-problems): The book's non-linear timeline and overlapping visions severely complicate chronological eschatological interpretations.
+* [Numerical and Symbolic Inconsistencies](#numerical-and-symbolic-inconsistencies): The confusing relationship between the sealed 144,000 and the uncountable multitude remains unclarified.
+* [The "Time is Near" Problem](#the-time-is-near-problem): The author promised eminently soon events, yet two millennia have bafflingly passed without conclusion.
+* [Discrepancies in Numbers and Details](#discrepancies-in-numbers-and-details): The extreme chronological precision of certain visions contradict the vague symbolic counting widely used elsewhere.
 
 [Contradictions](#contradictions):
-* [Bad Testimony](#bad-testimony)
-* [Blessing or Curse](#blessing-or-curse)
-* [The Seven Spirits vs. One Spirit](#the-seven-spirits-vs-one-spirit)
-* [Worship of the Lamb](#worship-of-the-lamb)
-* [Internal Numerical Inconsistencies](#internal-numerical-inconsistencies)
-* [The Second Death and Lake of Fire](#the-second-death-and-lake-of-fire)
-* [Undo Genesis](#undo-genesis)
-* [Ends with a curse](#ends-with-a-curse)
+* [Bad Testimony](#bad-testimony): Delivering Jesus's testimony through an explicitly [unverified third-party prophet](#authorship) deeply lacks logical credibility.
+* [Blessing or Curse](#blessing-or-curse): Church history vividly demonstrates the book intensely fueling violent cults, extreme paranoia, and terrors.
+* [The Seven Spirits vs. One Spirit](#the-seven-spirits-vs-one-spirit): Describing seven distinct spirits contradicts the canonical teaching of one single Holy Spirit.
+* [Worship of the Lamb](#worship-of-the-lamb): Heavenly creatures worshipping the Lamb contradicts Jesus's personal command to strictly worship God alone.
+* [Internal Numerical Inconsistencies](#internal-numerical-inconsistencies): Vague time periods roughly used interchangeably throughout the text do not cleanly equal each other.
+* [The Second Death and Lake of Fire](#the-second-death-and-lake-of-fire): Equating death with eternal torment contradicts physical death as an end.
+* [Undo Genesis](#undo-genesis): The new creation dismantles the "good" fundamental physical boundaries and natural foundations established in Genesis.
+* [Ends with a curse](#ends-with-a-curse): The book shockingly threatens eternal damnation right before abruptly offering a joyful closing blessing.
