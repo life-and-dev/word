@@ -598,20 +598,20 @@ As a composite work transmitted through multiple languages over many centuries, 
 
 **The Problem**: Genesis and 1 Enoch seem to give different information about when Enoch was taken.
 
-- **Genesis 5:23-24**: Enoch lived 365 years total, then "God took him."
-- **1 Enoch**: Presents Enoch receiving revelations about his great-grandson Noah's birth (chapters 106-107). This would chronologically place him alive long after Genesis says he was taken.
+- **Genesis 5:23-24**: Enoch lived 365 years total, then "God took him"
+- **1 Enoch**: Presents Enoch receiving revelations about his great-grandson Noah's birth (chapters 106-107), which would chronologically place him alive long after Genesis says he was taken
 
 **Scholarly Explanation**: The authors of 1 Enoch either:
-1. Ignored the Genesis chronology for literary purposes.
-2. Interpreted "God took him" as meaning he was taken temporarily for these revelations then returned.
-3. Represent a different chronological tradition than the Masoretic Text of Genesis.
+1. Ignored the Genesis chronology for literary purposes
+2. Interpreted "God took him" as meaning he was taken temporarily for these revelations then returned
+3. Represent a different chronological tradition than the Masoretic Text of Genesis
 
 ### 6. Geographical Impossibilities in Enoch's Journeys
 
 **The Problem**: 1 Enoch 17-36 describes Enoch traveling to the ends of the earth and seeing cosmological features that don't correspond to actual geography:
 
-- **1 Enoch 18:5-9**: Enoch sees the "ends of the earth and the heaven" where heaven and earth meet.
-- **1 Enoch 33:1-4**: Describes the "ends of the earth" where the gates for the stars are located.
+- **1 Enoch 18:5-9**: Enoch sees the "ends of the earth and the heaven" where heaven and earth meet
+- **1 Enoch 33:1-4**: Describes the "ends of the earth" where the gates for the stars are located
 
 **Scholarly Explanation**: These reflect ancient cosmological models assuming:
 1. A flat earth with literal edges
@@ -722,17 +722,17 @@ The Book of 1 Enoch contains numerous internal contradictions as well as contrad
 - **1 Enoch 40:1-10, 54:6**: Four angels of the presence stand before God.
 
 **Analysis**: This likely reflects:
-- Different traditions about heavenly hierarchy.
-- Influence from both Jewish and Babylonian angelology, which featured seven planetary deities.
-- Evolution of angelic theology over time.
+- Different traditions about heavenly hierarchy
+- Influence from both Jewish and Babylonian angelology (which featured seven planetary deities)
+- Evolution of angelic theology over time
 
 **5. The Origin and Duration of Evil**
 
 **Contradiction**: The text gives conflicting accounts of how long evil will persist:
 
-- **1 Enoch 10:8-10, 16:1**: Evil spirits from the dead Nephilim will oppress humanity "until the day of judgment."
-- **1 Enoch 10:20-22**: After the judgment of the Watchers, "the whole earth will be tilled in righteousness... and the earth shall be cleansed from all corruption."
-- **1 Enoch 91:11-17**: The Apocalypse of Weeks seems to suggest evil continues through multiple epochs before final eradication.
+- **1 Enoch 10:8-10, 16:1**: Evil spirits from the dead Nephilim will oppress humanity "until the day of judgment"
+- **1 Enoch 10:20-22**: After the judgment of the Watchers, "the whole earth will be tilled in righteousness... And the earth shall be cleansed from all corruption"
+- **1 Enoch 91:11-17**: The Apocalypse of Weeks seems to suggest evil continues through multiple epochs before final eradication
 
 **Analysis**: This tension between present evil, millennial hope, and final judgment reflects broader eschatological questions about the timing and nature of God's ultimate victory.
 
@@ -742,25 +742,25 @@ The Book of 1 Enoch contains numerous internal contradictions as well as contrad
 
 **Contradiction**:
 
-- **1 Enoch 6:1-7:6**: Angels take human wives, have sexual relations, and produce offspring (the Nephilim).
-- **Matthew 22:30**: Jesus states that in the resurrection, people "neither marry nor are given in marriage, but are like angels in heaven," implying angels don't engage in sexual reproduction.
-- **Traditional interpretation**: Angels are spirits without physical bodies capable of procreation.
+- **1 Enoch 6:1-7:6**: Angels take human wives, have sexual relations, and produce offspring (the Nephilim)
+- **Matthew 22:30**: Jesus states that in the resurrection, people "neither marry nor are given in marriage, but are like angels in heaven," implying angels don't engage in sexual reproduction
+- **Traditional interpretation**: Angels are spirits without physical bodies capable of procreation
 
 **Explanations**:
-- Some interpret Genesis 6:1-4's "sons of God" as human descendants of Seth, contradicting 1 Enoch's angelic interpretation.
-- Others suggest angels temporarily assumed physical forms.
-- The contradiction highlights different views of angelic nature in Second Temple Judaism versus later orthodoxy.
+- Some interpret Genesis 6:1-4's "sons of God" as human descendants of Seth, contradicting 1 Enoch's angelic interpretation
+- Others suggest angels temporarily assumed physical forms
+- The contradiction highlights different views of angelic nature in Second Temple Judaism versus later orthodoxy
 
 **2. The Source of Human Sin and Evil**
 
 **Contradiction**:
 
-- **1 Enoch 8:1-10:8**: Human evil originates primarily from the forbidden knowledge taught by fallen angels. Humans are portrayed largely as victims.
-- **Genesis 3**: Human sin originates from Adam and Eve's free choice to disobey God.
-- **Romans 5:12**: "Sin came into the world through one man [Adam]."
-- **Ezekiel 18:20**: "The soul who sins shall die," emphasizing individual moral responsibility.
+- **1 Enoch 8:1-10:8**: Human evil originates primarily from the forbidden knowledge taught by fallen angels. Humans are portrayed largely as victim
+- **Genesis 3**: Human sin originates from Adam and Eve's free choice to disobey God
+- **Romans 5:12**: "Sin came into the world through one man [Adam]"
+- **Ezekiel 18:20**: "The soul who sins shall die". This emphasizes individual moral responsibility.
 
-**Analysis**: 1 Enoch's emphasis on angelic corruption as the source of evil potentially diminishes human moral responsibility. This contradicts the biblical emphasis on human free will and culpability. However, 1 Enoch still maintains human accountability for embracing sinful practices.
+**Analysis**: 1 Enoch's emphasis on angelic corruption as the source of evil potentially diminishes human moral responsibility in a way that contradicts biblical emphasis on human free will and culpability. However,1 Enoch still maintains human accountability for embracing sinful practices.
 
 **3. The Possibility of Angelic Repentance**
 
@@ -770,7 +770,7 @@ The Book of 1 Enoch contains numerous internal contradictions as well as contrad
 - **2 Peter 2:4**: "God did not spare angels when they sinned, but cast them into hell," suggesting similar finality.
 - **However**: 1 Corinthians 6:3 hints believers will "judge angels," possibly implying some angels may be redeemed.
 
-**Analysis**: The finality of angelic condemnation in 1 Enoch is starker than in biblical texts, which remain somewhat ambiguous about whether any fallen angels might be restored.
+**Analysis**: The finality of angelic condemnation in 1 Enoch is starker than biblical texts, which remain somewhat ambiguous about whether any fallen angels might be restored.
 
 **4. The Timing and Nature of the Final Judgment**
 
@@ -817,7 +817,7 @@ The Book of 1 Enoch contains numerous internal contradictions as well as contrad
 - **Isaiah 66:1**: "Heaven is my throne, and the earth is my footstool; what is the house that you would build for me?"
 - **John 4:24**: "God is spirit."
 
-**Analysis**: 1 Enoch's detailed anthropomorphic descriptions of God's dwelling place and throne reflect apocalyptic literary conventions and possibly Hellenistic influence. This creates tension with biblical teaching about God's transcendence and omnipresence.
+**Analysis**: 1 Enoch's detailed anthropomorphic descriptions of God's dwelling place and throne reflect apocalyptic literary conventions and possibly Hellenistic influence, creating tension with biblical teaching about God's transcendence and omnipresence.
 
 **8. Corruption of the Earth**
 
@@ -827,7 +827,7 @@ The Book of 1 Enoch contains numerous internal contradictions as well as contrad
 - **Genesis 1:31**: "God saw everything that he had made, and behold, it was very good."
 - **Romans 8:20-21**: Creation was subjected to futility because of human sin, but it was inherently good and will be redeemed.
 
-**Analysis**: 1 Enoch's stronger emphasis on cosmic corruption beyond human sin reflects an apocalyptic dualism that some argue goes beyond biblical teaching about creation's essential goodness despite the effects of human sin.
+**Analysis**: 1 Enoch's stronger emphasis on cosmic corruption beyond human sin reflects apocalyptic dualism that some argue goes beyond biblical teaching about creation's essential goodness despite human sin's effects.
 
 ### Scholarly Assessment
 
@@ -839,8 +839,51 @@ Most scholars acknowledge these contradictions arise from:
 4. **Textual transmission**: Scribal errors and variant traditions during transmission across languages.
 5. **Theological experimentation**: 1 Enoch represents theological exploration that canonical texts sometimes confirmed and sometimes rejected.
 
-The contradictions don't necessarily undermine the text's value as a witness to Second Temple Jewish thought. However, they do help explain why most Jewish and Christian communities ultimately excluded it from their scriptural canons. The Ethiopian Orthodox Church, which does accept 1 Enoch as canonical, generally harmonizes contradictions through allegorical and spiritual interpretation rather than a strictly literal reading.
+The contradictions don't necessarily undermine the text's value as a witness to Second Temple Jewish thought, but they do help explain why most Jewish and Christian communities ultimately excluded it from their scriptural canons. The Ethiopian Orthodox Church, which does accept 1 Enoch as canonical, generally harmonizes contradictions through allegorical and spiritual interpretation rather than strictly literal reading.
 
-## Conclusion
+## Credibility
 
-The Book of 1 Enoch remains a vital text for understanding the theological landscape of Second Temple Judaism and the origins of Christian thought. Its detailed angelology, developed eschatology, and unique presentation of the 'Son of Man' figure profoundly influenced the writers of the New Testament. While its pseudepigraphical nature and theological elaborations led to its exclusion from most biblical canons, its canonical status in the Ethiopian Orthodox Church testifies to its enduring power. From the rebellious Watchers to the coming judgment, 1 Enoch provides a rich, complex, and fascinating glimpse into a world grappling with questions of evil, justice, and divine sovereignty.
+Based on the [textual variants](#textual-variants), [textual errors](#textual-errors), and [contradictions](#contradictions) found in 1 Enoch, its credibility as a divinely inspired, historically accurate account is severely undermined. The presence of significant anachronisms—such as prophecy after the fact—along with astronomical errors and significant contradictions with canonical scripture explains its ultimate exclusion from most biblical canons. 
+
+### Explainable Issues
+
+Minor or corrected [textual variants](#textual-variants):
+* [The Duration of the Watchers' Imprisonment (1 Enoch 10:12)](#significant-textual-variants-that-affect-meaning): Different manuscripts give conflicting accounts of how long the fallen angels will be imprisoned—whether for seventy generations or forever—affecting the eschatological timeline.
+* [The Number of Fallen Watchers (1 Enoch 6:6)](#significant-textual-variants-that-affect-meaning): Some manuscripts state that two hundred angels descended onto Mount Hermon, while others list different numbers of named leaders, indicating possible transmission inconsistencies.
+* [Chronological Details in the Animal Apocalypse (1 Enoch 85-90)](#significant-textual-variants-that-affect-meaning): The highly symbolic historical vision contains significant variants, such as differing numbers of shepherds ruling over Israel and varying sequences of historical events.
+
+Explainable [textual errors](#textual-errors):
+* [The Survival of Giants After the Flood](#4-the-survival-of-giants-after-the-flood): The book asserts that the Nephilim were completely destroyed before the Flood, yet canonical biblical texts mention the existence of giants in Canaan long after the Flood.
+* [Conflicting Accounts of the Watchers' Leadership](#7-conflicting-accounts-of-the-watchers-leadership): Different sections of the book provide contradictory accounts of who exactly led the fallen angels—Shemihazah or Azazel—indicating the merging of multiple unharmonized source traditions within the manuscript.
+* [Repetitions and Redundancies Suggesting Editorial Errors](#9-repetitions-and-redundancies-suggesting-editorial-errors): Certain passages, such as Enoch's appointment as a scribe and descriptions of God's throne, appear multiple times with varying, contradictory details due to clumsy editorial combinations.
+
+Explainable [contradictions](#contradictions):
+* [The Fate of the Fallen Angels](#internal-contradictions-within-1-enoch): Different passages offer contradictory accounts regarding angelic punishment, vacillating between a temporary imprisonment for seventy generations and an immediate, eternal damnation in the fire.
+* [The Number and Role of Archangels](#internal-contradictions-within-1-enoch): Different sections of the book list varying numbers of principal archangels—sometimes naming four, sometimes seven—reflecting an evolution and blending of celestial hierarchy traditions over time.
+* [The Origin and Duration of Evil](#internal-contradictions-within-1-enoch): The text inconsistently describes the timeline for the eventual eradication of evil, alternating arbitrarily between present oppression, an eventual millennial hope, and a sudden, completely final judgment.
+* [The Nature of Angels and Their Ability to Procreate](#contradictions-with-canonical-scripture): The book describes heavenly angels marrying and procreating with human women, directly contradicting Jesus's teaching in the canonical gospels that angels in heaven do not engage in marriage.
+* [The Timing and Nature of the Final Judgment](#contradictions-with-canonical-scripture): 1 Enoch describes a deeply complex, prolonged sequence of judgments and eschatological events that differs significantly from the more unified judgment scenes described throughout the New Testament.
+* [God's Dwelling Place](#contradictions-with-canonical-scripture): Returning to anthropomorphic, pre-scientific concepts, the book describes God dwelling in an elaborate physical earthly-style palace, conflicting with canonical statements about God's sheer omnipresence and immaterial spirit.
+
+### Concerns
+
+Major [textual variants](#textual-variants):
+* [The Identity of the Son of Man (1 Enoch 71:14)](#significant-textual-variants-that-affect-meaning): The most profound textual variation changes whether Enoch is merely shown the messianic Son of Man, or whether he is literally and shockingly identified as the Son of Man himself.
+* [Calendrical Calculations (1 Enoch 72-82)](#significant-textual-variants-that-affect-meaning): The Astronomical Book possesses numerous manuscript variations regarding day counts for months and the gates used by the sun, heavily affecting calendrical precision.
+
+Unexplainable [textual errors](#textual-errors):
+* [Prophecy After the Fact](#1-prophecy-after-the-fact): Enoch accurately "prophesies" exact historical details spanning thousands of years right up to the Maccabean period, overwhelmingly suggesting the book was actually written after these historical events already occurred.
+* [Mathematical Inconsistencies in the Astronomical Book](#2-mathematical-inconsistencies-in-the-astronomical-book): The text advocates for a divine 364-day solar calendar that falls out of sync with actual astronomical reality by 1.25 days annually, creating major seasonal drifting over very little time.
+* [Conflicting Numbers for the Sun's Gates](#3-conflicting-numbers-for-the-suns-gates): The text provides inconsistent numbers for the gates through which the sun passes (e.g., twenty-four versus twelve), likely reflecting composite authorship and merged cosmological traditions.
+* [Discrepancy in Enoch's Age at Translation](#5-discrepancy-in-enochs-age-at-translation): Genesis claims Enoch was taken by God at 365 years of age, but 1 Enoch portrays him receiving revelations about his great-grandson Noah long afterward.
+* [Geographical Impossibilities in Enoch's Journeys](#6-geographical-impossibilities-in-enochs-journeys): Enoch describes seeing literal edges of a flat earth meeting a solid dome (the firmament), which reflects a pre-scientific, flat-earth cosmology rather than genuine divine revelation.
+* [Historical Inaccuracy in the Animal Apocalypse](#8-historical-inaccuracy-in-the-animal-apocalypse): This symbolic historical vision contains severe historical compressions and highly selective chronological anomalies, devoting wildly disproportionate focus to the Maccabean era, revealing the true author's contemporary historical interests.
+
+Unexplainable [contradictions](#contradictions):
+* [Enoch's Role and Identity](#internal-contradictions-within-1-enoch): The text mostly portrays Enoch receiving separate visions regarding the coming Son of Man, but a later passage confusingly appears to identify Enoch as the Son of Man himself.
+* [When the Righteous Receive Their Reward](#internal-contradictions-within-1-enoch): The text provides conflicting timelines for vindication, variously describing the righteous as awaiting judgment in Sheol, ascending immediately to heaven, or waiting for a bodily resurrection.
+* [The Source of Human Sin and Evil](#contradictions-with-canonical-scripture): The book overwhelmingly blames human corruption on the forbidden knowledge taught by fallen angels, functionally contradicting the canonical emphasis on human free will and individual responsibility for original sin.
+* [The Possibility of Angelic Repentance](#contradictions-with-canonical-scripture): The text portrays fallen angels actively seeking mercy but being unequivocally denied by God, which contradicts less definitive canonical teachings about the finality of their eternal spiritual state.
+* [The Perpetuity of the Mosaic Law](#contradictions-with-canonical-scripture): The book's deterministic periodization of history suggests the Mosaic law will eventually be radically superseded by new divine revelation, contradicting canonical claims that the law's moral components strictly endure forever.
+* [Corruption of the Earth](#contradictions-with-canonical-scripture): The book teaches that the earth itself was physically and irredeemably corrupted by the violent bloodshed of the Nephilim, conflicting with canonical assertions regarding creation's essential, foundational goodness.
+* [The Pre-Existence of the Messiah](#contradictions-with-canonical-scripture): The text portrays the Son of Man as a pre-existent, transcendent, and divine heavenly figure, diverging noticeably from traditional Jewish expectations of a purely human Davidic descendant.

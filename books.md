@@ -14,6 +14,7 @@ Not all books made it into the modern Bible canon as we know it today.
 ### Old Testament
 
 #### Pentateuch (Law)
+
 * Genesis
 * Exodus
 * Leviticus
@@ -21,6 +22,7 @@ Not all books made it into the modern Bible canon as we know it today.
 * Deuteronomy
 
 #### Historical Books
+
 * Joshua
 * Judges
 * Ruth
@@ -35,6 +37,7 @@ Not all books made it into the modern Bible canon as we know it today.
 * [Esther](https://eternal.family.net.za/bible/books/esther)
 
 #### Wisdom and Poetry
+
 * [Job](https://eternal.family.net.za/bible/books/job)
 * [Psalms](https://eternal.family.net.za/bible/books/psalms)
 * Proverbs
@@ -42,6 +45,7 @@ Not all books made it into the modern Bible canon as we know it today.
 * [Song of Songs](https://eternal.family.net.za/bible/books/songs)
 
 #### Major Prophets
+
 * [Isaiah](books/isaiah.md)
 * [Jeremiah](books/jeremiah.md)
 * Lamentations
@@ -49,6 +53,7 @@ Not all books made it into the modern Bible canon as we know it today.
 * Daniel
 
 #### Minor Prophets
+
 * [Hosea](https://eternal.family.net.za/bible/books/hosea)
 * Joel
 * Amos
@@ -63,12 +68,14 @@ Not all books made it into the modern Bible canon as we know it today.
 ### New Testament
 
 #### Gospels
+
 * [Matthew](books/matthew.md)
 * [Mark](books/mark.md)
 * Luke
 * [John](https://eternal.family.net.za/bible/books/john)
 
 #### Undisputed Letters of Paul
+
 * [Romans](https://eternal.family.net.za/bible/books/romans)
 * [1 & 2 Corinthians](books/1-2corinthians.md)
 * Galatians
@@ -77,16 +84,19 @@ Not all books made it into the modern Bible canon as we know it today.
 * Philemon
 
 #### Deutero-Pauline Epistles
+
 * [Ephesians](https://eternal.family.net.za/bible/books/ephesians)
 * Colossians
 * 2 Thessalonians
 
 #### Pastoral Epistles
+
 * 1 Timothy
 * 2 Timothy
 * Titus
 
 #### General Epistles
+
 * [Hebrews](books/hebrews.md)
 * [James](books/james.md)
 * 1 Peter
@@ -97,37 +107,36 @@ Not all books made it into the modern Bible canon as we know it today.
 * [Jude](https://eternal.family.net.za/bible/books/jude)
 
 #### Revelation
+
 * [Revelation](books/revelation.md)
 
 ## Books excluded from many [bible translations](https://eternal.family.net.za/bible/translations)
 
-* [Apocrypha](https://eternal.family.net.za/apocrypha)
-  * Barnabas
-  * Baruch
-  * Ecclesiasticus
-  * 1 Enoch
-  * 2 Enoch
-  * 3 Enoch
-  * 1 Esdras
-  * 2 Esdras
-  * Judith
-  * Letter to Jeremiah
-  * 1 Maccabees
-  * 2 Maccabees
-  * 3 Maccabees
-  * 4 Maccabees
-  * Prayer of Manasseh
-  * Psalms of Solomon
-  * Tobit
-  * Wisdom
+* Barnabas
+* Baruch
+* Ecclesiasticus
+* [1 Enoch](books/1enoch.md)
+* 2 Enoch
+* 3 Enoch
+* 1 Esdras
+* 2 Esdras
+* Judith
+* [Letter to Jeremiah](books/letter-of-jeremiah.md)
+* 1 Maccabees
+* 2 Maccabees
+* 3 Maccabees
+* 4 Maccabees
+* Prayer of Manasseh
+* Psalms of Solomon
+* Tobit
+* Wisdom
 
 ## Books excluded from all [bible translations](https://eternal.family.net.za/bible/translations)
 
-* [Extracanonical Gospels](https://eternal.family.net.za/bible/books/extracanonical-gospels)
-  * Infancy Gospel of Thomas
-  * Gospel of Judas
-  * Gospel of Peter
-  * Gospel of Thomas
+* Infancy Gospel of Thomas
+* Gospel of Judas
+* Gospel of Peter
+* Gospel of Thomas
 
 ## Missing books or scriptures
 
