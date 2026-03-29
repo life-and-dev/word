@@ -549,7 +549,7 @@ The textual complexity of 1 Enoch reminds us that no single "original" text exis
 
 As a composite work transmitted through multiple languages over many centuries, 1 Enoch contains numerous passages that scholars identify as probable errors. These may stem from scribal mistakes, translation problems, mathematical inconsistencies, or contradictions with established historical facts.
 
-### 1. Anachronistic Historical Details (Prophecy After the Fact)
+### 1. Prophecy After the Fact
 
 **The Problem**: 1 Enoch portrays the ancient patriarch Enoch accurately prophesying highly detailed historical events that occurred thousands of years after his lifetime, right up until the Maccabean period (2nd century BCE), at which point the prophecies become vague. 
 
@@ -571,28 +571,28 @@ As a composite work transmitted through multiple languages over many centuries, 
 
 ### 3. Conflicting Numbers for the Sun's Gates
 
-**The Problem**: 1 Enoch 72 describes the gates through which the sun passes but provides inconsistent numbers:
+**The Problem**: 1 Enoch 72 describes the gates through which the sun passes, but provides inconsistent numbers:
 
-- **1 Enoch 72:3**: States there are "twelve gates" in the east and west (24 total).
-- **1 Enoch 72:6**: Describes the sun passing through six gates in the east during half the year.
-- **1 Enoch 72:13-32**: Provides detailed descriptions that imply different configurations.
+- **1 Enoch 72:3**: States there are "twelve gates" in the east and west (24 total)
+- **1 Enoch 72:6**: Describes the sun passing through six gates in the east during half the year
+- **1 Enoch 72:13-32**: Provides detailed descriptions that imply different configurations
 
 **Scholarly Explanation**: This likely reflects:
-1. Composite authorship with different cosmological traditions merged imperfectly.
-2. Possible scribal corruption during transmission.
-3. Confusion between different astronomical models, such as Babylonian versus Greek.
+1. Composite authorship with different cosmological traditions merged imperfectly
+2. Possible scribal corruption during transmission
+3. Confusion between different astronomical models (Babylonian vs. Greek)
 
 ### 4. The Survival of Giants After the Flood
 
-**The Problem**: 1 Enoch 10:9 describes Gabriel destroying the Nephilim before the Flood. Yet later passages and biblical texts mention giants existing after the Flood.
+**The Problem**: 1 Enoch 10:9 describes Gabriel destroying the Nephilim before the Flood, yet later passages and biblical texts mention giants existing after the Flood.
 
-- **1 Enoch 10:9**: "Destroy all the spirits of the bastards and of the sons of the Watchers... send them against one another so that they destroy one another in battle."
-- **Post-Flood giants**: Numbers 13:33; Deuteronomy 2:10-11, 20-21; 3:11 mention Anakim and Rephaim (giants) in Canaan long after the Flood.
+- **1 Enoch 10:9**: "Destroy all the spirits of the bastards and of the sons of the Watchers... Send them against one another so that they destroy one another in battle"
+- **Post-Flood giants**: Numbers 13:33 (ESV), Deuteronomy 2:10-11,20,21 ,3:11 mention Anakim and Rephaim (giants) in Canaan long after the Flood
 
 **Scholarly Explanation**: Either:
-1. The biblical references to post-Flood giants represent a different tradition incompatible with 1 Enoch.
-2. Some interpreters suggest new angelic incursions post-Flood, though 1 Enoch doesn't clearly state this.
-3. The term "giants" may refer to different phenomena in different texts.
+1. The biblical references to post-Flood giants represent a different tradition incompatible with 1 Enoch
+2. Some interpreters suggest new angelic incursions post-Flood, though 1 Enoch doesn't clearly state this
+3. The term "giants" may refer to different phenomena in different texts
 
 ### 5. Discrepancy in Enoch's Age at Translation
 
@@ -613,10 +613,10 @@ As a composite work transmitted through multiple languages over many centuries, 
 - **1 Enoch 18:5-9**: Enoch sees the "ends of the earth and the heaven" where heaven and earth meet.
 - **1 Enoch 33:1-4**: Describes the "ends of the earth" where the gates for the stars are located.
 
-**Scholarly Explanation**: These reflect ancient cosmological models that assumed:
-1. A flat earth with literal edges.
-2. A solid dome (firmament) that meets the earth at the horizon.
-3. Gates or openings in the firmament for celestial bodies.
+**Scholarly Explanation**: These reflect ancient cosmological models assuming:
+1. A flat earth with literal edges
+2. A solid dome (firmament) that meets the earth at the horizon
+3. Gates or openings in the firmament for celestial bodies
 
 These are not errors from the ancient author's perspective but reflect the pre-scientific cosmology of the time.
 
@@ -624,37 +624,36 @@ These are not errors from the ancient author's perspective but reflect the pre-s
 
 **The Problem**: Different sections of 1 Enoch give different accounts of who led the fallen Watchers:
 
-- **1 Enoch 6:3**: Shemihazah is "their leader."
-- **1 Enoch 8:1**: Azazel appears as the primary culprit who "taught all unrighteousness."
-- **1 Enoch 10:4-8**: Azazel receives unique punishment suggesting special guilt.
-- **1 Enoch 13:1**: Enoch is asked to intercede specifically for Azazel.
+- **1 Enoch 6:3**: Shemihazah is "their leader"
+- **1 Enoch 8:1**: Azazel appears as the primary culprit who "taught all unrighteousness"
+- **1 Enoch 10:4-8**: Azazel receives unique punishment suggesting special guilt
+- **1 Enoch 13:1**: Enoch is asked to intercede specifically for Azazel
 
 **Scholarly Explanation**: This likely reflects:
-1. Multiple source traditions merged together (Shemihazah tradition + Azazel tradition).
-2. Different theological purposes (collective guilt vs. scapegoat figure).
-3. Evolution of the tradition over time.
+1. Multiple source traditions merged together (Shemihazah tradition + Azazel tradition)
+2. Different theological purposes (collective guilt vs. Scapegoat figure)
+3. Evolution of the tradition over time
 
 ### 8. Historical Inaccuracy in the Animal Apocalypse
 
 **The Problem**: The symbolic history in 1 Enoch 85-90 contains historical compressions and errors:
 
-- **Telescoped chronology**: The period from the Exodus to the Babylonian exile is compressed into a much shorter symbolic period than the biblical ~800 years.
-- **Selective history**: Major biblical events, like the reign of David and the building of Solomon's temple, receive minimal attention compared to their importance in biblical texts.
-- **Maccabean focus**: The vision devotes disproportionate space to the Maccabean period, revealing the author's contemporary interests.
+- **Telescoped chronology**: The period from the Exodus to the Babylonian exile is compressed into a much shorter symbolic period than the biblical ~800 years
+- **Selective history**: Major biblical events (the reign of David, the building of Solomon's temple) receive minimal attention compared to their importance in biblical texts
+- **Maccabean focus**: The vision devotes disproportionate space to the Maccabean period, revealing the author's contemporary interests
 
-**Scholarly Explanation**: This is "prophecy after the event" (*vaticinium ex eventu*). The author writes history as if it were prophecy, naturally giving more detail to recent events they actually knew about.
-
+**Scholarly Explanation**: This is "prophecy after the event" (vaticinium ex eventu, or prophecy after the event). This means the author writes history as if it were prophecy, naturally giving more detail to recent events they actually knew about.
 ### 9. Repetitions and Redundancies Suggesting Editorial Errors
 
 **The Problem**: Certain passages appear multiple times with variations, suggesting clumsy editing:
 
-- **Enoch's appointment as scribe**: Mentioned in 1 Enoch 12:3-4; 15:1, and elsewhere with slight variations.
-- **The description of God's throne**: Described similarly in multiple visions (1 Enoch 14:18-23; 71:7-10) with inconsistent details.
+- **Enoch's appointment as scribe**: Mentioned in 1 Enoch 12:3-4, 15:1, and elsewhere with slight variations
+- **The description of God's throne**: Described similarly in multiple visions (1 Enoch 14:18-23, 71:7-10) with inconsistent details
 
 **Scholarly Explanation**: These repetitions result from:
-1. Composite authorship, with different authors describing similar scenes.
-2. Oral tradition variants preserved side-by-side.
-3. Editorial combination of multiple sources without complete harmonization.
+1. Composite authorship. These were different authors describing similar scenes
+2. Oral tradition variants preserved side-by-side
+3. Editorial combination of multiple sources without complete harmonization
 
 ### Conservative vs. Critical Scholarly Perspectives
 
@@ -673,7 +672,7 @@ Both approaches acknowledge the textual difficulties but interpret their signifi
 
 ## Contradictions
 
-The Book of 1 Enoch contains numerous internal contradictions as well as contradictions with canonical biblical texts. These arise from its composite nature, its transmission history, and its theological positions that sometimes diverge from biblical teaching. Its composite nature means it was written by multiple authors from various sources over different time periods.
+The Book of 1 Enoch contains numerous internal contradictions as well as contradictions with canonical biblical texts. These arise from its composite nature (multiple authors, sources, and time periods), its transmission history, and its theological positions that sometimes diverge from biblical teaching.
 
 ### Internal Contradictions Within 1 Enoch
 
@@ -681,22 +680,22 @@ The Book of 1 Enoch contains numerous internal contradictions as well as contrad
 
 **Contradiction**: Different passages give conflicting accounts of the Watchers' punishment:
 
-- **1 Enoch 10:4-6, 11-14**: The fallen angels are bound and imprisoned in valleys or under hills of the earth for 70 generations. Then they will be cast into fire on the day of judgment.
-- **1 Enoch 21:7-10**: Describes a place where "seven stars," representing fallen angels, are already bound in the fire, burning eternally.
-- **1 Enoch 18:14-16**: Some fallen angels are imprisoned in a place of fire immediately.
+- **1 Enoch 10:4-6,11-14**: The fallen angels are bound and imprisoned in valleys/under hills of the earth for 70 generations, then cast into fire on the day of judgment
+- **1 Enoch 21:7-10**: Describes a place where "seven stars" (representing fallen angels) are already bound in the fire, burning eternally
+- **1 Enoch 18:14-16**: Some fallen angels are imprisoned in a place of fire immediately
 
 **Analysis**: These represent either:
-- Different traditions about angelic punishment merged together.
-- Different categories of punishment for different degrees of guilt.
-- Confusion between temporal and eternal punishment.
+- Different traditions about angelic punishment merged together
+- Different categories of punishment for different degrees of guilt
+- Temporal vs. Eternal punishment confusion
 
 **2. When the Righteous Receive Their Reward**
 
 **Contradiction**: The text gives conflicting timelines for when the righteous receive vindication:
 
-- **1 Enoch 22:9-13**: The righteous wait in a pleasant section of Sheol until the "great day of judgment."
-- **1 Enoch 39:3-8, 104:2-6**: The spirits of the righteous immediately dwell with angels in heaven.
-- **1 Enoch 51:1-5, 62:13-16**: The righteous are resurrected bodily at the final judgment.
+- **1 Enoch 22:9-13**: The righteous wait in a pleasant section of Sheol until the "great day of judgment"
+- **1 Enoch 39:3-8,104:2-6**: The spirits of the righteous immediately dwell with angels in heaven
+- **1 Enoch 51:1-5,62:13-16**: The righteous are resurrected bodily at the final judgment
 
 **Analysis**: This reflects evolving Jewish eschatology regarding the intermediate state, resurrection timing, and the nature of post-mortem existence. These issues were also debated in biblical texts and later rabbinic literature.
 
@@ -704,15 +703,15 @@ The Book of 1 Enoch contains numerous internal contradictions as well as contrad
 
 **Contradiction**: Enoch's relationship to the "Son of Man" is contradictory:
 
-- **1 Enoch 37-69**: Enoch receives visions about the Son of Man as a distinct heavenly figure.
-- **1 Enoch 71:14**: A text appears to identify Enoch himself as the Son of Man: "You are the Son of Man who was born to righteousness."
-- **1 Enoch 70:1**: Enoch is taken up to heaven where the "Head of Days" (God) is located.
+- **1 Enoch 37-69**: Enoch receives visions about the Son of Man as a distinct heavenly figure
+- **1 Enoch 70:1**: Enoch is taken up to heaven where the "Head of Days" (God) is located
+- **1 Enoch 71:14**: A text that appears to identify Enoch himself as the Son of Man: "You are the Son of Man who was born to righteousness"
 
 **Analysis**: Scholarly debate centers on whether:
-- Chapter 71 is a later addition by a different author.
-- The verse represents textual corruption.
-- It reflects a mystical identification where Enoch becomes transformed into the Son of Man.
-- "You are" should be read as "This is," referring to someone else.
+- Chapter 71 is a later addition by a different author
+- The verse represents textual corruption
+- It reflects a mystical identification where Enoch becomes transformed into the Son of Man
+- "You are" should be read as "This is" (referring to someone else)
 
 **4. The Number and Role of Archangels**
 
