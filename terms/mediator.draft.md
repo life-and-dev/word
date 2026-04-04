@@ -21,8 +21,8 @@
 
 Jesus is our mediator, according to Paul:
 
-> For there is one [God](/god), and there is one mediator between God and men, the man [Christ Jesus](/god/son/christ) -- 1 Timothy 2:5 (ESV)
+> For there is one [God](/god), and there is one mediator between God and men, the man [Christ Jesus](/god/son/christ) — 1 Timothy 2:5 (ESV)
 
 The translators' choice to refer to Jesus as "one mediator between God and men" is appropriate because Jesus made it possible for us to access God by his sacrifice which [redeemed](/eternal/saved) us from our [sin](/bible/concepts/sin). This [covenant](/god/covenants/christ) make forgiveness possible and allow us to have a relationship with God. Therefore, Jesus is considered a mediator.
 
-> For if the blood of goats and bulls, and the sprinkling of defiled persons with the ashes of a heifer, sanctify for the purification of the flesh, how much more will the blood of Christ, who through the eternal Spirit offered himself without blemish to God, purify our conscience from dead works to serve the living God. **Therefore he is the mediator of a new covenant**, so that those who are called may receive the promised eternal inheritance, since a death has occurred that redeems them from the transgressions committed under the first covenant. -- Hebrews 9:13-15 (ESV)
+> For if the blood of goats and bulls, and the sprinkling of defiled persons with the ashes of a heifer, sanctify for the purification of the flesh, how much more will the blood of Christ, who through the eternal Spirit offered himself without blemish to God, purify our conscience from dead works to serve the living God. **Therefore he is the mediator of a new covenant**, so that those who are called may receive the promised eternal inheritance, since a death has occurred that redeems them from the transgressions committed under the first covenant. — Hebrews 9:13-15 (ESV)

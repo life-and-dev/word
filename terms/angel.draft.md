@@ -29,7 +29,7 @@ Phonetic Spelling : (ang'-el-os)
 Definition        : a messenger, angel
 ```
 
-# Messengers
+## Messengers
 
 "angel" and "messenger" are sometimes used interchangeably depending on the Bible translator's understanding. For example:
 
@@ -41,7 +41,7 @@ But from the same [ESV bible](/bible/translations) is quoted by Hebrews 1:7 (ESV
 
 > Of the angels he says, “He makes His ***angels*** winds, and his ministers a flame of fire.” 
 
-## Examples of "messengers"
+### Examples of "messengers"
 
 > Behold, I send **my messenger** (*which is John the Baptist according to Matthew 11:7-10; Mark 1:2; Luke 7:27*), and he will prepare the way before me.<br/> 
 > And the Lord whom you seek will suddenly come to his temple; and **the messenger** (*which is Jesus*) of the covenant in whom you delight, behold, he is coming, says the LORD of hosts. -- Malachi 3:1
@@ -84,7 +84,7 @@ Why would God ask a human to write letters to supernatural angelic beings?
 
 > Write therefore the things that you have seen, those that are and those that are to take place after this. -- Revelation 1:19 (ESV)
 
-## Speaking on behalf of God
+### Speaking on behalf of God
 
 Angels sometimes tend to speak in the first person on behalf of God. That does not mean God appeared in person, and it does not mean that the angel is God. It only means that the angel repeats the prophetic words of God exactly as God speak through him.
 
@@ -104,7 +104,7 @@ The next chapter Jeremiah start to speak on behalf of the LORD in the first pers
 
 More examples where an angel talks to people on behalf of God:
 
-### Hagar
+#### Hagar
 
 > The **angel of the LORD** found her by a spring of water in the wilderness, the spring on the way to Shur. 
 > 
@@ -118,7 +118,7 @@ More examples where an angel talks to people on behalf of God:
 > 
 > -- Genesis 16:7-13 (ESV)
 
-### Men appearing to Abraham and Lot
+#### Men appearing to Abraham and Lot
 
 In Genesis 18 we read:
 
@@ -140,7 +140,7 @@ Everytime when one of the "men" or angels speak, it is written:
 
 This is because the angel is speaking on behalf of the LORD.
 
-### Jacob's dream
+#### Jacob's dream
 
 > Then **the angel of God** said to me in the dream, "Jacob," and<br/>
 > I said, "Here I am!"<br/>
@@ -176,7 +176,7 @@ The prophet Hosea wrote about Jacob:
 > 
 > -- Hosea 12:2-4 (ESV)
 
-### Moses and the burning bush
+#### Moses and the burning bush
 
 God speaks as the first person to Moses through his angel (burning bush):
 
@@ -199,7 +199,7 @@ God speaks as the first person to Moses through his angel (burning bush):
 >
 > This Moses, whom they rejected, saying, "Who made you a ruler and a judge?" — this man God sent as both ruler and redeemer by the hand of the **angel** who appeared to him in the bush. -- Acts 7:30-35 (ESV)
 
-### Israelites' travel
+#### Israelites' travel
 
 > By day **the LORD went ahead of them** in a pillar of cloud to guide them on their way and by night in a pillar of fire to give them light, so that they could travel by day or night. Neither the pillar of cloud by day nor the pillar of fire by night left its place in front of the people. -- Exodus 13:21-22
 
@@ -217,15 +217,15 @@ Stephen's, filled by the Holy Spirit (Acts 7:55) comment:
 
 > This is the Moses who said to the Israelites, "God will raise up for you ya prophet like me from your brothers." This is the one who was in the congregation in the wilderness with the **angel** who spoke to him at Mount Sinai, and with our fathers. -- Acts 7:37-38 (ESV)
 
-### Joshua
+#### Joshua
 
 > And **the angel of the LORD** solemnly assured Joshua, "Thus says the LORD of hosts: If you will walk in **my** ways and keep my charge, then you shall rule **my** house and have charge of my courts, and **I** will give you the right of access among those who are standing here..." -- Zechariah 3:6-7
 
-### Judges of Israel
+#### Judges of Israel
 
 > Now **the angel of the LORD** went up from Gilgal to Bochim. And he said, "**I** brought you up from Egypt and brought you into the land that **I** swore to give to your fathers. **I** said, ‘**I** will never break **my** covenant with you, land you shall make no covenant with the inhabitants of this land;..." -- Judges 2:1-2
 
-### Jesus' crowd
+#### Jesus' crowd
 
 Jesus spoke to his Father God, but "an angel" publicly answers on behalf of his Father or at least that is how it seemed from some of the crowd's perspective:
 
@@ -239,7 +239,7 @@ Jesus spoke to his Father God, but "an angel" publicly answers on behalf of his 
 > 
 > -- John 12:28-30 (ESV)
 
-### John's vision
+#### John's vision
 
 Another example:
 

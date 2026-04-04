@@ -16,11 +16,11 @@ According to Paul:
 > 
 > For ***“the [name](/bible/concepts/name) of God is blasphemed among the Gentiles because of you,”*** as it is written.
 > 
-> -- Romans 2:17-24 (NKJV)
+> — Romans 2:17-24 (NKJV)
 
 It is considered a very serious trespassing if you dishonour God with your hypocritical acts.
 
-> And Nathan said to David, “The LORD also has put away your sin; you shall not die. However, because by this deed **you have given great occasion to the enemies of the LORD to blaspheme**, the child also who is born to you shall surely die.” -- 2 Samuel 12:13-14 (NKJV)
+> And Nathan said to David, “The LORD also has put away your sin; you shall not die. However, because by this deed **you have given great occasion to the enemies of the LORD to blaspheme**, the child also who is born to you shall surely die.” — 2 Samuel 12:13-14 (NKJV)
 
 God's name is more important than the comfort of a nation:
 
@@ -28,8 +28,8 @@ God's name is more important than the comfort of a nation:
 >
 > “Therefore say to the house of Israel, ‘Thus says the Lord GOD: “I do not do this for your sake, O house of Israel, **but for My holy name’s sake**, which **you have profaned among the nations wherever you went**. And I will sanctify My great name, **which has been profaned among the nations, which you have profaned in their midst**; and the nations shall know that I am the LORD,” says the Lord GOD, “when I am hallowed in you before their eyes.
 > 
-> -- Ezekiel 36:16-23 (NKJV)
+> — Ezekiel 36:16-23 (NKJV)
 
 This is because the third commandment given to the Israelites stated:
 
-> You shall not take the [name](/bible/concepts/name) of the LORD your God in vain, for the LORD will not hold him guiltless who takes His name in vain. -- Exodus 20:7 (NKJV)
+> You shall not take the [name](/bible/concepts/name) of the LORD your God in vain, for the LORD will not hold him guiltless who takes His name in vain. — Exodus 20:7 (NKJV)

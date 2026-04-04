@@ -1,15 +1,15 @@
 # Forgiveness
 
-# Translations
+## Translations
 
 Different Greek words with different meaning are translated as "forgive" in the modern English bibles with the result that people often confuse these different concepts with each other.
 
-## apoluó
+### apoluó
 
 The Greek word "apoluó" means to formally release someone from his/her obligations, debt or imprisonment.
 
 |                   | [Strong's Concordance](https://biblehub.com/greek/630.htm)    |
-|-------------------|---------------------------------------------------------------|
+| ----------------- | ------------------------------------------------------------- |
 | Original Word     | ἀπολύω                                                        |
 | Part of Speech    | Verb                                                          |
 | Transliteration   | apoluó                                                        |
@@ -31,17 +31,17 @@ In this context Jesus was referring to enemies and refraining from spitefulness 
 Other translations of the same word "apoluó":
 
 | translation         | scriptures                                         |
-|---------------------|----------------------------------------------------|
+| ------------------- | -------------------------------------------------- |
 | divorce             | Matthew 1:19; 5:31,32; 19:3,7-9; Mark 10:2         |
 | send away / dismiss | Matthew 14:15,22,23; 15:23,32; Mark 6:36,45, 8:3,9 |
 | release (prisoner)  | Matthew 18:27; 27:15,17,21,26                      |
 
-## charizomai
+### charizomai
 
 The Greek word "charizomai" goes further than just dismissing the wrong other did. It refers to the act of showing underserved favour or kindness instead of revenge.
 
 |                   | [Strong's Concordance](https://biblehub.com/greek/5483.htm)      |
-|-------------------|------------------------------------------------------------------|
+| ----------------- | ---------------------------------------------------------------- |
 | Original Word     | χαρίζομαι                                                        |
 | Part of Speech    | Verb                                                             |
 | Transliteration   | charizomai                                                       |
@@ -65,19 +65,19 @@ The Greek word "charizomai" goes further than just dismissing the wrong other di
 Other translations of the same word "charizomai":
 
 | translation           | scriptures                                        |
-|-----------------------|---------------------------------------------------|
+| --------------------- | ------------------------------------------------- |
 | bestowed              | Luke 7:21; Philippians 2:9 (ESV)                  |
 | cancelled debt        | Luke 7:42-43 (ESV)                                |
 | granted               | Acts 3:14, 27:24 (ESV)                            |
 | "give up" (hand over) | Acts 25:11,16; Romans 8:32 (ESV)                  |
 | give / gave (freely)  | 1 Corinthians 2:12; Galatians 3:18; Philemon 1:22 |
 
-## aphiémi
+### aphiémi
 
 The Greek word "aphiémi" has a broader meaning which depends on the context.
 
 |                   | [Strong's Concordance](https://biblehub.com/greek/863.htm)                                            |
-|-------------------|-------------------------------------------------------------------------------------------------------|
+| ----------------- | ----------------------------------------------------------------------------------------------------- |
 | Original Word     | ἀφίημι                                                                                                |
 | Part of Speech    | Verb                                                                                                  |
 | Transliteration   | aphiémi                                                                                               |
@@ -125,7 +125,7 @@ The Greek word "aphiémi" is translated as "forgive" in the context of:
 Other translations of the same word "aphiémi":
 
 | translation   | scriptures                                     |
-|---------------|------------------------------------------------|
+| ------------- | ---------------------------------------------- |
 | consented     | Matthew 3:15 (ESV)                             |
-| left / leave  | Matthew 4:11,20,22; 5:24; 8:15,22; 13:36 (ESV) | 
+| left / leave  | Matthew 4:11,20,22; 5:24; 8:15,22; 13:36 (ESV) |
 | "let" (allow) | Matthew 5:40, 7:4, 13:30 (ESV)                 |
