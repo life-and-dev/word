@@ -13,7 +13,7 @@ Many Christians refer to the Bible as ***"the Word of God"*** and while the Bibl
 
 The Word of God is God's own words, which include God's personal commands, promises, laws, revelations, and teachings. While the Bible includes these [inspired texts](inspired.md), it also contains non-inspired texts, such as historical records, witness accounts, and teachings from human commentators, which are technically not God's own words.
 
-In addition, many people tend to confuse "the Word of God" with [the pre-incarnated form of Jesus Christ](https://son.ofgod/word). While Jesus Christ taught "the Word of God" and the Bible contains Jesus' commands, promises, laws, revelations, and teachings, Jesus is not technically the Bible itself. The Christian term "preaching Christ" means to preach **[the message of Christ](https://kingdom.ofgod/christ)**.
+In addition, many people tend to confuse "the Word of God" with [the pre-incarnated form of Jesus Christ](https://son.ofgod/word). While Jesus Christ taught "the Word of God" and the Bible contains Jesus' commands, promises, laws, revelations, and teachings, Jesus is not literally the Bible itself. The Christian term *"preaching Christ"* is a shortening of **preaching [the message of Christ](https://kingdom.ofgod/christ)**.
 
 ## Defining the Bible
 
@@ -25,7 +25,7 @@ The Bible contains diverse literary forms including historical narratives, laws,
 
 [The formation of the biblical canon was a gradual process that took several centuries](https://www.britannica.com/topic/canon-of-the-New-Testament): important milestones include Athanasius' 367 CE Festal Letter (which lists the 27 New Testament books) and the regional councils of Hippo (393) and Carthage (397) that affirmed similar lists.
 
-The books of the Bible themselves were not invented out of later human creativity but were [drawn from earlier writings and traditions—especially the Hebrew scriptures](https://www.britannica.com/topic/Hebrew-Bible) (the Torah, the Prophets, and the Writings), collections of prophetic oracles, historical records, liturgical texts, and letters.
+[The books of the Bible](books.md) themselves were not invented out of later human creativity but were [drawn from earlier writings and traditions—especially the Hebrew scriptures](https://www.britannica.com/topic/Hebrew-Bible) (the Torah, the Prophets, and the Writings), collections of prophetic oracles, historical records, liturgical texts, and letters.
 
 ### Textual Variants
 
@@ -39,13 +39,13 @@ Though textual scholars estimate [between 200,000 and 400,000 total textual vari
 
 ### Bible Translations
 
-Bible translations differ not only in language style and translation philosophy, but also in how they handle textual variants. Different [Bible translations](translations.md) make different decisions about which manuscript readings to include—some follow earlier manuscript traditions (like the critical text used in modern versions), while others follow later Byzantine manuscripts (like the Textus Receptus used in the King James Version). 
+[Bible translations](translations.md) differ not only in language style and translation philosophy, but also in how they handle textual variants. Different Bible translations make different decisions about which manuscript readings to include—some follow earlier manuscript traditions (like the critical text used in modern versions), while others follow later Byzantine manuscripts (like the Textus Receptus used in the King James Version). 
 
 Church history shows that the Reformation era particularly produced many different translations as scholars gained access to earlier Greek and Hebrew manuscripts and debated which textual traditions to follow.
 
 ### Evaluating the Bible
 
-This, however, does not make the original "Word of God" invalid. The early believers did not even have a Bible and relied on the guidance of the Holy Spirit (John 14:26).
+This, however, does not make the original "Word of God" invalid. The early believers did not even have a Bible and relied on [the prophecies of God](https://prophecies.ofgod.info) and the guidance of the Holy Spirit (John 14:26).
 
 The purpose of this website is to critically look at the Christian Bible by exploring different text variants, interpretations, and secular evidence with the goal of discovering what was written about the true Word of God.
 
@@ -53,7 +53,7 @@ The purpose of this website is to critically look at the Christian Bible by expl
 
 The Bible is not a textbook written for Christians in the twenty-first century. Instead, it is a collection of earlier believers' writings that we should explore with the guidance of the Holy Spirit, which is only possible with a personal relationship with God.
 
-If the Bible were a simple textbook, we would not need a personal relationship with God. We would only need to follow a set of instructions in our textbooks and then we would have our ticket to heaven. But that is not how it works. God is seeking believers who will voluntarily seek His presence (Psalm 63:1; Jeremiah 29:13; James 4:8) by worshipping Him in spirit and in truth (John 4:24).
+If the Bible were a simple textbook, we would not need a [personal relationship with God](https://kingdom.ofgod.info/life/righteousness). We would only need to follow a set of instructions in our textbooks and then we would have our ticket to heaven. But that is not how it works. God is seeking believers who will voluntarily seek His presence (Psalm 63:1; Jeremiah 29:13; James 4:8) by worshipping Him in spirit and in truth (John 4:24).
 
 However, we should not discard our Bibles. Instead, here are some practical guidelines on how to make sense of the Bible and common pitfalls for new believers who are not familiar with the structure of the Bible.
 
@@ -99,7 +99,7 @@ The original Bible authors did not write indices or lookup books. They assumed r
 #### Understand Translation Choices
 
 * Unlike the English word ["God"](https://eternal.family.net.za/bible/concepts/god), the Greek and Hebrew equivalents can also mean an important person. Translators usually render this as "lord" when referring to a human, but there are cases where they incorrectly translated it to "God" when the Almighty God was not referenced. Context is crucial for determining which "god" is addressed.
-* [God's identifying name was replaced with "Lord"](https://eternal.family.net.za/god/father/name) in most English Bibles. This can cause confusion since important humans or angelic beings are also called "lords." However, some translations use the uppercase "LORD" to mark this change.
+* [God's identifying name was replaced with "Lord"](https://ofgod.info/name) in most English Bibles. This can cause confusion since important humans or angelic beings are also called "lords." However, some translations use the uppercase "LORD" to mark this change.
 * Some Hebrew names have been replaced with English names in the KJV. For example, the Hebrew name Ya'akov (יַעֲקֹב) was transliterated to Koine Greek as Iákōbos (Ἰάκωβος), to Latin as Iacomus, to Old French as Jaimes, and finally to the English "James." While the correct pronunciation of names has little impact on the Bible's message, the meanings of names often get lost in translation. For example, the prophecy about "Immanuel" focuses on the meaning of the name (Matthew 1:22-23).
 
 #### Avoid Bible Tales

@@ -8,6 +8,7 @@ keywords: theological terminology, bible translation, Christian jargon, Christia
 | Term                                                | Meaning                                                                 |
 | --------------------------------------------------- | ----------------------------------------------------------------------- |
 | [Burnt Offering](terms/offerings.md#burnt-offering) | An offering that is totally burned up to signal total devotion to God   |
+| [Covenant](https://kingdom.ofgod.info/covenants)    | A binding agreement between two or more parties                         |
 | [Gehenna](terms/hell/gehenna.md)                    | “Valley of Hinnom”, a garbage dump close to Jerusalem                   |
 | [Hades](terms/hell/hades.md)                        | The underworld in Greek methology                                       |
 | [Hell](terms/hell.md)                               | A place where it is expected that the wicked would be tormented forever |
