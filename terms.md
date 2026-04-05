@@ -18,6 +18,9 @@ keywords: theological terminology, bible translation, Christian jargon, Christia
 | [Offering](terms/offerings.md)                                 | Anything valuable that one voluntarily give up to God                   |
 | [Repentance](https://kingdom.ofgod.info/life/repentance)       | The act of turning away from sin and turning towards God                |
 | [Righteousness](https://kingdom.ofgod.info/life/righteousness) | The state of being in right standing with God                           |
+| [Sabbath](https://church.ofgod.info/terms/sundays)             | The set apart day that God commanded people should rest                 |
 | [Sacrifice](terms/sacrifices.md)                               | An offering of an animal or person's life to God                        |
 | [Sheol](terms/hell/sheol.md)                                   | The state of being dead (not having conciousness) or "the grave"        |
 | [Sin Offering](terms/offerings.md#sin-offering)                | A burnt offering with the purpose to atone for sin                      |
+
+For non-biblical Christian terms refer to [Christian Terms](https://church.ofgod.info/terms).
