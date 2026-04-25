@@ -1,7 +1,6 @@
 ---
 description: Explore the phonetic and symbolic meanings of Hebrew letters, including pictographic origins and various Gematria calculation methods for biblical study.
-keywords: [Hebrew alphabet, pictographic Hebrew, Gematria, Ragil Method, Mispar Gadol, Mispar Katan, biblical symbolism, Hebrew letter meanings]
-reviewed: true
+keywords: Hebrew alphabet, pictographic Hebrew, Gematria, Ragil Method, Mispar Gadol, Mispar Katan, biblical symbolism, Hebrew letter meanings
 ---
 
 # Hebrew Letters
@@ -182,10 +181,6 @@ Another piece of evidence often cited is the precision of the law as mentioned i
 
 The "iota" (or yod in Hebrew) and "dot" (tittle) refer to the smallest parts of the Hebrew script. This highlights the importance of every single letter and stroke within the biblical text.
 
-## Critiques Defence
-
-Critics often argue that the symbolic meanings are arbitrary and lack historical grounding. However, defenders of these views maintain that the internal consistency of symbolic patterns across different biblical books provides its own form of validation. They suggest that the phonetic and symbolic layers of the language are not mutually exclusive. Instead, they represent different depths of the same divinely inspired communication. By studying both the sounds and the symbols, a student of the Bible can gain a more comprehensive understanding of the text.
-
 ## Conclusion
 
-The study of Hebrew letters reveals a rich interplay between phonetic utility and symbolic depth. While the [Phonetic Viewpoint](#phonetic-viewpoint) provides a solid linguistic foundation based on the rebus principle, the [Pictographic Perspective](#pictographic-perspective) offers a historical look at the script's visual origins. Furthermore, the various methods of calculating [Word Values](#word-values) demonstrate the intricate numerical relationships within the biblical text. Although critics may question the validity of symbolic interpretations, the [Symbolic Evidence](#symbolic-evidence) and the [Critiques Defence](#critiques-defence) suggest that these layers of meaning can coexist. Ultimately, the Hebrew alphabet serves as a multifaceted tool for deeper biblical exploration.
+The study of Hebrew letters reveals a rich interplay between phonetic utility and symbolic depth. While the [Phonetic Viewpoint](#phonetic-viewpoint) provides a solid linguistic foundation based on the rebus principle, the [Pictographic Perspective](#pictographic-perspective) offers a historical look at the script's visual origins. Furthermore, the various methods of calculating [Word Values](#word-values) demonstrate the intricate numerical relationships within the biblical text.
