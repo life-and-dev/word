@@ -31,8 +31,9 @@
 - translations
 - terms:
   - blasphemy
-  - death: https://kingdom.ofgod.info/death
+  - Christian: https://church.ofgod.info/terms/christian
   - Covenant: https://kingdom.ofgod.info/covenants
+  - Death: https://kingdom.ofgod.info/death
   - god
   - hell:
     - gehenna
@@ -48,6 +49,7 @@
   - Righteousness: https://kingdom.ofgod.info/life/righteousness
   - Sabbath: https://church.ofgod.info/terms/sundays
   - sacrifice
+  - Saint: https://church.ofgod.info/terms/saints
 - symbolism:
   - hebrew-letters
   - numbers
