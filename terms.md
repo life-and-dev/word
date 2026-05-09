@@ -8,6 +8,7 @@ keywords: theological terminology, bible translation, Christian jargon, Christia
 | Term                                                           | Meaning                                                                    |
 | -------------------------------------------------------------- | -------------------------------------------------------------------------- |
 | [Burnt Offering](terms/offerings.md#burnt-offering)            | An offering that is totally burned up to signal total devotion to God      |
+| [Consecration](terms/sanctification)                           | The act of making something or someone holy                                |
 | [Covenant](https://kingdom.ofgod.info/covenants)               | A binding agreement between two or more parties                            |
 | [Gehenna](terms/hell/gehenna.md)                               | “Valley of Hinnom”, a garbage dump close to Jerusalem                      |
 | [Hades](terms/hell/hades.md)                                   | The underworld in Greek methology                                          |
@@ -21,6 +22,7 @@ keywords: theological terminology, bible translation, Christian jargon, Christia
 | [Righteousness](https://kingdom.ofgod.info/life/righteousness) | The state of being in right standing with God                              |
 | [Sabbath](https://church.ofgod.info/terms/sundays)             | The set apart day that God commanded people should rest                    |
 | [Sacrifice](terms/sacrifices.md)                               | An offering of an animal or person's life to God                           |
+| [Sanctification](terms/sanctification.md)                      | The act or process of officially making something holy                     |
 | [Sheol](terms/hell/sheol.md)                                   | The state of being dead (not having conciousness) or "the grave"           |
 | [Sin Offering](terms/offerings.md#sin-offering)                | A burnt offering with the purpose to atone for sin                         |
 
