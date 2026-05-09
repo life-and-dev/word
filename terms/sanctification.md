@@ -3,7 +3,7 @@ description: Explore consecration and sanctification through the main Hebrew roo
 keywords: sanctification, consecration, qadash, qodesh, qadosh, male, milluim, nazar, nezer, charam, cherem, hagiazó
 ---
 
-# Consecration and Sanctification
+# Sanctification and Consecration
 
 English Bible words such as "consecrate" and "sanctify" can confuse readers because they are translation choices. The same English word may translate different Hebrew roots, and the same Hebrew root may be translated by different English words. A Hebrew-root-first approach is clearer because it starts with the biblical words and then asks why translators choose words such as "holy", "consecrate", "sanctify", "dedicate", or "devote" in each context.
 
