@@ -62,7 +62,7 @@ Not all books made it into the modern Bible canon as we know it today.
 * [Micah](https://eternal.family.net.za/bible/books/micah)
 * Nahum
 * Habakkuk
-* [Zechariah](https://eternal.family.net.za/bible/books/zechariah)
+* [Zechariah](books/zechariah.md)
 * [Malachi](https://eternal.family.net.za/bible/books/malachi)
 
 ### New Testament
