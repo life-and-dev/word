@@ -26,5 +26,6 @@ keywords: theological terminology, bible translation, Christian jargon, Christia
 | [Sanctification](terms/sanctification.md)                      | The act or process of officially making something holy                     |
 | [Sheol](terms/hell/sheol.md)                                   | The state of being dead (not having conciousness) or "the grave"           |
 | [Sin Offering](terms/offerings.md#sin-offering)                | A burnt offering with the purpose to atone for sin                         |
+| [Testimony](terms/testimony.md)                                | The act of publically sharing one's faith and experiences with God         |
 
 For non-biblical Christian terms refer to [Christian Terms](https://church.ofgod.info/terms).
