@@ -12,6 +12,7 @@ keywords: theological terminology, bible translation, Christian jargon, Christia
 | [Consecration](terms/sanctification)                           | The act of making something or someone holy                                |
 | [Covenant](https://kingdom.ofgod.info/covenants)               | A binding agreement between two or more parties                            |
 | [Gehenna](terms/hell/gehenna.md)                               | “Valley of Hinnom”, a garbage dump close to Jerusalem                      |
+| [Glory](terms/glory.md)                                        | The radiance or honor of a person or being                                 |
 | [Hades](terms/hell/hades.md)                                   | The underworld in Greek methology                                          |
 | [Hell](terms/hell.md)                                          | A place where it is expected that the wicked would be tormented forever    |
 | [Holy](terms/holy.md)                                          | Extra special to God, set apart and pure for God's purpose                 |
