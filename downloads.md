@@ -102,7 +102,7 @@ Download the app for:
 * Faithful to the text regardless of traditional readings or interpretations
 * Translators advise their choice to translate certain scriptures the way they did
 * Extensive commentary elucidating many difficult passages
-* Kept God's name *[(most modern bibles replaced God's name with Lord)](https://eternal.family.net.za/god/father/name#yhvh)*
+* Kept God's name *[(most modern bibles replaced God's name with Lord)](https://ofgod.info/name#yhvh)*
 * Online videos
 * search feature include verse reference, e.g. type "John 1:1" to jump directly to that verse
 

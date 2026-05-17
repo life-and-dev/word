@@ -250,7 +250,7 @@ If people who rebelled against God were living eternally (even in "hell"), then 
 
 > **All the ends of the earth** shall remember and turn to the LORD, and **all the families** of the nations shall worship before you. — Psalm 22:27 (ESV)
 
-> **All nations** whom You have made shall come and [worship](https://eternal.family.net.za/god/worship) before You, O [Lord](https://eternal.family.net.za/god/father/name), and shall glorify Your [name](https://eternal.family.net.za/bible/concepts/name). For You are great, and do wondrous things; [You alone are God](https://son.ofgod.info/shema). — Psalm 86:9-10 (NKJV)
+> **All nations** whom You have made shall come and [worship](https://eternal.family.net.za/god/worship) before You, O [Lord](https://ofgod.info/name), and shall glorify Your [name](https://eternal.family.net.za/bible/concepts/name). For You are great, and do wondrous things; [You alone are God](https://son.ofgod.info/shema). — Psalm 86:9-10 (NKJV)
 
 ## Common Objections
 
