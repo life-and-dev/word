@@ -18,6 +18,7 @@ keywords: theological terminology, bible translation, Christian jargon, Christia
 | [Holy](terms/holy.md)                                          | Extra special to God, set apart and pure for God's purpose              |
 | [Lake of Fire](terms/hell/lake-of-fire.md)                     | An eternal lake of fire that is mentioned in John's Revelation          |
 | [Love](terms/love.md)                                          | 4 different Greek words are translated as "love"                        |
+| [Mystery](https://church.ofgod.info/terms/mystery)             | A theological term often used to defend illogical doctrines             |
 | [Name](terms/name.md)                                          | Could be a designation, but usually used in the context of authority    |
 | [Offering](terms/offerings.md)                                 | Anything valuable that one voluntarily give up to God                   |
 | [Repentance](https://kingdom.ofgod.info/life/repentance)       | The act of turning away from sin and turning towards God                |
