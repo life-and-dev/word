@@ -31,5 +31,6 @@ keywords: theological terminology, bible translation, Christian jargon, Christia
 | [Sheol](terms/hell/sheol.md)                                   | The state of being dead (not having conciousness) or "the grave"        |
 | [Sin Offering](terms/offerings.md#sin-offering)                | A burnt offering with the purpose to atone for sin                      |
 | [Testimony](terms/testimony.md)                                | The act of publically sharing one's faith and experiences with God      |
+| [Worship](terms/worship.md)                                    | Different Greek words and meanings all translated to "worship"          |
 
 For non-biblical Christian terms refer to [Christian Terms](https://church.ofgod.info/terms).

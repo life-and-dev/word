@@ -92,6 +92,7 @@ Certain words have undergone significant shifts in meaning between their origina
 | [name](terms/name.md)                                                                       | Authority, character, reputation, or representation.                                                                      | A vocalized identifier used as a formula to invoke power or request blessings.                            |
 | [one](semantics/echad.md)                                                                   | Singular unity or numerical one.                                                                                          | A compound or composite unity comprising multiple entities.                                               |
 | [word](index.md)                                                                            | An utterance, message, command, or plan (*logos* in Greek).                                                               | Often interpreted as a personal title referring to the pre-existent second person of the Trinity.         |
+| [worship](terms/worship.md)                                                                 | Serve a god with a sacrifice.                                                                                             | Synonymous to praising God (usually with music, dancing or art).                                          |
 
 ## Textual Variants
 
