@@ -1,6 +1,4 @@
----
-title: Criticizing the crucifixion
----
+# Crucifixion
 
 # Is God a sadist?
 
@@ -87,7 +85,7 @@ The reason why Jesus' temporary death pleased God was not because God was a Sadi
 If one simply look at bible author's scripture to determine what kind of sacrifice Jesus was, they seem to contradict each other:
 
 | Was Jesus a...     | scape goat?     | sin offering?                             | passover lamb?                                       | fragrant offering?                    |
-|--------------------|-----------------|-------------------------------------------|------------------------------------------------------|---------------------------------------|
+| ------------------ | --------------- | ----------------------------------------- | ---------------------------------------------------- | ------------------------------------- |
 | Moses              | No, invalid     | No, invalid (Exodus 29-30, Leviticus 4,5) | No, invalid (Exodus 12; Exodus 34:25)                | No, invalid (Deuteronomy 12)          |
 | Isaiah             | -               | Maybe (Isaiah 53:10)                      | Compared with lamb (Isaiah 53:7)                     | -                                     |
 | Daniel             | -               | Did not specify                           | Did not specify                                      | Did not specify                       |
