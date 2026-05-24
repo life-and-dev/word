@@ -3,12 +3,12 @@ description: The Greek word en can shape how readers understand unity, fellowshi
 keywords: Greek en translation, John 14 fellowship, John 17 unity, biblical prepositions, indwelling language, New Testament communion
 ---
 
-# The Greek Word En
+# EN (Greek)
 
 The Greek word "en" is often translated as "in", but English readers may not always notice that it can carry more than one sense. This article explores how the translation of "en" can affect passages about God, Jesus, and believers living in close relationship.
 
 |                   | [Strong's Concordance](https://biblehub.com/greek/1722.htm) |
-|-------------------|-------------------------------------------------------------|
+| ----------------- | ----------------------------------------------------------- |
 | Original Word     | ἐν                                                          |
 | Part of Speech    | Preposition                                                 |
 | Transliteration   | en                                                          |
