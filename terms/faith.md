@@ -171,6 +171,20 @@ The *"law of faith"* places **the pressure on the individual** to have enough fa
 
 In contrast, the Bible teaches that we can **"trust God"** instead and **"rest in Him"** so that we have **peace of mind** (Psalm 119:165; John 14:27; Philippians 4:7-9; 2 Thessalonians 3:16; Romans 4:18-25).
 
+For example, James wrote:
+
+> My brothers and sisters, count it all joy when you encounter trials of various kinds, knowing that the testing of **your trust produces endurance**. Now let endurance have its full effect, so that you become fully mature and whole, lacking in nothing.
+>
+> But if any of you lacks wisdom, ask God for it, Who gives to everyone generously and without finding fault, and it will be given to him. But he must **ask in trust, without doubting**, for the one who doubts is like a wave of the sea blown and tossed around by the wind. Indeed, that person must not expect that he will receive anything from the Lord. **A double-minded person is unstable** in all his ways.
+>
+> -- James 2:2-8 (REV)
+
+However, the popular bible translations replace "trust" with "faith", **putting the pressure on you** to have enough "faith for things you hope for".
+
+When a person does **not trust God**, they become **"double-minded"** and **unstable**, moving back and forth between God’s plans and their own plans, emotions, safety nets, or the opinions of others.
+
+On the other hand, if a person truly **trusts God**, they have a **steady anchor and firm foundation in times of uncertainty**. When doubt comes, they can return to the assurance that *God has spoken*, and therefore they can trust Him.
+
 #### Unscriptural Expectations
 
 > A big problem with the “faith brings success” claim, also known as “prosperity theology” or the “Prosperity Gospel,” is that it gives sincere but inexperienced Christians an unscriptural and unrealistic expectation about the Christian life and God’s will for them. **The “faith brings success” teaching encourages people to have ungodly desires for material things**, including money and power, and this can be very harmful. Admittedly, the “Faith Movement” theology fits well with the modern, **self-centred**, “what’s-in-it-for-me,” “I want it now” culture, and thus brings some people to Christ who otherwise might not come. However, at some point, all of those people will find out that “faith” does not solve their problems, and then the reason they embraced Christ in the first place is no longer there.
@@ -210,7 +224,7 @@ Suffering is part of the growth process believers may need to endure, and throug
 
 > Truly, I say to you, whoever says to this mountain, ‘Be taken up and thrown into the sea,’ and does not doubt in his heart, but **believes** that what he says will come to pass, it will be done for him. -- Mark 11:23 (ESV)
 
-> The context and scope of Scripture show us that it is the manifestation of faith that moves mountains, not regular “faith.” Although no one moved a mountain in Scripture, great miracles like splitting oceans, stopping rivers, and causing great city walls to fall down did happen—but all by the manifestation of faith.
+> The context and scope of Scripture show us that it is [the manifestation of faith](https://church.ofgod.info/terms/faith-manifestation) that moves mountains, not regular “faith.” Although no one moved a mountain in Scripture, great miracles like splitting oceans, stopping rivers, and causing great city walls to fall down did happen—but all by the manifestation of faith.
 >
 > — [Spirit & Truth](https://www.revisedenglishversion.com/Appendix/2/Faith_is_Trust)
 
@@ -306,7 +320,7 @@ The contrast in this article is between trusting one's own "faith" as a mechanis
 >
 > [...]
 >
->  A terrible consequence of the Word of Faith teaching is that the plans and purposes of God lose their great importance. God’s plans and purposes are the most important reason for the great miracles and healings we see in the Bible. From Genesis to Revelation, we see many great miracles: Moses splitting the Sea, Joshua making the walls of Jericho fall, Elijah calling fire down from heaven, Shadrach and his two companions staying alive in a furnace of fire, Daniel being delivered from the lion’s den, and many more. Faith ministers say these miracles were done by “faith,” but is that true? Some of them were done by the manifestation of faith, which is dependent on specific revelation from God, which further depends on His plans and purposes. But also, some of the miracles were just God acting in power to fulfill His purposes without any human interaction. Shadrach and his companions staying alive in Nebuchadnezzar’s furnace seems to be one of those cases. According to what they said in Daniel 3:18, they were not sure God would rescue them.
+>  A terrible consequence of the Word of Faith teaching is that the plans and purposes of God lose their great importance. God’s plans and purposes are the most important reason for the great miracles and healings we see in the Bible. From Genesis to Revelation, we see many great miracles: Moses splitting the Sea, Joshua making the walls of Jericho fall, Elijah calling fire down from heaven, Shadrach and his two companions staying alive in a furnace of fire, Daniel being delivered from the lion’s den, and many more. Faith ministers say these miracles were done by “faith,” but is that true? Some of them were done by the [manifestation of faith](https://church.ofgod.info/terms/faith-manifestation), which is dependent on specific revelation from God, which further depends on His plans and purposes. But also, some of the miracles were just God acting in power to fulfill His purposes without any human interaction. Shadrach and his companions staying alive in Nebuchadnezzar’s furnace seems to be one of those cases. According to what they said in Daniel 3:18, they were not sure God would rescue them.
 >
 > The miracles and healings in the Bible are all part of God’s grand plan, and that explains why “regular faith” (trust) can’t reliably bring them to pass at our discretion or repeat them whenever we desire. If Joshua knocked the walls of Jericho down by his faith (Joshua 6:1-21), why didn’t he conquer all the cities in Canaan the same way? If Samuel could make it rain during the dry season in Israel (1 Sam. 12:17), why couldn’t other great believers, like Abraham and David, make it rain during famines? If Elisha could feed many prophets by multiplying food (2 Kings 4:42-44), why could he not do the same thing when there was a famine in Samaria (2 Kings 6:24-7:20)? If Peter could raise Dorcas from the dead (Acts 9:36-42), why couldn’t he raise others, such as Stephen? Those great miracles were done by the manifestation of faith and were according to God’s purposes and plans.
 >
