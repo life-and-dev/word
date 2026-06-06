@@ -11,6 +11,7 @@ keywords: theological terminology, bible translation, Christian jargon, Christia
 | [Christian](https://church.ofgod.info/terms/christian)         | A devouted follower of Christ                                           |
 | [Consecration](terms/sanctification)                           | The act of making something or someone holy                             |
 | [Covenant](https://kingdom.ofgod.info/covenants)               | A binding agreement between two or more parties                         |
+| [Faith](terms/faith.md)                                        | The act of trusting God                                                 |
 | [Gehenna](terms/hell/gehenna.md)                               | “Valley of Hinnom”, a garbage dump close to Jerusalem                   |
 | [Glory](terms/glory.md)                                        | The radiance or honor of a person or being                              |
 | [Hades](terms/hell/hades.md)                                   | The underworld in Greek methology                                       |
