@@ -6,7 +6,7 @@
 
 The letter explicitly identifies Paul as its author in the opening verse: "**Paul**, a servant of Christ Jesus, called to be an apostle and set apart for the gospel of God" (Romans 1:1). Internal evidence strongly supports Pauline authorship, including the theological sophistication, the detailed knowledge of both Jewish and Gentile cultures, and the personal greetings to specific individuals in Rome that Paul would have known through his extensive travels.
 
-The letter was dictated by Paul to his amanuensis (secretary) Tertius, who identifies himself in Romans 16:22: "I, Tertius, who wrote down this letter, greet you in the Lord". This practice of using a scribe was common in the ancient world and does not diminish Paul's authorship, as he would have directed the content and likely signed or added personal notes at the end.
+The letter was dictated by Paul to his secretary Tertius, who identifies himself in Romans 16:22: "I, Tertius, who wrote down this letter, greet you in the Lord". This practice of using a scribe was common in the ancient world and does not diminish Paul's authorship, as he would have directed the content and likely signed or added personal notes at the end.
 
 External evidence for Pauline authorship is equally strong. Early church fathers unanimously attributed Romans to Paul, with no competing claims of authorship ever emerging. The letter was cited extensively by early Christian writers, and its authenticity has never been seriously questioned throughout church history, unlike some disputed epistles such as Hebrews or the Pastoral Epistles.
 
@@ -36,11 +36,12 @@ Paul's letter to the Romans serves multiple interconnected purposes, making it o
 
 **Missionary Purpose:** Paul was preparing for his planned mission to Spain and hoped to use Rome as a base of operations for this western expansion (Romans 15:24). He wanted to introduce himself and his theology to the Roman church, secure their support and partnership, and establish a relationship before his arrival. This explains why Romans is more formal and systematic than Paul's letters to churches he had founded.
 
-**Defense and Clarification:** Paul's gospel of justification by faith apart from works of law had been misunderstood and misrepresented. He addresses potential objections throughout the letter (e.g., Romans 3:8, Romans 6:1, Romans 6:15), suggesting he was aware of criticisms that his teaching encouraged antinomianism (lawlessness). Romans provided an opportunity to present a full, nuanced explanation of his theology that could not be easily caricatured.
+**Defense and Clarification:** Paul's gospel of justification by faith apart from works of law had been misunderstood and misrepresented. He addresses potential objections throughout the letter (e.g., Romans 3:8, Romans 6:1, Romans 6:15), suggesting he was aware of criticisms that his teaching encouraged lawlessness. Romans provided an opportunity to present a full, nuanced explanation of his theology that could not be easily caricatured.
 
 **Theological Purpose Regarding Israel:** A significant portion of Romans (chapters 9-11) addresses the theological problem of Israel's relationship to God's promises. If the gospel is true and Jesus is the Messiah, why have most Jews rejected him? Has God's word failed? Paul needed to explain how God's faithfulness to Israel is maintained even as the gospel goes to the Gentiles, and to reveal the "mystery" that "all Israel will be saved" (Romans 11:26).
 
 For further reading:
+
 - [An Introduction To The Book Of Romans - Bible.org](https://bible.org/article/introduction-book-romans)
 - [Kingdom Focus: The Date, Audience and Purpose of Romans](http://confessionsyoungpreacher.blogspot.com/2013/09/the-date-audience-and-purpose-of-romans.html)
 
@@ -57,6 +58,7 @@ For further reading:
 **Theological Influence:** Romans has been arguably the most influential book in Christian theology after the Gospels. It was central to Augustine's conversion, served as the foundation for Luther's Reformation theology of justification, was pivotal in Wesley's evangelical awakening, and deeply influenced Calvin's systematic theology. The theological concepts articulated in Romans—original sin, justification, sanctification, election, and glorification—have shaped Christian doctrine for nearly two millennia.
 
 For further study:
+
 - [Parallel Passages in New Testament Quoted from Old Testament - Blue Letter Bible](https://www.blueletterbible.org/study/misc/quotes04.cfm)
 - [New Testament Use of the Old Testament, by Roger Nicole](https://www.bible-researcher.com/nicole.html)
 
@@ -108,21 +110,21 @@ Paul establishes that [all humanity stands guilty before God](https://kingdom.of
 
 Paul then turns to those who judge others, particularly Jews who rely on the Law, declaring that God "will repay each person according to what they have done" (Romans 2:6). God shows no favoritism (Romans 2:11). Paul argues that possessing the Law is insufficient; "it is those who obey the law who will be declared righteous" (Romans 2:13). He introduces the concept that Gentiles who don't have the Law yet do by nature what the Law requires "show that the requirements of the law are written on their hearts" (Romans 2:15).
 
-The devastating conclusion comes in Romans 3:9-10: 
+The devastating conclusion comes in Romans 3:9-10:
 
-> What then? Are we Jews any better off? 
+> What then? Are we Jews any better off?
 >
 > No, not at all. For we have already charged that all, both Jews and Greeks, are under sin... 
-> 
+>
 > — Romans 3:9 (ESV)
- 
+
 Paul strings together multiple Old Testament quotations to prove universal sinfulness, concluding that "all have sinned and fall short of the [glory](../terms/glory.md) of God" (Romans 3:23). The Law's purpose was not to save but to make people "conscious of their sin" (Romans 3:20).
 
 ### Reconciliation To God Through Faith (Romans 3:21-5:21)
 
-Having established universal guilt, Paul presents God's solution: "But now apart from the law the righteousness of God has been made known, to which the Law and the Prophets testify. This righteousness is given through faith in Jesus Christ to all who believe" (Romans 3:21-22). 
+Having established universal guilt, Paul presents God's solution: "But now apart from the law the righteousness of God has been made known, to which the Law and the Prophets testify. This righteousness is given through faith in Jesus Christ to all who believe" (Romans 3:21-22).
 
-At the heart of this section is the concept of **justification**—which in plain English means being [made right with God](https://kingdom.ofgod.info/life/righteousness) or placed in a **right standing** with Him. This is not about human moral perfection or earning God's favor; it is a free status declared by God. 
+At the heart of this section is the concept of **justification**—which in plain English means being [made right with God](https://kingdom.ofgod.info/life/righteousness) or placed in a **right standing** with Him. This is not about human moral perfection or earning God's favor; it is a free status declared by God.
 
 The faith required for this reconciliation is a specific:
 * **Faith in Christ's sacrifice:** Trusting that Jesus' blood sacrifice paid the penalty for our sins (Romans 3:25).
