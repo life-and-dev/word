@@ -382,156 +382,41 @@ See also:
 
 ### Law Observance: Positive and Negative
 
-**The Contradiction:**
+**The Apparent Contradiction:** Paul sounds as if he both affirms and rejects the Law. 
 
-- Positive: "Do we, then, nullify the law by this faith? Not at all! Rather, we uphold the law" (Romans 3:31)
-- Positive: "The righteous requirement of the law might be fully met in us" (Romans 8:4)
-- Negative: "You also died to the law through the body of Christ" (Romans 7:4)
-- Negative: "You are not under the law, but under grace" (Romans 6:14)
+* On one side, faith does not make the Law worthless; it *"upholds the law"* (Romans 3:31), and the Law's *"righteous requirement"* is *"fully met in us"* (Romans 8:4). 
+* On the other side, believers are *"not under the law, but under grace"* (Romans 6:14), and have *"died to the law through the body of Christ"* (Romans 7:4).
 
-**Proposed Resolutions:**
+The tension is this: **if Christians uphold and fulfill the Law, how can they also be dead to it and no longer under it?**
 
-*1. Different aspects of the Law:*
+#### Proposed Resolutions
 
-- The Law's moral demands (love God, love neighbor) remain valid and are fulfilled through the Spirit
-- The Law's function as a covenant system for relating to God is ended (ceremonial and civil aspects)
-- The Law as a condemning system is abolished for believers in Christ
+**Paul uses "Law" in more than one way:**
 
-*2. Different relationships to the Law:*
+- Sometimes Paul means the **Law's ethical teaching**: basic moral commands such as loving God, loving neighbor, refusing murder, theft, adultery, and dishonesty. Paul does not reject this moral vision: he says the commandments are summed up in love of neighbor (Romans 13:8-10), and that *"the law is holy, and the commandment is holy, righteous and good"* (Romans 7:12).
+- Sometimes Paul means the **Law as the covenant** identity of Israel, especially practices such as circumcision and food observance that marked Jews off from Gentiles. Paul says Gentile Christians do not need circumcision to belong to God's people (Romans 2:25-29; 4:9-12; Galatians 5:2-6), and he treats disputed food practices as matters that should not define God's kingdom or divide believers (Romans 14:1-6, 14-17).
+- Sometimes Paul means the **Law as a courtroom standard that exposes guilt**: Paul says *"through the law we become conscious of our sin"* (Romans 3:20), that the Law brings knowledge of wrongdoing (Romans 7:7), and that sin uses the commandment to produce condemnation and death (Romans 7:8-11).
 
-- Believers are freed from the Law as a means of justification (earning righteousness)
-- Believers are freed from the Law's condemnation (penalty for failure)
-- Believers uphold the Law's moral intent through Spirit-empowered obedience
+**Paul rejects one use of the Law, not every use of the Law:**
 
-*3. Christ fulfills the Law:*
+- Christians are not under the Law's **sentence of condemnation**, because Paul believes Christ has dealt with their guilt. This is why Romans moves from *"you are not under the law, but under grace"* (Romans 6:14) to *"there is now no condemnation for those who are in Christ Jesus"* (Romans 8:1).
+- Christians still treat the Law as a **witness to God's moral purposes**, especially its command to love. Paul says faith does not overthrow the Law but upholds it (Romans 3:31), and later says love fulfills the Law (Romans 13:8-10; Galatians 5:14).
 
-- Jesus perfectly fulfilled the Law's demands
-- His righteousness is credited to believers
-- The Spirit writes the Law on believers' hearts (New Covenant promise, Jeremiah 31:33)
+**Christ changes the believer's relationship to the Law:**
 
-*4. Terminological precision:*
+- Because believers are united to Christ, their relation to the Law is no longer defined by condemnation or boundary-marking observance (Romans 6:3-11; 7:4; 8:1).
+- The Spirit changes obedience from merely external rulekeeping into a **transformed way of life**. Paul says *"the righteous requirement of the law might be fully met in us, who do not live according to the flesh but according to the Spirit"* (Romans 8:4), echoing the promise that God would write his law on people's hearts (Jeremiah 31:33; Ezekiel 36:26-27).
 
-- "Under law" (hypo nomon) refers to being in a law-covenant relationship where law-keeping determines standing
-- "Upholding law" refers to affirming its divine origin and moral validity
-- "Fulfilling law" (Romans 13:8-10) means achieving its purpose (love) through grace
+**Theological Synthesis:** 
 
-**Theological Synthesis:** Believers are freed from the Law as a system of earning righteousness or as a covenant defining their relationship with God, but they uphold the Law's moral teaching and, empowered by the Spirit, fulfill its righteous requirements through love. The Law's function changed from condemnation to vindication, from external code to internal transformation.
-
-### Election and Human Responsibility
-
-**The Contradiction:**
-
-Within Romans itself, Paul affirms both divine sovereignty and human responsibility:
-
-- Sovereignty: "It does not, therefore, depend on human desire or effort, but on God's mercy" (Romans 9:16)
-- Sovereignty: "God has mercy on whom he wants to have mercy, and he hardens whom he wants to harden" (Romans 9:18)
-- Responsibility: "Everyone who calls on the name of the Lord will be saved" (Romans 10:13)
-- Responsibility: Israel's unbelief is blamed on them: "they pursued it not by faith but as if it were by works" (Romans 9:32)
-
-**Proposed Resolutions:**
-
-*1. Both are true (paradox/mystery):*
-
-- Reformed theology affirms "compatibilism"—God's sovereignty and human responsibility are both fully true, though we cannot fully comprehend how
-- God ordains both ends and means; He decrees salvation and also decrees faith as the means
-- Paul presents both without full philosophical resolution because both are biblically revealed
-
-*2. Different perspectives:*
-
-- From God's eternal perspective: He sovereignly elects
-- From human experiential perspective: We choose and are responsible
-- These are not contradictory but complementary viewpoints
-
-*3. Corporate vs. individual election:*
-
-- Romans 9 discusses corporate election (God chose Israel as a nation for historical purposes)
-- Romans 10 discusses individual response (anyone who calls on the Lord will be saved)
-- God determines the plan; individuals determine their place in it
-
-*4. Hardening as judicial response:*
-
-- God's "hardening" (Romans 9:18) is judicial response to prior rejection, not arbitrary determination
-- God hardens those who first harden themselves (as Pharaoh did, Exodus 7-14)
-- This preserves human responsibility while affirming God's sovereignty
-
-*5. Foreknowledge interpretation:*
-
-- "Those God foreknew he also predestined" (Romans 8:29)
-- Some interpret "foreknew" as foreseen faith (God predestined those He knew would believe)
-- Others interpret "foreknew" as relational (God set His love on them beforehand)
-
-**Theological Synthesis:** Paul presents both truths forcefully without attempting philosophical harmonization. Different theological traditions emphasize one aspect more strongly (Reformed emphasizing sovereignty, Arminian emphasizing free will, Molinist proposing middle knowledge), but Paul's primary concern is pastoral: humbling human pride (we can't save ourselves) while maintaining hope (all who call on the Lord will be saved).
-
-- [Does Romans 9-11 Teach Calvinist Predestination? - Seedbed](https://seedbed.com/romans-9-11-teach-calvinist-predestination/)
-
-### Universal Salvation Language
-
-**The Contradiction:**
-Romans contains both universalistic language and particularistic language:
-
-- Universal-sounding: "As one trespass resulted in condemnation for all people, so also one righteous act resulted in justification and life for all people" (Romans 5:18)
-- Universal-sounding: "God has bound everyone over to disobedience so that he may have mercy on them all" (Romans 11:32)
-- Particularistic: "Those he predestined, he also called; those he called, he also justified" (Romans 8:30) - implying a limited group
-- Particularistic: Salvation comes only to "everyone who believes" (Romans 1:16, Romans 10:4)
-
-**Proposed Resolutions:**
-
-*1. "All" means "all kinds/types" (Jews and Gentiles):*
-
-- The primary "all" contrast in Romans is ethnic (Jews and Gentiles), not individual (every single person)
-- "All have sinned" (Romans 3:23) and "all who believe" are saved means no ethnic restriction
-
-*2. Provision vs. application:*
-
-- Christ's work is sufficient for all (universal provision)
-- But it's efficient only for those who believe (limited application)
-- The "all" in Romans 5:18 refers to potential scope, not actual result
-
-*3. Parallel structure in Romans 5:*
-
-- Just as "all" died because of Adam (universal effect of the first Adam), so "all" who are in Christ receive life
-- The "all" is qualified by being "in" the respective head (Adam or Christ)
-
-*4. Progressive revelation in Romans:*
-
-- Early chapters use broad language about God's desire for all
-- Later chapters clarify that salvation requires response (faith, calling on the Lord)
-- The progression shows God's universal offer requires particular response
-
-**Theological Synthesis:** God's salvific work in Christ is objectively sufficient for all humanity and subjectively offered to all, but it becomes effective for those who respond in faith. Paul's "all" language emphasizes the removal of ethnic barriers (Jew/Gentile), not the automatic salvation of every individual regardless of faith.
-
-### Romans and Gospels on Gentile Inclusion**
-
-**The Tension:**
-
-- Jesus's earthly ministry focused on "the lost sheep of Israel" (Matthew 15:24)
-- Jesus told disciples, "Do not go among the Gentiles" (Matthew 10:5)
-- Paul emphasizes Gentile inclusion as central to the gospel, even calling it a "mystery" (Romans 16:25-26)
-
-**Proposed Resolutions:**
-
-*1. Progressive revelation:*
-
-- Jesus's earthly ministry fulfilled Israel-first priority ("to the Jew first, then the Gentile," Romans 1:16)
-- After resurrection, Jesus commissioned worldwide mission (Matthew 28:19)
-- Paul received specific revelation about the mystery of Gentile inclusion (Ephesians 3:6)
-
-*2. Prophetic fulfillment:*
-
-- Old Testament prophesied Gentile inclusion (Isaiah, Amos, etc.)
-- Jesus's ministry prepared Israel as a base for worldwide expansion
-- The gospel went "to the Jew first" historically (Acts 1-7), then to Gentiles (Acts 10-28)
-
-*3. Not contradiction but sequence:*
-
-- Jesus honored the covenantal priority of Israel during His incarnational ministry
-- The full implications of His death and resurrection (breaking down the dividing wall, Ephesians 2:14) were revealed after the events
-- Paul's mission to Gentiles fulfilled rather than contradicted Jesus's mission
+Paul is not saying, "The Law is bad and should be ignored." He calls the Law holy and good (Romans 7:12), says faith upholds it (Romans 3:31), and says love fulfills it (Romans 13:8-10). But Christians are no longer under the Law as a condemning covenant system or as the badge of membership in God's people. In short: believers are freed from the Law's old covenant role, but not from the moral purpose the Law was meant to teach.
 
 ### Behavior-Based Standing vs. Credited Right Standing**
 
 **The Tension:**
-Paul teaches that right standing with God is a free gift credited to a person by faith, entirely apart from their deeds or obedience to the law (Romans 3:28, Romans 4:5, Galatians 2:16). However, numerous other scriptures describe righteousness as being based on keeping the law and practicing good deeds:
+Paul teaches that right standing with God is a free gift credited to a person by faith, entirely apart from their deeds or obedience to the law (Romans 3:28, Romans 4:5, Galatians 2:16). 
+
+However, numerous other scriptures describe righteousness as being based on keeping the law and practicing good deeds:
 
 - **Old Testament Law:** Deuteronomy 6:25 states, *"And it will be righteousness for us, if we are careful to do all this commandment before the Lord our God."* Ezekiel 18:9 also defines a righteous person as one who *"walks in my statutes, and keeps my rules by acting faithfully—he is righteous."*
 - **Crediting Deeds:** Psalm 106:30-31 states that Phinehas's physical act of executing covenant-breakers was *"counted to him as righteousness"*—using the exact same Hebrew/Greek accounting terms Paul uses for Abraham's faith.
@@ -544,12 +429,119 @@ Paul teaches that right standing with God is a free gift credited to a person by
 - Paul uses "justification" and "righteousness" in a forensic/legal sense—the status of being declared in right standing with God at the beginning of the Christian life.
 - Other passages (like Ezekiel 18 and 1 John 3) use "righteousness" in an ethical/experiential sense—the actual moral behavior that should characterize those who belong to God.
 
-*2. The Fruit of Credit:*
+*2. The Fruit of Credited Right Standing:*
 
 - Christian theology harmonizes these by arguing that good behavior (practicing righteousness) is the necessary *result* or *evidence* of having been credited with right standing, not the *cause* of it. A person is declared righteous by faith, but that faith is proven genuine by a changed life.
 
-*3. Moses's Purpose:*
+### Election and Human Responsibility
 
-- The Old Testament passages (like Deuteronomy 6:25) describe the standard of perfect obedience required under the Old Covenant to maintain fellowship with God. Paul argues in Romans 3 and Galatians 3 that since no human can perfectly meet this standard due to sin, the Law's actual effect is to expose guilt, driving people to seek the free gift of right standing through Christ.
+**The Tension:**
 
-**Conclusion:** The apparent contradictions in Romans typically reflect tensions that Paul himself acknowledges and addresses. Many result from complementary rather than contradictory truths (faith and works as different aspects of salvation, sovereignty and responsibility as different perspectives on God's plan). Others reflect the progressive nature of revelation (Gentile inclusion fully realized post-resurrection). Careful attention to context, definitions, and Paul's rhetorical strategy resolves most apparent contradictions, though some genuine theological tensions (particularly regarding election) remain subjects of ongoing debate among scholars and traditions.
+In Romans, Paul says two things that can seem hard to hold together:
+
+- God takes the first step: "It does not, therefore, depend on human desire or effort, but on God's mercy" (Romans 9:16)
+- God is free to show mercy or judgment: "God has mercy on whom he wants to have mercy, and he hardens whom he wants to harden" (Romans 9:18)
+- People are still responsible for rejecting God: Israel "pursued it not by faith but as if it were by works" (Romans 9:32)
+- People are still invited to respond: "Everyone who calls on the name of the Lord will be saved" (Romans 10:13)
+
+In plain language, the question is: 
+
+*If God is in control, how can people still be responsible for their choices?*
+
+For more info see: [Does Romans 9-11 Teach Calvinist Predestination? - Seedbed](https://seedbed.com/romans-9-11-teach-calvinist-predestination/)
+
+#### Proposed Resolutions
+
+**Both are true, even if the fit is mysterious:**
+
+- Some Christians say both ideas are true: God is in control, and people still make real choices
+- For example, God can have a larger plan while still using human trust, prayer, and decisions as part of that plan
+- Paul does not explain exactly how these two ideas fit together; he simply presents them side by side
+
+Possible biblical challenge: Deuteronomy 30:19 and Ezekiel 18:23,32 say God calls people to choose life and turn away from destruction. 1 Timothy 2:4 and 2 Peter 3:9 make a similar point, saying God desires people to be saved and repent. Together, they challenge any explanation that makes God seem uninterested in human response or pleased by human destruction.
+
+**Two points of view:**
+
+- From God's point of view, the whole story is known and directed
+- From a human point of view, people still experience themselves as choosing, trusting, rejecting, and being responsible
+- This explanation says the two claims may be different angles on the same reality, not a simple contradiction
+
+Possible biblical challenge: James 1:13 says God does not tempt people to evil, and 1 John 1:5 says there is no darkness in God. Ezekiel 18:20 and Romans 2:6-11 also describe people being judged for their own actions. These texts challenge any version of this view that makes human rejection seem secretly caused by God in a way that removes real responsibility.
+
+**Groups and individuals:**
+
+- Romans 9 may be talking mainly about groups, especially Israel's role in history
+- Romans 10 may be talking mainly about individual people, saying anyone who calls on the Lord can be saved
+- In this view, God shapes the big historical plan, while individual people still respond within that plan
+
+Possible biblical challenge: Romans 9:15-18 speaks about Moses and Pharaoh as individual examples, and Romans 9:22-24 speaks of people as "vessels" of mercy or wrath. John 6:44 and Acts 13:48 also use individual-sounding language about who comes to faith. These passages make it difficult to limit the issue only to nations or historical groups.
+
+**"Hardening" as judgment after rejection:**
+
+- In the Bible, to "harden" someone can mean to make that person more fixed in a path they already chose
+- Pharaoh in Exodus 7-14 is often used as an example: he resists God, and then God confirms him in that path
+- This explanation says God's judgment does not remove human responsibility, because the person had already chosen resistance
+
+Possible biblical challenge: Exodus 4:21 and Exodus 7:3 say God would harden Pharaoh before the later confrontations, and Romans 9:17-18 uses Pharaoh to stress God's purpose and mercy. John 12:39-40 also describes hardening in a way that prevents belief. These texts challenge the idea that hardening is always only a response to prior human rejection.
+
+**God knowing beforehand:**
+
+- Romans 8:29 says, "Those God foreknew He also predestined"
+- Some Christians understand "foreknew" to mean God knew in advance who would trust Him
+- Others understand it more relationally: God chose to love and commit Himself to people before they did anything
+
+Possible biblical challenge: Romans 8:29-30 links foreknowledge with predestination, calling, justification, and glorification as one connected chain. Ephesians 1:4-5,11 also says God chose and predestined people according to His purpose, and Acts 2:23 links foreknowledge with God's deliberate plan. These passages challenge the view that foreknowledge means only passive advance information.
+
+**Summary:** 
+
+Paul does not stop to solve the philosophical puzzle. His main point is practical: people cannot earn rescue from God through effort, religion, ancestry, or status, so pride is out of place. At the same time, hope remains open to everyone: "Everyone who calls on the name of the Lord will be saved" (Romans 10:13).
+
+### Universal Salvation Language
+
+**The Contradiction:**
+
+Romans contains both universalistic language and particularistic language. In plain terms, Paul sometimes sounds like he is saying **everyone will be saved**, but elsewhere he sounds like he is saying **only those who believe are saved**.
+
+A simple analogy: it is like saying, "This medicine is for everyone," but also saying, "Only people who take the medicine are healed." The first statement emphasizes the medicine's universal availability; the second emphasizes the condition for actually receiving its benefit.
+
+- Universal-sounding: "As one trespass resulted in condemnation for all people, so also one righteous act resulted in justification and life for all people" (Romans 5:18)
+- Universal-sounding: "God has bound everyone over to disobedience so that he may have mercy on them all" (Romans 11:32)
+- Particularistic: "Those he predestined, he also called; those he called, he also justified" (Romans 8:30) - implying a limited group
+- Particularistic: Salvation comes only to "everyone who believes" (Romans 1:16, Romans 10:4)
+
+The interpretive tension is whether Paul's "all" means every individual will finally be saved, salvation is genuinely offered to all but applied only to believers, or "all" means all kinds of people - especially both Jews and Gentiles.
+
+#### Proposed Resolutions
+
+**"All" means "all kinds/types" (Jews and Gentiles):**
+
+- The primary "all" contrast in Romans is ethnic (Jews and Gentiles), not individual (every single person)
+- "All have sinned" (Romans 3:23) and "all who believe" are saved means no ethnic restriction
+
+**Provision vs. application:**
+
+- Christ's work is sufficient for all (universal provision)
+- But it's efficient only for those who believe (limited application)
+- The "all" in Romans 5:18 refers to potential scope, not actual result
+
+**Parallel structure in Romans 5:**
+
+- Just as "all" died because of Adam (universal effect of the first Adam), so "all" who are in Christ receive life
+- The "all" is qualified by being "in" the respective head (Adam or Christ)
+
+**Paul's audience was the already-believing Roman church:**
+
+- Romans was not written as a direct letter to the entire world, but "to all in Rome who are loved by God and called to be his holy people" (Romans 1:7)
+- Paul identifies his readers as people whose "faith is being reported all over the world" (Romans 1:8)
+- He says he longed to visit them so they could be "mutually encouraged by each other's faith" (Romans 1:12)
+- Therefore, some of Paul's "all" language may be addressed to the covenant community - the saved congregation receiving the letter - rather than to every individual human without exception
+
+**Progressive revelation in Romans:**
+
+- Early chapters use broad language about God's desire for all
+- Later chapters clarify that salvation requires response (faith, calling on the Lord)
+- The progression shows God's universal offer requires particular response
+
+**Theological Synthesis:** 
+
+God's salvific work in Christ is objectively sufficient for all humanity and subjectively offered to all, but it becomes effective for those who respond in faith. Paul's "all" language emphasizes the removal of ethnic barriers (Jew/Gentile), not the automatic salvation of every individual regardless of faith.
