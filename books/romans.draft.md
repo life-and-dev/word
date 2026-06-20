@@ -190,94 +190,88 @@ Paul warns against those "who cause divisions and put obstacles in your way that
 
 ## Unique Teachings
 
-Romans contains several theological concepts that are either unique to this epistle or receive their most complete and systematic treatment here:
-
-### Credited Right Standing
-
-Romans provides the most detailed explanation of how a person is given a right standing with God as a free gift. Rather than a person earning this status through moral improvement or good deeds, God credits right standing to the believer's account based on Christ's perfect life. This is a legal declaration where God counts believers as in good standing even though they are still imperfect.
-
-This is a unique teaching in the Bible for several reasons:
-- **Contrast with Behavior-Based Standing:** Throughout the Old Testament, the Gospels, and other New Testament writings (like James), right standing with God is almost always described in behavioral terms—doing what is right, obeying the law, and living blamelessly (e.g., Deuteronomy 6:25, 1 John 3:7). While the concept of faith-based justification is also discussed in Galatians, Romans provides the most thorough and explicit argument that a person can be placed in right standing with God completely apart from their deeds.
-- **Declaring the Guilty to be in Good Standing:** In Romans 4:5, Paul states that God "justifies the ungodly." This specific statement is unique to this epistle and directly contrasts with the Old Testament's standard legal rules (such as Proverbs 17:15 and Exodus 23:7, which state that God will not justify the wicked and calls doing so an abomination). Romans is unique in explaining how a holy God can legally declare a guilty person to be in good standing without compromising His own justice.
-- **Systematic Accounting Concept:** While other biblical texts (like Genesis 15:6 and Galatians 3:6) briefly state that Abraham's faith was counted to him, Romans 4 is the only place in the Bible that systematically builds a complete theological framework around this concept. Paul uses the Greek accounting term for "crediting to an account" (*logizomai*) ten times in this single chapter to explain the mechanics of how faith, rather than works, serves as the basis for this legal transfer.
-
 ### Adam-Christ Typology
 
-Romans 5:12-21 presents the unique theological framework of two representative heads of humanity. This "Federal Headship" theology—where Adam represents fallen humanity and Christ represents redeemed humanity—is found only in Romans and 1 Corinthians 15:22, 45-49, with Romans providing the more extensive treatment. The parallel shows how "just as one trespass resulted in condemnation for all people, so also one righteous act resulted in justification and life for all people" (Romans 5:18).
+Romans 5:12-21 presents a distinctive Pauline teaching about two representative heads of humanity. Adam represents fallen humanity and Christ represents redeemed humanity. This appears in Romans 5:12-21 and 1 Corinthians 15:22, 45-49, with Romans providing the most complete and systematic treatment. The parallel shows how "just as one trespass resulted in condemnation for all people, so also one righteous act resulted in justification and life for all people" (Romans 5:18).
 
-### The Struggle of Romans 7
+### Church as the Body of Christ
 
-The description of the internal moral struggle in Romans 7:14-25 is unique in Scripture. While debate exists about whether Paul describes pre-conversion experience, post-conversion sanctification struggle, or human experience under Law, this passage uniquely articulates the conflict between knowing what is right and being unable to consistently do it: "I have the desire to do what is good, but I cannot carry it out" (Romans 7:18).
+Romans presents the church as one united [body](https://kingdom.ofgod.info/christ/body) made up of many members with different roles. Paul writes, "so in Christ we, though many, form one body, and each member belongs to all the others" (Romans 12:5). 
 
-### The Mystery of Israel's Future Salvation
+Other New Testament authors describe the church as God's people, household, temple, bride, flock, or priesthood, but they do not use Paul's specific body metaphor in which believers are mutually dependent members with distinct gifts. Romans gives the concise form of this teaching (Romans 12:3-8), while 1 Corinthians 12:12-27 develops the same Pauline image more fully.
 
-Romans 9-11 presents teachings about Israel's hardening and future restoration that are unique in the New Testament. The concept that "all Israel will be saved" (Romans 11:26) after "the full number of the Gentiles has come in" (Romans 11:25) is explicitly called a "mystery"—previously hidden divine truth now revealed. This extended theological reflection on ethnic Israel's place in God's redemptive plan is unparalleled in the New Testament.
+### Justification by Faith Apart From Works of the Law
 
-### The Olive Tree Metaphor
+Romans gives Paul's clearest explanation of justification by [faith](../terms/faith.md). Justification means being declared [right with God](https://kingdom.ofgod.info/life/righteousness). Paul's distinctive contribution is his sustained argument that right standing is received by trusting God's promise and covenant faithfulness, now made effective through Jesus [Christ](https://kingdom.ofgod.info/christ), who was delivered over to death and raised to life (Romans 3:21-28; Romans 4:24-25). This is not mere belief that Jesus existed, but reliance on God's saving act in Christ rather than works of the Law or Torah covenant identity markers such as [circumcision](https://kingdom.ofgod.info/covenants/circumcision).
 
-The imagery in Romans 11:17-24 of natural branches (ethnic Israel) broken off and wild branches (Gentiles) grafted into the cultivated olive tree (the people of God) is unique to Romans. This metaphor explains the relationship between Jewish and Gentile believers and warns against Gentile arrogance while maintaining hope for Israel's re-grafting.
+Other biblical authors discuss related themes such as faith, righteousness, forgiveness, and obedience. However, they do not develop Paul's Abraham-before-circumcision argument, in which Abraham was counted righteous before circumcision became a covenant sign (Romans 4:1-12; Genesis 15:6). Paul uses this point to show that God's promise is received by trust and is open to both Jews and Gentiles on the same basis, giving believers peace with God through Jesus Christ (Romans 4:16-17; Romans 5:1-2).
 
-### The Golden Chain of Redemption
+### Union With Christ Through Death and Resurrection
 
-The sequence in Romans 8:29-30 linking foreknowledge, predestination, calling, justification, and glorification presents the complete scope of God's salvific work in a way not found elsewhere. This "ordo salutis" (order of salvation) has been foundational for systematic theology.
+Romans also teaches that believers are joined to Christ in his death and resurrection. Paul explains this through baptism, saying believers were "baptized into his death" and raised so that they "may live a new life" (Romans 6:3-4). 
 
-### Creation's Groaning and Hope
+Other New Testament authors also connect baptism with repentance, forgiveness, cleansing, salvation, or new birth (Acts 2:38; 1 Peter 3:21; Hebrews 10:22; John 3:5). 
 
-Romans 8:19-23 uniquely describes the entire created order as "subjected to frustration" yet waiting in "eager expectation" for liberation. The teaching that "the creation itself will be liberated from its bondage to decay" (Romans 8:21) presents a cosmic scope to redemption not articulated elsewhere in Scripture.
-
-### Weak and Strong in Faith
-
-While Paul addresses specific issues (food, days) in Romans 14-15 similar to 1 Corinthians 8-10, Romans uniquely presents the broader principle that in matters of Christian liberty, "each of them should be fully convinced in their own mind" (Romans 14:5) and that "whatever you believe about these things keep between yourself and God" (Romans 14:22). The emphasis on conscience and conviction in non-essential matters receives its fullest treatment here.
-
-### The Righteousness of God (Theodicy)
-
-While other books discuss God's righteousness, Romans uniquely presents a comprehensive theodicy showing how God remains righteous while justifying the ungodly. Paul addresses how God can be both just and the justifier (Romans 3:26), maintaining divine justice while exercising mercy.
-
-For further reading:
-- [Key Themes in Romans - IVP Books](https://ivpbooks.com/blog/key-themes-in-romans.html)
-- [Justification in Romans and Hebrews - Westminster Seminary California](https://www.wscal.edu/justification-in-romans-and-hebrews/)
+Paul's distinctive emphasis in Romans is that baptism represents participation in Christ's death, burial, and resurrection. Paul presents Christ as believers' representative: his death marks the judgment of their old life under sin's rule, and his resurrection begins their new life directed toward God. Romans gives one of Paul's clearest accounts of this union with Christ as the basis for release from sin's rule (Romans 6:6-11). The same Pauline theme appears in Romans 8:10-11, where the Spirit who raised Jesus is described as giving life to believers while they still await future resurrection.
 
 ## Textual Variants
 
-Romans, like all ancient texts, has been transmitted through numerous manuscript copies, resulting in textual variants. While most variants are minor (spelling differences, word order), several significant variants warrant discussion:
+Romans, like all ancient texts, has been transmitted through numerous manuscript copies. This transmission produced textual variants. Most are minor, such as spelling differences or word order, but several significant variants warrant discussion.
 
-**1. The Doxology Placement (Romans 16:25-27):** This is the most significant textual issue in Romans. The doxology appears in different locations across the manuscript tradition:
-- After Romans 16:23 (majority of manuscripts, including Alexandrinus and Byzantine text)
-- After Romans 14:23 (some Byzantine manuscripts)
-- After both chapters 14 and 16 (some manuscripts include it twice)
-- After Romans 15:33 (Papyrus 46, circa 200 CE)
-- Omitted entirely (some early witnesses)
+### Major Variants
 
-Papyrus 46 is particularly significant as one of the oldest witnesses to Romans. The UBS Greek New Testament places the doxology at the end of chapter 16, which most scholars consider the original location, with the variants explained by Marcion's truncated version that ended at chapter 14.
+#### Romans 5:1: "We Have Peace" vs. "Let Us Have Peace"
 
-**2. Romans 16:24:** This verse, reading "The grace of our Lord Jesus Christ be with you all. Amen," is absent from major early Greek manuscripts including Papyrus 46, Papyrus 61, Codex Sinaiticus (א), Codex Alexandrinus (A), Codex Vaticanus (B), Codex Ephraemi Rescriptus (C), and others. The UBS4 rates its omission as "certain" (A-level confidence). This verse appears to be a scribal addition, perhaps copied from similar benedictions in other Pauline letters. Most modern translations either omit it or include it in brackets with a note.
+This variant involves a single letter in Greek, as noted in the [NET Bible text-critical note on Romans 5:1](https://netbible.org/bible/Romans+5) and a [Bible.org discussion of the Romans 5:1 variant](https://bible.org/article/inerrancy-and-text-critical-problem-romans-51): *echomen* ("we have") versus *echōmen* ("let us have"). 
 
-**3. Romans 5:1 - "We have peace" vs. "Let us have peace":** This variant involves a single letter in Greek—echomen (we have) versus echōmen (let us have). The difference is between the indicative mood (stating a fact: "we have peace with God") and the subjunctive/hortatory mood (making an exhortation: "let us have peace with God"). Manuscript evidence is divided, but the majority of scholars prefer the indicative reading based on:
-- Better manuscript support (P46, Codex Sinaiticus original hand, Codex Vaticanus)
-- Better contextual fit (Paul is describing benefits of justification, not exhorting)
-- Transcriptional probability (scribes might change indicative to hortatory to create an exhortation)
+The difference is not just wording but meaning: 
 
-**4. Romans 1:1 - "Paul, a servant of Jesus Christ" vs. "Paul, a servant of Christ Jesus":** While this variation in word order doesn't significantly affect meaning, it demonstrates how minor variations occur. The manuscripts are divided between "Jesus Christ" and "Christ Jesus," with both readings having ancient support.
+- the **indicative** form treats peace with God as a present reality believers already possess because they have been justified: "We have peace with God" — a declaration of fact
+- the **subjunctive/hortatory** form urges believers to seek, maintain, or enter into that peace: "Let us have peace with God" — an exhortation or appeal
 
-**5. Romans 1:7 - "in Rome":** One manuscript (Codex Boernerianus, 9th century) omits the words "in Rome," simply reading "To all God's beloved…called to be saints." Some scholars suggest this reflects a version of Romans circulated as a general epistle, though the overwhelming manuscript evidence supports inclusion of "in Rome."
+The manuscript evidence is divided, but the [NET Bible note](https://netbible.org/bible/Romans+5) and [Bible.org's summary](https://bible.org/article/inerrancy-and-text-critical-problem-romans-51) reflect the common scholarly preference for the indicative reading based on:
 
-**6. Romans 8:2 - "me" vs. "you":** Some manuscripts read "the law of the Spirit of life in Christ Jesus has set me free" while others read "has set you free." The first person "me" has stronger manuscript support and fits Paul's argument better, though some later manuscripts harmonized it to second person to make it more directly applicable to readers.
+- Better manuscript support, including P46, Codex Sinaiticus original hand, and Codex Vaticanus, as listed in the [NET Bible textual note](https://netbible.org/bible/Romans+5).
+- Better contextual fit, because Paul is describing the benefits of justification rather than giving an exhortation, a point also made in the [Bible.org discussion](https://bible.org/article/inerrancy-and-text-critical-problem-romans-51).
+- Transcriptional probability, because scribes might change the indicative to the hortatory form to create an exhortation, as discussed in [text-critical explanations of Romans 5:1](https://bible.org/article/inerrancy-and-text-critical-problem-romans-51).
 
-**7. Romans 13:9 - Inclusion of "Do not covet":** Most manuscripts include "do not covet" in the list of commandments, but some omit it. The inclusion has strong manuscript support and is retained in modern translations.
+#### Romans 16:24: Grace of Our Lord Jesus Christ
 
-**8. Old Testament Quotations - LXX vs. Hebrew Text Variants:** Paul quotes the Old Testament extensively in Romans, usually following the Septuagint (Greek translation). Sometimes Paul's quotations differ from both the Masoretic (Hebrew) text and the standard Septuagint, suggesting either:
-- Paul used a different Septuagint manuscript tradition
-- Paul translated directly from Hebrew with interpretive freedom
-- Paul adapted quotations for his theological argument
-- The Septuagint Paul used reflected a different Hebrew source text (as Dead Sea Scrolls have shown)
+This verse reads, "The grace of our Lord Jesus Christ be with you all. Amen." It is [absent from major early Greek manuscripts](https://biblehub.com/commentaries/romans/16-24.htm), including Papyrus 46, Papyrus 61, Codex Sinaiticus (א), Codex Alexandrinus (A), Codex Vaticanus (B), Codex Ephraemi Rescriptus (C), and others.
 
-Example: In Romans 10:18, Paul quotes Psalm 19:4 according to the Septuagint ("Their voice has gone out into all the earth"), which differs from the Masoretic Hebrew ("Their measuring line goes out through all the earth"). This illustrates the textual complexity when the New Testament quotes the Old Testament.
+The UBS4 rates its omission as "certain" (A-level confidence). This verse appears to be a scribal addition, perhaps copied from similar benedictions in other Pauline letters. Most modern translations either [omit it](https://www.biblegateway.com/passage/?search=Romans%2016&version=ESV) or include it in brackets with [a note](https://netbible.org/bible/Romans+16).
 
-**Scholarly Consensus:** Despite these variants, scholars emphasize that none affect core Christian doctrines. The New Testament text, including Romans, is among the best-attested ancient documents, with thousands of manuscripts providing a solid basis for reconstructing the original text. Modern critical editions like the UBS5 and NA28 carefully note variants and rate their confidence in the original reading.
+#### Romans 16:25-27: Placement of the Closing Praise to God
 
-For further study:
-- [Textual variants in the Epistle to the Romans - Wikipedia](https://en.m.wikipedia.org/wiki/Textual_variants_in_the_Epistle_to_the_Romans)
-- [Inerrancy and the Text-Critical Problem in Romans 5:1 - Bible.org](https://bible.org/article/inerrancy-and-text-critical-problem-romans-51)
+This final doxology (prayer of praise) is one of the biggest text questions in Romans. In old manuscript copies, [these verses appear in different places](https://netbible.org/bible/Romans+16):
+
+- After Romans 16:23, in the majority of manuscripts, including Alexandrinus and the Byzantine text.
+- After Romans 14:23, in some Byzantine manuscripts.
+- After both chapters 14 and 16, with some manuscripts including it twice.
+- After Romans 15:33, in [Papyrus 46](https://manuscripts.csntm.org/manuscript/Group/GA_P46), circa 200 CE.
+- Omitted entirely in some early witnesses.
+
+[Papyrus 46 is particularly significant](https://manuscripts.csntm.org/manuscript/Group/GA_P46) because it is one of the oldest witnesses to Romans. The [United Bible Societies' Greek New Testament](https://www.die-bibel.de/en/bible/UBS5/ROM.16) places the doxology at the end of chapter 16. Most scholars consider this the original location, with the variants explained by [Marcion's truncated version that ended at chapter 14](https://netbible.org/bible/Romans+16).
+
+### Old Testament Quotations
+
+Paul quotes the Old Testament extensively in Romans, often following the [Septuagint, the Greek translation](https://textandcanon.org/paul-and-the-septuagint-canon/). However, his quotations vary and do not always match the standard Septuagint exactly. Sometimes Paul's quotations differ from both the Masoretic Hebrew text and the standard Septuagint. This suggests that one of the following may be true:
+
+- Paul used a different Septuagint manuscript tradition.
+- Paul translated directly from Hebrew with interpretive freedom.
+- Paul adapted quotations for his theological argument.
+- The Septuagint Paul used reflected a different Hebrew source text. The [Dead Sea Scrolls](https://www.deadseascrolls.org.il/explore-the-archive/manuscript/11Q5-1?locale=en_US) show that Jewish textual traditions were not always identical, although they do not by themselves prove Paul's source text for Psalm 19:4.
+
+For example, in [Romans 10:18](https://www.biblegateway.com/passage/?search=Romans%2010%3A18&version=NRSVUE), Paul quotes [Psalm 19:4](https://www.biblegateway.com/passage/?search=Psalm%2019%3A4&version=NRSVUE) according to the Greek wording: *"Their voice has gone out into all the earth."* This matches the Septuagint sense of "voice" or "sound," while the Masoretic Hebrew has [qav](https://biblehub.com/interlinear/psalms/19-4.htm), often rendered "line" or "measuring line." Paul does not substantially change the meaning in Romans 10:18. He follows the Greek wording and applies Psalm 19's universal-reach idea to gospel proclamation.
+
+### Minor Variants
+
+- **Romans 1:1: "Paul, a servant of Jesus Christ" vs. "Paul, a servant of Christ Jesus."** This word-order variation does not significantly affect meaning, but it demonstrates how minor variations occur. The manuscripts are divided between "Jesus Christ" and "Christ Jesus," with both readings having ancient support.
+- **Romans 1:7: "in Rome."** One manuscript, Codex Boernerianus from the 9th century, omits the words "in Rome" and reads simply, "To all God's beloved…called to be saints." Some scholars suggest this reflects a version of Romans circulated as a general epistle, though the overwhelming manuscript evidence supports inclusion of "in Rome."
+- **Romans 8:2: "me" vs. "you."** Some manuscripts read, "the law of the Spirit of life in Christ Jesus has set me free," while others read, "has set you free." The first person "me" has stronger manuscript support and fits Paul's argument better, though some later manuscripts harmonised it to the second person to make it more directly applicable to readers.
+- **Romans 13:9: inclusion of "Do not covet."** Most manuscripts include "do not covet" in the list of commandments, but some omit it. The inclusion has strong manuscript support and is retained in modern translations.
+
+See also [Textual variants in the Epistle to the Romans - Wikipedia](https://en.m.wikipedia.org/wiki/Textual_variants_in_the_Epistle_to_the_Romans)
 
 ## Textual Errors
 
@@ -484,7 +478,7 @@ Romans contains both universalistic language and particularistic language:
 *1. Progressive revelation:*
 - Jesus's earthly ministry fulfilled Israel-first priority ("to the Jew first, then the Gentile," Romans 1:16)
 - After resurrection, Jesus commissioned worldwide mission (Matthew 28:19)
-- Paul received specific revelation about the mystery of Gentile inclusion ([Ephesians 3:6)
+- Paul received specific revelation about the mystery of Gentile inclusion (Ephesians 3:6)
 
 *2. Prophetic fulfillment:*
 - Old Testament prophesied Gentile inclusion (Isaiah, Amos, etc.)
@@ -493,7 +487,7 @@ Romans contains both universalistic language and particularistic language:
 
 *3. Not contradiction but sequence:*
 - Jesus honored the covenantal priority of Israel during His incarnational ministry
-- The full implications of His death and resurrection (breaking down the dividing wall, [Ephesians 2:14) were revealed after the events
+- The full implications of His death and resurrection (breaking down the dividing wall, Ephesians 2:14) were revealed after the events
 - Paul's mission to Gentiles fulfilled rather than contradicted Jesus's mission
 
 **6. Behavior-Based Standing vs. Credited Right Standing**
