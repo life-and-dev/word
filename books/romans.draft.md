@@ -81,6 +81,7 @@ The Epistle to the Romans has enjoyed universal acceptance in the Christian cano
 **Different Christian Traditions:** Romans is accepted in the canons of all major Christian traditions—Roman Catholic, Eastern Orthodox, Oriental Orthodox, and Protestant. There are no canonical disputes about Romans among any Christian denomination.
 
 The evidence-based reasons for Romans' canonical status rest on:
+
 - Manuscript evidence (appearing in early papyri and all major codices)
 - Patristic citations (quoted extensively by early church fathers)
 - Theological consistency with apostolic teaching
@@ -88,6 +89,7 @@ The evidence-based reasons for Romans' canonical status rest on:
 - Coherence with other canonical books
 
 For further reading:
+
 - [Development of the New Testament Canon - Wikipedia](https://en.wikipedia.org/wiki/Development_of_the_New_Testament_canon)
 - [The Canon of the New Testament, by F.F. Bruce](https://www.bible-researcher.com/bruce1.html)
 - [Marcion and the Formation of the New Testament Canon](https://biblicalfaith.online/2022/12/22/marcion-and-the-formation-of-the-new-testament-canon/)
@@ -127,6 +129,7 @@ Having established universal guilt, Paul presents God's solution: "But now apart
 At the heart of this section is the concept of **justification**—which in plain English means being [made right with God](https://kingdom.ofgod.info/life/righteousness) or placed in a **right standing** with Him. This is not about human moral perfection or earning God's favor; it is a free status declared by God.
 
 The faith required for this reconciliation is a specific:
+
 * **Faith in Christ's sacrifice:** Trusting that Jesus' blood sacrifice paid the penalty for our sins (Romans 3:25).
 * **Faith in Christ's resurrection:** Trusting that God raised Jesus from the dead (Romans 4:24).
 
@@ -175,6 +178,7 @@ Having explained the theology of salvation, Paul turns to how believers should l
 **Citizenship and Love (Romans 13):** Paul instructs believers to respect and obey the government, explaining that civil authorities exist to maintain order and carry out justice on God's behalf (Romans 13:1-4). Believers must pay taxes and show proper respect (Romans 13:7). However, the ultimate obligation is love: "Let no debt remain outstanding, except the continuing debt to love one another" (Romans 13:8), because loving your neighbor fulfills all of God's rules (Romans 13:9-10). Paul also urges alertness, telling believers to discard bad habits and live uprightly because the time of Christ's return is near (Romans 13:11-14).
 
 **Living in Harmony (Romans 14:1-15:13):** Paul addresses disagreements between believers with different cultural and religious backgrounds. He categorizes them into:
+
 * **The "Weak":** Those with sensitive consciences who felt obligated to keep strict rules about food or sacred days.
 * **The "Strong":** Those who understood that their right standing with God did not depend on food or calendar rules, and thus felt free.
 
@@ -266,107 +270,120 @@ For example, in [Romans 10:18](https://www.biblegateway.com/passage/?search=Roma
 
 ### Minor Variants
 
-- **Romans 1:1: "Paul, a servant of Jesus Christ" vs. "Paul, a servant of Christ Jesus."** This word-order variation does not significantly affect meaning, but it demonstrates how minor variations occur. The manuscripts are divided between "Jesus Christ" and "Christ Jesus," with both readings having ancient support.
-- **Romans 1:7: "in Rome."** One manuscript, Codex Boernerianus from the 9th century, omits the words "in Rome" and reads simply, "To all God's beloved…called to be saints." Some scholars suggest this reflects a version of Romans circulated as a general epistle, though the overwhelming manuscript evidence supports inclusion of "in Rome."
-- **Romans 8:2: "me" vs. "you."** Some manuscripts read, "the law of the Spirit of life in Christ Jesus has set me free," while others read, "has set you free." The first person "me" has stronger manuscript support and fits Paul's argument better, though some later manuscripts harmonised it to the second person to make it more directly applicable to readers.
-- **Romans 13:9: inclusion of "Do not covet."** Most manuscripts include "do not covet" in the list of commandments, but some omit it. The inclusion has strong manuscript support and is retained in modern translations.
+- **Romans 1:1**: *"Paul, a servant of Jesus Christ"* vs. *"Paul, a servant of Christ Jesus."* This word-order variation does not significantly affect meaning, but it demonstrates how minor variations occur. The manuscripts are divided between "Jesus Christ" and "Christ Jesus," with both readings having ancient support.
+- **Romans 1:7**: *"in Rome."* One manuscript, Codex Boernerianus from the 9th century, omits the words "in Rome" and reads simply, "To all God's beloved…called to be saints." Some scholars suggest this reflects a version of Romans circulated as a general epistle, though the overwhelming manuscript evidence supports inclusion of "in Rome."
+- **Romans 8:2**: *"me"* vs. *"you."* Some manuscripts read, "the law of the Spirit of life in Christ Jesus has set me free," while others read, "has set you free." The first person "me" has stronger manuscript support and fits Paul's argument better, though some later manuscripts harmonised it to the second person to make it more directly applicable to readers.
+- **Romans 13:9**: inclusion of *"Do not covet."* Most manuscripts include "do not covet" in the list of commandments, but some omit it. The inclusion has strong manuscript support and is retained in modern translations.
 
 See also [Textual variants in the Epistle to the Romans - Wikipedia](https://en.m.wikipedia.org/wiki/Textual_variants_in_the_Epistle_to_the_Romans)
 
 ## Textual Errors
 
-While "textual errors" often refers to scribal mistakes in manuscript transmission (covered above in Textual Variants), this section addresses alleged historical, factual, or internal inconsistencies that scholars have identified or debated within Romans itself.
-
-**1. Paul's Use of Old Testament Quotations:** Critics note that Paul sometimes appears to use Old Testament passages in ways that differ from their original context. For example:
-
-- **Romans 10:18 and Psalm 19:4:** Paul quotes Psalm 19:4 ("Their voice has gone out into all the earth") to suggest the gospel had been preached everywhere, but the original Psalm refers to the heavens declaring God's glory, not gospel preaching.
-
-*Conservative explanation:* Paul employs typological or analogical reasoning—if general revelation through creation reaches everywhere (Psalm 19), how much more should special revelation through preaching. Alternatively, Paul uses a "how much more" (qal vahomer) argument: if the heavens' witness reaches all, surely the gospel can too. Paul isn't claiming the original Psalm referred to gospel preaching but drawing a parallel.
-
-*Critical explanation:* Paul engages in creative midrashic interpretation common in Second Temple Judaism, where texts were applied to new situations regardless of original context. This reflects ancient interpretive methods, not modern historical-critical exegesis.
-
-**2. Adam as Historical Figure:** Paul's theology in Romans 5:12-21 depends on Adam as the first human through whom sin and death entered the world. Modern evolutionary biology challenges a historical Adam, creating tension with Paul's argument.
-
-*Conservative explanation:* Recent scholarship proposes various models reconciling a historical Adam with evolutionary science, including: (1) Adam as a specially chosen representative from an existing hominin population; (2) Adam as the first hominid given a soul/divine image; (3) archetypal reading where Adam represents all humanity without requiring sole genetic ancestry. The theological point—humanity's universal sinfulness and need for redemption—remains valid regardless.
-
-*Critical explanation:* Paul reflects first-century Jewish understanding of Genesis as straightforward history. His theological argument depends on a premise (historical Adam) that may be incorrect, suggesting his reasoning is culturally conditioned rather than divinely revealed truth.
-
-**3. Romans 13:1-7 and Political Authority:** Paul's teaching to "submit to governing authorities" has been criticized as problematic given historical context—Nero was emperor when Paul wrote this, and Nero later severely persecuted Christians. The teaching seems to absolutize government authority without qualification.
-
-*Conservative explanation:* Paul writes before Nero's persecution intensified (circa 64-68 CE). His teaching addresses the proper Christian stance toward legitimate governmental functions (maintaining order, punishing wrongdoing, collecting taxes) rather than commanding absolute obedience to tyranny. Other Scriptures balance this (Acts 5:29: "We must obey God rather than human beings"). Paul himself was imprisoned multiple times, showing he didn't advocate blind submission. The passage forbids revolutionary anarchy, not justified resistance to manifest evil. Romans 13:4 specifies rulers should be "God's servant to do you good"—when they become agents of evil, the premise changes.
-
-*Critical explanation:* Paul's conservative political stance reflects his eschatological expectation that Christ would return soon, making political revolution pointless. Later generations without this imminent expectation found his teaching inadequate for addressing systemic injustice.
-
-**4. Romans 9 and Divine Justice:** Paul's teaching on election and predestination—particularly "Jacob I loved, but Esau I hated" (Romans 9:13) and God hardening Pharaoh's heart—raises questions about divine justice and human free will. Paul anticipates the objection: "Why does God still blame us? For who is able to resist his will?" (Romans 9:19).
-
-*Conservative explanations vary:*
-- **Reformed view:** God's sovereign choice glorifies His mercy toward the elect and justice toward the reprobate. Humans have no claim on God's mercy; all deserve judgment. Election is purely gracious.
-- **Corporate election view:** Paul discusses nations (Israel/Edom, ethnic groups) and their roles in redemptive history, not individual eternal destinies. God chose Israel for a historical mission, not individual Jews for automatic salvation.
-- **Prescient view:** God's "foreknowledge" (Romans 8:29) means He elects based on foreseen faith, though this view has difficulty with "not by works" emphasis.
-
-*Critical explanation:* Paul presents an unresolved tension between divine sovereignty and human responsibility, common in Jewish theology. His potter-clay analogy (Romans 9:21) doesn't fully answer the objection he raises, suggesting Paul himself struggled with this paradox.
-
-**5. Chronological Issues in Paul's Biography:** Some scholars note that reconstructing Paul's life from Acts and his letters (including references in Romans) creates chronological difficulties. Romans 15:19 claims Paul preached "from Jerusalem all the way around to Illyricum," but Acts doesn't record ministry in Illyricum (modern Albania/Croatia).
-
-*Conservative explanation:* Acts is selective, not exhaustive. Luke focuses on significant events and doesn't record every location Paul visited. Paul may have briefly evangelized Illyricum during travels Acts summarizes briefly. Alternatively, "as far as Illyricum" may mean Paul preached up to the border region without extensive ministry there.
-
-*Critical explanation:* Acts and Paul's letters represent different traditions with some historical discrepancies, reflecting that ancient biographies weren't concerned with modern standards of precision.
-
-**6. The Logic of Romans 2:13-16:** Paul states that "it is those who obey the law who will be declared righteous" (Romans 2:13) and suggests Gentiles who "do by nature things required by the law" show "the requirements of the law are written on their hearts" (Romans 2:14-15). This seems to contradict his later argument that "no one will be declared righteous in God's sight by the works of the law" (Romans 3:20).
-
-*Conservative explanations:*
-- Paul presents a hypothetical in chapter 2: *if* someone perfectly obeyed, they would be righteous, but chapter 3 shows no one does this.
-- The Gentiles in 2:14-15 are Christian converts who, empowered by the Spirit, fulfill the law's requirements (cf. Romans 8:4).
-- Paul addresses Jewish presumption: possessing the Law doesn't save; only doing it would—but since all fail, all need grace.
-
-*Critical explanation:* Paul's argument in chapters 2-3 contains genuine tension, reflecting his attempt to affirm both universal guilt and God's impartial judgment.
-
-**Scholarly Consensus:** Conservative scholars emphasize that apparent difficulties often result from imposing modern expectations on ancient texts or failing to appreciate Paul's rhetorical strategy and Jewish interpretive methods. Critical scholars see these issues as evidence of human authorship wrestling with complex theological questions, reflecting cultural conditioning alongside theological insight.
+People often use the term "textual errors" to mean copying mistakes in old manuscripts. That topic was covered earlier under Textual Variants. Here, the focus is different: this section looks at places in Romans that some scholars think may contain historical problems, factual problems, or ideas that seem inconsistent.
 
 For further reading:
+
 - [The Reliability of the Text of Romans - Nathaniel Simmons](https://nathanielsimmons.wordpress.com/2011/01/10/the-reliabilty-of-the-text-of-romans-textual-criticism-and-the-introduction-to-romans/)
 - [Introducing Romans: Critical Issues in Paul's Most Famous Letter](https://www.thegospelcoalition.org/themelios/review/introducing-romans-critical-issues-in-pauls-most-famous-letter/)
+
+### Romans 9 and Divine Justice
+
+Romans 9 raises hard questions about God's choice, human freedom, and fairness. Paul says things like "Jacob I loved, but Esau I hated" and talks about God hardening Pharaoh's heart. He even raises the objection himself: "Why does God still blame us? For who is able to resist his will?"
+
+*Possible Explanations:*
+
+- **Critical explanation:** Some scholars think Paul does not fully solve the tension between God's control and human responsibility. They see this as a real struggle in his thought rather than a complete answer.
+- **Prescient view:** God chooses people based on knowing in advance who will believe (though many think this does not fit all of Paul's wording).
+- **Reformed view:** God has the right to show mercy to whom He chooses. No one deserves mercy, so salvation is entirely an act of grace.
+- **Corporate election view:** Paul is mainly talking about groups or nations, such as Israel and Edom, and their role in God's plan, not about the eternal fate of each individual person.
+
+### Paul's Use of Old Testament Quotations
+
+Some critics say Paul sometimes uses Old Testament verses in ways that do not match their original meaning. For example:
+
+- **Romans 10:18 and Psalm 19:4:** Paul quotes Psalm 19:4 ("Their voice has gone out into all the earth") as part of his argument about the spread of the gospel. But in Psalm 19, the verse is originally about the heavens showing God's glory, not about people preaching the gospel.
+
+*Explanation:* Paul is not saying Psalm 19 was originally about gospel preaching. Instead, he is making a comparison: if creation itself shows God's message everywhere, then the gospel message can also spread widely. In other words, he is using the Psalm as a parallel, not changing its original meaning.
+
+### Romans 13:1-7 and Political Authority
+
+Paul tells believers to "submit to governing authorities," and some people see this as troubling. Paul wrote during the time of Nero, who later became famous for cruel persecution of Christians. So critics ask whether Paul is giving governments too much authority.
+
+*Explanation:* Paul likely wrote this before Nero's worst persecution began. The point of the passage is that government has a proper role, such as keeping order, punishing crime, and collecting taxes. It does not mean Christians must obey evil rulers no matter what. Other passages, such as Acts 5:29, show that people must obey God above human authority. Paul himself suffered imprisonment, so he clearly did not support blind obedience. His warning is mainly against lawlessness and violent rebellion, not against resisting obvious evil.
+
+### Chronological Issues in Paul's Biography
+
+Some scholars say that when we compare Paul's letters with the book of Acts, parts of his life story do not line up perfectly. For example, in Romans 15:19 Paul says he preached "from Jerusalem all the way around to Illyricum," but Acts does not clearly mention ministry in Illyricum (roughly modern Albania/Croatia).
+
+*Explanation:* Acts does not try to record every place Paul visited. Luke is selective and focuses on major events. Paul may have traveled through or near Illyricum during a period Acts summarizes briefly. It is also possible that "as far as Illyricum" means he reached that region without doing long-term ministry there.
+
+### The Logic of Romans 2:13-16
+
+In Romans 2, Paul says "it is those who obey the law who will be declared righteous." He also says some Gentiles do what the law requires, showing that it is written on their hearts. But later, in Romans 3:20, he says no one will be made right with God by works of the law. That can sound contradictory.
+
+*Explanations:*
+
+- Paul may be speaking hypothetically in chapter 2: *if* someone obeyed perfectly, that person would be righteous—but chapter 3 says no one actually does this.
+- The Gentiles in 2:14-15 may be Christians, whose lives are being changed by the Spirit.
+- Paul may be correcting Jewish confidence in merely having the Law: owning it is not enough; obeying it would be required—but since everyone fails, everyone needs grace.
+
+*Critical explanation:* Some scholars think there is a real tension in Paul's argument here. They see him trying to hold together two ideas at once: God's fair judgment and the fact that all people are guilty.
+
+**Scholarly Consensus:** In general, conservative scholars say these problems usually come from reading an ancient letter with modern expectations or missing Paul's style of argument. Critical scholars usually say these difficulties show that Romans is a very human work, written by someone wrestling with deep theological questions in his own cultural setting.
 
 ## Contradictions
 
 Several apparent contradictions exist both within Romans and between Romans and other biblical books. Scholars have proposed various resolutions to these tensions.
 
-**1. Faith vs. Works: Romans and James**
+### Faith vs. Works
 
 **The Contradiction:**
+
 - Paul: "We maintain that a person is justified by faith apart from the works of the law" (Romans 3:28)
 - James: "You see that a person is considered righteous by what they do and not by faith alone" (James 2:24)
 
-This seeming contradiction was central to the Protestant Reformation. Martin Luther famously called James a "right strawy epistle" because of this tension.
+This tension has long been debated, especially since the Reformation.
 
 **Proposed Resolutions:**
 
-*1. Different definitions of key terms:*
-- Paul's "works of the law" refers to Jewish ceremonial laws (circumcision, dietary restrictions, Sabbath) that marked Jewish identity, while James's "works" refers to ethical deeds demonstrating living faith.
-- Paul's "faith" means genuine trust in Christ, while James opposes mere intellectual assent ("even the demons believe," James 2:19).
+*1. Paul and James oppose different errors:*
 
-*2. Different opponents and contexts:*
-- Paul opposed legalists who taught Gentiles must become Jews to be saved, so he emphasized faith over boundary markers.
-- James opposed antinomians who claimed faith without moral transformation, so he emphasized that genuine faith produces works.
+- Paul opposes the idea that a person is justified by performing the law or by any human obedience as the basis of righteousness before God.
+- James opposes the claim that mere belief or verbal profession counts as saving faith even when no obedience follows.
 
-*3. Different points in Abraham's life:*
-- Paul cites Genesis 15:6 (Abraham's initial faith before circumcision, early in his life)
-- James cites Genesis 22 (Abraham's offering of Isaac, decades later, demonstrating matured faith)
+*2. They use "faith" and "works" in different ways:*
 
-*4. Different kinds of justification:*
-- Paul discusses initial justification before God (forensic declaration)
-- James discusses vindication/demonstration before people (showing faith is real)
+- Paul rejects works as the **basis** of justification: for Paul, [faith](../terms/faith.md) means genuine trust in God as revealed by Christ rather than reliance on one's own obedience. It is not mere mental agreement or simply "accepting Jesus" in a verbal or momentary sense.
+- James requires works as the **evidence** of living faith: for James, the "faith" being criticized is mere assent as a profession of faith not proven by real trust in God or by obedient action.
 
-*5. Complementary emphases:*
-- Paul: Faith alone justifies, but the faith that justifies is never alone (it produces works)
-- James: Works don't earn salvation, but they necessarily flow from saving faith
-- Both affirm that saving faith transforms behavior
+*3. They appeal to different moments in Abraham's life:*
 
-**Theological Synthesis:** When Paul says we're justified apart from works, he means the *basis* of justification is Christ's work, not ours; we receive it by faith, not by earning it. When James says we're not justified by faith alone, he means genuine justifying faith will *necessarily produce* good works as evidence; faith without works is dead, demonstrating it wasn't real faith. They attack different errors from different angles but teach complementary truths.
+- Paul cites Genesis 15:6 in Romans 4:3, where Abraham believes God and is counted righteous.
+- James cites Genesis 22 in James 2:21, where Abraham's willingness to offer Isaac demonstrates that his faith was real and mature.
 
-**2. Law Observance: Positive and Negative**
+*4. James does not teach salvation by earned works:*
+
+- James's point is not that works replace faith.
+- His point is that faith without works is dead.
+- In that sense, works complete, express, and vindicate faith rather than compete with it.
+
+*5. Their teachings are complementary:*
+
+- Paul: God does not accept people because they have done enough good works.
+- James: real faith is not empty; it shows itself in what a person does.
+- Together they teach that salvation is received through trusting faith, not earned works; but true faith is living, active, and obedient.
+
+**Theological Synthesis:** Paul denies that works are the ground of justification; James denies that dead faith saves. So James contradicts "easy-believism," but not the view that real faith necessarily produces obedience. In this sense, biblical faith means trusting God through Christ—not merely "accepting Jesus" through a one-time statement or sinner's prayer without ongoing trust and obedient action.
+
+See also:
+
+- [Faith and Works: Paul vs. James - Stand to Reason](https://www.str.org/w/faith-and-works-paul-vs-james)
+- [Does James Really Contradict Paul? - The Gospel Coalition](https://www.thegospelcoalition.org/article/james-really-contradict-paul/)
+
+### Law Observance: Positive and Negative
 
 **The Contradiction:**
+
 - Positive: "Do we, then, nullify the law by this faith? Not at all! Rather, we uphold the law" (Romans 3:31)
 - Positive: "The righteous requirement of the law might be fully met in us" (Romans 8:4)
 - Negative: "You also died to the law through the body of Christ" (Romans 7:4)
@@ -375,31 +392,37 @@ This seeming contradiction was central to the Protestant Reformation. Martin Lut
 **Proposed Resolutions:**
 
 *1. Different aspects of the Law:*
+
 - The Law's moral demands (love God, love neighbor) remain valid and are fulfilled through the Spirit
 - The Law's function as a covenant system for relating to God is ended (ceremonial and civil aspects)
 - The Law as a condemning system is abolished for believers in Christ
 
 *2. Different relationships to the Law:*
+
 - Believers are freed from the Law as a means of justification (earning righteousness)
 - Believers are freed from the Law's condemnation (penalty for failure)
 - Believers uphold the Law's moral intent through Spirit-empowered obedience
 
 *3. Christ fulfills the Law:*
+
 - Jesus perfectly fulfilled the Law's demands
 - His righteousness is credited to believers
 - The Spirit writes the Law on believers' hearts (New Covenant promise, Jeremiah 31:33)
 
 *4. Terminological precision:*
+
 - "Under law" (hypo nomon) refers to being in a law-covenant relationship where law-keeping determines standing
 - "Upholding law" refers to affirming its divine origin and moral validity
 - "Fulfilling law" (Romans 13:8-10) means achieving its purpose (love) through grace
 
 **Theological Synthesis:** Believers are freed from the Law as a system of earning righteousness or as a covenant defining their relationship with God, but they uphold the Law's moral teaching and, empowered by the Spirit, fulfill its righteous requirements through love. The Law's function changed from condemnation to vindication, from external code to internal transformation.
 
-**3. Election and Human Responsibility**
+### Election and Human Responsibility
 
 **The Contradiction:**
+
 Within Romans itself, Paul affirms both divine sovereignty and human responsibility:
+
 - Sovereignty: "It does not, therefore, depend on human desire or effort, but on God's mercy" (Romans 9:16)
 - Sovereignty: "God has mercy on whom he wants to have mercy, and he hardens whom he wants to harden" (Romans 9:18)
 - Responsibility: "Everyone who calls on the name of the Lord will be saved" (Romans 10:13)
@@ -408,33 +431,40 @@ Within Romans itself, Paul affirms both divine sovereignty and human responsibil
 **Proposed Resolutions:**
 
 *1. Both are true (paradox/mystery):*
+
 - Reformed theology affirms "compatibilism"—God's sovereignty and human responsibility are both fully true, though we cannot fully comprehend how
 - God ordains both ends and means; He decrees salvation and also decrees faith as the means
 - Paul presents both without full philosophical resolution because both are biblically revealed
 
 *2. Different perspectives:*
+
 - From God's eternal perspective: He sovereignly elects
 - From human experiential perspective: We choose and are responsible
 - These are not contradictory but complementary viewpoints
 
 *3. Corporate vs. individual election:*
+
 - Romans 9 discusses corporate election (God chose Israel as a nation for historical purposes)
 - Romans 10 discusses individual response (anyone who calls on the Lord will be saved)
 - God determines the plan; individuals determine their place in it
 
 *4. Hardening as judicial response:*
+
 - God's "hardening" (Romans 9:18) is judicial response to prior rejection, not arbitrary determination
 - God hardens those who first harden themselves (as Pharaoh did, Exodus 7-14)
 - This preserves human responsibility while affirming God's sovereignty
 
 *5. Foreknowledge interpretation:*
+
 - "Those God foreknew he also predestined" (Romans 8:29)
 - Some interpret "foreknew" as foreseen faith (God predestined those He knew would believe)
 - Others interpret "foreknew" as relational (God set His love on them beforehand)
 
 **Theological Synthesis:** Paul presents both truths forcefully without attempting philosophical harmonization. Different theological traditions emphasize one aspect more strongly (Reformed emphasizing sovereignty, Arminian emphasizing free will, Molinist proposing middle knowledge), but Paul's primary concern is pastoral: humbling human pride (we can't save ourselves) while maintaining hope (all who call on the Lord will be saved).
 
-**4. Universal Salvation Language**
+- [Does Romans 9-11 Teach Calvinist Predestination? - Seedbed](https://seedbed.com/romans-9-11-teach-calvinist-predestination/)
+
+### Universal Salvation Language
 
 **The Contradiction:**
 Romans contains both universalistic language and particularistic language:
@@ -447,28 +477,33 @@ Romans contains both universalistic language and particularistic language:
 **Proposed Resolutions:**
 
 *1. "All" means "all kinds/types" (Jews and Gentiles):*
+
 - The primary "all" contrast in Romans is ethnic (Jews and Gentiles), not individual (every single person)
 - "All have sinned" (Romans 3:23) and "all who believe" are saved means no ethnic restriction
 
 *2. Provision vs. application:*
+
 - Christ's work is sufficient for all (universal provision)
 - But it's efficient only for those who believe (limited application)
 - The "all" in Romans 5:18 refers to potential scope, not actual result
 
 *3. Parallel structure in Romans 5:*
+
 - Just as "all" died because of Adam (universal effect of the first Adam), so "all" who are in Christ receive life
 - The "all" is qualified by being "in" the respective head (Adam or Christ)
 
 *4. Progressive revelation in Romans:*
+
 - Early chapters use broad language about God's desire for all
 - Later chapters clarify that salvation requires response (faith, calling on the Lord)
 - The progression shows God's universal offer requires particular response
 
 **Theological Synthesis:** God's salvific work in Christ is objectively sufficient for all humanity and subjectively offered to all, but it becomes effective for those who respond in faith. Paul's "all" language emphasizes the removal of ethnic barriers (Jew/Gentile), not the automatic salvation of every individual regardless of faith.
 
-**5. Romans and Gospels on Gentile Inclusion**
+### Romans and Gospels on Gentile Inclusion**
 
 **The Tension:**
+
 - Jesus's earthly ministry focused on "the lost sheep of Israel" (Matthew 15:24)
 - Jesus told disciples, "Do not go among the Gentiles" (Matthew 10:5)
 - Paul emphasizes Gentile inclusion as central to the gospel, even calling it a "mystery" (Romans 16:25-26)
@@ -476,24 +511,28 @@ Romans contains both universalistic language and particularistic language:
 **Proposed Resolutions:**
 
 *1. Progressive revelation:*
+
 - Jesus's earthly ministry fulfilled Israel-first priority ("to the Jew first, then the Gentile," Romans 1:16)
 - After resurrection, Jesus commissioned worldwide mission (Matthew 28:19)
 - Paul received specific revelation about the mystery of Gentile inclusion (Ephesians 3:6)
 
 *2. Prophetic fulfillment:*
+
 - Old Testament prophesied Gentile inclusion (Isaiah, Amos, etc.)
 - Jesus's ministry prepared Israel as a base for worldwide expansion
 - The gospel went "to the Jew first" historically (Acts 1-7), then to Gentiles (Acts 10-28)
 
 *3. Not contradiction but sequence:*
+
 - Jesus honored the covenantal priority of Israel during His incarnational ministry
 - The full implications of His death and resurrection (breaking down the dividing wall, Ephesians 2:14) were revealed after the events
 - Paul's mission to Gentiles fulfilled rather than contradicted Jesus's mission
 
-**6. Behavior-Based Standing vs. Credited Right Standing**
+### Behavior-Based Standing vs. Credited Right Standing**
 
 **The Tension:**
 Paul teaches that right standing with God is a free gift credited to a person by faith, entirely apart from their deeds or obedience to the law (Romans 3:28, Romans 4:5, Galatians 2:16). However, numerous other scriptures describe righteousness as being based on keeping the law and practicing good deeds:
+
 - **Old Testament Law:** Deuteronomy 6:25 states, *"And it will be righteousness for us, if we are careful to do all this commandment before the Lord our God."* Ezekiel 18:9 also defines a righteous person as one who *"walks in my statutes, and keeps my rules by acting faithfully—he is righteous."*
 - **Crediting Deeds:** Psalm 106:30-31 states that Phinehas's physical act of executing covenant-breakers was *"counted to him as righteousness"*—using the exact same Hebrew/Greek accounting terms Paul uses for Abraham's faith.
 - **New Testament Writings:** Luke 1:6 describes John the Baptist's parents as *"righteous before God, walking blamelessly in all the commandments and statutes of the Lord."* 1 John 3:7 also warns, *"Let no one deceive you. Whoever practices righteousness is righteous."*
@@ -501,18 +540,16 @@ Paul teaches that right standing with God is a free gift credited to a person by
 **Proposed Resolutions:**
 
 *1. Different Contexts for Righteousness:*
+
 - Paul uses "justification" and "righteousness" in a forensic/legal sense—the status of being declared in right standing with God at the beginning of the Christian life.
 - Other passages (like Ezekiel 18 and 1 John 3) use "righteousness" in an ethical/experiential sense—the actual moral behavior that should characterize those who belong to God.
 
 *2. The Fruit of Credit:*
+
 - Christian theology harmonizes these by arguing that good behavior (practicing righteousness) is the necessary *result* or *evidence* of having been credited with right standing, not the *cause* of it. A person is declared righteous by faith, but that faith is proven genuine by a changed life.
 
 *3. Moses's Purpose:*
+
 - The Old Testament passages (like Deuteronomy 6:25) describe the standard of perfect obedience required under the Old Covenant to maintain fellowship with God. Paul argues in Romans 3 and Galatians 3 that since no human can perfectly meet this standard due to sin, the Law's actual effect is to expose guilt, driving people to seek the free gift of right standing through Christ.
 
 **Conclusion:** The apparent contradictions in Romans typically reflect tensions that Paul himself acknowledges and addresses. Many result from complementary rather than contradictory truths (faith and works as different aspects of salvation, sovereignty and responsibility as different perspectives on God's plan). Others reflect the progressive nature of revelation (Gentile inclusion fully realized post-resurrection). Careful attention to context, definitions, and Paul's rhetorical strategy resolves most apparent contradictions, though some genuine theological tensions (particularly regarding election) remain subjects of ongoing debate among scholars and traditions.
-
-For further reading:
-- [Does James Really Contradict Paul? - The Gospel Coalition](https://www.thegospelcoalition.org/article/james-really-contradict-paul/)
-- [Does Romans 9-11 Teach Calvinist Predestination? - Seedbed](https://seedbed.com/romans-9-11-teach-calvinist-predestination/)
-- [Faith and Works: Paul vs. James - Stand to Reason](https://www.str.org/w/faith-and-works-paul-vs-james)
