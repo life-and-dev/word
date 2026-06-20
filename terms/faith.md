@@ -110,7 +110,7 @@ We cannot "just trust". Per definition, **we need to rely on something**, whethe
 | Your goal is your own honour, empire, comfort and security.                                                   | Your goal is [to glorify God](#gods-glory) Whom you trust and with Whom you relate.                                                                          |
 | Miracles are often attributed to "your faith" which honours you.                                              | Miracles are attributed to God's grace which glorifies God.                                                                                                  |
 | You tend to be ungrateful when miracles do occur.                                                             | You tend to be thankful when miracles do occur.                                                                                                              |
-| You are under a lot of pressure to have enough "faith".                                                       | You are at peace when you trust God instead. (Romans 4:18-25)                                                                                                                |
+| You are under a lot of pressure to have enough "faith".                                                       | You are at peace when you trust God instead. (Romans 4:18-25)                                                                                                |
 | Your prayers tend to become repetitions of listing things you hope for.                                       | You pray in submission to God's will, because you understand Who is in control.                                                                              |
 | You fail when miracles do not happen according to your will.                                                  | The lack of miracles is not considered your failure. You do not determine the outcome as it is not your responsibility.                                      |
 | You risk loosing your faith (and often salvation too), when things do not work out according to your "faith". | Trials and tribulations are expected (Romans 4:18-25, 5:1-5; Galatians 3:10-16) which produces character growth, but you trust that God is still in control. |
@@ -119,22 +119,22 @@ We cannot "just trust". Per definition, **we need to rely on something**, whethe
 ### Trusting Your Faith
 
 > One of the problems with the doctrine of the Word of Faith Movement and non-Christian groups that teach about the power of the mind is that it puts **the emphasis on the individual — you**. Since most of these groups teach that it is a “law” that if you have faith, you can bring into your life **whatever you want**, it is clear that **the pressure is on “you.”** Kenneth Hagin, a Word of Faith minister, writes:
-> 
->> “That’s what you’ve got to learn to do to get things from God: Have faith in your faith” (Having Faith in Your Faith, p. 5). 
-> 
+>
+>> “That’s what you’ve got to learn to do to get things from God: Have faith in your faith” (Having Faith in Your Faith, p. 5).
+>
 > Hagin says Jesus appeared to him in a vision and told him: “If anybody, anywhere, will … put these four principles into operation, he will always receive whatever he wants from Me or from God the Father” (eBook: How to Write Your Own Ticket with God, Chapter 1).
 >
-> E. W. Kenyon, one of the founders of the Faith Movement, wrote in his book, The Two Kinds of Faith, 
-> 
->> “Faith in your own faith is the law of success in the realm of the spirit” (p. 36). 
+> E. W. Kenyon, one of the founders of the Faith Movement, wrote in his book, The Two Kinds of Faith,
 >
-> Kenneth Copeland wrote, 
-> 
->> “Faith is a power force. It is a tangible force. It is a conductive force. It will move things. … Faith is a spiritual force” (The Force of Faith p. 13). 
+>> “Faith in your own faith is the law of success in the realm of the spirit” (p. 36).
 >
-> Victor Paul Wierwille called this “law” the “law of believing,” and wrote: 
-> 
->> “The law of believing is the greatest law in the Word of God. As a matter of fact, is it not only the greatest law in The Word, it is the greatest law in the whole world. Believing works for saint and sinner alike” (Power for Abundant Living, 1971, p. 32). 
+> Kenneth Copeland wrote,
+>
+>> “Faith is a power force. It is a tangible force. It is a conductive force. It will move things. … Faith is a spiritual force” (The Force of Faith p. 13).
+>
+> Victor Paul Wierwille called this “law” the “law of believing,” and wrote:
+>
+>> “The law of believing is the greatest law in the Word of God. As a matter of fact, is it not only the greatest law in The Word, it is the greatest law in the whole world. Believing works for saint and sinner alike” (Power for Abundant Living, 1971, p. 32).
 >>
 > So if this “law” is not working in your life, then Word of Faith ministers say that the problem is “you.”
 >
@@ -155,7 +155,7 @@ This raises a fair question: what about passages where "faith" seems to heal?
 >
 > And he looked around to see who had done it. But the woman, knowing what had happened to her, came in fear and trembling and fell down before him and told him the whole truth.
 >
-> And he said to her, “Daughter, **your faith has made you well**; go in peace, and be healed of your disease.” 
+> And he said to her, “Daughter, **your faith has made you well**; go in peace, and be healed of your disease.”
 >
 > — Mark 5:24-34 (ESV)
 
@@ -211,7 +211,7 @@ Many people are tempted to measure God's love according to how "blessed" they fe
 
 > Blessed be [the God and Father](https://ofgod.info) of our [Lord Jesus Christ](https://son.ofgod.info), the Father of mercies and God of all comfort, Who comforts us in all our **affliction**, so that **we may be able to comfort those who are in any affliction**, with the comfort with which we ourselves are **comforted by God**. For as **we share abundantly in Christ’s sufferings**, so through Christ we share abundantly in comfort too.
 >
-> * If we are afflicted, it is for your comfort and salvation; and 
+> * If we are afflicted, it is for your comfort and salvation; and
 > * if we are comforted, it is for your comfort, which you experience **when you patiently endure the same sufferings that we suffer**.
 >
 > Our hope for you is unshaken, for we know that as **you share in our sufferings**, you will also share in our comfort.
@@ -259,7 +259,7 @@ Often new converts go through a period of doubt about salvation after being taug
 
 For example:
 
-> Abraham, without any reason for hope, believed in the hope of [God’s promise](https://prophecies.ofgod.info), so that he became a father of many nations, according to what had been spoken: 
+> Abraham, without any reason for hope, believed in the hope of [God’s promise](https://prophecies.ofgod.info), so that he became a father of many nations, according to what had been spoken:
 >
 >> So will your seed be.
 >
@@ -269,10 +269,10 @@ For example:
 >
 > Therefore, since we have been declared righteous by trust, **we have peace with God** through [our Lord Jesus Christ](https://kingdom.ofgod.info/christ), through whom we have also obtained access by **trust in this grace** in which we stand, and so we boast in the hope of [the glory of God](#gods-glory). And not only that, but we also boast in our hardships, knowing that
 >
-> 1. hardship produces endurance; and 
-> 2. endurance, character; and 
-> 3. character, hope; and 
-> 4. hope does not disappoint us, 
+> 1. hardship produces endurance; and
+> 2. endurance, character; and
+> 3. character, hope; and
+> 4. hope does not disappoint us,
 >
 > because the love of God has been poured out into our hearts through the Holy Spirit that was given to us.
 >
@@ -280,13 +280,13 @@ For example:
 
 It is not possible to be [righteous](/bible/concepts/righteous) (in a good intimate personal relationship) with God while distrusting His [covenant](/god/covenants) or [promises](/god/son/prophecies). As Paul wrote, when you trust God, you can endure hardship because you know you will not be disappointed. In contrast to prosperity teaching, Paul presents hardship as something God can use to produce endurance and character.
 
-> Hebrews 11:6 is a hugely important verse: 
+> Hebrews 11:6 is a hugely important verse:
 >
 >> “And without faith it is impossible to please God…” (NIV84).
 >
-> The REV says, 
+> The REV says,
 >
->> “And without trust it is impossible to please Him….” 
+>> “And without trust it is impossible to please Him….”
 >
 > Why is it impossible to please God if we don’t trust Him? God created us, loves us, and wants the best for us. If we doubt that, we will doubt Him and not act on His commands or live the life He desires for us. We see this occurring every day in the lives of Christians who believe in God but who do not trust Him enough to overcome the fear or hesitation they have concerning His commands, and who consequently stop short of obeying Him. For example, when it comes to prayer, many Christians know God commands us to pray, but they don’t pray. They don’t trust God enough to obey Him rather than their feelings. Although this can be due to negligence or selfishness, it is often a trust issue.
 >
@@ -320,7 +320,7 @@ The contrast in this article is between trusting one's own "faith" as a mechanis
 >
 > [...]
 >
->  A terrible consequence of the Word of Faith teaching is that the plans and purposes of God lose their great importance. God’s plans and purposes are the most important reason for the great miracles and healings we see in the Bible. From Genesis to Revelation, we see many great miracles: Moses splitting the Sea, Joshua making the walls of Jericho fall, Elijah calling fire down from heaven, Shadrach and his two companions staying alive in a furnace of fire, Daniel being delivered from the lion’s den, and many more. Faith ministers say these miracles were done by “faith,” but is that true? Some of them were done by the [manifestation of faith](https://church.ofgod.info/terms/faith-manifestation), which is dependent on specific revelation from God, which further depends on His plans and purposes. But also, some of the miracles were just God acting in power to fulfill His purposes without any human interaction. Shadrach and his companions staying alive in Nebuchadnezzar’s furnace seems to be one of those cases. According to what they said in Daniel 3:18, they were not sure God would rescue them.
+> A terrible consequence of the Word of Faith teaching is that the plans and purposes of God lose their great importance. God’s plans and purposes are the most important reason for the great miracles and healings we see in the Bible. From Genesis to Revelation, we see many great miracles: Moses splitting the Sea, Joshua making the walls of Jericho fall, Elijah calling fire down from heaven, Shadrach and his two companions staying alive in a furnace of fire, Daniel being delivered from the lion’s den, and many more. Faith ministers say these miracles were done by “faith,” but is that true? Some of them were done by the [manifestation of faith](https://church.ofgod.info/terms/faith-manifestation), which is dependent on specific revelation from God, which further depends on His plans and purposes. But also, some of the miracles were just God acting in power to fulfill His purposes without any human interaction. Shadrach and his companions staying alive in Nebuchadnezzar’s furnace seems to be one of those cases. According to what they said in Daniel 3:18, they were not sure God would rescue them.
 >
 > The miracles and healings in the Bible are all part of God’s grand plan, and that explains why “regular faith” (trust) can’t reliably bring them to pass at our discretion or repeat them whenever we desire. If Joshua knocked the walls of Jericho down by his faith (Joshua 6:1-21), why didn’t he conquer all the cities in Canaan the same way? If Samuel could make it rain during the dry season in Israel (1 Sam. 12:17), why couldn’t other great believers, like Abraham and David, make it rain during famines? If Elisha could feed many prophets by multiplying food (2 Kings 4:42-44), why could he not do the same thing when there was a famine in Samaria (2 Kings 6:24-7:20)? If Peter could raise Dorcas from the dead (Acts 9:36-42), why couldn’t he raise others, such as Stephen? Those great miracles were done by the manifestation of faith and were according to God’s purposes and plans.
 >
@@ -366,8 +366,8 @@ It is possible to believe that God exists without yet trusting that He is trustw
 >
 >> “…be on guard against every form of greediness, for one’s life does not consist in the abundance of the things that he possesses.” -- Luke 12:15 (REV)
 >
->> “…if we have food and covering, we will be content with that. But those who are determined to be rich fall into temptation and a snare and many foolish and hurtful desires that plunge people into ruin and destruction. For the love of money is a root of all kinds of evil, which some, reaching out for it, have been led astray from the Faith and have pierced themselves through with many sorrows.” -- 1 Timothy 6:8-10 (REV) 
->    
+>> “…if we have food and covering, we will be content with that. But those who are determined to be rich fall into temptation and a snare and many foolish and hurtful desires that plunge people into ruin and destruction. For the love of money is a root of all kinds of evil, which some, reaching out for it, have been led astray from the Faith and have pierced themselves through with many sorrows.” -- 1 Timothy 6:8-10 (REV)
+>
 >> “Keep your life free from the love of money, and be content with what you have.” -- Hebrews 13:5 (REV)
 >
 > Certainly there will be wealthy Christians, just as Abraham, Joseph, David, and Solomon were wealthy. God has no problem with wealth. In fact, God helps some people get wealth just so they can help others (Romans 12:8). But God does have a problem with people who ignore the real plan of God for their lives and instead set their heart on material things. God promises to give crown-rewards in the future, and He specifically mentions five in His Word. There is the incorruptible crown for exercising self-control and doing our best for God (1 Corinthians 9:25 KJV). The crown of rejoicing is for winning others to Christ (1 Thessalonians 2:19 KJV). The crown of righteousness is to those who love his appearing (2 Timothy 4:8 KJV). God will give the crown of life to those who endure under trial (James 1:12). Lastly, the crown of glory is for those who faithfully shepherd His flock (1 Peter 5:4 KJV). Sometimes the people who engage in these activities will be wealthy, but often focusing on the call of God in your life means you will not gain great wealth. But standing in [the Everlasting Future](/eternal/death) with a gold crown on your head will far surpass the value of any earthly wealth. We should never labor to be wealthy, we labor to live wisely and do the will of God.
