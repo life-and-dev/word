@@ -545,3 +545,32 @@ The interpretive tension is whether Paul's "all" means every individual will fin
 **Theological Synthesis:** 
 
 God's salvific work in Christ is objectively sufficient for all humanity and subjectively offered to all, but it becomes effective for those who respond in faith. Paul's "all" language emphasizes the removal of ethnic barriers (Jew/Gentile), not the automatic salvation of every individual regardless of faith.
+
+## Credibility
+
+### Explainable Issues
+
+Explainable [textual variants](#textual-variants):
+
+* "We have peace" vs. "Let us have peace" (Romans 5:1)
+* Grace of our Lord Jesus Christ (Romans 16:24)
+* Placement of the closing praise to God (Romans 16:25-27)
+* Minor wording differences (Romans 1:1; 1:7; 8:2; 13:9)
+
+Explainable [textual "errors"](#textual-errors):
+
+* Romans 9 and divine justice
+* Paul's use of Old Testament quotations
+* Romans 13:1-7 and political authority
+* Chronological issues in Paul's biography
+* The logic of Romans 2:13-16
+
+Explainable [contradictions](#contradictions):
+* Faith vs. works (Romans 3:28 cf. James 2:24)
+* Law observance: positive and negative
+* Behaviour-based standing vs. credited right standing
+* [Universal salvation language](#universal-salvation-language)
+
+### Highly Debated
+
+* [Election and Human Responsibility](#election-and-human-responsibility)
