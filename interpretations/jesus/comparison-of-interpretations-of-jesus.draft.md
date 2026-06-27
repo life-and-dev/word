@@ -132,7 +132,7 @@ It is estimated that about 1,500 to 2,200 million people are Muslims.
 
 They believe:
 
-1. There is only 1 God, יְהוָ֖ה (YHVH)
+1. There is only 1 God, יְהוָ֖ה (YHWH)
 2. Jesus was a false prophet and not the Son of God nor the Messiah.
 3. Ruach HaKodesh is not a separate person, but the Spirit part of God.
 

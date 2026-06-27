@@ -41,7 +41,7 @@ So, according to Strong's Concordance "holy" means "sacred". It is surprisingly 
 
 # Biblical definition of Holy
 
-[YHVH](/god/father/name) is holy, which means He is:
+[YHWH](/god/father/name) is holy, which means He is:
 
 * a [just judge](#just-judge),
 * [almighty God](#almighty-god),
@@ -50,7 +50,7 @@ So, according to Strong's Concordance "holy" means "sacred". It is surprisingly 
 
 Any persons or item that is holy means that the person, or it has to:
 
-* [be dedicated](#dedication) (set apart) for YHVH's purpose,
+* [be dedicated](#dedication) (set apart) for YHWH's purpose,
 * [be clean](#clean) (from wickedness or sin) 
 
 In addition, the following is also considered holy:
@@ -81,7 +81,7 @@ In other words, according to Habakkuk, the "Holy One" is:
 
 ### Almighty God
 
-> Then He *(YHVH)* struck the men of Beth Shemesh, because they had looked into the ark of the LORD. He struck fifty thousand and seventy men of the people, and the people lamented because the LORD had struck the people with a great slaughter.
+> Then He *(YHWH)* struck the men of Beth Shemesh, because they had looked into the ark of the LORD. He struck fifty thousand and seventy men of the people, and the people lamented because the LORD had struck the people with a great slaughter.
 >
 > And the men of Beth Shemesh said,
 >
@@ -122,7 +122,7 @@ Therefore, everything dedicated to God is also considered Holy to avoid contamin
 
 ## Holiness of creation
 
-Created persons or items is considered holy when they are set apart exclusively for YHVH's purpose or ownership. Since YHVH Himself is pure and clean, anything in His presence should also be pure, clean and righteous. Therefore, the priests had to do proper sacrificial worship and cleaning before they were allowed to enter the most holy place of God. Likewise, no human has access to YHVH without the sacrificial blood of Jesus Christ our mediator to God who washes believers clean from sin so that they too may be holy.
+Created persons or items is considered holy when they are set apart exclusively for YHWH's purpose or ownership. Since YHWH Himself is pure and clean, anything in His presence should also be pure, clean and righteous. Therefore, the priests had to do proper sacrificial worship and cleaning before they were allowed to enter the most holy place of God. Likewise, no human has access to YHWH without the sacrificial blood of Jesus Christ our mediator to God who washes believers clean from sin so that they too may be holy.
 
 ### Clean
 

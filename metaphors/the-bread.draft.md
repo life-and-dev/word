@@ -93,7 +93,7 @@ Jesus was not instituting a new type of feast or sacrament like the "the Lord's 
 
 > Then they shall take some of **the blood** and put it on the two doorposts and the lintel of the houses in which they eat it. They shall eat the flesh that night, roasted on the fire; with **unleavened bread** and bitter herbs they shall eat it. Do not eat any of it raw or boiled in water, but roasted, its head with its legs and its inner parts. And you shall let none of it remain until the morning; anything that remains until the morning you shall burn. In this manner you shall eat it: with your belt fastened, your sandals on your feet, and your staff in your hand. And you shall eat it in haste. It is **the [LORD](/god/father/name)’s Passover**. -- Exodus 12:7-11 (ESV)
 
-Note that "LORD" is written in capital letters which mean it was [YHVH](/god/father/name)'s feast. In other words, the feast was not Jesus' idea and the feast was already celebrated even before Jesus was born.
+Note that "LORD" is written in capital letters which mean it was [YHWH](/god/father/name)'s feast. In other words, the feast was not Jesus' idea and the feast was already celebrated even before Jesus was born.
 
 > Now on **the first day of Unleavened Bread** the disciples came to Jesus, saying, “Where will you have us prepare for you to eat **the Passover**?”<br/>
 > He said, “Go into the city to a certain man and say to him, ‘The Teacher says, My time is at hand. I will keep **the Passover** at your house with my disciples.’”

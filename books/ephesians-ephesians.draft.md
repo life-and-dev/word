@@ -38,17 +38,17 @@ The author of Ephesians possibly quotes Isaiah 60:1
 But Isaiah has written:
 
 > Arise, shine, for your light has come,<br/>
-> and the glory of the LORD *([YHVH](/god/father/name#yhvh))* has risen upon you.
+> and the glory of the LORD *([YHWH](/god/father/name#yhwh))* has risen upon you.
 
 There are no mention of "rising from the dead" or any mention of "Christ" in this scripture.
 
 Either the author
 * is quoting from a source that is lost to us, or
-* some bible translator added an incorrect cross-reference on behalf of the author slightly twisted the words of Isaiah by replacing "the glory of YHVH" with "Christ".
+* some bible translator added an incorrect cross-reference on behalf of the author slightly twisted the words of Isaiah by replacing "the glory of YHWH" with "Christ".
 
-One may argue that Christ claimed to be [the light](/bible/metaphors/light) and that Christ glorifies God and God the Father glorifies the Son (John 17), but the "glory of YHVH" is not synonyms with "Christ". God's glory is much bigger than Christ. In fact when Moses asked to see God's glory, God told him that it would kill him Exodus 33:15-20. Nobody died when they saw Jesus.
+One may argue that Christ claimed to be [the light](/bible/metaphors/light) and that Christ glorifies God and God the Father glorifies the Son (John 17), but the "glory of YHWH" is not synonyms with "Christ". God's glory is much bigger than Christ. In fact when Moses asked to see God's glory, God told him that it would kill him Exodus 33:15-20. Nobody died when they saw Jesus.
 
-In the context of Ephesians, the audience must "arise from the dead", but in the context of Isaiah, the YHVH must arise like the daylight of the sun over the dark earth so that all can see the glory of the LORD (YHVH):
+In the context of Ephesians, the audience must "arise from the dead", but in the context of Isaiah, the YHWH must arise like the daylight of the sun over the dark earth so that all can see the glory of the LORD (YHWH):
 
 > For behold, the darkness shall cover the earth,<br/>
 > And deep darkness the people;<br/>

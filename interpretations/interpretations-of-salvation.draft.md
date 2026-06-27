@@ -164,7 +164,7 @@ Some branches of Judaism also consider:
 
 Whatever they believe about the afterlife Jews agree that the minimum requirements for righteousness are:
 * Faith:
-  * Only 1 God exist, namely יְהוָֽה (YHVH)
+  * Only 1 God exist, namely יְהוָֽה (YHWH)
 * Repentance: Seeking forgiveness from God for sin
 
 In addition, they believe that good works are essential (but not a requirement) for salvation:

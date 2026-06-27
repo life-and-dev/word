@@ -15,9 +15,9 @@ But you cannot:
 * Derive the meaning of a number from a single bible verse. You need to identify a pattern.
 
 | Number    | Meaning                  |
-|-----------|--------------------------|
+| --------- | ------------------------ |
 | [1](#1)   | God                      |
-| [2](#2)   | relationship             |   
+| [2](#2)   | relationship             |
 | [3](#3)   | unity                    |
 | [4](#4)   | boundaries               |
 | [5](#5)   | suffering / grace        |
@@ -95,7 +95,7 @@ The 4th commandment is about day: "Keep the Sabbath Day holy". Holy means separa
 
 Ezekiel saw a vision (Ezekiel 1, 10) of 4 living creatures transporting a throne with 4 sides and 4 wheels. Each of the living creatures has 4 faces (man, lion, ox, eagle) and 4 wings (Ezekiel 1:6).
 
-In Hebrew God's name, often referred to as the Tetragrammaton (a Greek word meaning “four letters”), is written with four Hebrew letters: Yud, Hey, Vav, Hey usually represented in English as YHVH.
+In Hebrew God's name, often referred to as the Tetragrammaton (a Greek word meaning “four letters”), is written with four Hebrew letters: Yud, Hey, Vav, Hey usually represented in English as YHWH.
 
 When God gave the instructions for constructing an altar, he instructed the priests to construct an alter that has 4 corners and 4 pillars. A clear boundary between holy and unholy.
 

@@ -26,7 +26,7 @@ Some scholars argue that Hebrew letters are purely phonetic symbols without inhe
 While the phonetic view emphasizes the sounds of the letters, the pictographic perspective focuses on the historical development of the Hebrew script from ancient symbols. Each letter in the Hebrew alphabet is believed to have originated from a picture that represented a specific concept or object.
 
 | Picture                   | Meaning                                                     | Name                     | Sound                              | Hebrew | Greek | Latin | Number    |
-|---------------------------|-------------------------------------------------------------|--------------------------|------------------------------------|--------|-------|-------|-----------|
+| ------------------------- | ----------------------------------------------------------- | ------------------------ | ---------------------------------- | ------ | ----- | ----- | --------- |
 | ox head                   | ox, bull, strength, leader, first, power                    | alef                     | *silent*                           | א      | Α     | A     | 1         |
 | tent floor plan           | tent, house, household, family, in, into                    | veyt                     | v (as in vine)                     | ב      | Β     | B     | 2         |
 | foot                      | camel, gather, walk, lift up, pride                         | gimel                    | g (as in girl)                     | ג      | Γ     | C, G  | 3         |
@@ -57,25 +57,25 @@ While the phonetic view emphasizes the sounds of the letters, the pictographic p
 Calculates the value of a word by adding the numeric values of each letter together. For example:
 
 | Word   | Spelling              | Calculation       |
-|--------|-----------------------|-------------------|
+| ------ | --------------------- | ----------------- |
 | shalom | Shin, Lamed, Vav, Mem | 300+30+6+40 = 376 |
-| YHVH   | Yod, Hey, Vav, Hey    | 10+5+6+5 = 26     |
+| YHWH   | Yod, Hey, Vav, Hey    | 10+5+6+5 = 26     |
 
 ### Mispar Mussafi Method
 
 Calculates the same as the [Ragil Method](#ragil-method) but also adds the number of letters in the word. For example:
 
 | Word   | Spelling              | Calculation             |
-|--------|-----------------------|-------------------------|
+| ------ | --------------------- | ----------------------- |
 | shalom | Shin, Lamed, Vav, Mem | 300+30+6+40**+4** = 380 |
-| YHVH   | Yod, Hey, Vav, Hey    | 10+5+6+5**+4** = 30     |
+| YHWH   | Yod, Hey, Vav, Hey    | 10+5+6+5**+4** = 30     |
 
 ### Mispar Gadol Method
 
 Calculates the same as the [Ragil Method](#ragil-method) but adds the final forms (sofit).
 
 | Name        | Symbol | Number |
-|-------------|--------|--------|
+| ----------- | ------ | ------ |
 | Final Kaph  | ך      | 500    |
 | Final Mem   | ם      | 600    |
 | Final Nun   | ן      | 700    |
@@ -85,16 +85,16 @@ Calculates the same as the [Ragil Method](#ragil-method) but adds the final form
 For example:
 
 | Word   | Spelling              | Calculation            |
-|--------|-----------------------|------------------------|
+| ------ | --------------------- | ---------------------- |
 | shalom | Shin, Lamed, Vav, Mem | 300+30+6**+600** = 936 |
-| YHVH   | Yod, Hey, Vav, Hey    | 10+5+6+5 = 26          |
+| YHWH   | Yod, Hey, Vav, Hey    | 10+5+6+5 = 26          |
 
 ### Mispar Katan Method
 
 Calculates the value of the word by assigning a value between from 1 to 9 to each letter. For example:
 
 | Name        | Hebrew | Number |
-|-------------|--------|--------|
+| ----------- | ------ | ------ |
 | Alef        | א      | 1      |
 | Bet         | ב      | 2      |
 | Gimel       | ג      | 3      |
@@ -126,16 +126,16 @@ Calculates the value of the word by assigning a value between from 1 to 9 to eac
 For example:
 
 | Word   | Spelling              | Calculation  |
-|--------|-----------------------|--------------|
+| ------ | --------------------- | ------------ |
 | shalom | Shin, Lamed, Vav, Mem | 3+3+6+6 = 18 |
-| YHVH   | Yod, Hey, Vav, Hey    | 1+5+6+5 = 17 |
+| YHWH   | Yod, Hey, Vav, Hey    | 1+5+6+5 = 17 |
 
 ### Ordinal Method
 
 Calculates the value of the word by using the ordinal position of each letter in the Hebrew alphabet. For example:
 
 | Name        | Hebrew | Number |
-|-------------|--------|--------|
+| ----------- | ------ | ------ |
 | Alef        | א      | 1      |
 | Bet         | ב      | 2      |
 | Gimel       | ג      | 3      |
@@ -167,9 +167,9 @@ Calculates the value of the word by using the ordinal position of each letter in
 For example:
 
 | Word   | Spelling              | Calculation     |
-|--------|-----------------------|-----------------|
+| ------ | --------------------- | --------------- |
 | shalom | Shin, Lamed, Vav, Mem | 21+12+6+24 = 63 |
-| YHVH   | Yod, Hey, Vav, Hey    | 10+5+6+5 = 26   |
+| YHWH   | Yod, Hey, Vav, Hey    | 10+5+6+5 = 26   |
 
 ## Symbolic Evidence
 

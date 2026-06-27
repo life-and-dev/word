@@ -22,7 +22,7 @@ And since Jesus quoted Psalm 110 with the assumption that the Pharisees agreed t
 > They said to him, “The son of David.”
 > He said to them, “How is it then that David, in the Spirit, calls him Lord, saying,
 >
-> *‘The LORD ([YHVH](/god/father/name)) said to my Lord, sit at My right hand, until I put your enemies under your feet’*?
+> *‘The LORD ([YHWH](/god/father/name)) said to my Lord, sit at My right hand, until I put your enemies under your feet’*?
 >
 >If then David calls him Lord, how is he his son?”
 >

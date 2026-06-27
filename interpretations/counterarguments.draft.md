@@ -64,11 +64,11 @@ For example:
 > A and B happened simultaneously to a and b or a = b
 
 # confused by name removal
-Because [God's name was removed from the Bible's text](/god/father/name#yhvh), the intended meaning changed.
+Because [God's name was removed from the Bible's text](/god/father/name#yhwh), the intended meaning changed.
 
 For example:
 
-> "The son is our **lord** and **YHVH** is our God."
+> "The son is our **lord** and **YHWH** is our God."
 > 
 > but is translated:
 > 

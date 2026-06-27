@@ -25,7 +25,7 @@ And since Jesus quoted Psalm 110 with the assumption that the Pharisees agreed t
 > They said to him, “The son of David.”
 > He said to them, “How is it then that David, in the Spirit, calls him Lord, saying,
 >
-> *‘The LORD ([YHVH](/god/father/name)) said to my Lord, sit at My right hand, until I put your enemies under your feet’*?
+> *‘The LORD ([YHWH](/god/father/name)) said to my Lord, sit at My right hand, until I put your enemies under your feet’*?
 >
 >If then David calls him Lord, how is he his son?”
 >
@@ -84,7 +84,7 @@ and
 * The name King of Salem means "king of peace"
 
 | Theory                                                                                                           | Critique                                                                                                                                                             |
-|------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Melchizedek is Christ                                                                                            | 1. How did Christ became the king of Salem if he was only born in Mary's lifetime?<br/>2. Why would Christ be compared with Melchizedek if they are the same person? |
 | Melchizedek was made like Christ (Hebrew 7:3), a "god-like being" (like an angel) as a (temporary?) high priest. | 1. How can this be if Christ was God's **only** begotten son?<br/>2. Why would an angel (or whatever he was) become a king of a human city?                          |
 | Melchizedek was an ordinary priest who also happen to serve the God Most High during Abraham's lifetime          | Why was Christ introduced as a priest after the order of Melchizedek and not the other way around?                                                                   |

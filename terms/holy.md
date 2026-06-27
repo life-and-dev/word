@@ -43,7 +43,7 @@ According to Strong's Concordance, the term "holy" translates to "sacred". It ca
 
 ## Biblical Definition of Holy
 
-[YHVH](https://ofgod.info/name#yhvh) is holy, which means He is:
+[YHWH](https://ofgod.info/name#yhwh) is holy, which means He is:
 
 * a [just judge](#just-judge),
 * [almighty God](#almighty-god),
@@ -52,12 +52,12 @@ According to Strong's Concordance, the term "holy" translates to "sacred". It ca
 
 For any person or item to be considered holy, they must be:
 
-* [dedicated](#dedication) (set apart) for YHVH's purpose,
+* [dedicated](#dedication) (set apart) for YHWH's purpose,
 * [clean](#clean) (from wickedness or sin)
 
 In addition, the following are also considered holy:
 
-* [God's Holy Name](https://ofgod.info/name#yhvh) ([reputation or authority](name.md)) (Leviticus 22:32; 1 Chronicles 16:10,35; Ezekiel 36:22-23)
+* [God's Holy Name](https://ofgod.info/name#yhwh) ([reputation or authority](name.md)) (Leviticus 22:32; 1 Chronicles 16:10,35; Ezekiel 36:22-23)
 * [God's Holy Son](https://son.ofgod.info) (Mark 1:24; Luke 1:35, 4:34; John 6:69; Acts 2:27, 13:35; Hebrews 7:26; Psalm 16:10)
 * [God's Holy Spirit](https://eternal.family.net.za/god/spirit) (Psalm 51:11; Isaiah 63:10-13; Matthew 1:18, 3:11, 12:32; Luke 11:13; Ephesians 1:13, 4:30; 2 Peter 1:21)
 
@@ -84,7 +84,7 @@ In other words, according to Habakkuk, the "Holy One" is:
 
 #### Almighty God
 
-> Then He *(YHVH)* struck the men of Beth Shemesh, because they had looked into the ark of the LORD. He struck fifty thousand and seventy men of the people, and the people lamented because the LORD had struck the people with a great slaughter.
+> Then He *(YHWH)* struck the men of Beth Shemesh, because they had looked into the ark of the LORD. He struck fifty thousand and seventy men of the people, and the people lamented because the LORD had struck the people with a great slaughter.
 >
 > And the men of Beth Shemesh said,
 >
@@ -125,7 +125,7 @@ Therefore, everything dedicated to God is also considered holy to avoid contamin
 
 ### Holiness of Creation
 
-Created persons or items are considered holy when they are set apart exclusively for YHVH's purpose or ownership. Since YHVH Himself is pure and clean, anything in His presence should also be pure, clean, and righteous. Therefore, the priests had to perform proper sacrificial worship and cleansing. This was necessary before they were allowed to enter the most holy place of God. Likewise, no human has access to YHVH without the sacrificial blood of Jesus Christ. Jesus is our mediator to God. He washes believers clean from sin so that they too may be holy.
+Created persons or items are considered holy when they are set apart exclusively for YHWH's purpose or ownership. Since YHWH Himself is pure and clean, anything in His presence should also be pure, clean, and righteous. Therefore, the priests had to perform proper sacrificial worship and cleansing. This was necessary before they were allowed to enter the most holy place of God. Likewise, no human has access to YHWH without the sacrificial blood of Jesus Christ. Jesus is our mediator to God. He washes believers clean from sin so that they too may be holy.
 
 #### Clean
 

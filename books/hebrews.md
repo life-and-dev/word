@@ -462,7 +462,7 @@ Human kings are also sometimes referred to as [gods](/bible/concepts/god). The o
 Why this king is not Jesus:
 
 | This king                                                                              | Jesus                                                                               |
-|----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | This Psalm is a love song written for a daughter who is led to the king to marry him   | Jesus married no one                                                                |
 | The king is handsome in the eyes of the daughter (also mentions lips, perhaps kissing) | Jesus was not handsome according to the people who saw him (John 7:24)              |
 | The daughter mentions her lips and his lips (perhaps implying kissing)                 | Jesus had no sexual relationship with women                                         |
@@ -489,13 +489,13 @@ Why this king is not Jesus:
 >
 > — Hebrews 1:10-12 (NKJV)
 
-The author of Hebrews seems to quote Psalm 102, but Psalm 102 addresses YHVH and not Jesus.
+The author of Hebrews seems to quote Psalm 102, but Psalm 102 addresses YHWH and not Jesus.
 
-> Hear my prayer, O LORD *([YHVH](/god/father/name))* — Psalm 102:1 (NKJV)
+> Hear my prayer, O LORD *([YHWH](/god/father/name))* — Psalm 102:1 (NKJV)
 
 The passage that the author seems to quote is:
 
-> When the peoples are gathered together, and the kingdoms, to serve the **LORD** *([YHVH](/god/father/name))*.
+> When the peoples are gathered together, and the kingdoms, to serve the **LORD** *([YHWH](/god/father/name))*.
 >
 > He weakened my strength in the way;  
 > He shortened my days.  
@@ -514,12 +514,12 @@ The passage that the author seems to quote is:
 >
 > — Psalm 102:22-27 (NKJV)
 
-The author of the Psalm is clearly addressing [YHVH](/god/father/name) and not "the Son" as the author of Hebrews implies, unless the author intentionally did this to imply that the Son is [YHVH](/god/father/name).
+The author of the Psalm is clearly addressing [YHWH](/god/father/name) and not "the Son" as the author of Hebrews implies, unless the author intentionally did this to imply that the Son is [YHWH](/god/father/name).
 
 Another problem is that the author of Hebrews contradict the Gospel:
 
 | Hebrews                                                                                                    | Gospel                                           |
-|------------------------------------------------------------------------------------------------------------|--------------------------------------------------|
+| ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 | "You, LORD, in the beginning laid the foundation of the earth, and the heavens are the work of Your hands" | [God created, not Jesus](/creation)              |
 | "They will perish, but You remain"                                                                         | Jesus died                                       |
 | "You remain; And they will all grow old like a garment;"                                                   | Jesus grew (Luke 2:52)                           |
@@ -706,7 +706,7 @@ This is reinforced by applying Psalm 102:25-27 to the Son:
 
 Hebrews' application of Psalm 102 (a passage directly addressing YHWH in the Old Testament) to the Son represents a remarkable christological move.
 
-However, Isaiah 44:24 declares: "I am the LORD, who made all things, who alone stretched out the heavens, who spread out the earth by myself." The Hebrew emphasizes singularity and exclusivity—YHWH alone, by himself, without assistance or co-creator. This appears to contradict attributing creation to the Son as distinct agent. Furthermore, the author of Hebrews implies the Son is YHVH, contradicting Jesus' own words in Luke 4:17-21, where he distinguishes himself from the "Lord God" who anointed him.
+However, Isaiah 44:24 declares: "I am the LORD, who made all things, who alone stretched out the heavens, who spread out the earth by myself." The Hebrew emphasizes singularity and exclusivity—YHWH alone, by himself, without assistance or co-creator. This appears to contradict attributing creation to the Son as distinct agent. Furthermore, the author of Hebrews implies the Son is YHWH, contradicting Jesus' own words in Luke 4:17-21, where he distinguishes himself from the "Lord God" who anointed him.
 
 Critics argue this demonstrates either:
 

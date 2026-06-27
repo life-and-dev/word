@@ -80,17 +80,17 @@ In this case Paul commanded a spirit to come out on behalf of God, walking in Hi
 
 > And the crowds that went before him and that followed him were shouting, “Hosanna to the Son of David! Blessed is he who comes **in the name of the [Lord](https://ofgod.info/name)**! Hosanna in the highest!” — Matthew 21:9 (ESV)
 
-The crowd would not have reacted simply because a man named "Jesus" was arriving. "Jesus" was a common Hebrew name and many other Jews shared it. The crowd understood that Zechariah 9:9 prophesied this event. [This prophecy](https://prophecies.ofgod.info/messianic/zechariah-9-9) was given by [YHVH](http://ofgod.info/name#yhvh) (pronounced "Yahweh" or "Jehovah", but translated as "Lord" in the New Testament) as seen in Zechariah 9:1. This gave Jesus the right to be treated as a king. Therefore, the crowds recognized that Jesus was arriving under the authority of YHVH.
+The crowd would not have reacted simply because a man named "Jesus" was arriving. "Jesus" was a common Hebrew name and many other Jews shared it. The crowd understood that Zechariah 9:9 prophesied this event. [This prophecy](https://prophecies.ofgod.info/messianic/zechariah-9-9) was given by [YHWH](http://ofgod.info/name#yhwh) (pronounced "Yahweh" or "Jehovah", but translated as "Lord" in the New Testament) as seen in Zechariah 9:1. This gave Jesus the right to be treated as a king. Therefore, the crowds recognized that Jesus was arriving under the authority of YHWH.
 
 > “Now we command you, brethren, **in the name of** our Lord Jesus Christ, that you keep aloof from every brother who leads an unruly life and not according to the tradition which you received from us.” — 2 Thessalonians 3:6 (ESV)
 
-We also observe this principle in the Old Testament. Moses did not lack knowledge of how to identify God. Moses already knew God's designation was [YHVH](http://ofgod.info/name#yhvh). Moses understood that if he returned to Egypt as an exiled shepherd with no rights, he had no chance of success. God assured Moses that He was sending him with divine authority to deliver a message.  
+We also observe this principle in the Old Testament. Moses did not lack knowledge of how to identify God. Moses already knew God's designation was [YHWH](http://ofgod.info/name#yhwh). Moses understood that if he returned to Egypt as an exiled shepherd with no rights, he had no chance of success. God assured Moses that He was sending him with divine authority to deliver a message.  
 
 > Then Moses said to God, “Indeed, when I come to the children of Israel and say to them, ‘The God of your fathers has sent me to you,’ and they say to me, **‘What is His name?’** what shall I say to them?”  
 > And God said to Moses, “I AM WHO I AM.”   
 > And He said, “Thus you shall say to the children of Israel, I AM has **sent** me to you.’ ”
 > 
-> Moreover God said to Moses, “Thus you shall say to the children of Israel: ‘The LORD ([YHVH](/god/father/name#YHVH)) God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, has **sent** me to you. This is My **name** forever, and this is My memorial to all generations.’ Go and gather the elders of Israel together, and say to them, ‘The LORD God of your fathers, the God of Abraham, of Isaac, and of Jacob, appeared to me, saying...”
+> Moreover God said to Moses, “Thus you shall say to the children of Israel: ‘The LORD ([YHWH](/god/father/name#YHWH)) God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, has **sent** me to you. This is My **name** forever, and this is My memorial to all generations.’ Go and gather the elders of Israel together, and say to them, ‘The LORD God of your fathers, the God of Abraham, of Isaac, and of Jacob, appeared to me, saying...”
 > 
 > — Exodus 3:13-16 (NKJV)
 
@@ -109,7 +109,7 @@ Isaiah did not prophesy that God would change everyone's designations to His own
 
 According to the [Interlinear Bible](https://biblehub.com/interlinear/exodus/20-7.htm), the direct translation is:
 
-> [Yahweh](http://ofgod.info/name#yhvh) will hold [him] guiltless not for in (vain / nothing / worthless / falsehood) your God of [Yahweh](http://ofgod.info/name#yhvh) the (identity / reputation / authority). You shall take not in (vain / nothing / worthless / falsehood) His (identity / reputation / authority) who — Interlinear Bible Translation
+> [Yahweh](http://ofgod.info/name#yhwh) will hold [him] guiltless not for in (vain / nothing / worthless / falsehood) your God of [Yahweh](http://ofgod.info/name#yhwh) the (identity / reputation / authority). You shall take not in (vain / nothing / worthless / falsehood) His (identity / reputation / authority) who — Interlinear Bible Translation
 
 In other words, you will be guilty before Yahweh if you reduce His authority (dishonour). You shall not make His identity false. This means you will be guilty before your God, Yahweh, if you do not submit to His authority. Failing to submit creates a false representation of who He is. 
 

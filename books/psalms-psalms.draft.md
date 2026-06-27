@@ -4,7 +4,7 @@ keywords: "Psalms, bible, books"
 ---
 
 | Psalm about Jesus       | Quoted by    | Scripture                                      |
-|-------------------------|--------------|------------------------------------------------|
+| ----------------------- | ------------ | ---------------------------------------------- |
 | [Psalm 2](#psalm-2)     | Paul         | Acts 13:30-34                                  |
 | [Psalm 16](#psalm-16)   | Peter & Paul | Acts 2:22-34, 13:32-39                         |
 | [Psalm 110](#psalm-110) | Jesus        | Matthew 22:41-46; Mark 12:35–37; Luke 20:40–44 |
@@ -89,7 +89,7 @@ Paul made this clear when he only quoted that portion of Psalm 16:
 > They said to him, “The son of David.” 
 > He said to them, “How is it then that David, in the Spirit, calls him Lord, saying, 
 > 
->> *‘The LORD ([YHVH](https://biblehub.com/interlinear/psalms/110-1.htm)) said to my Lord ([anodi](https://biblehub.com/interlinear/psalms/110-1.htm), sit at My right hand, until I put your enemies under your feet’?*
+>> *‘The LORD ([YHWH](https://biblehub.com/interlinear/psalms/110-1.htm)) said to my Lord ([anodi](https://biblehub.com/interlinear/psalms/110-1.htm), sit at My right hand, until I put your enemies under your feet’?*
 > 
 > If then David calls him Lord, how is he his son?” 
 >
@@ -97,7 +97,7 @@ Paul made this clear when he only quoted that portion of Psalm 16:
 > 
 > -- Matthew 22:41-46 (ESV); Mark 12:35–37; Luke 20:40–44
 
-Jesus quoted Psalm 110 which implies [YHVH](/god/father/name) was talking to him in that Psalm.
+Jesus quoted Psalm 110 which implies [YHWH](/god/father/name) was talking to him in that Psalm.
 
 It is also worth noting the difference between "adoni" and "adonai":
 
@@ -112,30 +112,30 @@ Just because an author mentioned a Psalm, does not attribute the entire Psalm as
 [The book of Hebrews misquote many Psalms](../hebrews) by attributing the subject of the Psalm to Jesus when the Psalmist was clearly writing about someone else.
 
 | Psalm                   | Quotation                                                    | Subject implied to be Jesus          | Reason for misunderstanding                                                                    |
-|-------------------------|--------------------------------------------------------------|--------------------------------------|------------------------------------------------------------------------------------------------|
+| ----------------------- | ------------------------------------------------------------ | ------------------------------------ | ---------------------------------------------------------------------------------------------- |
 | [Psalm 8](#psalm-8)     | Hebrews 2:5-8                                                | Humans in general                    | Could refer to Jesus, but not only Jesus                                                       |
 | [Psalm 18](#psalm-18)   | -                                                            | David                                | Both David and Jesus ruled over the "gentiles"                                                 |
 | [Psalm 20](#psalm-20)   | -                                                            | David                                | Both David and Jesus were anointed and both were troubled                                      |
-| [Psalm 21](#psalm-21)   | -                                                            | David                                | Both David and Jesus received eternal life (salvation) and were blessed with majesty as kings. | 
+| [Psalm 21](#psalm-21)   | -                                                            | David                                | Both David and Jesus received eternal life (salvation) and were blessed with majesty as kings. |
 | [Psalm 22](#psalm-22)   | Matthew 27:46; Hebrews 2:11-12                               | David                                | Jesus possibly repeated 1 line of David's words                                                |
-| [Psalm 24](#psalm-24)   | -                                                            | YHVH                                 | The city of Jerusalem in Israel is confused with an eternal (symbolic?) "city"                 |
+| [Psalm 24](#psalm-24)   | -                                                            | YHWH                                 | The city of Jerusalem in Israel is confused with an eternal (symbolic?) "city"                 |
 | [Psalm 31](#psalm-31)   | Luke 23:46                                                   | David                                | Jesus used the same phrase as David to refer to death                                          |
 | Psalm 35                | John 15:25                                                   | David                                | Both David and Jesus "was hated without a cause"                                               |
 | [Psalm 40](#psalm-40)   | Hebrews 10:5-9                                               | David                                | [Unknown author](/bible/author/hebrews) made an error                                          |
 | Psalm 41                | John 13:18                                                   | David                                | Both David and Jesus was betrayed by a "close friend"                                          |
 | [Psalm 45](#psalm-45)   | Hebrews 1:8-9                                                | David                                | [Unknown author](/bible/author/hebrews) made an error                                          |
-| [Psalm 47](#psalm-47)   | -                                                            | YHVH                                 | The assumption is that only Jesus is the King who had been exalted                             | 
+| [Psalm 47](#psalm-47)   | -                                                            | YHWH                                 | The assumption is that only Jesus is the King who had been exalted                             |
 | [Psalm 68](#psalm-68)   | Ephesians 4:8                                                | Mountain of Bashan                   | [Paul implied it is Christ](/bible/books/deutero-pauline)                                      |
 | Psalm 69                | John 15:25; Acts 1:20                                        | David                                | Both David and Jesus "was hated without a cause"                                               |
 | Psalm 72                | Matthew 2                                                    | Solomon                              | Both Solomon and Jesus received expensive gifts                                                |
-| [Psalm 78](#psalm-78)   | Matthew 13:34-35                                             | YHVH                                 | Fulfillment of prophecy does not mean Jesus is [YHVH](/god/father/name)                        |                                                      
+| [Psalm 78](#psalm-78)   | Matthew 13:34-35                                             | YHWH                                 | Fulfillment of prophecy does not mean Jesus is [YHWH](/god/father/name)                        |
 | [Psalm 82](#psalm-82)   | -                                                            | Human kings                          | Confusion cause by translating "elohim" (multiple kings) as "God"                              |
 | [Psalm 89](#psalm-89)   | -                                                            | David                                | Both David and Jesus called God their "Father"                                                 |
 | [Psalm 91](#psalm-91)   | Matthew 4:5-6                                                | Anyone who takes shelter in the LORD | It is not Jesus' words, but the devil's quotation                                              |
-| [Psalm 97](#psalm-97)   | Hebrews 1:6                                                  | YHVH                                 | [Unknown author](/bible/author/hebrews) made an error                                          |
-| [Psalm 102](#psalm-102) | Hebrews 1:10-12                                              | YHVH                                 | [Unknown author](/bible/author/hebrews) made an error                                          |
+| [Psalm 97](#psalm-97)   | Hebrews 1:6                                                  | YHWH                                 | [Unknown author](/bible/author/hebrews) made an error                                          |
+| [Psalm 102](#psalm-102) | Hebrews 1:10-12                                              | YHWH                                 | [Unknown author](/bible/author/hebrews) made an error                                          |
 | [Psalm 109](#psalm-109) | Acts 1:20                                                    | David                                | Peter applied a principals from the Psalms. It was not predictions about Jesus' betrayal.      |
-| [Psalm 118](#psalm-118) | Mark 12:10; Matthew 21:2; Luke 20:17; Acts 4:11; 1 Peter 2:7 | YHVH                                 | Jesus is mentioned, but the Psalm is mostly about [YHVH](/god/father/name)                     |
+| [Psalm 118](#psalm-118) | Mark 12:10; Matthew 21:2; Luke 20:17; Acts 4:11; 1 Peter 2:7 | YHWH                                 | Jesus is mentioned, but the Psalm is mostly about [YHWH](/god/father/name)                     |
 
 ## Psalm 8
 
@@ -161,11 +161,11 @@ Psalm 18 is often misquoted as a reference to Jesus, because the king is "among 
 
 > To the Chief Musician. **A Psalm of David the servant of the LORD, who spoke to the LORD** the words of this song on the day that the LORD delivered him from the hand of all his enemies and from the hand of Saul. And he said:
 > 
-> I will love You, O LORD *([YHVH](/god/father/name))*, my strength. -- Psalm 18:1
+> I will love You, O LORD *([YHWH](/god/father/name))*, my strength. -- Psalm 18:1
 > 
 > ...
 > 
-> The LORD *([YHVH](/god/father/name))* lives!<br/>
+> The LORD *([YHWH](/god/father/name))* lives!<br/>
 > Blessed be my Rock!<br/>
 > Let the God of my salvation be exalted.<br/>
 > It is God who avenges me,<br/>
@@ -275,8 +275,8 @@ According to the Interlinear Bible based on the Westminster Leningrad Codex, ["s
 The word translated to "night" is:
 
 | H3915             | [Strong's Concordance](https://biblehub.com/hebrew/3915.htm) |
-|-------------------|--------------------------------------------------------------|
-| Original Word     | לַיִל                                                        |
+| ----------------- | ------------------------------------------------------------ |
+| Original Word     | לַיִל                                                          |
 | Part of Speech    | Noun Masculine                                               |
 | Transliteration   | layil or lel or layelah                                      |
 | Phonetic Spelling | (lah'-yil)                                                   |
@@ -591,15 +591,15 @@ This king has many "fathers", Jesus only had one Father. This king had authority
 > 
 > -- Psalms 47:2-9 (NKJV)
 
-This Psalm clearly states that "the LORD" (YHVH) is "a great King over all the earth" and is "God", however the Psalm ends with "He is greatly exalted." We also know that Jesus was considered "a great King over all the earth" and that Jesus was "exalted" by God, therefore some implies that Jesus is "the LORD" Who is "God".
+This Psalm clearly states that "the LORD" (YHWH) is "a great King over all the earth" and is "God", however the Psalm ends with "He is greatly exalted." We also know that Jesus was considered "a great King over all the earth" and that Jesus was "exalted" by God, therefore some implies that Jesus is "the LORD" Who is "God".
 
 However, it does not make sense that God has to exalt Himself, and it is also unlikely that [a nation who believed in only one God](/bible/concept/shema) exist would understand that the Psalm meant that one God exalted another God. The only option remaining is that "the earth" that "belong to God" is "exalting" God.
 
 The Hebrew word translated as "exalted" means:
 
 |                   | [Strong's Concordance](https://biblehub.com/hebrew/5927.htm) |
-|-------------------|--------------------------------------------------------------|
-| Original Word     |                                                              | עָלָה
+| ----------------- | ------------------------------------------------------------ |
+| Original Word     |                                                              | עָלָה |
 | Part of Speech    | Verb                                                         |
 | Transliteration   | alah                                                         |
 | Phonetic Spelling | (aw-law')                                                    |
@@ -662,7 +662,7 @@ If this prophecy is truly a fulfillment as Matthew claimed, then
 * it either means the Father (LORD) spoke through Jesus with parables so that the prophecy could be fulfilled or 
 * it might be Jesus himself speaking through the prophet Asaph in Psalms 78. 
 
-Which ever way you reason about it, the Psalms 78 is not about Jesus but about a prophet (which could be Jesus himself) that tells "the coming generations the glorious deeds of the LORD ([YHVH](/bible/concepts/YHVH))".
+Which ever way you reason about it, the Psalms 78 is not about Jesus but about a prophet (which could be Jesus himself) that tells "the coming generations the glorious deeds of the LORD ([YHWH](/bible/concepts/YHWH))".
 
 ## Psalm 82
 
@@ -829,7 +829,7 @@ Jesus did not have a "long life" on earth, and he also did not require "salvatio
 >
 > -- Matthew 4:8-10 (ESV), Luke 4:8
 
-The angels are supposed to worship the LORD ([YHVH](/god/father/name)) and not Jesus:
+The angels are supposed to worship the LORD ([YHWH](/god/father/name)) and not Jesus:
 
 > For I will proclaim the name of the LORD ***(Yahweh)***; ascribe greatness to our God!
 > ...
@@ -839,13 +839,13 @@ The angels are supposed to worship the LORD ([YHVH](/god/father/name)) and not J
 >
 > -- Deuteronomy 32:3,36,43 (ESV)
 
-The finally Psalms 97 which refers to the LORD ([YHVH](/god/father/name)) and not to Jesus:
+The finally Psalms 97 which refers to the LORD ([YHWH](/god/father/name)) and not to Jesus:
 
-> The mountains melt like wax before the LORD ***(YHVH)*** before the Lord of all the earth. The heavens proclaim his righteousness, and all the peoples see His glory.
+> The mountains melt like wax before the LORD ***(YHWH)*** before the Lord of all the earth. The heavens proclaim his righteousness, and all the peoples see His glory.
 >
 > All worshipers of images are put to shame, who make their boast in worthless idols; **worship Him, all you gods**!
 >
-> Zion hears and is glad, and the daughters of Judah rejoice, because of your judgments, O LORD ***(YHVH)***.
+> Zion hears and is glad, and the daughters of Judah rejoice, because of your judgments, O LORD ***(YHWH)***.
 >
 > Psalms 97:5-8 (ESV)
 
@@ -862,13 +862,13 @@ The finally Psalms 97 which refers to the LORD ([YHVH](/god/father/name)) and no
 >
 > -- Hebrews 1:10-12 (NKJV)
 
-The author of Hebrews seems to quote Psalms 102, but Psalms 102 addresses YHVH and not Jesus.
+The author of Hebrews seems to quote Psalms 102, but Psalms 102 addresses YHWH and not Jesus.
 
-> Hear my prayer, O LORD *([YHVH](/god/father/name))* -- Psalms 102:1 (NKJV)
+> Hear my prayer, O LORD *([YHWH](/god/father/name))* -- Psalms 102:1 (NKJV)
 
 The passage that the author seems to quote is:
 
-> When the peoples are gathered together, and the kingdoms, to serve the **LORD** *([YHVH](/god/father/name))*.
+> When the peoples are gathered together, and the kingdoms, to serve the **LORD** *([YHWH](/god/father/name))*.
 >
 > He weakened my strength in the way;
 > He shortened my days.
@@ -887,7 +887,7 @@ The passage that the author seems to quote is:
 >
 > -- Psalms 102:22-27 (NKJV)
 
-The author of the Psalm is clearly addressing YHVH and not "the Son" as the author of Hebrews implies, unless the author intentionally did this to imply that the Son is YHVH.
+The author of the Psalm is clearly addressing YHWH and not "the Son" as the author of Hebrews implies, unless the author intentionally did this to imply that the Son is YHWH.
 
 ## Psalm 109
 
@@ -938,16 +938,16 @@ Psalms 118 mentions Jesus, but the entire Psalm is not written about Jesus:
 
 Just because Jesus quoted a portion of Psalms 118, does not mean that the entire Psalm was written about him.
 
-The entire Psalm is written about the LORD ([YHVH](/god/father/name)) and why He is considered "good".
+The entire Psalm is written about the LORD ([YHWH](/god/father/name)) and why He is considered "good".
 
 In the context of Psalms 118, "the stone" is a separate person from "the LORD" because "this was the LORD's doing" to promote "the stone which the builders rejected" as "the chief cornerstone".
 
-> Oh, give thanks to the LORD *([YHVH](/god/father/name))*, for He is good!<br/>
+> Oh, give thanks to the LORD *([YHWH](/god/father/name))*, for He is good!<br/>
 > For His mercy endures forever. Psalms 118:1
 >
 > ...
 >
-> This is the gate of the LORD *([YHVH](/god/father/name))*,<br/>
+> This is the gate of the LORD *([YHWH](/god/father/name))*,<br/>
 > Through which the righteous shall enter.<br/>
 > I will praise You,<br/>
 > For You have answered me,<br/>

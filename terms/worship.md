@@ -279,13 +279,13 @@ Even Jesus fasted:
 
 ### It Is Commanded
 
-> Ascribe to the LORD the glory due His name; **worship [the LORD](https://ofgod.info/name#yhvh)** in the splendor of holiness. — Psalm 29:2 (ESV)
+> Ascribe to the LORD the glory due His name; **worship [the LORD](https://ofgod.info/name#yhwh)** in the splendor of holiness. — Psalm 29:2 (ESV)
 
 and
 
-> **Exalt [the LORD](https://ofgod.info/name#yhvh) our God**; worship at his footstool! Holy is he! — Psalm 99:5 (ESV)
+> **Exalt [the LORD](https://ofgod.info/name#yhwh) our God**; worship at his footstool! Holy is he! — Psalm 99:5 (ESV)
 
-(The old Testament refers to God as "[YHVH](https://ofgod.info/name#yhvh)" translated as LORD in capital letters)
+(The old Testament refers to God as "[YHWH](https://ofgod.info/name#yhwh)" translated as LORD in capital letters)
 
 Jesus introduced the LORD God as "the Father":
 
@@ -293,17 +293,17 @@ Jesus introduced the LORD God as "the Father":
 
 ### It Releases Blessings
 
-> You shall serve [the LORD](https://ofgod.info/name#yhvh) your God, and **He will bless your bread and your water, and I will take sickness away** from among you. — Exodus 23:25 (ESV)
+> You shall serve [the LORD](https://ofgod.info/name#yhwh) your God, and **He will bless your bread and your water, and I will take sickness away** from among you. — Exodus 23:25 (ESV)
 
-## Only [YHVH](https://ofgod.info/name#yhvh) May Be Served by Sacrificial Worship
+## Only [YHWH](https://ofgod.info/name#yhwh) May Be Served by Sacrificial Worship
 
-> You shall fear [the LORD](https://ofgod.info/name#yhvh) your God and [serve](#serve-god) Him, and shall take oaths in His name. — Deuteronomy 6:13 (NKJV); Luke 4:8
+> You shall fear [the LORD](https://ofgod.info/name#yhwh) your God and [serve](#serve-god) Him, and shall take oaths in His name. — Deuteronomy 6:13 (NKJV); Luke 4:8
 
 As seen above, there are many forms of worship.
 
 Scripture contains many examples of people creating art, making music, providing offerings, or paying obeisance to other human beings without condemnation.
 
-However, this verse specifically mentions "serving" in the context of dedicating one's life. Worship by sacrifice—whether offering a life or dedicating oneself completely—is reserved solely for the LORD ([YHVH](https://ofgod.info/name#yhvh)) our God. All life belongs to God alone.
+However, this verse specifically mentions "serving" in the context of dedicating one's life. Worship by sacrifice—whether offering a life or dedicating oneself completely—is reserved solely for the LORD ([YHWH](https://ofgod.info/name#yhwh)) our God. All life belongs to God alone.
 
 ## Conclusion
 
