@@ -2,7 +2,7 @@
 description: About the author and mission of this website exploring Bible reliability, canon formation, and faithful study
 ---
 
-# About the Author
+# About
 
 My faith journey has been unconventional: from atheism through various Christian traditions including megachurches, house churches, Protestant, charismatic, and Messianic congregations. Throughout these experiences, I've wrestled with fundamental questions: 
 
