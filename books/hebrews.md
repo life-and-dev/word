@@ -694,6 +694,36 @@ Critics ask: If the covenant was made obsolete (past tense/completed status) by 
 
 The Epistle to the Hebrews contains apparent contradictions both within itself and when compared with other biblical texts. These discrepancies span theological claims, scriptural interpretation, and doctrinal emphases. Critics view these contradictions as evidence of theological development, authorial perspective differences, or doctrinal inconsistency. Defenders propose harmonizations involving nuanced interpretation, contextual distinction, or complementary rather than contradictory truth claims. This section examines the most significant alleged contradictions and interpretive responses.
 
+### Cessation of Prophecy vs. Continuation of New Testament Prophets (Hebrews 1:1-2 vs. Acts 11:27-28, 13:1, 15:32, 21:9-11; 1 Corinthians 12:28, 14:1-5; Ephesians 2:20, 4:11; Revelation 1:3, 22:9)
+
+Hebrews opens with a clear historical and theological contrast regarding how God communicates with humanity:
+
+> Long ago, at many times and in many ways, God spoke to our fathers by the prophets, **but** in these last days he has spoken to us by his Son... — Hebrews 1:1-2
+
+The author constructs a two-epoch model of revelation: a past era characterized by multiple, fragmentary messages delivered through various prophets, and a present era (the "last days") characterized by a single, definitive, and final revelation in the Son. This implies that the era of prophetic revelation has reached its completion and has been superseded by the supreme revelation of Jesus Christ.
+
+However, this model stands in direct tension with the rest of the New Testament, which documents that the post-ascension apostolic era was marked by a rich continuation of active prophets and new prophetic revelations:
+
+*   **Prophetic Outpouring at Pentecost:** In Acts 2:17-18, Peter quotes Joel 2 to declare that the messianic age is characterized by an expansion of prophecy rather than its cessation: *"your sons and your daughters shall prophesy... and on my male servants and female servants in those days I will pour out my Spirit, and they shall prophesy."*
+*   **Active Prophets in the Early Church:** The Book of Acts records multiple instances of named and unnamed prophets actively receiving and delivering revelations after Christ's ascension:
+    *   **Agabus:** Foretold a severe global famine (Acts 11:27-28) and later bound his own hands and feet to prophesy Paul's arrest in Jerusalem (Acts 21:10-11).
+    *   **Antioch Church Prophets:** Acts 13:1 lists Barnabas, Simeon, Lucius, Manaen, and Saul (Paul) as prophets and teachers through whom the Holy Spirit spoke to direct their missionary work.
+    *   **Judas and Silas:** Identified as prophets who traveled to Antioch to encourage and strengthen the believers with prophetic words (Acts 15:32).
+    *   **Philip's Daughters:** Four unmarried daughters of Philip the evangelist who possessed the gift of prophecy (Acts 21:9).
+*   **Apostolic Instruction on Church Prophecy:** Far from treating prophecy as a closed past epoch, the Apostle Paul instructs churches on how to regulate active prophetic speech:
+    *   In 1 Corinthians 12:28, he lists prophets second only to apostles in God's appointment within the church.
+    *   In 1 Corinthians 14:1-5, 29-32, Paul exhorts believers to *"earnestly desire to prophesy"* and gives order for assembly worship: *"Let two or three prophets speak, and let the others weigh what is said."*
+    *   In 1 Thessalonians 5:20, he issues a direct command: *"Do not despise prophecies."*
+    *   In Ephesians 2:20 and 3:5, Paul states the church is built on the foundation of the *"apostles and prophets,"* and in Ephesians 4:11, he lists prophets among the active ministry offices given by the ascended Christ to mature the body.
+*   **The Apostle John:** The Book of Revelation is explicitly framed as a direct prophecy given to John by Jesus and an angel (Revelation 1:1-3). The angel in Revelation 22:9 identifies himself as a fellow servant of John and of his *"brothers the prophets."*
+
+Critics argue that this contradiction reveals a rhetorical fabrication by the author of Hebrews. In their view, the author set up a rigid, artificial division between the "past prophets" and the "present Son" to highlight Christ's absolute supremacy, ignoring the charismatic reality of the early church which relied heavily on ongoing post-ascension prophecy.
+
+Harmonization proposals include:
+
+*   The author of Hebrews refers specifically to *canonical, covenant-mediating, and foundational* revelation. The Old Testament prophets mediated the Old Covenant, whereas Christ alone mediates the New Covenant. The local, congregational gift of prophecy mentioned in Acts and the Epistles is subordinate to and judged by the once-for-all revelation of the Son, rather than introducing new foundational covenantal truths.
+*   "Speaking by His Son" is a statement about the supreme *status* of the messenger, not the absolute chronological end of all spiritual communication. The Son is the ultimate standard of revelation, and any subsequent NT prophecy is merely an echo or application of the Son's finished work.
+
 ### Christ as Creator vs. God Alone Creates (Hebrews 1:2-3, 1:10 vs. Isaiah 44:24, Luke 4:17-21)
 
 Hebrews explicitly attributes cosmic creation to the Son within a broader theological framework of revelation:
@@ -980,6 +1010,7 @@ Major [textual variants](#textual-variants):
 
 [Biblical contradictions](#biblical-contradictions):
 
+* Cessation of Prophecy vs. Continuation of New Testament Prophets (Hebrews 1:1-2 vs. Acts, 1 Corinthians, Ephesians, Revelation)
 * Christ as Creator vs. God Alone Creates (Hebrews 1:2-3, 1:10 vs. Isaiah 44:24)
 * Devil's Power Over Death vs. God's Exclusive Authority (Hebrews 2:14-15 vs. 1 Samuel 2:6, Deuteronomy 32:39)
 * Apostasy Unforgivable vs. Confession Brings Forgiveness (Hebrews 6:4-6, 10:26-31 vs. 1 John 1:9)
