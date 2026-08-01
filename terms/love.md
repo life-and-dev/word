@@ -13,12 +13,12 @@ The English language uses a single word to describe a wide variety of affections
 > He said to him again a second time, “Simon, son of Jonah, do you ***love*** me?”  
 > He said to Him, “Yes, Lord; You know that I ***love*** you.”  
 > He said to him, “Tend My sheep.”  
-> He said to him the third time, “Simon, son of Jonah, do you ***love*** me?” 
-> 
-> Peter was grieved because He said to him the third time, “Do you ***love*** me?” 
+> He said to him the third time, “Simon, son of Jonah, do you ***love*** me?”
+>
+> Peter was grieved because He said to him the third time, “Do you ***love*** me?”
 >
 > And he said to Him, “Lord, You know all things; You know that I ***love*** you.”  
-> Jesus said to him, “Feed my sheep.” 
+> Jesus said to him, “Feed my sheep.”
 >
 > — John 21:15-17 NKJV
 
@@ -28,7 +28,7 @@ Without the correct historical context and an understanding of the original Gree
 
 > Jesus was asking Peter if he loved Jesus more than he loved fishing. Jesus was asking Peter if he would leave the security of his fishing trade to go into ministry full-time. Some people think that Jesus was asking Peter if he loved Jesus more than the other disciples did. That is not the case. First, that is the kind of question that fosters division between people. It leads to a proud, braggart position of the heart and sometimes then even gets manifested among the people. Jesus never fostered division among the apostles. Second, the extent to which someone loves the Lord is a matter of the heart. We cannot look at other Christians and tell whether we love Jesus more than they do. Jesus knew this, and would never ask Peter to evaluate the love that the other apostles had for him. Third, the context makes it clear what Jesus was asking Peter to do: give up fishing and take on full-time ministry, because three times Jesus asked Peter to feed his sheep, i.e., the people. The “these” that Jesus referred to, and probably looked at or pointed to, were all the fish that were there, which had been dragged onto the shore by the other disciples (John 21:8).
 >
-> Still more evidence comes from the fact that as Jesus walked off with Peter, John followed. But when Peter asked Jesus about John, Jesus basically told Peter that was none of his business. It would be incongruous for Jesus to ask Peter if he loved Jesus more than the other disciples but then only minutes later tell Peter that what the others were to do was none of his business. We can conclude that Jesus asked Peter, “Do you love me more than fish and fishing?” 
+> Still more evidence comes from the fact that as Jesus walked off with Peter, John followed. But when Peter asked Jesus about John, Jesus basically told Peter that was none of his business. It would be incongruous for Jesus to ask Peter if he loved Jesus more than the other disciples but then only minutes later tell Peter that what the others were to do was none of his business. We can conclude that Jesus asked Peter, “Do you love me more than fish and fishing?”
 >
 > — [Revised English Version Commentary](https://www.revisedenglishversion.com/comm/John/chapter21/15)
 
@@ -45,28 +45,28 @@ The second misunderstanding comes when four different Greek words are all transl
 
 The difference between *agapē* and *phileō* becomes very important in John 21, but unfortunately, it is obscured in most English translations. After being raised from the dead, Jesus met Peter. Here is the short version of what they said to each other:
 
-*   **Jesus:** Simon…do you love (*agapē*) me more than these [fish]?
-*   **Peter:** Yes, Lord; you know that I love (*phileō*) you.
-*   **Jesus:** Simon…do you love (*agapē*) me?
-*   **Peter:** Yes, Lord, you know that I love (*phileō*) you.
-*   **Jesus:** Simon…do you love (*phileō*) me?
-*   **Peter:** [Grieved] “Lord, you know that I love (*phileō*) you.”
+* **Jesus:** Simon…do you love (*agapē*) me more than these [fish]?
+* **Peter:** Yes, Lord; you know that I love (*phileō*) you.
+* **Jesus:** Simon…do you love (*agapē*) me?
+* **Peter:** Yes, Lord, you know that I love (*phileō*) you.
+* **Jesus:** Simon…do you love (*phileō*) me?
+* **Peter:** [Grieved] “Lord, you know that I love (*phileō*) you.”
 
-When Jesus first asks if Peter has an unconditional, committed love (*agapē*) "more than these" (the fish), Peter doesn't directly answer the comparison. Instead, he deflects by asserting a close, personal friendship: "Lord, you know I *phileō* you." He is leaning on their shared history and deep relational bond as his defense. 
+When Jesus first asks if Peter has an unconditional, committed love (*agapē*) "more than these" (the fish), Peter doesn't directly answer the comparison. Instead, he deflects by asserting a close, personal friendship: "Lord, you know I *phileō* you." He is leaning on their shared history and deep relational bond as his defense.
 
 Jesus then drops the comparison to the fish and asks again: "Do you have this unconditional commitment (*agapē*) to me?" Peter, feeling the pressure and likely trying to prove his loyalty despite his past failures, doubles down on his defense. He repeats, "Lord, you know I *phileō* you," desperately hoping Jesus still considers him part of his inner circle.
 
-Then comes the devastating third question. Because Peter keeps hiding behind the shield of *phileō* (close friendship), Jesus finally drops the word *agapē* and takes up Peter's exact word. "Are you really my close friend (*phileō*)?" 
+Then comes the devastating third question. Because Peter keeps hiding behind the shield of *phileō* (close friendship), Jesus finally drops the word *agapē* and takes up Peter's exact word. "Are you really my close friend (*phileō*)?"
 
 This is why Peter breaks. He is grieved because Jesus's question pierces through his defensive answers. To be asked "Are we really friends?" instantly forces him to confront the fact that he did not act like a friend when Jesus was on trial. Claiming unconditional commitment (*agapē*) is hard enough, but claiming to be a loyal best friend (*phileō*) when you recently denied knowing the person to save your own life? That hits a deeply painful nerve. In this deeply psychological and relational moment, Jesus isn't lowering the bar; He is piercing through Peter's defense to get to the heart of their relationship, allowing Peter to fully repent and step forward into his calling.
 
 ### Loving Your Enemies
 
-The distinction between these words becomes incredibly important when reading the sermon on the mount. When Jesus commands His followers to "love your enemies," He specifically uses the word *agapaō* (the verb form of *agapē*). 
+The distinction between these words becomes incredibly important when reading the sermon on the mount. When Jesus commands His followers to "love your enemies," He specifically uses the word *agapaō* (the verb form of *agapē*).
 
 > But I say to you, **love *(agapaō)*** your enemies, bless those who curse you, do good to those who hate you, and pray for those who spitefully use you and persecute you. — Matthew 5:44 (NKJV)
 
-Jesus does not expect His disciples to unnaturally develop a romantic or sexual desire (*erós*) for their enemies, nor does He expect them to become close friends (*phileō*) with people who are actively harming them. He also completely understands that there is no natural or instinctual bond (*storgē*) with an enemy. Instead, He commands *agapē*—a deliberate choice of the will to do good to an enemy and seek their ultimate well-being, despite their behavior and despite the fact that there is no relational affection connecting them. 
+Jesus does not expect His disciples to unnaturally develop a romantic or sexual desire (*erós*) for their enemies, nor does He expect them to become close friends (*phileō*) with people who are actively harming them. He also completely understands that there is no natural or instinctual bond (*storgē*) with an enemy. Instead, He commands *agapē*—a deliberate choice of the will to do good to an enemy and seek their ultimate well-being, despite their behavior and despite the fact that there is no relational affection connecting them.
 
 It is an action and a commitment, rather than a feeling. Because *agapē* is an exercise of the will rather than a response to biology or shared interests, it is the only type of love that can be commanded and extended to those who are unlovable or actively hostile.
 
@@ -74,29 +74,33 @@ It is an action and a commitment, rather than a feeling. Because *agapē* is an 
 
 With some English translations it seems like James 4:4 contradicts Jesus when he states that we should **NOT** love the world.
 
-> You people aren't faithful to God! 
-> 
-> Don't you know if you ***love*** the world, you are God's enemies? 
-> 
-> And if you decide to be a friend of the world, you make yourself an enemy of God. 
-> 
+> You people aren't faithful to God!
+>
+> Don't you know if you ***love*** the world, you are God's enemies?
+>
+> And if you decide to be a friend of the world, you make yourself an enemy of God.
+>
 > — James 4:4 (CEV)
 
 The Message translation even implies sexual love:
 
-> You’re *cheating* on God. 
-> 
-> If all you want is your own way, ***flirting*** with the world every chance you get, you end up enemies of God and his way. And do you suppose God doesn’t care? The proverb has it that “he’s a fiercely jealous ***lover***.” And what he gives in love is far better than anything else you’ll find. 
-> 
+> You’re *cheating* on God.
+>
+> If all you want is your own way, ***flirting*** with the world every chance you get, you end up enemies of God and his way. And do you suppose God doesn’t care? The proverb has it that “he’s a fiercely jealous ***lover***.” And what he gives in love is far better than anything else you’ll find.
+>
 > It’s common knowledge that “God goes against the willful proud; God gives grace to the willing humble.”
 >
 > — James 4:4 (MSG)
- 
-The word translated as love is "phileó" which means having a "shared soul or common affinity" with a system that rejects God. Most English Bibles do correctly translate this word as "friendship" which implies to be part of a group or movement.
+
+James was written in Greek, not Hebrew. In the [Greek text of James 4:4](https://biblehub.com/text/james/4-4.htm), CEV’s “aren’t faithful” and MSG’s “cheating” translate **μοιχαλίδες** (*moichalides*), literally “[adulteresses](https://biblehub.com/greek/3430.htm).” James uses adultery as a metaphor for covenant unfaithfulness to God, not literal sexual or romantic behaviour.
+
+“Love” and MSG’s “flirting” translate **ἡ φιλία τοῦ κόσμου** (*hē philia tou kosmou*), meaning “friendship with the world.” **φιλία** (*philia*) is the noun “[friendship](https://biblehub.com/greek/5373.htm),” not the verb *phileó*. It describes allegiance or shared affinity with the world’s value-system that opposes God, not love for people or God’s creation.
+
+The [context in James 4:1-5](https://www.biblegateway.com/passage/?search=James%204%3A1-5&version=ESV) concerns selfish desires, conflicts, coveting, and prayers driven by pleasure. MSG’s “lover” in verse 5 is paraphrase language. It has no one-to-one Greek equivalent in that verse.
 
 ### Myth: Romantic Love is the Fruit of the Spirit
 
-1 Corinthians 13 is a very popular scripture to read at wedding ceremonies. Often people assume that this chapter is about the importance of romantic love, but it is not. 
+1 Corinthians 13 is a very popular scripture to read at wedding ceremonies. Often people assume that this chapter is about the importance of romantic love, but it is not.
 
 Paul wrote this to a divided, competitive and quarrelling church in Corinth and urged them to practice ***agapē*** towards each other. This means they have to make the deliberate choice to seek the well-being of each other.
 
@@ -110,7 +114,7 @@ Instead the Greek word is "agapē" which means a committed, unconditional love t
 
 ### Myth: Only God Can "Agapé"
 
-Many preacher preached to only God can agapé (a "holy" unconditional love), but this is not true. 
+Many preacher preached to only God can agapé (a "holy" unconditional love), but this is not true.
 
 In fact Jesus (Matthew 5:44) and the apostles like Paul (1 Corinthians 14:1) even commanded it for us to practice towards each other.
 
@@ -120,7 +124,7 @@ The same word "agapé" is also used in:
 
 In this context, Demas did not had a "holy love" for the present world.
 
-### Myth: Husbands MUST be in Love with their Wives
+### Myth: Paul commands romance
 
 > Husbands, ***love*** your wives... — Ephesians 5:25 (ESV)
 
@@ -142,7 +146,7 @@ The Greek word used in this scripture was "philargyria" which is a compound of "
 
 > One of his disciples, whom Jesus **loved *(agapaō)***, was reclining at table at Jesus' side... — John 13:23 (ESV)
 
-In English it seems like this "one disciple" (often attributed to John himself) was Jesus' favourite disciple. Compare it for example with John 13:1. 
+In English it seems like this "one disciple" (often attributed to John himself) was Jesus' favourite disciple. Compare it for example with John 13:1.
 
 This is not a favouritism claim of accomplishment, but rather an a statement of identity as he choose to define himself as one of those who Jesus had chosen to take care of.
 
