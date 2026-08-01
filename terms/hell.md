@@ -10,7 +10,7 @@ Some people have difficulty believing that God would torture people eternally:
 * The doctrine of eternal torture makes saved people seem cold-hearted, as they would be rejoicing in others' suffering.
 * The expectation would be that God punishes fairly and common sense dictates that it would be cruel to punish people eternally for the sin of a few years without any hope for recovery.
 
-> Traditional Christianity teaches that when a person dies they go to heaven or hell, which is not correct because it is a belief based in Greek mythology which came into Christianity. The Greeks believed in an [“immortal soul”](https://eternal.family.net.za/eternal/death/immortal), but the Bible makes it clear that the soul is not immortal but can and does die (cp. Matthew 10:28). 
+> Traditional Christianity teaches that when a person dies they go to heaven or hell, which is not correct because it is a belief based in Greek mythology which came into Christianity. The Greeks believed in an [“immortal soul”](https://kingdom.ofgod.info/death/immortal), but the Bible makes it clear that the soul is not immortal but can and does die (cp. Matthew 10:28). 
 > 
 > Where are dead people now? 
 > 
