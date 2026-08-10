@@ -20,9 +20,15 @@ The same English word "worship" has 4 meanings:
 
 Because [bible translators](../translations.md) use the same word for all of these, it is easy to confuse the acts of worship with each other.
 
+### Lexical range and context
+
+Hebrew *hishtachawah* and Greek [*proskyneō*](https://biblehub.com/greek/4352.htm) can describe bowing or homage. Their use for God does not erase their use for human rulers: see 1 Chronicles 29:20, 1 Samuel 24:8, and Matthew 18:26 below. Greek [*latreuō*](https://biblehub.com/greek/3000.htm) commonly refers to religious service, including priestly or sacred service (compare Romans 12:1 and Hebrews 9:9, 14). These lexical ranges are evidence, not conclusions: a word's English gloss never by itself decides whether an act is divine worship, royal homage, or idolatry. Read recipient, setting, accompanying acts, stated reason, and narrative response together.
+
+This distinction matters in the debate about Jesus. [Worshipping Jesus](../../son/son-as-god/worship.md) compares the Gospel homage, Hebrews 1:6, and Revelation 4–5 under both Trinitarian and Unitarian readings; [Idolatry](../concepts/idolatry.md) states where each view places the boundary.
+
 ### Artwork Worship
 
-The Bible distinguishes between "worship" and "[praise](praise.md)".
+The Bible distinguishes between "worship" and praise.
 
 Praise is always used in the context of expressing gratitude or honour to God in the form of music, words or public declarations. For instance, scriptures frequently call for praise through singing and instruments (Psalm 150:1-6).
 

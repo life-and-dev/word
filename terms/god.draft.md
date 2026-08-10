@@ -7,6 +7,27 @@ keywords: god meaning, elohim translation, el translation, biblical words for go
 
 The term "God" is frequently used in religious and secular contexts. Its exact meaning can vary significantly depending on the language and source material. Modern English dictionaries offer a specific set of definitions. However, ancient biblical texts use various Hebrew and Greek words that are all translated as "God" in English. This article explores these original terms and their varied applications to understand what the word meant in the contexts of the biblical authors.
 
+## Stable definitions
+
+These definitions state how this project uses the terms and how mainstream Nicene theology commonly uses them. A title can have a range of uses: it can express agency, representation, office, or relationship. Its application alone does not settle a person's nature. Conclusions about nature need broader predicates and context, not circular proof from the title under discussion. For an application of these definitions to Jesus, see [Man Of God](../../son/son-as-man/man-of-god.md).
+
+### Project usage
+
+* **God** normally means the Father, the one God.
+* **god** can denote deity, a ruler, judge, heavenly being, idol, or representative, depending on context.
+* **man of God** means a human commissioned by God.
+* **Son of God** can express sonship, kingship, Messiahship, agency, or representation. The title alone does not prove divine nature.
+* **Messiah** means an anointed ruler or agent. The title alone does not settle nature.
+
+### Mainstream Nicene usage
+
+Mainstream Nicene theology confesses one God in three persons—Father, Son, and Holy Spirit—and one divine being or essence. Each person is truly God, not three gods. In this usage, **God** can denote the Triune God or a divine person, as context requires.
+
+* **god** normally denotes deity; its meaning in a particular text still depends on context.
+* **man of God** remains a commissioned-human title unless context adds more.
+* **Son of God**, when used of Jesus, identifies the eternal divine Son, consubstantial with the Father, incarnate.
+* **Messiah** identifies Jesus as the promised Christ; the title by itself does not establish a complete ontology.
+
 ## English Definition
 
 In the English language the word "god" generally means:
@@ -74,4 +95,4 @@ Some scholars confuse God with [the Godhead](https://eternal.family.net.za/bible
 
 ## Conclusion
 
-The word "God" serves as a broad title rather than an exclusive proper name. An exploration of the [Hebrew Translations](#hebrew-translations) reveals that words like Elohim and El are applied to the Supreme Being, human judges, angels, and false idols. Similarly, the [Greek Translations](#greek-translations) demonstrate that the word *theos* was used flexibly in a polytheistic culture. Despite this wide linguistic application, the biblical authors ultimately emphasize that there is only [The One God](#the-one-god), identifying Him specifically as the Father. This distinction is crucial for understanding biblical theology and avoiding confusion over grammatical titles.
+The word "God" and related titles have a range of uses. The [Hebrew Translations](#hebrew-translations) apply words such as Elohim and El to the Supreme Being, human judges, angels, and false idols; the [Greek Translations](#greek-translations) likewise show flexible use of *theos*. This project reads the biblical emphasis on one God as identifying the Father. Mainstream Nicene theology reads the one God as Father, Son, and Holy Spirit in one divine essence. Neither reading should treat `man of God`, `Son of God`, or Messiah as title-only proof of a person's nature; each argues from the wider context.

@@ -17,7 +17,7 @@ In addition, many people tend to confuse "the Word of God" with [the pre-incarna
 
 ## Defining the Bible
 
-The Bible is considered by many Christians to be [the most authoritative book](inspired.md) in Christianity. It is a collection of many [books](https://eternal.family.net.za/bible/books) that were [historically](history.md) written by many [authors](authors.md) over centuries.
+The Bible is considered by many Christians to be [the most authoritative book](inspired.md) in Christianity. It is a collection of many [books](https://eternal.family.net.za/bible/books) that were historically written by many [authors](authors.md) over centuries.
 
 The Bible contains diverse literary forms including historical narratives, laws, poetry, wisdom literature, apocalyptic writings, epistles, and the gospels. Many biblical [concepts](https://eternal.family.net.za/bible/concepts) are expressed through [metaphors](https://eternal.family.net.za/bible/metaphors) and [symbolism](https://eternal.family.net.za/bible/symbolism).
 
@@ -27,7 +27,7 @@ The Bible contains diverse literary forms including historical narratives, laws,
 
 [The books of the Bible](books.md) themselves were not invented out of later human creativity but were [drawn from earlier writings and traditions—especially the Hebrew scriptures](https://www.britannica.com/topic/Hebrew-Bible) (the Torah, the Prophets, and the Writings), collections of prophetic oracles, historical records, liturgical texts, and letters.
 
-### Textual Variants
+### [Textual Variants](../son/son-as-man/textual-variants.md)
 
 A **textual variant** is any difference in wording between [manuscript copies of biblical texts](https://en.wikipedia.org/wiki/Textual_criticism_of_the_New_Testament). When ancient scribes hand-copied Scripture, they occasionally made changes—whether intentional (clarifications, harmonizations) or unintentional (spelling errors, skipped words, word order changes). [Textual criticism](https://www.britannica.com/topic/textual-criticism) is the scholarly discipline that compares these manuscripts to reconstruct the most likely original wording.
 
