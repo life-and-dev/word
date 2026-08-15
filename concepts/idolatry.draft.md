@@ -5,6 +5,12 @@ keywords: "Idolatry, bible, concepts"
 
 God clearly does not tolerate idols (Exodus 20:3-4).
 
+## Honour, service, and Jesus
+
+Idolatry is not decided by one English word such as *worship*. Scripture condemns giving a creature the allegiance, service, and glory that belong to God (Romans 1:25). Its bowing language can also describe honour before a ruler, so word choice alone cannot classify an act. Context matters: recipient, purpose, exclusive loyalty, sacrifice or sacred service, and whether God authorises or rebukes the act. See [Worship terms](../terms/worship.md#lexical-range-and-context).
+
+This creates a real disagreement about honouring Jesus. **Trinitarians** hold that honouring, invoking, and rendering sacred worship to Jesus is not idolatry because the Son shares the one God's identity; withholding this honour would deny the Son's divine status. **Unitarians** hold that honouring and obeying Jesus as God's appointed Messiah is not idolatry because God authorises it (Matthew 28:18; Philippians 2:9–11; Hebrews 1:6), but that giving him God-exclusive sacred service or treating him as an independent deity is idolatry. Both views reject worship of creatures as creatures. The dispute concerns Jesus' identity and the kind of honour each passage depicts, not a lexical shortcut. Compare [Worshipping Jesus](../../son/son-as-god/worship.md#idolatry-boundary-under-each-view) and [Prayer: Father and risen Jesus](../../kingdom/drafts/prayer.md#prayer-to-the-father-and-address-to-the-risen-jesus).
+
 Often idolatry is associated to people bowing to physical statues. However, even if you only praise an idol, it is considered a transgression and offence to God:
 
 > Then his mind changes, and he **transgresses; He commits offense, ascribing this power to his god**. -- Habakkuk 1:11 (NKJV)
@@ -69,7 +75,7 @@ In fact, the Israelites were not even allowed to mention the names of idols:
 
 ## Trusting God instead
 
-Instead, you should put your trust ([faith](/life/faith)) in the LORD:
+Instead, you should put your trust ([faith](../terms/faith.md)) in the LORD:
 
 > Fret not yourself because of evildoers; be not envious of wrongdoers! For they will soon fade like the grass and wither like the green herb.
 >
