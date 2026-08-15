@@ -1,6 +1,16 @@
+---
+description: Explore the multifaceted biblical meanings of "spirit", from the Hebrew ruach to the Greek pneuma, and understand its various roles in scripture.
+keywords: Hebrew ruach, Greek pneuma, neshamah definition, biblical spirit, spiritual body, Holy Spirit, resurrected body
+reviewed: true
+---
+
 # Spirit
 
-Sometimes the Hebrew word "breath" is translated to "spirit" according to:
+The concept of "spirit" is central to biblical theology, yet it remains one of the most misunderstood terms due to the complexities of translation. In both the Old and New Testaments, the words often rendered as "spirit" carry a variety of meanings. These meanings range from physical breath and wind to divine power and supernatural beings. Exploring these original Hebrew and Greek terms provides a clearer understanding of how the biblical authors perceived the interaction between the physical and spiritual worlds. This study invites readers to look beyond the surface of English translations to discover the depth of these ancient concepts.
+
+## Hebrew Terms
+
+Sometimes the Hebrew word *neshamah* (breath) is translated to "spirit" in English bibles.
 
 |                   | [Strong's Concordance](https://biblehub.com/hebrew/5397.htm) |
 |-------------------|--------------------------------------------------------------|
@@ -10,15 +20,15 @@ Sometimes the Hebrew word "breath" is translated to "spirit" according to:
 | Phonetic Spelling | (nesh-aw-maw')                                               |
 | Definition        | breath                                                       |
 
-Therefore, modern [bible translations](/bible/translations) may differ on this subject, for example:
+Modern [bible translations](../translations.md) may differ on how they render this word. For example, some versions use "spirit" while others use "breath" for the same verse.
 
-> Who has helped you utter these words? And **whose spirit spoke from your mouth?** -- Job 26:4 (NIV)
+> Who has helped you utter these words? And **whose spirit spoke from your mouth?** — Job 26:4 (NIV)
 
 versus
 
-> With whose help have you uttered words, and **whose breath has come out from you?** -- Job 26:4 (ESV)
+> With whose help have you uttered words, and **whose breath has come out from you?** — Job 26:4 (ESV)
 
-The Hebrew word "spirit" is also ambiguous according to:
+The more common Hebrew word for "spirit" is *ruach* (a term encompassing wind, breath, or spirit). It is inherently ambiguous as it can mean breath, wind, or spirit depending on the context.
 
 |                   | [Strong's Concordance](https://biblehub.com/hebrew/7307.htm) |
 |-------------------|--------------------------------------------------------------|
@@ -28,51 +38,34 @@ The Hebrew word "spirit" is also ambiguous according to:
 | Phonetic Spelling | (roo'-akh)                                                   |
 | Definition        | breath, wind, spirit                                         |
 
-Depending on the [bible translator](/bible/translations)'s understanding of what a spirit is, you get very different translated texts. For example:
+A [bible translator](../translations.md)'s understanding of what a spirit is often influences the final text. Various translations of Job 20:3 illustrate this phenomenon.
 
-> I hear a rebuke that dishonors me, and ***my understanding inspires me to reply***. -- Job 20:3 (NIV)
+> I hear a rebuke that dishonors me, and ***my understanding inspires me to reply***. — Job 20:3 (NIV)
 
-or
+> I’ve had to endure your insults, but now ***my spirit prompts me to reply***. — Job 20:3 (NLT)
 
-> I’ve had to endure your insults, but now ***my spirit prompts me to reply***. -- Job 20:3 (NLT)
+> I hear censure that insults me, and ***out of my understanding a spirit answers me***. — Job 20:3 (ESV)
 
-or
+> I have heard the check of my reproach, and ***the spirit of my understanding causeth me to answer***. — Job 20:3 (KJV)
 
-> I hear censure that insults me, and ***out of my understanding a spirit answers me***. -- Job 20:3 (ESV)
+> You have accused and insulted me, and ***reason requires a reply***. — Job 20:3 (CEV)
 
-or
+> I have heard criticism that makes me ashamed, but ***a spirit beyond my understanding gives me answers***. — Job 20:3 (GOD'S WORD)
 
-> I have heard the check of my reproach, and ***the spirit of my understanding causeth me to answer***. -- Job 20:3 (KJV)
+> What you have said is an insult, but ***I know how to reply to you***. — Job 20:3 (GNT)
 
-or
+> Whenever I hear an insulting rebuke, ***I respond from my spirit because I understand***. — Job 20:3 (ISV)
 
-> You have accused and insulted me, and ***reason requires a reply***. -- Job 20:3 (CEV)
+The Hebrew word *ruach* appears in many other contexts:
 
-or
+* **Wind:** Genesis 8:1; Exodus 10:13; 1 Kings 18:45; Job 21:18; Psalm 1:4, 18:42; Proverbs 25:14; Isaiah 17:13; Jeremiah 2:24
+* **Breath:** Job 7:7, 19:17; Psalm 135:17; Isaiah 30:28, 33:11
+* **God's Holy Spirit:** Isaiah 11:2; 42:1 (quoted by Matthew 12:18 (ESV)); 61:1 (quoted by Luke 4:18 (ESV))
+* **God's gifted ability:** Exodus 31:3, 35:31; Numbers 11:16,17,24,25, 24:2, 27:18; Judges 3:10; 1 Chronicles 12:18; Psalm 51:11; Isaiah 42:1, 63:11; Ezekiel 2:2
 
-> I have heard criticism that makes me ashamed, but ***a spirit beyond my understanding gives me answers***. -- Job 20:3 (GOD'S WORD)
+## Greek Term
 
-or
-
-> What you have said is an insult, but ***I know how to reply to you***. -- Job 20:3 (GNT)
-
-or
-
-> Whenever I hear an insulting rebuke, ***I respond from my spirit because I understand***. -- Job 20:3 (ISV)
-
-More examples of "ruach":
-
-* "ruach" as "wind": Genesis 8:1; Exodus 10:13; 1 Kings 18:45; Job 21:18; Psalms 1:4, 18:42; Proverbs 25:14; Isaiah 17:13; Jeremiah 2:24
-* "ruach" as "breath": Job 7:7, 19:17; Psalms 135:17; Isa. 30:28, 33:11
-* "ruach" as "God's Holy Spirit": Isaiah 11:2, 61:1 (quoted by Matthew 12:18 and Luke 4:18)
-* "ruach" as "God's gifted ability" (activated by God's Holy Spirit): Exodus 31:3, 35:31; Numbers 11:16-17,24-25, 24:2, 27:18; Judges 3:10; 1 Chronicles 12:18; Psalm 51:11; Isaiah 42:1, 63:11; Ezekiel 2:2
-* "ruach" as "good spirit beings": Psalm 104:4
-* "ruach" as "evil spirit beings": Judges 9:23; 1 Samuel 16:16; Job 4:15; Isaiah 19:14; Zechariah 13:2
-  * "spirit of jealousy": Numbers 5:14
-  * "lying spirit": 1 Kings 22:23
-  * "spirit of prostitution": Hosea 5:4
-
-The Greek word for "spirit" according to [Strong's Concordance](https://biblehub.com/greek/4151.htm):
+The Greek word for "spirit" used in the New Testament is *pneuma* (meaning wind, breath, or spirit). Like its Hebrew counterparts, it carries several meanings.
 
 |                   | [Strong's Concordance](https://biblehub.com/greek/4151.htm) |
 |-------------------|-------------------------------------------------------------|
@@ -83,45 +76,45 @@ The Greek word for "spirit" according to [Strong's Concordance](https://biblehub
 | Definition        | wind, spirit                                                |
 | Usage             | wind, breath, spirit.                                       |
 
-> This was certainly true [that “pneuma” is used for “wind”] in the secular Greek writings, but it is not used that way in the New Testament unless Hebrews 1:7 is an example.
->
-> ...
->
-> It was common in Greek writings for pneuma to be used of breath, but it is uncommon in the Bible.
->
-> -- [Appendix 15 - Revised English Version](https://www.revisedenglishversion.com/Appendix/15/Usages_of_Spirit)
+The [Word Study: Pneuma](https://www.revisedenglishversion.com/word/pneuma) from the Revised English Version provides further context on its usage. Secular Greek writings frequently used the term for "wind". However, it is not used that way in the New Testament unless Hebrews 1:7 is an example. It was also common in Greek writings for *pneuma* to be used of breath, but this is uncommon in the Bible.
 
-Examples of "pneuma":
+Examples of the word *pneuma* in the New Testament include:
 
-* "pneuma" as "God's Holy Spirit": Luke 1:15,41,67, 2:25, 3:22 
-* "pneuma" as "good spirit beings": Hebrews 1:14; Revelation 1:4; 3:1; 4:5; 5:6
-* "pneuma" as "unclean spirit beings": Matthew 10:1
+* **God's Holy Spirit:** Luke 1:15,41,67, 2:25, 3:22
+* **Life-giving spirit:** This refers to Christ in 1 Corinthians 15:45 (ESV) and is echoed in Revelation 2:7,11,17,29; 3:6,13,22; 14:13; 22:17 (ESV).
 
-Other spirits mentioned in the Bible:
+## Spirit Beings
 
-* life-giving spirit (pneuma) - referring to Christ: 1 Corinthians 15:45; Revelation 2:7,11,17,29; 3:6,13,22; 14:13; 22:17  
+Both the Old and New Testaments describe various entities as spirits. These beings are distinct from humans. They are often categorized by their nature or relationship with God.
 
-How could Jesus be considered "the spirit" if Luke 24:39 indicates that Jesus is not a spirit?
+* **Good spirit beings:** Psalm 104:4; Hebrews 1:14 (ESV); Revelation 1:4; 3:1; 4:5; 5:6 (ESV)
+* **Evil or unclean spirit beings:** Judges 9:23; 1 Samuel 16:16; Job 4:15; Isaiah 19:14; Zechariah 13:2; Matthew 10:1 (ESV)
+* **Specific spirits mentioned in scripture:**
+  * "Spirit of jealousy": Numbers 5:14 (ESV)
+  * "Lying spirit": 1 Kings 22:23 (ESV)
+  * "Spirit of prostitution": Hosea 5:4 (ESV)
 
-1 Corinthians 15:44 states that all living beings have a spiritual body. Since Jesus is already resurrected and exalted, I assume he lives now in his spiritual body.
+## Resurrected State
 
-# Defining a spirit according to the Bible
+A potential point of confusion arises when comparing statements about the nature of Jesus. During an appearance after his resurrection, Jesus explicitly stated that he was not a spirit.
 
-Jesus stated that he was not a spirit:
+> **A spirit does not have flesh and bones** as you see that I have. — Luke 24:39 (ESV)
 
-> **A spirit does not have flesh and bones** as you see that I have. -- Luke 24:39 (ESV)
+However, other passages describe Jesus and believers in spiritual terms. 1 Corinthians 15:44 explains that just as there is a natural body, there is also a [spiritual body](../books/1-2corinthians.md#the-bodily-resurrection-of-believers) provided in the resurrection. Since Jesus is resurrected and exalted, he resides in this spiritual body. This explains why 1 Corinthians 15:45 (ESV) can refer to him as a "life-giving spirit".
 
-However, every person have "a spiritual body":
+Some critics argue that Jesus contradicted himself by claiming not to be a spirit while Paul identifies him as a life-giving spirit. This tension is resolved by recognizing the distinction between being a "spirit" (an immaterial being without physical form) and having a "spiritual body" (a resurrected, glorified physical form). Jesus possessed a physical, tangible body that was also transformed and empowered by the spirit.
 
-> If there is a natural body, there is also **[a spiritual body](/creation/human/spirit)**. -- 1 Corinthians 15:44 (ESV)
+Other biblical authors confirm that living beings possess spirits. Solomon taught this concept.
 
-Solomon taught that living beings have spirits:
+> The dust returns to the earth as it was, and **the spirit returns to God** who gave it. — Ecclesiastes 12:7 (ESV)
 
-> The dust returns to the earth as it was, and **the spirit returns to God** who gave it. -- Ecclesiastes 12:7
+This complements the teaching of James.
 
-This complements what James said:
+> For as **the body apart from the spirit is dead**, so also faith apart from works is dead. — James 2:26 (ESV)
 
-> For as **the body apart from the spirit is dead**, so also faith apart from works is dead. -- James 2:26 (ESV)
+## Conclusion
+
+The biblical term "spirit" is multifaceted, encompassing physical, metaphorical, and supernatural realities. The Hebrew words *neshamah* and *ruach* illustrate how [breath and wind](#hebrew-terms) serve as metaphors for divine life and power. Similarly, the Greek *pneuma* describes everything from [God's Holy Spirit](#greek-term) to [angelic and demonic beings](#spirit-beings). While some passages may seem to contradict others regarding the nature of Christ, the distinction of a [resurrected spiritual body](#resurrected-state) clarifies his exalted state. Ultimately, the context of each passage is the most reliable guide to understanding which aspect of "spirit" the author intended to communicate.
 
 ---
 
