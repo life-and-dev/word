@@ -1,0 +1,7 @@
+# mdsite: generated state (renderer working dir; runtime artifacts and materialized renderer)
+.mdsite/*
+.output/
+# end mdsite
+
+# AI Agents
+.agents/

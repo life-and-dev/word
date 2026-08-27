@@ -29,13 +29,27 @@ Trinitarians argue that the Hebrew word *echad* can refer to a composite unity w
 
 > Therefore a man shall leave his father and his mother and hold fast to his wife, and they shall become one *[echad]* flesh. — Genesis 2:24 (ESV)
 
-Based on this usage, Trinitarians apply the same "unified" meaning to *echad* in prophetic and theological declarations:
-
-> "And the LORD will be king over all the earth; in that day the LORD will be the only one *[echad]*, and His name the only one *[echad]*." — Zechariah 14:9 (NASB)
-
-and
+Based on this usage, Trinitarians apply the same "unified" meaning to *echad* in theological declarations:
 
 > "Hear, O Israel! Yahweh our God, Yahweh is one *[echad]*!" — Deuteronomy 6:4 (LSB)
+
+However, based on this reasoning. If "echad" truly mean 2 individuals in unity, then we need to apply the same logic should apply definition to the God. In Genesis 2:24 man and wife are 2 distinct individuals. If we apply the same definition to God, it would render multiple gods!
+
+When it is prophecied:
+
+> "And the LORD will be king over all the earth; in that day the LORD will be the *only* one *[echad]*, and His name the *only* one *[echad]*." — Zechariah 14:9 (NASB)
+
+When the compound definition of "echad" is incorrectly applied to Zechariah's prophecy, it seems like one day many different gods will be united. A better translation is:
+
+> And the LORD shall be King over all the earth. In that day it shall be —
+>
+>> **“The LORD is one”,**
+>
+> And His name one.
+>
+> — Zechariah 14:9 (ESV)
+
+This is a reference to Deuteronomy 6:4 and Zechariah declare "The LORD is one" is His [name](../terms/name.md) (authority).
 
 ## Numerical Singularity in Greek
 
