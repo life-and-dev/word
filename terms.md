@@ -19,12 +19,13 @@ keywords: theological terminology, bible translation, Christian jargon, Christia
 | [Holy](terms/holy.md)                                          | Extra special to God, set apart and pure for God's purpose              |
 | [Lake of Fire](terms/hell/lake-of-fire.md)                     | An eternal lake of fire that is mentioned in John's Revelation          |
 | [Love](terms/love.md)                                          | 4 different Greek words are translated as "love"                        |
+| [Melchizedek](https://son.ofgod.info/son-as-god/melchizedek)   | An unknown King or Priest of the ancient times.                         |
 | [Mystery](https://church.ofgod.info/terms/mystery)             | A theological term often used to defend illogical doctrines             |
 | [Name](terms/name.md)                                          | Could be a designation, but usually used in the context of authority    |
 | [Offering](terms/offerings.md)                                 | Anything valuable that one voluntarily give up to God                   |
 | [Repentance](https://kingdom.ofgod.info/life/repentance)       | The act of turning away from sin and turning towards God                |
 | [Righteousness](https://kingdom.ofgod.info/life/righteousness) | The state of being in right standing with God                           |
-| [Sabbath](https://church.ofgod.info/terms/sundays)             | The set apart day that God commanded people should rest                 |
+| [Sabbath](terms/sabbath.md)                                    | The set apart day that God commanded people should rest                 |
 | [Sacrifice](terms/sacrifices.md)                               | An offering of an animal or person's life to God                        |
 | [Saint](https://church.ofgod.info/terms/saints)                | A righteous person set apart by God                                     |
 | [Sanctification](terms/sanctification.md)                      | The act or process of officially making something holy                  |
