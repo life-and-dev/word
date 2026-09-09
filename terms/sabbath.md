@@ -15,11 +15,29 @@ The Sabbath is [not Sunday](https://church.ofgod.info/terms/sundays). It falls o
 
 The Sabbath is presented as a command rather than an optional practice. [The Sabbath was commanded.](https://church.ofgod.info/terms/sundays)
 
+## Covenant Sign
+
+Ezekiel describes the Sabbath as a covenant sign given to Israel:
+
+> “Moreover, I gave them my Sabbaths, as a **sign** between me and them, that they might know that I am the LORD who **sanctifies** them.” — Ezekiel 20:12 (ESV)
+
+Ezekiel 20:12,20 recounts how Israel and successive wilderness generations received recurring Sabbaths. The Sabbath identified the LORD as the one who sanctified them, while its profanation represented covenant rebellion. The [Cambridge Bible commentary on Ezekiel 20](https://biblehub.com/commentaries/cambridge/ezekiel/20.htm) likewise connects the plural “Sabbaths” with recurring observance and its function as a sign.
+
 ## Defining Work
 
 The Hebrew word for “work” is [*melakah* (מְלָאכָה)](https://biblehub.com/hebrew/4399.htm) and is prohibited in the fourth commandment (Exodus 20:10).
 
 Melāʾkhāh (מְלָאכָה) means work or occupation. Depending on context, it may refer to business, a task or work performed, workmanship, service, or public duties.
+
+## Kindling Fire
+
+Exodus 35 gives a specific example of prohibited Sabbath work:
+
+> “Moses assembled all the congregation of the people of Israel and said to them, ‘These are the things that the LORD has commanded you to do. Six days work shall be done, but on the seventh day you shall have a Sabbath of solemn rest, holy to the LORD. Whoever does any work on it shall be put to death. You shall **kindle no fire** in all your dwelling places on the Sabbath day.’” — Exodus 35:1–3 (ESV)
+
+Moses does not present this restriction as a law created on his own authority. He introduces it as something the LORD commanded. Exodus 31:12–17 had already required Sabbath rest. Exodus 35 repeats that command immediately before instructions for constructing the Tabernacle. This placement suggests that even sacred construction was not allowed to override Sabbath rest.
+
+The verse directly prohibits kindling fire, but it does not explain why this activity was singled out. Exodus 16:22–30 connects Sabbath observance with preparing food beforehand. Numbers 15:32–36 also records the punishment of a man who gathered sticks on the Sabbath. The [Bible Hub collection of historical commentaries](https://biblehub.com/commentaries/exodus/35-3.htm) therefore includes interpretations involving cooking, food preparation, and work connected with the Tabernacle. A [United Church of God commentary](https://bible.ucg.org/bible-commentary/Exodus/Sabbath-regulations;-Offerings-for-the-tabernacle;-Artisans-called/) argues more specifically that the immediate concern included industrial fires used for metalwork during Tabernacle construction.
 
 ## Shopping
 
@@ -101,4 +119,4 @@ Biblical teaching and Jesus’ examples identify essential care and the preserva
 
 ## Conclusion
 
-The article presents the Sabbath as a seventh-day command centred on [rest from work](#defining-work) and [freedom from commerce](#shopping). It also presents Sabbath observance as a time for [worship and teaching](#expectation-of-sabbath), [mercy](#mercy-relief-and-healing), and [shared delight](#feasting-joy-and-hospitality).
+The article presents the Sabbath as a seventh-day command centred on [rest from work](#defining-work), the prohibition against [kindling fire](#kindling-fire), and [freedom from commerce](#shopping). It identifies the Sabbath as a [covenant sign of sanctification](#covenant-sign) and a time for [worship and teaching](#expectation-of-sabbath), [mercy](#mercy-relief-and-healing), and [shared delight](#feasting-joy-and-hospitality).
