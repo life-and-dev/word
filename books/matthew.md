@@ -394,7 +394,7 @@ This reading appears in significant early witnesses including Sinaiticus, Vatica
 
 ### The Great Commission Formula (Matthew 28:19)
 
-While all Gospels end with resurrection appearances and commissioning, Matthew's version (Matthew 28:19) includes what became known as [the Trinitarian baptismal formula](https://son.ofgod.info/trinity/baptism-formula): "baptizing them in the name of the Father and of the Son and of the Holy Spirit." However, this phrase is questioned as a [textual variation](https://son.ofgod.info/trinity/baptism-formula) by some scholars based on manuscript evidence: early Church Fathers like [Eusebius and Justin Martyr never quoted this trinitarian phrase](http://godskingdomfirst.org/Commission.htm), and the apostolic practice throughout Acts consistently shows baptism "in the name of Jesus" only (Acts 2:38, 8:16, 10:48, 19:5).
+While all Gospels end with resurrection appearances and commissioning, Matthew's version (Matthew 28:19) includes what became known as [the Trinitarian baptismal formula](https://son.ofgod.info/trinity/proof/baptism-formula): "baptizing them in the name of the Father and of the Son and of the Holy Spirit." However, this phrase is questioned as a [textual variation](https://son.ofgod.info/trinity/proof/baptism-formula) by some scholars based on manuscript evidence: early Church Fathers like [Eusebius and Justin Martyr never quoted this trinitarian phrase](http://godskingdomfirst.org/Commission.htm), and the apostolic practice throughout Acts consistently shows baptism "in the name of Jesus" only (Acts 2:38, 8:16, 10:48, 19:5).
 
 Despite questions about its originality, this commission became the basis for Christian missionary practice and baptismal liturgy throughout church history. 
 
