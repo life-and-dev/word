@@ -1,4 +1,4 @@
-### The Lake of Fire
+# The Lake of Fire
 
 John wrote that he saw "the lake of fire" in his revelation:
 

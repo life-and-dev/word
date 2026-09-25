@@ -49,10 +49,10 @@ In general, an offering is the broadest term. It could be anything valuable like
 
 The Hebrew word minchah (מִנְחָה) means "gift," "tribute," or "present." In ancient Near Eastern culture, a minchah was the gift an inferior brought to a superior (like a subject bringing a tribute to a king) to show loyalty and honor.
 
-> When anyone brings a **grain offering** as an offering to the LORD, his offering shall be of **fine flour**. 
+> When anyone brings a **grain offering** as an offering to the LORD, his offering shall be of **fine flour**.
 >
-> 1. He shall pour oil on it and put frankincense on it and bring it to Aaron’s sons the priests. 
-> 2. And he shall take from it a handful of the fine flour and oil, with all of its frankincense, and the priest shall burn this as its memorial portion on the altar, a food offering with a pleasing aroma to the LORD. 
+> 1. He shall pour oil on it and put frankincense on it and bring it to Aaron’s sons the priests.
+> 2. And he shall take from it a handful of the fine flour and oil, with all of its frankincense, and the priest shall burn this as its memorial portion on the altar, a food offering with a pleasing aroma to the LORD.
 >
 > — Leviticus 2:1-2 (ESV)
 
@@ -60,20 +60,20 @@ The Hebrew word minchah (מִנְחָה) means "gift," "tribute," or "present." 
 
 The Hebrew word shelamim (שְׁלָמִים) is a [sacrifice](sacrifices.md) where the worshiper, the priest, and God all "share" in the meal.
 
-​- God's portion: The fat and certain internal parts were burned on the altar (the "sweet aroma").
-- ​The Priest's portion: Specific parts (like the breast and right thigh) were given to the priests.
-- ​The Worshiper's portion: The rest of the meat was returned to the person who brought it, to be eaten as a celebratory meal with family and friends.
+* God's portion: The fat and certain internal parts were burned on the altar (the "sweet aroma").
+* ​The Priest's portion: Specific parts (like the breast and right thigh) were given to the priests.
+* ​The Worshiper's portion: The rest of the meat was returned to the person who brought it, to be eaten as a celebratory meal with family and friends.
 
 > ​"When his [offering](#offerings) (Qorban) is a [sacrifice](sacrifices.md) (Zebah) of a **peace offering (Shelamim)**, if he offers it of the herd... he shall offer it without blemish before the Lord." — Leviticus 3:1 (ESV)
 
 For example:
 
-> And Moses wrote down all the words of the LORD. He rose early in the morning and built an altar at the foot of the mountain, and twelve pillars, according to the twelve tribes of Israel. And he sent young men of the people of Israel, who offered [burnt offerings](#burnt-offering) and sacrificed **peace offerings** of oxen to the LORD. And Moses took half of the blood and put it in basins, and half of the blood he threw against the altar. Then he took the Book of the Covenant and read it in the hearing of the people. 
+> And Moses wrote down all the words of the LORD. He rose early in the morning and built an altar at the foot of the mountain, and twelve pillars, according to the twelve tribes of Israel. And he sent young men of the people of Israel, who offered [burnt offerings](#burnt-offering) and sacrificed **peace offerings** of oxen to the LORD. And Moses took half of the blood and put it in basins, and half of the blood he threw against the altar. Then he took the Book of the Covenant and read it in the hearing of the people.
 >
 > And they said, “All that the LORD has spoken we will do, and we will be obedient.”  
-> And Moses took the blood and threw it on the people and said, “Behold the blood of the covenant that the LORD has made with you in accordance with all these words.” 
+> And Moses took the blood and threw it on the people and said, “Behold the blood of the covenant that the LORD has made with you in accordance with all these words.”
 >
-> Then Moses and Aaron, Nadab, and Abihu, and seventy of the elders of Israel went up, and they saw the God of Israel. There was under his feet as it were a pavement of sapphire stone, like the very heaven for clearness. And he did not lay his hand on the chief men of the people of Israel; they beheld God, and **ate and drank**. 
+> Then Moses and Aaron, Nadab, and Abihu, and seventy of the elders of Israel went up, and they saw the God of Israel. There was under his feet as it were a pavement of sapphire stone, like the very heaven for clearness. And he did not lay his hand on the chief men of the people of Israel; they beheld God, and **ate and drank**.
 >
 > — Exodus 24:4-11 (ESV)
 
@@ -88,6 +88,7 @@ For example:
 > When any one of you brings **an offering** to the LORD, you shall bring your offering of livestock from the herd or from the flock.
 >
 > "If his offering is **a [burnt offering](#burnt-offering)** from the herd, he shall offer a male without blemish.
+>
 > 1. He shall bring it to the entrance of the tent of meeting, that **he may be accepted before the LORD**.
 > 2. He shall **lay his hand on the head of the burnt offering**, and it shall be accepted for him to **[make atonement for him](#sin-offering)**.
 > 3. Then **he shall kill the bull before the LORD**, and
@@ -171,7 +172,7 @@ The Hebrew word asham (אָשָׁם) implies guilt, offense or trespass.
 
 OR
 
-> If he has sinned and has **realized his guilt** and will restore what he took by **robbery** or what he got by **oppression** or the **deposit that was committed** to him or **the lost thing that he found** or anything about which he has **sworn falsely**, he shall **restore it in full and shall add a fifth to it**, and give it to him to whom it belongs on the day he realizes his guilt. 
+> If he has sinned and has **realized his guilt** and will restore what he took by **robbery** or what he got by **oppression** or the **deposit that was committed** to him or **the lost thing that he found** or anything about which he has **sworn falsely**, he shall **restore it in full and shall add a fifth to it**, and give it to him to whom it belongs on the day he realizes his guilt.
 >
 > And he shall bring to the priest as his compensation to the LORD a ram without blemish out of the flock, or its equivalent, for a **guilt offering**. And the priest shall make atonement for him before the LORD, and he shall be forgiven for any of the things that one may do and thereby become guilty.”
 >

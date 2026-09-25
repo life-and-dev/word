@@ -1,4 +1,4 @@
-### Sheol
+# Sheol
 
 > Sheol referred to **the state of being dead**. Sheol was not the physical grave itself, but the state of being dead (the actual physical grave was referred to in Hebrew as the [qeber (קֶבֶר)](https://www.blueletterbible.org/lexicon/H6913/kjv)). Some theologians refer to Sheol as “gravedom” (“the reign of the grave;” or “the reign of death”). Sheol ([Hadēs](hades.md) in the Greek Bible) is not a place, it is a state of being — the state of being dead. In the Hebrew Old Testament, dead people are said to be in Sheol. — [Appendix 3 - Revised English Version](https://www.revisedenglishversion.com/Appendix/3/The_Dead_are_Dead)
 

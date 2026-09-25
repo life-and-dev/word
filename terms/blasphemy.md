@@ -54,4 +54,4 @@ Some may argue that blasphemy is limited to specific words or vocal insults dire
 
 ## Conclusion
 
-Blasphemy is more than just disrespectful speech; it is a [misrepresentation of God through hypocrisy](#hypocrisy-and-dishonor) and [unholy conduct](#profaning-the-holy-name). By claiming to follow God while living in opposition to His laws, believers [profane the very name they bear](#the-third-commandment). Ultimately, the biblical definition of blasphemy warns that our actions can speak louder than our words in either honoring or dishonoring God.
+Blasphemy is more than just disrespectful speech. It is a [misrepresentation of God through hypocrisy](#hypocrisy-and-dishonor) and [unholy conduct](#profaning-the-holy-name). By claiming to follow God while living in opposition to His laws, believers [profane the very name they bear](#the-third-commandment). Ultimately, the biblical definition of blasphemy warns that our actions can speak louder than our words in either honoring or dishonoring God.

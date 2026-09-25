@@ -3,7 +3,7 @@ description: Many Bible translations blur the line between offerings and sacrifi
 keywords: zebach, blood sacrifice, Hebrew sacrifice, living sacrifice, atonement blood, zabach slaughter, Paul living sacrifice, Romans 12 living sacrifice, Leviticus 17 blood, zebach definition
 ---
 
-# Sacrifices
+# Sacrifice
 
 Most modern Bible translations use the English words "sacrifice" and "offering" interchangeably, but the original Hebrew draws a sharp distinction between them. Understanding that distinction changes how the texts read and what they demand. This article focuses specifically on blood sacrifices, not offerings in general.
 
@@ -18,6 +18,7 @@ A sacrifice is a special type of [offering](offerings.md) that requires the deat
 According to Mickelson's Enhanced Strong's Dictionaries, the Hebrew word for a blood sacrifice is:
 
 > H2077 זֶבַח zebach (zeh'-ɓach) n-m.
+>
 > 1. (properly) a slaughter, i.e. the flesh of an animal.
 > 2. (by implication) a sacrifice (the victim or the act).
 >    [from H2076]
