@@ -2,13 +2,17 @@
 
 ## Authoring
 
-* Never Markdown link bible verses.
-* Conclusions contain inline md links to article anchors.
-* When formatting text, keep inline md links.
-* Prefer ESV, unless comparing textual variations.
+* Prefer ESV unless text is baised, contain error or comparing variants
 * Use UPPERCASE LORD for YHWH and Lowercase Lord for Jesus, unless both YHWH and Jesus are discussed, then use "the Father" to refer to YHWH.
 * **bold** keyword in quoted scriptures discussed in article.
 * opinions are quoted in *italics*
+* When formatting text, keep inline md links.
+
+## Links
+
+* Conclusions contain inline md links to article anchors.
+* Do not link bible scriptures to online sources because mdsite of this project automatically does it
+* Do add inline md links in text to non-scripture sources
 
 ## Evidence
 
@@ -24,7 +28,9 @@ Prefer this order of evidence:
 
 ## Truth
 
-* Trinity is not fact.
-* Bible authors were Unitarians.
-* Jesus is not divine.
-* Holy Sprit is not separate God.
+* Bible authors believed in 1 God, not Trinity
+* YHWH = God the Father = Almighty God
+* Jesus = Son/Christ send by God
+* Jesus is real human, not dual-nature divinity
+* Holy Sprit = interaction of God
+* Trinity is deception
