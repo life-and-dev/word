@@ -103,6 +103,14 @@ Glory is not reserved exclusively for God. Humans can also possess a form of glo
 
 These passages indicate that **human glory is a bestowed dignity**. It is not self-generated. It is a reflection of being created in the image of God and being entrusted with dominion under the authority of Christ.
 
+## Jesus and the Glorified Body
+
+As noted in [Linguistic Origins](#linguistic-origins), Greek **δόξα** (*doxa*, Strong’s G1391) is a noun associated with glory, honor, and splendor. **δοξάζω** (*doxazō*, Strong’s G1392) is the related verb, “to glorify” or “to honor.” They belong to the same word family, but they are not the same word or two inflections of one word. The [Greek noun](https://biblehub.com/greek/1391.htm) and [related verb](https://biblehub.com/greek/1392.htm) are lexical starting points, not definitions of what a resurrected body is made of.
+
+Philippians 3:21 says Jesus will transform “our lowly body to be like his **glorious body**.” Its Greek phrase, *tō sōmati tēs doxēs autou* (τῷ σώματι τῆς δόξης αὐτοῦ), uses *doxēs*, a form of the noun *doxa*: literally, “the body of his glory.” The ESV’s “glorious body” expresses the phrase in English. Neither wording is a technical adjective specifying a body’s substance.
+
+The verb also has a wider setting than resurrection anatomy. Jesus speaks of his coming hour to be **glorified** in John 12:23. The following verses connect that hour with his approaching death (John 12:24, 27, 32–33). John 7:39 says Jesus had “not yet been **glorified**”, while John 17:1 and 17:5 record his requests for **glory** from the Father. In John 17:22, Jesus says the **glory** given to him has also been given to his disciples. These passages do not make every use of *glory* a description of bodily composition.
+
 ## Conclusion
 
 The biblical concept of glory begins with the [weight and splendour carried by *kabowd* and *doxa*](#linguistic-origins). It is seen most fully in [God's unique worth and manifested majesty](#defining-glory), not in a needy self-focus but in the highest good to which He directs His creatures.
