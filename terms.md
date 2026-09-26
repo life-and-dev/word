@@ -12,7 +12,8 @@ keywords: theological terminology, bible translation, Christian jargon, Christia
 | [Burnt Offering](terms/worship/offering.md#burnt-offering) | An offering that is totally burned up to signal total devotion to God |
 | [Consecration](terms/sanctification)                       | The act of making something or someone holy                           |
 | [Faith](terms/faith.md)                                    | The act of trusting God                                               |
-| [Forgiveness](terms/forgiveness.md)                        | Releases guilt or debt against the offender for wrongdoing.           |
+| [Fellowship](terms/fellowship.md)                          | Participation in shared life with the Father, Jesus, and one another  |
+| [Forgiveness](terms/forgiveness.md)                        | Releases guilt or debt against the offender for wrongdoing            |
 | [Love](terms/love.md)                                      | 4 different Greek words are translated as "love"                      |
 | [Offering](terms/worship/offering.md)                      | Anything valuable that one voluntarily give up to God                 |
 | [Repentance](https://kingdom.ofgod.info/life/repentance)   | The act of turning away from sin and turning towards God              |
@@ -24,11 +25,11 @@ keywords: theological terminology, bible translation, Christian jargon, Christia
 
 ## Persons
 
-| Term                                                         | Meaning                                         |
-| ------------------------------------------------------------ | ----------------------------------------------- |
-| [Christian](https://church.ofgod.info/terms/christian)       | A devouted follower of Christ                   |
-| [Melchizedek](https://son.ofgod.info/son-as-god/melchizedek) | An unknown King or Priest of the ancient times. |
-| [Saint](https://church.ofgod.info/terms/saints)              | A righteous person set apart by God             |
+| Term                                                         | Meaning                                        |
+| ------------------------------------------------------------ | ---------------------------------------------- |
+| [Christian](https://church.ofgod.info/terms/christian)       | A devouted follower of Christ                  |
+| [Melchizedek](https://son.ofgod.info/son-as-god/melchizedek) | An unknown King or Priest of the ancient times |
+| [Saint](https://church.ofgod.info/terms/saints)              | A righteous person set apart by God            |
 
 ## Places
 
