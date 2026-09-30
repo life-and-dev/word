@@ -133,7 +133,7 @@ Forgiveness removes counted guilt, salvation describes God’s wider rescue, rig
 
 ## Jesus’ Authority to Forgive
 
-In Mark 2:5-10 Jesus directly declares a paralysed man’s sins forgiven, answers the scribes’ objection and claims that the Son of Man has authority on earth to forgive sins. The healing validates genuine authority. The episode does not state whether that authority is [underived or received](https://son.ofgod.info/son-as-god/claims/forgiveness).
+In Mark 2:5-10 Jesus directly declares a paralysed man’s sins forgiven, answers the scribes’ objection and claims that the Son of Man has authority on earth to forgive sins. The healing validates genuine authority. The episode does not state whether that authority is [underived or received](https://son.ofgod.info/divine/claims/forgiveness).
 
 John 5:19-30 supplies an explicit source framework. The Son does what he sees the Father doing, the Father gives judgement to the Son, grants him life in himself and gives him authority to execute judgement. Jesus therefore exercises real personal authority as [the Son](https://son.ofgod.info) and [Christ](https://kingdom.ofgod.info/christ) sent by the Father. Acts 2:22 and 5:30-31 later confirm that God worked through, raised and exalted him, including a role in giving repentance and forgiveness.
 
@@ -222,7 +222,7 @@ Apostles do not create mercy independently, and hearers are not passive objects.
 
 ## Roman Catholic Absolution
 
-The [Catechism §§1441-42](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_two/article_4/vi_the_sacrament_of_penance_and_reconciliation.html) says that God alone forgives sins, that [Jesus exercises divine authority](https://son.ofgod.info/son-as-god/claims/forgave), and that he **entrusts a ministry of reconciliation to the apostles**. [Catechism §1456](https://www.vatican.va/archive/ENG0015/__P4D.HTM) **requires confession to a priest** of remembered grave sins after diligent examination. The [Catechism §§1461-66](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_two/article_4/viii_the_minister_of_this_sacrament.html) identifies bishops and priests as ministers, with the priest **serving as a sign and instrument** of God’s mercy.
+The [Catechism §§1441-42](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_two/article_4/vi_the_sacrament_of_penance_and_reconciliation.html) says that God alone forgives sins, that [Jesus exercises divine authority](https://son.ofgod.info/divine/claims/forgave), and that he **entrusts a ministry of reconciliation to the apostles**. [Catechism §1456](https://www.vatican.va/archive/ENG0015/__P4D.HTM) **requires confession to a priest** of remembered grave sins after diligent examination. The [Catechism §§1461-66](https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_two/article_4/viii_the_minister_of_this_sacrament.html) identifies bishops and priests as ministers, with the priest **serving as a sign and instrument** of God’s mercy.
 
 This doctrine reads John 20:21-23 with the keys, binding and loosing, apostolic succession, Holy Orders and sacramental theology. Its conclusion depends on **several premises beyond the direct wording of those passages**:
 

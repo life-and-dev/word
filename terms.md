@@ -28,7 +28,7 @@ keywords: theological terminology, bible translation, Christian jargon, Christia
 | Term                                                         | Meaning                                        |
 | ------------------------------------------------------------ | ---------------------------------------------- |
 | [Christian](https://church.ofgod.info/terms/christian)       | A devouted follower of Christ                  |
-| [Melchizedek](https://son.ofgod.info/son-as-god/melchizedek) | An unknown King or Priest of the ancient times |
+| [Melchizedek](https://son.ofgod.info/divine/melchizedek) | An unknown King or Priest of the ancient times |
 | [Saint](https://church.ofgod.info/terms/saints)              | A righteous person set apart by God            |
 
 ## Places

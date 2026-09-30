@@ -11,7 +11,7 @@ There are different Greek words that are all translated to the same English word
 
 For example, in the same [ESV translation](./nature.md#bible-translations) Jesus said:
 
-> [The Son of Man](./son-of-man/human.md) came not to be ***served*** but to ***serve***” — Matthew 20:28 (ESV)
+> The Son of Man came not to be ***served*** but to ***serve***” — Matthew 20:28 (ESV)
 
 but then Jesus also said:
 
