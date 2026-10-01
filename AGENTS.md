@@ -7,6 +7,7 @@
 * **bold** keyword in quoted scriptures discussed in article.
 * opinions are quoted in *italics*
 * When formatting text, keep inline md links.
+* When comparing false case with truth: First present false case then end with truth.
 
 ## Links
 
@@ -34,3 +35,4 @@ Prefer this order of evidence:
 * Jesus is real human, not dual-nature divinity
 * Holy Sprit = interaction of God
 * Trinity is deception
+* Challenge user if his reasoning is flawed

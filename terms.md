@@ -15,6 +15,7 @@ keywords: theological terminology, bible translation, Christian jargon, Christia
 | [Fellowship](terms/fellowship.md)                          | Participation in shared life with the Father, Jesus, and one another  |
 | [Forgiveness](terms/forgiveness.md)                        | Releases guilt or debt against the offender for wrongdoing            |
 | [Love](terms/love.md)                                      | 4 different Greek words are translated as "love"                      |
+| [Mediation](terms/mediator.md)                             | Jesus, the human mediator between the Father and humanity             |
 | [Offering](terms/worship/offering.md)                      | Anything valuable that one voluntarily give up to God                 |
 | [Repentance](https://kingdom.ofgod.info/life/repentance)   | The act of turning away from sin and turning towards God              |
 | [Sacrifice](terms/worship/sacrifice.md)                    | An offering of an animal or person's life to God                      |
@@ -23,13 +24,14 @@ keywords: theological terminology, bible translation, Christian jargon, Christia
 | [Sin Offering](terms/worship/offering.md#sin-offering)     | A burnt offering with the purpose to atone for sin                    |
 | [Worship](terms/worship.md)                                | Different Greek words and meanings all translated to "worship"        |
 
-## Persons
+## Persons or Titles
 
-| Term                                                         | Meaning                                        |
-| ------------------------------------------------------------ | ---------------------------------------------- |
-| [Christian](https://church.ofgod.info/terms/christian)       | A devouted follower of Christ                  |
-| [Melchizedek](https://son.ofgod.info/divine/melchizedek) | An unknown King or Priest of the ancient times |
-| [Saint](https://church.ofgod.info/terms/saints)              | A righteous person set apart by God            |
+| Term                                                     | Meaning                                           |
+| -------------------------------------------------------- | ------------------------------------------------- |
+| [Christian](https://church.ofgod.info/terms/christian)   | A devouted follower of Christ                     |
+| [Firstborn](https://son.ofgod.info/divine/firstborn)     | A title of supremacy, not necessarily birth order |
+| [Melchizedek](https://son.ofgod.info/divine/melchizedek) | An unknown King or Priest of the ancient times    |
+| [Saint](https://church.ofgod.info/terms/saints)          | A righteous person set apart by God               |
 
 ## Places
 

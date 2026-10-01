@@ -101,14 +101,14 @@ Both blasphemy and idolatry are considered very serious [sin](/bible/concepts/si
 | Scripture                                                       | Trinitarian argument                                                                         | [Rebuttal](/bible/interpretations/rebuttals)            |
 |-----------------------------------------------------------------|----------------------------------------------------------------------------------------------|---------------------------------------------------------|
 | Matthew 6:9-13; Luke 11:1-2; Philippians 4:6-7; 1 Timothy 2:1-4 | We should pray to the Father.                                                                | *agree*                                                 |
-| John 14:12,16:23                                                | [When we use Jesus' name in prayers, we pray to Jesus.](/life/prayer#the-authority-of-jesus) | [wrong conclusion](/life/prayer#the-authority-of-jesus) |
-| Ezekiel 37:9                                                    | [Ezekiel prayed to the Holy Spirit.](/life/prayer#praying-to-the-holy-spiri)                 | [symbolic](/life/prayer#praying-to-the-holy-spiri)      |
+| John 14:12,16:23                                                | [When we use Jesus' name in prayers, we pray to Jesus.](/lifehttps://kingdom.ofgod.info/life/prayer#the-authority-of-jesus) | [wrong conclusion](/lifehttps://kingdom.ofgod.info/life/prayer#the-authority-of-jesus) |
+| Ezekiel 37:9                                                    | [Ezekiel prayed to the Holy Spirit.](/lifehttps://kingdom.ofgod.info/life/prayer#praying-to-the-holy-spiri)                 | [symbolic](/lifehttps://kingdom.ofgod.info/life/prayer#praying-to-the-holy-spiri)      |
 
 | Scripture                             | Unitarian argument                                                                             | [Rebuttal](/bible/interpretations/rebuttals)        |
 |---------------------------------------|------------------------------------------------------------------------------------------------|-----------------------------------------------------|
-| Matthew 6:9-13; Luke 11:1-2           | [Jesus taught that we should pray to our Father in heaven.](/life/prayer)                      | [demo](/god/son/essence/as-god/prayer)              |
-| Matthew 26:39,42; John 11:41, 17:1-26 | [Jesus himself prayed to the Father.](/life/prayer#jesus-prayers)                              | [demo](/god/son/essence/as-god/prayer)              |
-| Philippians 4:6-7; 1 Timothy 2:1-4    | [Paul taught that prayer requests should be made to God.](/life/prayer#the-authority-of-jesus) | [interpretation](/god/son/essence/as-god/prayer)    |
+| Matthew 6:9-13; Luke 11:1-2           | [Jesus taught that we should pray to our Father in heaven.](/lifehttps://kingdom.ofgod.info/life/prayer)                      | [demo](/god/son/essence/as-godhttps://kingdom.ofgod.info/life/prayer)              |
+| Matthew 26:39,42; John 11:41, 17:1-26 | [Jesus himself prayed to the Father.](/lifehttps://kingdom.ofgod.info/life/prayer#jesus-prayers)                              | [demo](/god/son/essence/as-godhttps://kingdom.ofgod.info/life/prayer)              |
+| Philippians 4:6-7; 1 Timothy 2:1-4    | [Paul taught that prayer requests should be made to God.](/lifehttps://kingdom.ofgod.info/life/prayer#the-authority-of-jesus) | [interpretation](/god/son/essence/as-godhttps://kingdom.ofgod.info/life/prayer)    |
 
 ---
 
