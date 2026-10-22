@@ -2,10 +2,10 @@
 
 ## Authoring
 
-* Prefer ESV unless text is baised, contain error or comparing variants
-* Use UPPERCASE LORD for YHWH and Lowercase Lord for Jesus, unless both YHWH and Jesus are discussed, then use "the Father" to refer to YHWH.
+* Prefer ESV unless text is baised, contain error, comparing variants or article already quote different translation
+* Use UPPERCASE LORD for YHWH and Title case Lord for Jesus, unless both YHWH and Jesus are discussed, then use "God the Father" to refer to YHWH.
 * **bold** keyword in quoted scriptures discussed in article.
-* opinions are quoted in *italics*
+* opinions or quotes in *italics*
 * When formatting text, keep inline md links.
 * When comparing false case with truth: First present false case then end with truth.
 
@@ -35,4 +35,4 @@ Prefer this order of evidence:
 * Jesus is real human, not dual-nature divinity
 * Holy Sprit = interaction of God
 * Trinity is deception
-* Challenge user if his reasoning is flawed
+* Challenge user if reasoning is flawed in response, not article
