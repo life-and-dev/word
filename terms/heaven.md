@@ -152,6 +152,16 @@ The Greek noun [αἰών (*aiōn*)](https://biblehub.com/greek/165.htm) commonl
 
 These expressions distinguish the present age from a coming age. They do not, by themselves, describe believers moving to another planet or entering heaven. However, “world” is not incorrect in every context: αἰών can also describe the order associated with an age, so each passage requires contextual examination.
 
+## Idiomatic Usage
+
+> Every good gift and every perfect gift is **from above coming down** from the Father of lights, with whom there is no variation or shadow due to change. — James 1:17 (ESV)
+
+James 1:17 says every good gift is "from above comes down" from God the Father. No one thinks good gifts literally fall from the sky. The phrase means God is the source of the gifts.
+
+Other examples are: John the Baptist was "a man sent from God" (John 1:6), and he said Jesus "comes from above" and "comes from heaven" (John 3:31). Malachi 3:10 speaks of God opening "the windows of heaven" to pour out blessings.
+
+Everyone understood this idiomatically, not literally. When Jesus asked whether John's baptism was "from heaven or from men" (Matthew 21:25), the meaning was clear: was God the source of the revelation, or did John devise it himself?
+
 ## Conclusion
 
 “Heaven” does not have one meaning in every passage. It can refer to the [visible sky](#elijah-going-to-heaven), while other passages speak of [God’s heavenly dwelling and the rewards kept safe with him](#rewards-in-heaven). Context determines the meaning. Neither rewards stored in heaven nor [heavenly citizenship](#heavenly-citizenship) automatically establishes that believers move there when they die. Heavenly citizenship expresses their belonging and allegiance to God, rather than their present physical location.

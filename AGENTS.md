@@ -2,8 +2,10 @@
 
 ## Authoring
 
-* Prefer ESV unless text is baised, contain error, comparing variants or article already quote different translation
-* Use UPPERCASE LORD for YHWH and Title case Lord for Jesus, unless both YHWH and Jesus are discussed, then use "God the Father" to refer to YHWH.
+* Prefer ESV unless comparing Jesus with God, text is baised, contain error, comparing variants or article already quote different translation
+* Prefer LSB when comparing Jesus with God.
+* Use UPPERCASE LORD when text refers to YHWH and Title case Lord when text refers Jesus.
+* When both YHWH and Jesus are discussed, then use "God the Father" to refer to YHWH.
 * **bold** keyword in quoted scriptures discussed in article.
 * opinions or quotes in *italics*
 * When formatting text, keep inline md links.
