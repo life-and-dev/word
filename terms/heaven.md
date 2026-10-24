@@ -158,7 +158,7 @@ These expressions distinguish the present age from a coming age. They do not, by
 
 James 1:17 says every good gift is "from above comes down" from God the Father. No one thinks good gifts literally fall from the sky. The phrase means God is the source of the gifts.
 
-Other examples are: John the Baptist was "a man sent from God" (John 1:6), and he said [Jesus "comes from above" and "comes from heaven"](https://son.ofgod.info/divine/pre-existance#john-313-descended-from-heaven) (John 3:31). Malachi 3:10 speaks of God opening "the windows of heaven" to pour out blessings.
+Other examples are: John the Baptist was "a man sent from God" (John 1:6), and he said [Jesus "comes from above" and "comes from heaven"](https://son.ofgod.info/divine/preexistance#john-313-descended-from-heaven) (John 3:31). Malachi 3:10 speaks of God opening "the windows of heaven" to pour out blessings.
 
 Everyone understood this idiomatically, not literally. For example, when Jesus asked whether John's baptism was "from heaven or from men":
 
