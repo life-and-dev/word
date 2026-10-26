@@ -204,7 +204,7 @@ While other New Testament passages acknowledge suffering's refining purpose (Rom
 
 ### Faith Definition and Epistemology
 
-Hebrews provides the New Testament's most explicit definition of faith (Hebrews 11:1), defining it as trust in invisible, future realities, a characterization that raises significant questions about the relationship between faith and empirical evidence examined in detail in [the Contradictions section](#faith-definition-vs-empirical-verification-hebrews-111-vs-john-2024-29).
+Hebrews provides the New Testament's most explicit definition of faith (Hebrews 11:1), defining it as trust in invisible, future realities, a characterization that raises [significant questions about the relationship between faith and empirical evidence](#faith-as-trust-vs-faith-as-blind-acceptance-hebrews-111-vs-john-2024-29).
 
 ### The Devil's Power Over Death
 
@@ -348,6 +348,24 @@ The theological implication concerns women's inclusion as independent faith exem
 
 In describing Jesus' endurance of hostility, manuscripts vary between εἰς ἑαυτοὺς ("against themselves") and εἰς αὐτὸν ("against him"). The reading "against themselves" appears in P46, א*, A, and has early support; "against him" appears in א2, B, D, and most later manuscripts. The reading "against themselves" creates a more difficult, profound meaning: sinners' hostility rebounds upon themselves, ultimately self-destructive rather than truly harming Christ. This reading emphasizes sin's self-defeating nature. The reading "against him" provides simpler meaning: sinners directed hostility against Jesus himself. Modern critical editions are divided, with "against himself" having slightly broader manuscript support, though "against themselves" has impressive early attestation and theological depth. The difference affects understanding of sin's ultimate target and effect.
 
+## Translation Errors
+
+### Hebrews 1:3
+
+Hebrews 1:3 is also often translated incorrectly. For example:
+
+> who being the brightness of His glory and the ***express image*** of His ***person***, and upholding ***all things*** by the word of His power, when He had by Himself purged our sins, sat down at the right hand of the Majesty on high, -- Hebrews 1:3 (NKJV)
+
+Compared with:
+
+> He is the radiance of the glory of God and the ***exact imprint*** of his ***nature***, and he upholds ***the universe*** by the word of his power. After making purification for sins, he sat down at the right hand of the Majesty on high, -- Hebrew 1:3 (ESV)
+
+"Exact imprint" or "express image" comes from the Greek word [charaktér](https://biblehub.com/greek/5481.htm) similiar to the English "character" which means to represent someone.
+
+The Greek word [hypostaseōs](https://biblehub.com/greek/5287.htm) which means "person" was changed to "nature". This verse is often quoted by [Trinitarians](https://son.ofgod.info/trinity) to proof that *Jesus is the same nature as God*.
+
+["All things" is a more accurate translation.](https://biblehub.com/text/hebrews/1-3.htm) Jesus does not uphold the universe. "All things" usually refers to abstract things, but it depends on the context.
+
 ## Textual Errors
 
 The Epistle to the Hebrews, despite its sophisticated argumentation and extensive Old Testament engagement, contains several passages that critics identify as factual errors such as inaccurate quotations, misattributions, faulty historical claims, or questionable interpretations of Hebrew Scripture. Defenders of Hebrews' accuracy propose various explanations involving translation differences, interpretive tradition, rhetorical purpose, and ancient citation practices. This section examines the most frequently cited alleged errors and the range of scholarly responses.
@@ -360,7 +378,7 @@ The Epistle to the Hebrews, despite its sophisticated argumentation and extensiv
 >
 > — Hebrews 1:6 (ESV)
 
-The ESV bible's footnotes cross-references Deuteronomy 32:43 and Psalm 97:7 which out of context seems like Jesus should be worshipped, however neither scriptures suggested worshipping Jesus and both say [the LORD with capital letters indicating Yahweh](/god/father/name) should be worshipped. So the author of the book of Hebrews could not have been paraphrasing these scriptures.
+The ESV bible's footnotes cross-references Deuteronomy 32:43 and Psalm 97:7 which out of context seems like Jesus should be worshipped, however neither scriptures suggested worshipping Jesus and both say [the LORD with capital letters indicating Yahweh](https://ofgod.info/name#yhwh) should be worshipped. So the author of the book of Hebrews could not have been paraphrasing these scriptures.
 
 > For I will proclaim the name of the LORD ***(Yahweh)***; ascribe greatness to our God!
 > ...
@@ -406,53 +424,53 @@ Hebrews 1:8-9 quotes Psalm 45:6-7, but Psalm 45 was written by the sons of Korah
 >
 > **A LOVE SONG**
 >
-> My heart overflows with a pleasing theme;<br/>
-> **I address my verses to the king**;<br/>
+> My heart overflows with a pleasing theme;  
+> **I address my verses to the king**;  
 > my tongue is like the pen of a ready scribe.
 >
-> **You are the most [handsome](https://biblehub.com/hebrew/3302.htm) of the sons of men**;<br/>
-> ~~grace~~[charm](https://biblehub.com/hebrew/2580.htm) is poured upon **your lips**;<br/>
+> **You are the most [handsome](https://biblehub.com/hebrew/3302.htm) of the sons of men**;  
+> ~~grace~~[charm](https://biblehub.com/hebrew/2580.htm) is poured upon **your lips**;  
 > therefore God has blessed you forever.
 >
-> Gird your sword on your thigh, O mighty one,<br/>
+> Gird your sword on your thigh, O mighty one,  
 > in your splendor and majesty!
 >
-> In your majesty ride out victoriously<br/>
-> for the cause of truth and meekness and righteousness;<br/>
+> In your majesty ride out victoriously  
+> for the cause of truth and meekness and righteousness;  
 > let your right hand teach you awesome deeds!
 >
-> Your **arrows are sharp in the heart of the king's enemies**;<br/>
+> Your **arrows are sharp in the heart of the king's enemies**;  
 > **the peoples fall under you**.
 >
-> ***Your throne, O god, is forever and ever.***<br/>
-> ***The scepter of your kingdom is a scepter of uprightness;***<br/>
-> ***you have loved righteousness and hated wickedness.***<br/>
-> ***Therefore god, your God, has anointed you***<br/>
+> ***Your throne, O god, is forever and ever.***  
+> ***The scepter of your kingdom is a scepter of uprightness;***  
+> ***you have loved righteousness and hated wickedness.***  
+> ***Therefore god, your God, has anointed you***  
 > ***with the oil of gladness beyond your companions;***
 >
-> your robes are all fragrant with myrrh and **aloes and cassia**.<br/>
-> **From ivory palaces stringed instruments make you glad**;<br/>
-> **daughters of kings** are among **your ladies of honor**;<br/>
+> your robes are all fragrant with myrrh and **aloes and cassia**.  
+> **From ivory palaces stringed instruments make you glad**;  
+> **daughters of kings** are among **your ladies of honor**;  
 > **at your right hand stands the queen in gold of Ophir**.
 >
-> Hear, O daughter, and consider, and incline your ear:<br/>
-> **forget your people and your father's house**,<br/>
-> and **the king will desire your beauty**.<br/>
+> Hear, O daughter, and consider, and incline your ear:  
+> **forget your people and your father's house**,  
+> and **the king will desire your beauty**.  
 > Since he is your lord, bow to him.
 >
-> The people of **Tyre will seek your favor with gifts**,<br/>
+> The people of **Tyre will seek your favor with gifts**,  
 > the richest of the people.
 >
-> All glorious is **the princess in her chamber**, with robes interwoven with gold.<br/>
-> In many-colored robes **she is led to the king**,<br/>
+> All glorious is **the princess in her chamber**, with robes interwoven with gold.  
+> In many-colored robes **she is led to the king**,  
 > with her **virgin companions following behind her**.
 >
-> With joy and gladness they are led along<br/>
+> With joy and gladness they are led along  
 > as they enter **the palace of the king**.
 >
-> In place of your fathers shall be your sons;<br/>
-> you will make them princes in all the earth.<br/>
-> I will cause your name to be remembered in all generations;<br/>
+> In place of your fathers shall be your sons;  
+> you will make them princes in all the earth.  
+> I will cause your name to be remembered in all generations;  
 > therefore nations will praise you forever and ever.
 >
 > — Psalms 45 (ESV)
@@ -704,25 +722,25 @@ The author constructs a two-epoch model of revelation: a past era characterized 
 
 However, this model stands in direct tension with the rest of the New Testament, which documents that the post-ascension apostolic era was marked by a rich continuation of active prophets and new prophetic revelations:
 
-*   **Prophetic Outpouring at Pentecost:** In Acts 2:17-18, Peter quotes Joel 2 to declare that the messianic age is characterized by an expansion of prophecy rather than its cessation: *"your sons and your daughters shall prophesy... and on my male servants and female servants in those days I will pour out my Spirit, and they shall prophesy."*
-*   **Active Prophets in the Early Church:** The Book of Acts records multiple instances of named and unnamed prophets actively receiving and delivering revelations after Christ's ascension:
-    *   **Agabus:** Foretold a severe global famine (Acts 11:27-28) and later bound his own hands and feet to prophesy Paul's arrest in Jerusalem (Acts 21:10-11).
-    *   **Antioch Church Prophets:** Acts 13:1 lists Barnabas, Simeon, Lucius, Manaen, and Saul (Paul) as prophets and teachers through whom the Holy Spirit spoke to direct their missionary work.
-    *   **Judas and Silas:** Identified as prophets who traveled to Antioch to encourage and strengthen the believers with prophetic words (Acts 15:32).
-    *   **Philip's Daughters:** Four unmarried daughters of Philip the evangelist who possessed the gift of prophecy (Acts 21:9).
-*   **Apostolic Instruction on Church Prophecy:** Far from treating prophecy as a closed past epoch, the Apostle Paul instructs churches on how to regulate active prophetic speech:
-    *   In 1 Corinthians 12:28, he lists prophets second only to apostles in God's appointment within the church.
-    *   In 1 Corinthians 14:1-5, 29-32, Paul exhorts believers to *"earnestly desire to prophesy"* and gives order for assembly worship: *"Let two or three prophets speak, and let the others weigh what is said."*
-    *   In 1 Thessalonians 5:20, he issues a direct command: *"Do not despise prophecies."*
-    *   In Ephesians 2:20 and 3:5, Paul states the church is built on the foundation of the *"apostles and prophets,"* and in Ephesians 4:11, he lists prophets among the active ministry offices given by the ascended Christ to mature the body.
-*   **The Apostle John:** The Book of Revelation is explicitly framed as a direct prophecy given to John by Jesus and an angel (Revelation 1:1-3). The angel in Revelation 22:9 identifies himself as a fellow servant of John and of his *"brothers the prophets."*
+* **Prophetic Outpouring at Pentecost:** In Acts 2:17-18, Peter quotes Joel 2 to declare that the messianic age is characterized by an expansion of prophecy rather than its cessation: *"your sons and your daughters shall prophesy... and on my male servants and female servants in those days I will pour out my Spirit, and they shall prophesy."*
+* **Active Prophets in the Early Church:** The Book of Acts records multiple instances of named and unnamed prophets actively receiving and delivering revelations after Christ's ascension:
+  * **Agabus:** Foretold a severe global famine (Acts 11:27-28) and later bound his own hands and feet to prophesy Paul's arrest in Jerusalem (Acts 21:10-11).
+  * **Antioch Church Prophets:** Acts 13:1 lists Barnabas, Simeon, Lucius, Manaen, and Saul (Paul) as prophets and teachers through whom the Holy Spirit spoke to direct their missionary work.
+  * **Judas and Silas:** Identified as prophets who traveled to Antioch to encourage and strengthen the believers with prophetic words (Acts 15:32).
+  * **Philip's Daughters:** Four unmarried daughters of Philip the evangelist who possessed the gift of prophecy (Acts 21:9).
+* **Apostolic Instruction on Church Prophecy:** Far from treating prophecy as a closed past epoch, the Apostle Paul instructs churches on how to regulate active prophetic speech:
+  * In 1 Corinthians 12:28, he lists prophets second only to apostles in God's appointment within the church.
+  * In 1 Corinthians 14:1-5, 29-32, Paul exhorts believers to *"earnestly desire to prophesy"* and gives order for assembly worship: *"Let two or three prophets speak, and let the others weigh what is said."*
+  * In 1 Thessalonians 5:20, he issues a direct command: *"Do not despise prophecies."*
+  * In Ephesians 2:20 and 3:5, Paul states the church is built on the foundation of the *"apostles and prophets,"* and in Ephesians 4:11, he lists prophets among the active ministry offices given by the ascended Christ to mature the body.
+* **The Apostle John:** The Book of Revelation is explicitly framed as a direct prophecy given to John by Jesus and an angel (Revelation 1:1-3). The angel in Revelation 22:9 identifies himself as a fellow servant of John and of his *"brothers the prophets."*
 
 Critics argue that this contradiction reveals a rhetorical fabrication by the author of Hebrews. In their view, the author set up a rigid, artificial division between the "past prophets" and the "present Son" to highlight Christ's absolute supremacy, ignoring the charismatic reality of the early church which relied heavily on ongoing post-ascension prophecy.
 
 Harmonization proposals include:
 
-*   The author of Hebrews refers specifically to *canonical, covenant-mediating, and foundational* revelation. The Old Testament prophets mediated the Old Covenant, whereas Christ alone mediates the New Covenant. The local, congregational gift of prophecy mentioned in Acts and the Epistles is subordinate to and judged by the once-for-all revelation of the Son, rather than introducing new foundational covenantal truths.
-*   "Speaking by His Son" is a statement about the supreme *status* of the messenger, not the absolute chronological end of all spiritual communication. The Son is the ultimate standard of revelation, and any subsequent NT prophecy is merely an echo or application of the Son's finished work.
+* The author of Hebrews refers specifically to *canonical, covenant-mediating, and foundational* revelation. The Old Testament prophets mediated the Old Covenant, whereas Christ alone mediates the New Covenant. The local, congregational gift of prophecy mentioned in Acts and the Epistles is subordinate to and judged by the once-for-all revelation of the Son, rather than introducing new foundational covenantal truths.
+* "Speaking by His Son" is a statement about the supreme *status* of the messenger, not the absolute chronological end of all spiritual communication. The Son is the ultimate standard of revelation, and any subsequent NT prophecy is merely an echo or application of the Son's finished work.
 
 ### Christ as Creator vs. God Alone Creates (Hebrews 1:2-3, 1:10 vs. Isaiah 44:24, Luke 4:17-21)
 
@@ -927,37 +945,37 @@ This creates a conceptual problem if "faith" is defined as **trust**. Trust norm
 
 That reading sits uneasily beside passages where belief is grounded in evidence:
 
-- Luke's prologue appeals to eyewitness testimony and careful investigation (Luke 1:1-4).
-- Jesus appeals to His works as evidence: "even though you do not believe me, believe the works" (John 10:37-38).
-- Jesus tells Philip to believe because of the works themselves (John 14:11).
-- Thomas's encounter with the risen Christ shows Jesus giving sensory evidence rather than demanding belief from hope alone: "Put your finger here, and see my hands" (John 20:24-29).
-- John 20:30-31 also says Jesus's signs were written so that readers may believe.
-- Acts 1:3 says Jesus "presented himself alive to them after his suffering by many proofs" (πολλοῖς τεκμηρίοις).
-- Peter says Jesus was publicly attested by God through mighty works, wonders, and signs (Acts 2:22).
-- Peter and John answer that they speak about what they have seen and heard (Acts 4:19-20).
-- Paul argues from fulfilled resurrection testimony rather than private hope alone (Acts 13:30-31).
-- Paul lists resurrection witnesses as part of his proclamation's foundation (1 Corinthians 15:5-8)
-- 1 John 1:1-3 grounds proclamation in what was heard, seen, looked upon, and touched.
-- The apostles' message is confirmed by signs and wonders (Hebrews 2:3-4; 2 Corinthians 12:12).
+* Luke's prologue appeals to eyewitness testimony and careful investigation (Luke 1:1-4).
+* Jesus appeals to His works as evidence: "even though you do not believe me, believe the works" (John 10:37-38).
+* Jesus tells Philip to believe because of the works themselves (John 14:11).
+* Thomas's encounter with the risen Christ shows Jesus giving sensory evidence rather than demanding belief from hope alone: "Put your finger here, and see my hands" (John 20:24-29).
+* John 20:30-31 also says Jesus's signs were written so that readers may believe.
+* Acts 1:3 says Jesus "presented himself alive to them after his suffering by many proofs" (πολλοῖς τεκμηρίοις).
+* Peter says Jesus was publicly attested by God through mighty works, wonders, and signs (Acts 2:22).
+* Peter and John answer that they speak about what they have seen and heard (Acts 4:19-20).
+* Paul argues from fulfilled resurrection testimony rather than private hope alone (Acts 13:30-31).
+* Paul lists resurrection witnesses as part of his proclamation's foundation (1 Corinthians 15:5-8)
+* 1 John 1:1-3 grounds proclamation in what was heard, seen, looked upon, and touched.
+* The apostles' message is confirmed by signs and wonders (Hebrews 2:3-4; 2 Corinthians 12:12).
 
 The Old Testament works the same way:
 
-- Moses asks how Israel will believe that God sent him, and God gives signs for that purpose (Exodus 4:1-9).
-- God says Pharaoh will know He is the LORD through the plagues and deliverance (Exodus 7:5; 7:17; 8:10; 9:14-16).
-- Israel believes after seeing God's power against Egypt at the sea (Exodus 14:31).
-- Israel sees God's provision in the wilderness so they may know He is the LORD (Exodus 16:6-12).
-- God descends at Sinai so the people may hear and believe Moses (Exodus 19:9).
-- Moses warns Israel to remember what their own eyes saw, grounding covenant trust in witnessed events (Deuteronomy 4:9, 32-35).
-- Joshua says Israel knows "in all your hearts and in all your souls" that none of God's promises failed (Joshua 23:14).
-- Gideon asks for confirming signs before acting (Judges 6:36-40).
-- Elijah's contest at Carmel is designed so Israel may know that the LORD is God (1 Kings 18:36-39).
-- God tells Elijah that fulfilled prophecy will prove He has spoken (1 Kings 20:13, 28).
-- Micaiah's prophecy is testable by whether Ahab returns safely (1 Kings 22:28).
-- Isaiah offers Ahaz a sign from God (Isaiah 7:10-14).
-- Hezekiah receives a sign that God's promise will be fulfilled (2 Kings 20:8-11; Isaiah 38:7-8).
-- Isaiah repeatedly appeals to fulfilled prediction as evidence that the LORD, not idols, is God (Isaiah 41:21-23; 42:9; 44:7-8; 46:9-10; 48:3-5).
-- Jeremiah gives a near-term sign by predicting Hananiah's death within the year (Jeremiah 28:15-17).
-- Ezekiel says fulfilled judgment will make Israel know that the LORD has spoken (Ezekiel 12:25; 33:33).
+* Moses asks how Israel will believe that God sent him, and God gives signs for that purpose (Exodus 4:1-9).
+* God says Pharaoh will know He is the LORD through the plagues and deliverance (Exodus 7:5; 7:17; 8:10; 9:14-16).
+* Israel believes after seeing God's power against Egypt at the sea (Exodus 14:31).
+* Israel sees God's provision in the wilderness so they may know He is the LORD (Exodus 16:6-12).
+* God descends at Sinai so the people may hear and believe Moses (Exodus 19:9).
+* Moses warns Israel to remember what their own eyes saw, grounding covenant trust in witnessed events (Deuteronomy 4:9, 32-35).
+* Joshua says Israel knows "in all your hearts and in all your souls" that none of God's promises failed (Joshua 23:14).
+* Gideon asks for confirming signs before acting (Judges 6:36-40).
+* Elijah's contest at Carmel is designed so Israel may know that the LORD is God (1 Kings 18:36-39).
+* God tells Elijah that fulfilled prophecy will prove He has spoken (1 Kings 20:13, 28).
+* Micaiah's prophecy is testable by whether Ahab returns safely (1 Kings 22:28).
+* Isaiah offers Ahaz a sign from God (Isaiah 7:10-14).
+* Hezekiah receives a sign that God's promise will be fulfilled (2 Kings 20:8-11; Isaiah 38:7-8).
+* Isaiah repeatedly appeals to fulfilled prediction as evidence that the LORD, not idols, is God (Isaiah 41:21-23; 42:9; 44:7-8; 46:9-10; 48:3-5).
+* Jeremiah gives a near-term sign by predicting Hananiah's death within the year (Jeremiah 28:15-17).
+* Ezekiel says fulfilled judgment will make Israel know that the LORD has spoken (Ezekiel 12:25; 33:33).
 
 These passages do not reject faith, but they define credible belief as response to testimony, evidence, demonstrated power, fulfilled words, and confirming signs. That creates tension with any reading of Hebrews 11:1 where faith means treating hoped-for unseen things as already certain simply because they are hoped for. Such a definition turns faith into certainty without sufficient ground.
 
