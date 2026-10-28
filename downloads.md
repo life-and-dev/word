@@ -11,7 +11,9 @@ Some recommended electronic bibles that you could download or access on your dev
 
 ## For Bible Reading
 
-### [You Version](https://www.bible.com/)
+### You Version
+
+Read online at [bible.com](https://www.bible.com/)
 
 **Features:**
 
@@ -33,7 +35,9 @@ Download the free app for:
 * [iOS](https://app.bible.com/app-ios)
 * [Kindle Fire](http://www.amazon.com/YouVersion-Bible/dp/B004MC8CA2)
 
-### [Bible Gateway](https://www.biblegateway.com)
+### Bible Gateway
+
+Read online at [biblegateway.com](https://www.biblegateway.com)
 
 **Features:**
 
@@ -53,6 +57,8 @@ Download the app for:
 * [Kindle Fire](https://www.biblegateway.com/assets/images/appinfo/amazon48.png)
 
 ### Literal Word
+
+Read online at [literalword.com](https://literalword.com/lsb/contents)
 
 **Features:**
 
@@ -75,7 +81,9 @@ Download the free app for:
 * [Android](https://play.google.com/store/apps/details?id=com.literalword.mobile_app&hl=en-US)
 * [iOS](https://apps.apple.com/us/app/literal-word-bible-lexicon/id1439010388)
 
-## [Revised English Version](https://revbible.com/bcuk)
+## Revised English Version
+
+Read online at [revbible.com](https://revbible.com/bcuk)
 
 **Features:**
 
@@ -98,7 +106,7 @@ Or download as a [module for common bible apps](https://www.revisedenglishversio
 
 ## For Bible Study
 
-### [Logos](https://www.logos.com/bible-app)
+### Logos
 
 **Features:**
 
@@ -120,7 +128,9 @@ Or download as a [module for common bible apps](https://www.revisedenglishversio
 
 Download the app for [Android, iOS, Kindle Fire](https://www.logos.com/bible-app)
 
-### [Core Bible App](https://corebible.app/)
+### Core Bible App
+
+Read online at [corebible.app](https://corebible.app/)
 
 **Features:**
 
