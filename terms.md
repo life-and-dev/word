@@ -58,6 +58,7 @@ keywords: theological terminology, bible translation, Christian jargon, Christia
 | Term                                               | Meaning                                                              |
 | -------------------------------------------------- | -------------------------------------------------------------------- |
 | [Covenant](https://kingdom.ofgod.info/covenants)   | A binding agreement between two or more parties                      |
+| [Gospel](terms/gospel.md)                          | The word from God that should be taught to the world                 |
 | [Mystery](https://church.ofgod.info/terms/mystery) | A theological term often used to defend illogical doctrines          |
 | [Name](terms/name.md)                              | Could be a designation, but usually used in the context of authority |
 | [Sabbath](terms/sabbath.md)                        | The set apart day that God commanded people should rest              |
