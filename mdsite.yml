@@ -34,7 +34,8 @@ menu:
     - 1enoch
     - letter-of-jeremiah
   - age
-  - translations
+  - translations:
+    - sources
   - semantics:
     - Hebrews: ===
     - Echad: https://son.ofgod.info/trinity/proof/one
