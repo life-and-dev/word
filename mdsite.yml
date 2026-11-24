@@ -78,6 +78,9 @@ menu:
   - symbolism:
     - hebrew-letters
     - numbers
+  - tales:
+    - dove
+    - nativity-story
   - downloads
 site:
   canonical: https://word.ofgod.info
