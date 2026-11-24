@@ -1,7 +1,4 @@
----
-description: "Jesus's Dove — Path: bible / tales / dove"
-keywords: "Jesus's Dove, bible, tales, dove"
----
+# The Dove At The Baptism
 
 Often a great dove is drawn in the pictures of children's bible stories when Jesus got baptised. Because of this people often associate spooky doves with the Holy Spirit.
 
