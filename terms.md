@@ -63,5 +63,6 @@ keywords: theological terminology, bible translation, Christian jargon, Christia
 | [Name](terms/name.md)                              | Could be a designation, but usually used in the context of authority |
 | [Sabbath](terms/sabbath.md)                        | The set apart day that God commanded people should rest              |
 | [Testimony](terms/testimony.md)                    | The act of publically sharing one's faith and experiences with God   |
+| [Word](https://son.ofgod.info/name/word)           | Speech, statement, utterance, analogy, plan or promise               |
 
 For see also [Church Terminology](https://church.ofgod.info/terms) for more non-biblical Christian terminology.
