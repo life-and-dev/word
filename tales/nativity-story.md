@@ -1,10 +1,15 @@
-# Nativity Storoy
+---
+description: A comparison of familiar nativity traditions with the birth accounts in Matthew and Luke.
+keywords: nativity traditions, birth of Jesus, Bethlehem manger, shepherds, wise men, flight to Egypt
+---
 
-If is often the tradition to have a small concert before Christmas in children's schools to teach them the Nativity Story of Jesus.
+# The Nativity Story
 
-## Fiction
+Christmas plays, films and books often tell the story of Jesus' birth. How do these familiar accounts compare with the accounts in Matthew and Luke?
 
-There are many variations of the story, but according to Christmas movies, children books and concerts the story goes more or less something like this:
+## Nativity Traditions
+
+Christmas films, children's books and plays present many variations of the story. A familiar version includes these events:
 
 1. Joseph and Mary had to go to Bethlehem.
 2. Mary went into labour before they could reach an inn at Bethlehem.
@@ -31,7 +36,7 @@ Concerts usually mix these events as if it all happened simultaneously.
 
 ### Mary's Labour
 
-Luke's version:
+Luke describes Joseph and Mary's journey to Bethlehem for registration, followed by Jesus' birth:
 
 > And it came to pass in those days that a decree went out from Caesar Augustus that all the world should be registered. This census first took place while Quirinius was governing Syria. So all went to be registered, everyone to his own city.
 >
@@ -41,24 +46,23 @@ Luke's version:
 >
 > And she brought forth her firstborn Son, and wrapped Him in swaddling cloths, and laid Him in a manger, because there was **no room for them in the inn**.
 >
-> Luke 2:1-7 (NKJV)
+> — Luke 2:1-7 (NKJV)
 
 Comments:
 
-1. Joseph and Mary first went to Bethlehem and while they were there, her "days were completed" for her to delivery Jesus. Not along the way to Bethlehem.
-2. Luke does not state the reason why there were no room for them in the inn. Also note that the word "inn" simply means a place where guests could stay during a trip. It is not necessary a commercial holiday accommodation with private rooms. It possible that Mary was simply looking for privacy to give birth. It could be that the place was overpopulated and there were physical no space. It could also be that the "inn" owner does not want to accommodate a woman in labour. The exact details are not recorded.
-3. There are also [no proof that Jesus was born in the same inn's stable](https://reasonsforhopejesus.com/was-jesus-born-in-a-stable-cave-house/). In those days people also kept animals in caves, or lower parts of buildings.
-4. There are also no evidence that Jesus was born between the animals. Perhaps they cleared and cleaned the "stable" first. First births usually takes time. If Joseph and Mary was already in Bethlehem it could mean that they had enough time to clean the manger first. Giving birth in an unhygienic stable between dirty animals makes no sense.
+1. Mary gave birth while they were in Bethlehem, not necessarily immediately upon arrival.
+2. Luke does not explain why there was no room. The Greek word translated “inn”, [*katalyma*, can also mean a guest room or place to stay](https://doi.org/10.1017/S0028688509990282). It is not necessary a commercial holiday accommodation with private rooms. It possible that Mary was simply looking for privacy to give birth. It could be that the place was overpopulated and there were physical no space. It could also be that the "inn" owner does not want to accommodate a woman in labour. The exact details are not recorded.
+3. A manger is a feeding place for animals, but its presence alone does not establish where Jesus was born. Luke does not mention a stable or say that animals were present at the birth. [The exact setting remains uncertain.](https://reasonsforhopejesus.com/was-jesus-born-in-a-stable-cave-house/)
 
 ### The Shepherds
 
-Luke's version:
+Luke says that shepherds were watching their flock at night when an angel announced Jesus' birth:
 
-> Now there were in the same country shepherds **living out in the fields**, keeping watch over their flock **by night**. And behold, an angel of the Lord stood before them, and the glory of the Lord shone around them, and they were greatly afraid.
+> > Now there were in the same country shepherds **living out in the fields**, keeping watch over their flock **by night**. And behold, an angel of the Lord stood before them, and the glory of the Lord shone around them, and they were greatly afraid.
 >
 > Then the angel said to them, “Do not be afraid, for behold, I bring you good tidings of great joy which will be to all people. For there is born to you **this day** in the city of David a Savior, who is Christ the Lord. And this will be the sign to you: You will find a babe wrapped in swaddling cloths, lying in a manger.”
 >
-> And suddenly there was with the angel a multitude of the heavenly host praising God and saying:
+> And suddenly there was with the angel a multitude of the heavenly host praising God and **saying**:
 >
 > “Glory to **God in the highest**, and on earth peace, goodwill toward men!”
 >
@@ -72,19 +76,18 @@ Luke's version:
 >
 > Then the shepherds returned, glorifying and praising **God** for all the things that they had heard and seen, as it was told them.
 >
-> -- Luke 2:8-20 (NKJV)
+> — Luke 2:8-20 (NKJV)
 
 Comments:
 
-1. Commonly it is believed that Mary gave birth at night because the of the verse the shepherds were *"keeping watch over their flock by night."*. However, nothing suggest that the angels appeared to the shepherds the moment Jesus was born. Even the angel announced "this day" which could imply earlier that same day. Potentially the angels gave Mary and baby Jesus some time to rest after the birth.
-2. The angels praised "God in the highest" (not worship the baby Jesus).
-3. The shepherds most likely secured their sheep or made turns. It is unlikely that the shepherds would have showed up with the entire flock of sheep. When one is in haste, you do not bring all your slow sheep with you in the tales. Again this detail was not recorded and is only speculation.
-4. There are no evidence that the shepherds worshipped Jesus like a God as its often depicted in paintings. The bible only says they "found" him and they "seen" him.
-5. The purpose of their visit was not to worship Jesus, but to testify what they had seen, because "Mary kept all these things ... in her heart".
+1. The announcement came at night, but “this day” does not establish the hour of Jesus' birth. It could have been earlier that day. Potentially the angels gave Mary and baby Jesus some time to rest after the birth.
+2. Luke says the heavenly host praised God and spoke. He does not describe them singing Christmas carols.
+3. It is unlikely that the shepherds would show up with the entire flock of slow moving sheep when they were in a haste.
+4. Luke records that the shepherds found the child, made known what they had been told, and returned glorifying and praising God (Luke 2:17-20). He does not describe that they worshipped and prayed to the baby as their new God as often seen in artworks.
 
-## The Wise Men
+### The Wise Men
 
-Matthew's version:
+Matthew records that wise men from the East came to Jerusalem after Jesus was born. Herod sent them to Bethlehem, and the star led them to the child:
 
 > Now after Jesus was born in Bethlehem of Judea in the days of Herod the king, behold, **wise men** from the East came to Jerusalem, saying,
 >
@@ -99,18 +102,17 @@ Matthew's version:
 >
 > When they heard the king, they departed; and behold, the star which they had seen in the East went before them, till it came and stood over where the **young child** was. When they saw the star, they rejoiced with exceedingly great joy. And when they had **come into the house**, they saw **the young child with Mary his mother**, and **fell down and [worshiped him](../terms/worship.md)**. And when they had opened their treasures, they presented gifts to him: gold, frankincense, and myrrh.
 >
-> -- Matthew 2:1-11 (NKJV)
+> — Matthew 2:11 (NKJV)
 
 Comments:
 
-1. The names or number of wise men is not recorded by Matthew. It could be 3, but it could also be a different number. We only know it was more than 1 because they were referred in plural. The tradition is that each wise man present his own gift, however that does not rule out that perhaps together they presented 3 gifts. They were the "wise men" not the "rich men".
-2. Herod send the wise men to Bethlehem, but the star lead them possibly somewhere else. This means Jesus was not in Bethlehem by the time the wise men arrived as Joseph and Mary had already returned to Nazareth after her purification (Luke 2:39). This could also probably explain why Herod could not find Jesus himself and had to rely on the wise men.
-3. It also does not say that the wise men arrived at the same night. The journey to follow some "star" could have take days or weeks. That is probably why Herod was willing to wait up to 2 years for the wise men to return (Matthew 2:16).
-4. Matthew does not say "babe" like Luke. By the time the wise men got to Jesus, he was a "young child".
-5. The wise men "come into the house" of Jesus (not the stable).
-6. They "[fell down and worshiped him](../terms/worship.md)" like a king. (Not pray to him like we often see in paintings).
+1. Matthew names three kinds of gifts, but does not give the wise men's names or number. The plural reference imply there were at least 2 men, but possibly more.
+2. They honoured the Jesus as the one born king of the Jews (Matthew 2:2) and not [worship](../terms/worship.md) and sacrificed to the spirit-soul.draft.md as their new God.
+3. The account says they came to a house, but does not say they visited on the night of his birth or explicitly identify the house's location. Their journey and the visit may have taken place later, but Matthew does not specify the interval. Luke's said he was a “babe”, [*brephos*](https://biblehub.com/strongs/greek/1025.htm), and Matthew's said he was a “young Child”, [*paidion*](http://concordances.org/greek/3813.htm).
 
-The portable gifts were probably necessary to enable Jesus' parents to flee and make a living in Egypt:
+#### Flight to Egypt and Return
+
+After the wise men departed, Joseph was warned in a dream to take the child and his mother to Egypt:
 
 > Now when they *(the wise men)* had departed, behold, an angel of the Lord appeared to Joseph in a dream and said, “Rise, take the child and his mother, and flee to Egypt, and remain there until I tell you, for Herod is about to search for the child, to destroy him.”
 >
@@ -118,9 +120,11 @@ The portable gifts were probably necessary to enable Jesus' parents to flee and 
 >
 > This was to fulfill what the Lord had spoken by the prophet, “Out of Egypt I called my son.”
 >
-> -- Matthew 2:13-15 (ESV)
+> — Matthew 2:13-15 (ESV)
 
-But Luke recorded:
+Matthew records that Herod ordered the killing of boys aged two and under in Bethlehem and its region, according to the time he had learned from the wise men (Matthew 2:16).
+
+Luke records Jesus' circumcision, the purification rites and the family's return to Nazareth (Luke 2:21-24,39-40):
 
 > And at the end of eight days *(after Jesus was born)*, when he was circumcised, he was called Jesus, the name given by the angel before he was conceived in the womb.
 >
@@ -128,6 +132,10 @@ But Luke recorded:
 >
 > And when they had performed everything according to the Law of the Lord, **they returned into Galilee, to their own town of Nazareth**. And **the child grew** and became strong...
 >
-> -- Luke 2:39-40 (ESV)
+> — Luke 2:39 (ESV)
 
-This means that some time must have passed between Jesus' birth and their trip to Egypt. It must be less than 2 years, probably only a few months, because that was the age Herod determined (Matthew 2:16), and it must be more than 40 days for Mary's purification.
+Luke does not mention the flight to Egypt, while Matthew does not describe the purification visit. One possible harmonisation places the visit of the wise men and the flight after the purification rites, before the return to Nazareth. Neither account explicitly supplies that combined chronology. Matthew does not say how the family financed their stay in Egypt. The gifts may have helped, but that remains speculation.
+
+## Conclusion
+
+The [biblical accounts](#biblical) leave details of Jesus' [birth setting](#marys-labour), the [shepherds' visit](#the-shepherds), and the [wise men's visit](#the-wise-men) less specific than familiar [nativity traditions](#nativity-traditions). The relationship between the [flight to Egypt and the return to Nazareth](#flight-to-egypt-and-return) also permits possible harmonisations without establishing a certain combined chronology.
