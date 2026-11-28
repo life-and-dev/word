@@ -16,39 +16,39 @@ But you cannot:
 
 | Number    | Meaning                  |
 | --------- | ------------------------ |
-| [1](#1)   | God                      |
+| [1](#1)   | leader, unique, new      |
 | [2](#2)   | relationship             |
-| [3](#3)   | unity                    |
+| [3](#3)   | unity, establishment     |
 | [4](#4)   | boundaries               |
 | [5](#5)   | suffering / grace        |
 | [6](#6)   | human                    |
 | [7](#7)   | complete                 |
-| [8](#8)   | new beginning            |
+| [8](#8)   | renew                    |
 | [9](#9)   | judgement / atonement    |
 | [10](#10) | authority                |
 | [11](#11) | changing / breaking laws |
-| [12](#12) | bride of Christ          |
-| [13](#13) | deception                |
+| [12](#12) | holy                     |
+| [13](#13) | defilement               |
 | [14](#14) | next generation          |
 | [15](#15) | forgiveness              |
 | [21](#21) | unification              |
-| [24](#24) | holy priests             |
+| [24](#24) | holy relationship        |
 
 # 1
 
-Meaning: God
+Meaning: leader or unique or new
 
-This is how God identified Himself in the [Shema](https://son.ofgod.info/shema):
+Depending on the context:
 
-> "Hear, O Israel: The LORD our God, the LORD is **one**!" -- Deuteronomy 6:4, Mark 12:29
-
-Like God, it comes first, it is independent and pure. 
-
-You cannot multiply any numbers and get to God's identity. God cannot be replaced.  
-
-You can divide any number by 1. Nothing is impossible for God.
-
-The first [Ancient Hebrew letter Alef](hebrew-letters.md) is a picture of an ox head which symbolises strong, power or leader.
+* It could mean the first or most important position:
+  * ["the LORD is one"](https://son.ofgod.info/shema) - Deuteronomy 6:4, Mark 12:29
+  * ["firstborn"](https://son.ofgodin.info/name/firstborn, "first and last")
+  * the first [Ancient Hebrew letter Alef](hebrew-letters.md) is a picture of an ox head which symbolises strong, power or leader.
+* It could mean unique:
+  * "yet for us there is one God... and one Lord..." - 1 Corinthians 8:6
+  * It is a unique mathematical identity: You cannot multiply any numbers and get to this same unique identity.
+* It could mean something new or unique started
+  * "first day" - Genesis 1:5
 
 # 2
 
@@ -60,7 +60,7 @@ The second [Ancient Hebrew letter Bet](hebrew-letters.md) is picture of a tent f
 
 # 3
 
-Meaning: unity
+Meaning: unity, establishment
 
 > Though one may be overpowered by another, two can withstand him. And a threefold cord is not quickly broken. -- Ecclesiastes 4:12
 
@@ -69,13 +69,16 @@ Meaning: unity
 Jesus prayed 3 times in the Garden of Gethsemane before His arrest and torture for unity with his Father asking "Your will be done".
 
 Jesus sacrifice had multiple 3's to indicate the unity between God, Jesus and those who are covered by the blood of Jesus:
-* Jesus was placed on the cross at the 3rd hour of the day
+
+* Balaam (Numbers 22:28–33) striked his donkey 3 times before his eyes are opened.
+​* Elijah (1 Kings 18:34) pours water over the altar 3 times on Mount Carmel to eliminate any possibility of trickery.
+​* Paul’s (2 Corinthians 12:8) pleaded 3 times for the removal of the "thorn in the flesh" before accepting God's answer.
+​* Peter’s denied Jesus 3 times and were restoration after 3 declarations.
+* Jesus was placed on the cross at the 3rd hour of the day.
 * There were 3 hours of darkness that covered the land when Jesus died.
-* Christ was dead for 3 days to bring unity
+* Christ was dead for 3 days to bring unity (reconcilliation with God).
 
-The New Jerusalem that will be created by God, will be shaped like a square with 3 gates on each side (Revelation 21:13). This will happen when God is fully united with man and will live among them.
-
-The third [Ancient Hebrew letter Gimel](hebrew-letters.md) is a picture of a foot which symbolises gather or walk together.
+The third [Ancient Hebrew letter Gimel](hebrew-letters.md) is a picture of a foot which symbolises walking together. In Hebrew, the phrase "walk" means to act in partnership.
 
 # 4
 
@@ -119,7 +122,7 @@ On the 4th day of creation, the Sun, Moon and stars were created. These are all 
 
 **Boundaries in the context of space**
 
-After the 4th day of creation, all boundaries where completed: light/darkness; days; waters separated above and below the heavens; ocean/land; space; seasons; and so on. 
+After the 4th day of creation, all boundaries where completed: light/darkness; days; waters separated above and below the heavens; ocean/land; space; seasons; and so on.
 
 Squares are the most basic shape that could be tiled in such a way that it would occupy all the space within the boundaries of a bigger square without applying any rotation.
 
@@ -185,13 +188,13 @@ The seventh [Ancient Hebrew letter Zayin](hebrew-letters.md) is a weapon but als
 
 # 8
 
-Meaning: new beginning
+Meaning: renew (new beginning)
 
 Eight is the first number of the next seven-cycle of numbers.
 
 8 = 4x2 = second series of seasons/events
 
-The eighth [Ancient Hebrew letter Cheyt](hebrew-letters.md) is a picture of a tent wall which symbolizes division (between the previous period and the next period). 
+The eighth [Ancient Hebrew letter Cheyt](hebrew-letters.md) is a picture of a tent wall which symbolizes division (between the previous period and the next period).
 
 # 9
 
@@ -209,7 +212,7 @@ The last king of Israel in the Old Testament was Hoshea. He was on the throne fo
 
 There were 9 generations from Adam to Noah = Judgement
 
-**Examples of Atonement** 
+**Examples of Atonement**
 
 > Definition of atonement
 >
@@ -236,7 +239,7 @@ Meaning: authority
 
 "God said" 10 times during Genesis 1 when [He created the world](https://eternal.family.net.za/creation).
 
-Noah was the 10th generation. His obedience to God's authority saved humans. 
+Noah was the 10th generation. His obedience to God's authority saved humans.
 
 We have the 10 commandments in the Bible.
 
@@ -249,6 +252,7 @@ King Nebuchadnezzar found Daniel, Shedrach, Meshach, and Abednego 10 times bette
 King Nebuchadnezzar had a dream about a beat with 10 toes, which was interpreted by Daniel as a King who would have authority over the world.
 
 Jesus used the number 10 in a few parables:
+
 * The 10 virgins: those who brought enough oil were authorized to enter the feast, but the rest had to remain outside.
 * The 10 talents: those who were wise received more authority and the unwise lost his talent.
 
@@ -275,7 +279,9 @@ The eleventh [Ancient Hebrew letter Nun](hebrew-letters.md).
 
 # 12
 
-Meaning: the bride of Christ (believers)
+Meaning: holy
+
+"Holy" means "set apart" which is a concept of setting someone or something apart for the rest because it is very special. When something is holy to God it means it is very special to God.
 
 Examples from the Bible:
 
@@ -290,25 +296,21 @@ Examples from the Bible:
 * 12 = 2x6 = 2 united humans (friendship, marriage) or
 * 12 = 3x4 = united under the same boundaries (values)
 
-Friendship or marriage are fragile. 12 can be divided by:
+Holiness, needs to be protected otherwise it becomes defiled. Likewise the number 12 is divisible by:
 
-* 1 = by God
-* 2 = distrust, selfishness, pride, or anything that damages a relationship
-* 3 = disunity or isolation, the lack of support
-* 4 = violated boundaries, compromising on values or disrespect
-* 6 = rejection by people
-* 12 = by itself
+* 1: Declared unholy by God Himself
+* 2: Broken relationship
+* 3: Disunity
+* 4: Violated boundaries
+* 6: Broken humanity (sin)
 
-The twelve [Ancient Hebrew letter Lamed](hebrew-letters.md) is a picture of a shepherd staff which symbolizes a Shepherd who is teaching or protected His flock (John 10:14).
+The twelve [Ancient Hebrew letter Lamed](hebrew-letters.md) is a picture of a shepherd staff which symbolizes a Shepherd who is protected His special flock (John 10:14).
 
 # 13
 
-Meaning: deception
+Meaning: defilement
 
-It is the number that follows 12 (truth). Once you add something to the truth, it becomes a deception. 
-
-* 12 = true believers
-* 13 = deceived people
+It is the number that follows 12 (holiness). When you add something unclean to something that is holy the entire setup becomes defiled.
 
 Examples from the Bible:
 
@@ -316,7 +318,7 @@ Examples from the Bible:
 * Haman the Agagite tricked his king to sign a decree on the 13th day of the first month, which stated that on the 13th day of the twelfth month, all Jews in the Persian Empire were to be killed.
 * Jesus + his 12 disciples = 13 people around the table of the last supper where Jesus got betrayed.
 
-The purpose of deception is to trick people into making the wrong decisions which often leads to rebellion.
+The purpose of deception is to trick people into making the wrong decisions which often leads to defilement.
 
 Just as 13 cannot be divided by numbers other than 13 or 1, you can also not have partial deception or lie. Something is either the truth or a lie.
 
@@ -359,16 +361,18 @@ Meaning: unification
 
 Examples from the Bible:
 
-* Exodus 12:18 mentions the Feast of Unleavened Bread ends on the 21st day of the first month. The purpose of this feast is to be a Memorial of the Exodus where Egyption slaves were united to become the nation of Israel. 
+* Exodus 12:18 mentions the Feast of Unleavened Bread ends on the 21st day of the first month. The purpose of this feast is to be a Memorial of the Exodus where Egyption slaves were united to become the nation of Israel.
 * Daniel 10:13 mentions a messenger that was hindered by the Prince of Persia until he united with the archangel Michael.
 
 The twenty-first [Ancient Hebrew letter Qof](hebrew-letters.md) is a picture of the sun on the horizon which symbolizes behind, condense or circle.
 
 # 24
 
+MeMeanin holy relationship
+
 24 = 1x2x3x4 = God, relationship, unity, holy boundaries (fellowship with the Holy God)
 24 = 2x12 = fellowship of believers (congregation)
-24 = 6x4 = human within holy boundaries (of a holy priesthood) 
+24 = 6x4 = human within holy boundaries (of a holy priesthood)
 
 More examples from the Bible:
 
